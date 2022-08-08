@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U1073e77b-791a-4488-9584-dd6b6f97c09a" id="U1073e77b-791a-4488-9584-dd6b6f97c09a" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00050</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.426130480+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.426130480+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.426130480+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>1073e77b-791a-4488-9584-dd6b6f97c09a</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="CNX_Econ_C13_000" class="splash">
+      <title id="UUIDedb1c6de-5b75-4085-7f16-633c83c9958f">Zdjęcie zrobione przez sondę kosmiczną Voyager I</title>
+      <media alt="Zdjęcie przedstawia fragment Jowisza, widoczne są wiry gazów. Obraz wykonany przez sondę kosmiczną Voyager 1." id="mCNX_Econ_C13_000">
+        <image src="../../media//CNX_Econ_C13_000.jpg" mime-type="image/jpeg" id="UUID7ec4a6df-174b-431c-432b-87facf49c2f4" />
+      </media>
+      <caption id="UUIDc0f634e1-4d1b-4c72-4c4e-7d9ddb0209c2">Głównym zadaniem sondy kosmicznej Voyager 1 wystrzelonej przez NASA 5 września 1977 r. było dostarczenie szczegółowych zdjęć Jowisza, Saturna i ich księżyców. Powyższa fotografia jest efektem pracy tego urządzenia. W sierpniu 2012 r. Voyager I jako pierwszy obiekt stworzony przez człowieka znalazł się w przestrzeni międzygwiezdnej i do roku 2025 będzie przekazywał na Ziemię dane dokumentujące jego podróż. Stworzenie tak innowacyjnego urządzenia, jakim jest sonda kosmiczna, jest wyzwaniem nie tylko technologicznym, ale także ekonomicznym. (Źródło: modyfikacja pracy NASA/JPL)</caption>
+    </figure>
+    <note type="note" id="fs-idm26644368" class="bringhome economics">
+      <title id="UUID7ba2460f-d61f-4ecb-4c63-70bf73a95992">Korzyści z misji sondy kosmicznej Voyager I</title>
+      <para id="UUID382a90bb-f34e-4ff1-6b4e-d14d657043db">Szybki rozwój technologii, który obserwujemy od 50. lat XX w., rozszerzył nam zakres dostępu do danych i umożliwił ich kompleksowe przetwarzanie. Dzięki niemu możemy m.in. komunikować się z mieszkańcami innych kontynentów oraz sprawne poruszać się po zatłoczonym mieście. Zaangażowanie gigantycznych środków prywatnych i publicznych w badania naukowe i rozwój nowych technologii i produktów zrewolucjonizowało nowoczesną gospodarkę. Aby to sobie uświadomić, wystarczy porównać Voyagera – jedno z największych osiągnięć ludzkości – ze smartfonem, który większość z nas na co dzień nosi w kieszeni.</para>
+      <para id="UUID9402ee05-ae2a-4f14-4309-ccf8422ec325">Pierwotnym zadaniem sondy Voyager I było przesłanie na Ziemię zdjęć Jowisza, Saturna i ich księżyców. To skomplikowane urządzenie, wystrzelone w kosmos w 1977 r., poleciało jednak dalej niż do odległych planet Układu Słonecznego. Mijało kolejne ciała niebieskie, aż na początku drugiej dekady XXI w. opuściło Układ Słoneczny i znalazło się w przestrzeni międzygwiezdnej. To największe osiągnięcie ówczesnej techniki zostało wyposażone przez Narodową Agencję Aeronautyki i Przestrzeni Kosmicznej Stanów Zjednoczonych (NASA) w procesor o maksymalnej dostępnej mocy obliczeniowej 8 tys. operacji na sekundę. Obecnie zwykły smartfon w ciągu sekundy wykonuje 14 mld operacji.</para>
+      <para id="UUID112b43ad-e142-4bd2-76e8-f19e174bb514">Produkowane dziś przez prywatne przedsiębiorstwa telefony, komputery, tablety, telewizory, samobieżne odkurzacze a nawet maszyny umożliwiające prowadzenie dializ i mammografii zapewne nie powstałyby (lub nie powstałyby tak szybko), gdyby 50 lat temu NASA nie uruchomiła programu kosmicznego finansowanego z pieniędzy amerykańskich podatników. Wiele badań naukowych nie ma natychmiastowego przełożenia na wytworzenie gotowych do sprzedaży dóbr i usług, dlatego prowadzenie ich jest możliwe wyłącznie dzięki strumieniowi pieniędzy publicznych. Tak jak w przypadku programu sond kosmicznych Voyager, efektem tych działań są jednak nie tylko bezpośrednie korzyści związane z konkretnym zadaniem (poznawaniem kosmosu), lecz również wzrost dobrobytu całego społeczeństwa a nawet ludzkości.</para>
+      <para id="UUID40e09428-921a-4395-4fa8-f597f81a4f69">W ten sposób nowa wiedza i wynalazki stają się tym, co ekonomiści nazywają dobrem publicznym. Prowadzi to nas do tematu niniejszego rozdziału: obszarów, w których zaangażowanie wyłącznie podmiotów prywatnych przestaje być wystarczające, zaś wzrost dobrobytu (rozumianego jako pojawienie się dodatkowych korzyści i ograniczanie możliwych kosztów) oznacza konieczność włączenia się państwa w działalność gospodarczą.</para>
+    </note>
+    <section id="UUIDaa9a3e30-a15f-4970-4f9e-9f4553e0e4f2" class="chapter-objectives economics">
+      <title id="UUID461fb6b5-6906-4228-6156-2094df309e96">Wprowadzenie do rozdziału</title>
+      <note type="note" id="UUIDc61fc51d-21fe-4960-40ed-0e730d148e6b">
+        <para id="UUID03af0454-1751-4672-690d-ee6942d4a6ba">Dzięki lekturze tego rozdziału dowiesz się:</para>
+        <list id="fs-idp21931648">
+          <item id="UUID5dd024e8-309c-4291-6b6b-6931df964d19">
+            <para id="UUID5254de6e-2ceb-4963-716b-b8901f211060">Czym są zawodności rynku</para>
+          </item>
+          <item id="UUIDf0c4bf6f-a23b-41ff-5e45-dfba5768d257">
+            <para id="UUID09a76fd7-e457-4c74-4f33-982964708471">Jakie są ekonomiczne uwarunkowania wyzwań związanych z zanieczyszczeniem środowiska naturalnego i polityką jego ochrony</para>
+          </item>
+          <item id="UUID9699025a-556f-4668-71e3-8f731a4388e3">
+            <para id="UUID016dc590-b7df-49a9-75b1-488875b6e8b2">Dlaczego prywatne przedsiębiorstwa nie inwestują dostatecznych środków w rozwój technologii</para>
+          </item>
+          <item id="UUIDf5ae3094-a055-489a-5562-b684db75cd43">
+            <para id="UUIDacea1dbb-bdd3-4baf-6cfc-ca089a70c61e">Czym są dobra publiczne</para>
+          </item>
+          <item id="UUID5e40807d-a186-4d87-409f-89d032b5a450">
+            <para id="UUID876d0eb4-314b-4973-56cf-e40ffa7d8e22">W jaki sposób państwo reguluje działalność monopoli i zapewnia niezbędny poziom konkurencji rynkowej</para>
+          </item>
+          <item id="UUIDd52412f5-8f4c-4171-4bda-525b5b3ec6a1">
+            <para id="UUID22373bf9-d2bc-4f71-6d6c-0761482fe855">W jaki sposób asymetria informacji ogranicza efektywność rynku rozumianego jako mechanizm alokacji zasobów.</para>
+          </item>
+        </list>
+      </note>
+      <para id="fs-idm31623488">Od pewnego czasu i w krajach rozwijających się, i w krajach rozwiniętych coraz wyraźniejsza staje się tendencja wzrostu znaczenia rynku jako głównego mechanizmu określania tego, co jest produkowane i sprzedawane, w jakiej ilości i po jakiej cenie. Jej najważniejszym przejawem jest wprowadzana w wielu państwach na szeroką skalę deregulacja, w efekcie której prywatne przedsiębiorstwa powiększają swój margines swobody w procesie podejmowania decyzji. Polityka, która rozstrzyganie dylematów gospodarczych pozostawia rynkowi, jest dość powszechnie akceptowana.</para>
+      <para id="UUID2e84dc79-7b08-4ada-77fa-28ea93999bda">Mechanizm rynkowy często jednak zawodzi. Mimo nieustannie rosnącego poziomu rozwoju i wzrostu dobrobytu społecznego nasze rzeki pozostają zanieczyszczone, ulice miast są coraz bardziej zatłoczone, zaś postęp techniczny, który jeszcze 50 lat temu miał zapewnić człowiekowi bazy na Marsie i uwolnienie od większość chorób i ograniczeń, spowolnił. Niemal egzystencjalnym problemem ludzkości staje się kwestia zmian klimatycznych, które mogą zagrozić fizycznym unicestwieniem miliardów ludzi w perspektywie najbliższego stulecia. W konsekwencji rola państwa w gospodarce wcale nie maleje. Wydaje się wręcz, że niektóre problemy ludzkości (poza kwestiami klimatycznymi można do nich zaliczyć również globalne pandemie) dają się rozwiązać wyłącznie dzięki współpracy na szczeblu globalnym.</para>
+      <para id="UUID5d3e5c3c-9628-4498-43e6-0873cd155a21">W niniejszym rozdziale przedstawimy różne formy i przejawy zawodności rynku, z powodu których nie zapewnia on należytej realizacji interesów społecznych. Przyjrzymy się również metodom wykorzystywanym zarówno przez państwo, jak i podmioty prywatne, aby zidentyfikowane ułomności korygować.</para>
+      <para id="fs-idp15845440" />
+    </section>
+  </content>
+</document>

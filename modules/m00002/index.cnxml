@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U82984e72-1743-4b22-932e-3d2198694da2" id="U82984e72-1743-4b22-932e-3d2198694da2" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00002</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:49.965849943+00:00</md:version>
+    <md:created>2022-08-08T07:43:49.965849943+00:00</md:created>
+    <md:revised>2022-08-08T07:43:49.965849943+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>82984e72-1743-4b22-932e-3d2198694da2</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="fs-idp2703600" class="splash">
+      <title id="UUID3e014e33-66a0-4e92-5274-eb0eb6578021">Czy używasz mediów społecznościowych?</title>
+      <media alt="Zdjęcie smartfona z otwartą aplikacją Facebook" id="fs-idm76692112">
+        <image src="../../media//CNX_Econv1-2_C01_00.jpg" mime-type="image/jpeg" id="UUIDf9239fc6-9d00-48e0-74d7-531cd39666f5" />
+      </media>
+      <caption id="UUIDc9476ec8-1485-4c6b-6ccf-195e424d0b0f">Na funkcjonowanie gospodarki olbrzymi wpływ ma to, jak szybko informacje są wymieniane przez ludzi. Obecnie największe serwisy na rynku mediów społecznościowych, takie jak: Twitter, Facebook i Instagram, są najważniejszymi pośrednikami ułatwiającymi tę wymianę w przestrzeni infosfery. (Źródło: Johan Larsson/Flickr)</caption>
+    </figure>
+    <note type="note" id="fs-idp55190864" class="bringhome economics">
+      <title id="UUID4a14d0d9-7f58-4293-683e-a7c6aacab7c5">Problem wyboru. Decyzje w erze mediów społecznościowych</title>
+      <para id="UUIDb423f87b-606e-474f-415c-d31037b03052">Opublikować czy nie opublikować? Każdego dnia stajemy przed niezliczonymi decyzjami, począwszy od tego, co zjeść na śniadanie, przez wybór sposobu dotarcia na uczelnię, po kwestie bardziej złożone, np.: Czy powinniśmy wybrać kolejną specjalizację i tym samym wydłużyć okres studiowania? Nasze zachowanie w obliczu tych wyborów zależy od zakresu informacji, którymi dysponujemy w danym momencie. Ekonomiści zwykle mówią w tym kontekście o „niedoskonałej informacji”, ponieważ rzadko mamy wszystkie dane potrzebne do podjęcia optymalnej decyzji. Ale mimo braku doskonałej informacji wciąż dokonujemy setek rozstrzygnięć dziennie.</para>
+      <para id="UUID74bc2fc6-afe6-48f1-6aa4-cc1994a04e52">Obecnie dysponujemy dodatkowym narzędziem służącym do pozyskiwania i gromadzenia informacji – mediami społecznościowymi. Portale takie jak Facebook i Twitter zmieniają to, jakie filmy oglądamy, które produkty kupujemy, modyfikują sposoby dokonywania przez nas wyborów i spędzania wolnego czasu. Wpływają na niemal każdą naszą aktywność. Ilu z was wybrało uczelnię, nie sprawdzając najpierw jej strony i profilu na Facebooku lub Twitterze, aby uzyskać informacje i opinie na jej temat?</para>
+      <para id="UUIDfa72baf7-28e0-4291-6152-40e46f8f9751">Jak zauważysz podczas lektury tego podręcznika, na procesy zachodzące w gospodarce wpływa to, jak sprawnie informacje są rozpowszechniane w społeczeństwie, np. jak szybko wiadomości publikowane są na Facebooku i w innych mediach społecznościowych. „Ekonomiści najbardziej kochają duże i płynne rynki, które działają w warunkach doskonałej informacji” – stwierdziła Jessica Irvine, redaktor National Economics w News Corp Australia.</para>
+      <para id="UUIDd99930d3-1818-4b52-5e93-a99697c87a4f">Powyższe konstatacje prowadzą nas do tematu niniejszego rozdziału, którym jest wprowadzenie do świata podejmowania decyzji, przetwarzania informacji i zrozumienia zachowań na rynkach – świata ekonomii. Każdy rozdział w niniejszej książce zaczyna się od dyskusji na temat bieżących (czasami przeszłych) wydarzeń i powraca do nich na końcu, aby czytelnik mógł utrwalić sobie przyswojoną wiedzę.</para>
+    </note>
+    <note type="note" id="fs-idp11664" class="chapter-objectives economics">
+      <title id="UUID132c60a8-d36c-4667-6ba8-8a01a4538146">Wprowadzenie</title>
+      <para id="UUID84f76cc9-9311-425c-4059-154f0478716f">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idp13475392">
+        <item id="UUID2f40fa42-bc78-4696-6d98-4a7ea663eb48">
+          <para id="UUID254a9879-da36-4cfa-5eed-83e312020a0d">Czym jest ekonomia i dlaczego jest ważna</para>
+        </item>
+        <item id="UUIDe18e61dc-1502-411b-66c5-afd97bab5039">
+          <para id="UUID7c701afd-bb95-4248-7743-c4ed831c512d">Jakie są różnice pomiędzy mikro- i makroekonomią</para>
+        </item>
+        <item id="UUIDabc581fa-edd4-4921-7ad8-fef2c30a9374">
+          <para id="UUID4b597093-c7f7-4ebb-50c6-cdc4071c2bec">Jak ekonomiści wykorzystują teorie i modele do zrozumienia problemów ekonomicznych</para>
+        </item>
+        <item id="UUIDd3015c8b-166f-46d5-642b-2da427249f92">
+          <para id="UUID3460c0bf-f14b-4319-5af3-00b05bdebc27">W jaki sposób może funkcjonować gospodarka w różnych systemach ekonomicznych</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID9c34f6a9-d634-41b7-41e8-3d710d56da3f">Czym jest ekonomia i dlaczego warto poświęcać czas na jej studiowanie? W końcu istnieją inne dyscypliny naukowe, które możesz zgłębiać, i inne sposoby spędzania czasu. Jak to już zostało wspomniane, dokonywanie wyborów stanowi sedno tego, czym zajmują się ekonomiści, a decyzja o przeczytaniu tego podręcznika jest decyzją ekonomiczną, podobnie jak każdy inny dokonany przez ciebie wybór.</para>
+    <para id="UUIDcc4f141c-4af8-45cd-47f1-0387bcd08724">Ekonomia prawdopodobnie jest czym innym niż myślisz. Nie chodzi w niej przede wszystkim o pieniądze czy finansowanie przedsiębiorstw. Nie sprowadza się do działalności biznesowej. Nie jest również matematyką. Czym zatem jest ekonomia? Otóż jest to zarówno jedna z nauk społecznych, jak i sposób postrzegania świata.</para>
+  </content>
+</document>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ua479fa0e-ba8d-40bb-980e-4e0053abfc77" id="Ua479fa0e-ba8d-40bb-980e-4e0053abfc77" xml:lang="en" cnxml-version="0.7">
+  <title>Skrajne przypadki elastyczności</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00019</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Skrajne przypadki elastyczności</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:53.989462528+00:00</md:version>
+    <md:created>2022-08-08T07:43:53.989462528+00:00</md:created>
+    <md:revised>2022-08-08T07:43:53.989462528+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>a479fa0e-ba8d-40bb-980e-4e0053abfc77</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDd4b7e2c6-90ab-428b-713d-46ded019186a" class="learning-objectives">
+      <para id="UUID85ec0888-8a18-4753-5146-12a33c6f6129">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID154b9373-c978-45c4-6dfc-096ae361a461">
+        <item id="UUIDb5c16c81-0379-44c8-6f18-cb7ec93aacaf">
+          <para id="UUIDaea0e0c7-db98-9kuy-4129-6f230103aade">Identyfikować doskonale elastyczne i doskonale nieelastyczne przypadki popytu i podaży</para>
+        </item>
+        <item id="UUIDb5c16c81-0379-88iu-6f18-cb7ec93aacaf">
+          <para id="UUIDaea0e0c7-db98-4948-4129-6f230103aade">Analizować wykresy doskonale elastycznych i doskonale nieelastycznych krzywych popytu, jak również wykres krzywej popytu o stałej elastyczności jednostkowej</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDafab20d2-44b7-4583-58e0-e4c5a690cb45"><term id="UUID06bcc376-effd-4a35-65ce-ca4a9b94e80f">Popyt/podaż doskonale elastyczne</term> (ang. <foreign xml:lang="en" id="UUIDebdad7ca-52c4-4043-4519-80b22e9b6130"><term id="UUID666d88dd-55d8-4143-609c-237d14c672b5">perfectly elastic demand/supply</term></foreign>) lub inaczej <term id="UUIDb985f060-3034-4ab6-5315-760e3b23853b">nieskończenie elastyczne popyt/podaż</term> (ang. <foreign xml:lang="en" id="UUIDa0187353-104f-403d-748e-fbbc50f663cf"><term id="UUID9d4c42bf-4166-4ed4-5b16-b385e834b44e">infinitely elastic demand/supply</term></foreign>) [wykorzystywany jest również termin <term cmlnle:reference="elastyczność doskonała" id="UUIDab82dc30-aac4-4c35-5325-1674460e1630">elastyczność doskonała</term> (ang. <foreign xml:lang="en" id="UUID3bdd9547-2c5e-448d-68d2-faf8df3c1ce2"><term cmlnle:reference="perfect elasticity" id="UUIDdb16d58d-5468-492f-58af-158711385ab8">perfect elasticity</term></foreign>)] odnosi się do skrajnej sytuacji, w której wielkość zapotrzebowania (Q<sub>d</sub>) lub ilość oferowana na rynku (Q<sub>s</sub>) zmienia się o nieskończoną wartość w odpowiedzi na jakąkolwiek zmianę ceny rynkowej. W obu przypadkach <term cmlnle:reference="krzywa popytu" id="UUIDf07acba9-436c-4832-5a36-9f6fc3382c3e">krzywa podaży</term> (ang. <foreign xml:lang="en" id="UUIDb60fa606-5937-4a22-7b4e-8d940488f3d4"><term cmlnle:reference="supply curve" id="UUID58fca21b-0063-4cb8-409f-098aab8a85cf">supply curve</term></foreign>) i <term cmlnle:reference="krzywa podaży" id="UUID09678d59-8fa2-43c9-475e-69442e3349c7">krzywa popytu</term> (ang. <foreign xml:lang="en" id="UUIDf48e822e-d6d5-4708-45db-28d75695bf23"><term cmlnle:reference="demand curve" id="UUID21044f2b-edf1-4db6-73cf-60b2e85d0d9d">demand curve</term></foreign>) są poziome, jak pokazano na <link target-id="CNX_Econ_C05_006" cmlnle:case="locative" id="UUIDa808e16b-a08c-4337-483c-27e5f9e50a9a" />. Doskonale elastyczne krzywe podaży występują na realnych rynkach niezwykle rzadko, niemniej jednak dobra, które produkuje się wykorzystując stosunkowo łatwo dostępne nakłady i których produkcję można łatwo zwiększać, będą się charakteryzować wysoce elastycznymi krzywymi podaży (np. pizza, chleb, książki lub ołówki). Podobnie rzecz ma się z popytem doskonale elastycznym, który – jako teoretyczny koncept – występuje w modelu doskonale konkurencyjnego rynku, co zostanie omówione w jednym z kolejnych rozdziałów podręcznika. Jednak towary luksusowe, dobra, na które konsumenci wydają istotną część swoich dochodów, oraz dobra mające wiele substytutów prawdopodobnie będą charakteryzowały się wysoce elastycznymi krzywymi popytu. Przykładami takich dóbr są rejsy po Karaibach i sportowe samochody.</para>
+    <figure id="CNX_Econ_C05_006">
+      <title id="UUIDc9b35563-7e34-4a84-5817-93d8ca2648f6">Popyt i podaż doskonale elastyczne</title>
+      <media alt="Dwa panele umieszczone obok siebie pokazują, że doskonale elastyczny popyt i doskonale elastyczną podaż reprezentują poziome linie." id="fs-idm8180272">
+        <image src="../../media//CNX_Econ_C05_006.svg" mime-type="image/svg+xml" id="UUID3d3ca117-712b-41c8-7033-5003b3d09754" />
+      </media>
+      <caption id="UUIDfd289a59-7462-456d-4b1c-3f300e9e3c3f">Linie poziome pokazują, że zarówno zapotrzebowanie, jak i ilość oferowana mogą przyjąć nieskończone wartości przy określonej cenie rynkowej. Wykres ilustruje przypadki doskonale (lub nieskończenie) elastycznych krzywych popytu (panel a) i podaży (panel b). Wielkość zapotrzebowania lub ilości oferowanej jest niezwykle czuła na zmiany cen rynkowych, przesuwając się od zera dla cen bliskich P do nieskończoności, gdy ceny osiągają poziom P.</caption>
+    </figure>
+    <para id="UUIDea710323-6ef2-4bb4-5cc1-d7a11844370f"><term id="UUID4c99c4ff-2461-430c-6ebe-b9c74ab0d0fd">Popyt/podaż doskonale nieelastyczne</term> <foreign xml:lang="en" id="UUID5a48f03e-c2aa-4e4a-5d59-e0527ad84390"><term cmlnle:reference="en" id="UUID2f6f03d3-2e94-49eb-7dec-e35733e56bda">(ang. perfectly inelastic demand/supply)</term></foreign>, jak pokazuje <link target-id="CNX_Econ_C05_008" id="UUIDb3e40a02-09c1-418c-7439-f812b49666b5" />, odnoszą się do skrajnego przypadku, w którym procentowa zmiana ceny, bez względu na jej wielkość, nie prowadzi do zmiany zapotrzebowania lub ilości oferowanej. Podczas gdy doskonale nieelastyczna podaż jest skrajnym przypadkiem, który wyłącznie jako teoretyczna koncepcja wykorzystywany jest w rozważaniach makroekonomicznych, towary, do których produkcji wykorzystuje się czynniki wytwórcze o ograniczonej podaży, najprawdopodobniej będą charakteryzować się wysoce nieelastycznymi krzywymi podaży. Przykładami są pierścionki z brylantami lub mieszkania w doskonałych lokalizacjach, takich jak te z widokiem na Central Park w Nowym Jorku lub warszawskie Łazienki.</para>
+    <para id="UUID49a653cd-01bb-4457-5d67-6d1e785f5ddc">Podobnie, podczas gdy doskonale nieelastyczny popyt w zasadzie nie występuje na realnie istniejących rynkach, dobra zaspokajające najważniejsze potrzeby (żywność) i niemające bliskich substytutów mogą mieć wysoce nieelastyczne krzywe popytu. Tak jest w przypadku specjalistycznych leków i paliw silnikowych.</para>
+    <figure id="CNX_Econ_C05_008">
+      <title id="UUID8fe569b0-fe8e-4793-4dea-76e1c60ce62d">Popyt i podaż doskonale nieelastyczne</title>
+      <media alt="Dwa panele umieszczone obok siebie wskazują, że ilustracją popytu (z lewej strony) i podaży (z prawej strony) o zerowej elastyczność są pionowe linie." id="fs-idp13171904">
+        <image src="../../media//CNX_Econ_C05_008.svg" mime-type="image/svg+xml" id="UUID0a6993e2-bf28-4132-610e-1f9f7d2eaaa2" />
+      </media>
+      <caption id="UUID830ccfb8-a23a-4dcf-4ab4-bb53efaefb7c">Pionowa krzywa podaży i pionowa krzywa popytu wskazują, że procentowa zmiana wielkości zapotrzebowania (panel a) lub ilości oferowanej na rynku (panel b) będzie wynosiła zero, niezależnie od skali względnych zmian ceny rynkowej.</caption>
+    </figure>
+    <para id="UUID1cc3247b-729a-4d1c-4d10-02e1d19be1ee"><term cmlnle:reference="stała elastyczność jednostkowa" id="UUIDef82d4cc-c78a-452b-6d99-5e7c6a49426b">Stała elastyczność jednostkowa</term> (ang. <foreign xml:lang="en" id="UUIDc264e7b2-1c0a-4577-708e-6c33d5ea1e31"><term cmlnle:reference="constant unitary elasticity" id="UUID871f8657-35d0-407c-67a1-3a12d6ed5430">constant unitary elasticity</term></foreign>), zarówno dla krzywej podaży, jak i popytu, występuje, gdy dla każdych rozmiarów popytu lub podaży zmiana ceny rynkowej o 1% powoduje zmianę zapotrzebowania lub ilości oferowanej również o 1%. <link target-id="CNX_Econ_C05_016" id="UUID77e73826-698d-4a93-7ea7-caed5a427e57" /> przedstawia krzywą popytu o stałej elastyczności jednostkowej. Korzystając z elastyczności łukowej, można obliczyć, że gdy pomiędzy punktami A i B na krzywej popytu cena zmienia się o 66,7%, to wielkość zapotrzebowania również zmienia się o 66,7%, stąd elastyczność wynosi 1. Między punktami B i C cena ponownie zmienia się o 66,7%, podobnie jak zapotrzebowanie. Między punktami C i D zmiany procentowe ceny rynkowej i zapotrzebowania też wynoszą 66,7%. Dla każdego punktu na krzywej popytu procentowa zmiana ceny jest równa procentowej zmianie zapotrzebowania, stąd elastyczność popytu w każdym punkcie wynosi 1. Zauważ, że w kategoriach absolutnych spadki ceny w miarę schodzenia w dół po krzywej popytu nie są identyczne. Cena spada o 8 jednostek pieniężnych przy przejściu z punktu A do B, ale tylko o 4, gdy przemieszczamy się z punktu B do C, i o 2 jednostki przy ruchu z punktu C do D. W rezultacie krzywa popytu o stałej elastyczności jednostkowej ma bardziej strome nachylenie po lewej stronie i bardziej płaskie po prawej oraz kształt wypukłej, zakrzywionej linii (hiperboliczny), a nie prostej.</para>
+    <para id="UUID2fda658c-e712-41bd-5cd7-fc20d961ca60" />
+    <figure id="CNX_Econ_C05_016">
+      <title id="UUIDbcdf05e4-ab41-448c-4e73-0f3714199dcc">Krzywa popytu o stałej elastyczności jednostkowej</title>
+      <media alt="Wykres pokazuje, że krzywa popytu o stałej elastyczności jednostkowej we wszystkich punktach, zawsze będzie zakrzywioną linią wypukłą w stronę początku układu współrzędnych (linią o hiperbolicznym kształcie)." id="fs-idp74370368">
+        <image src="../../media//CNX_Econ_C05_016.svg" mime-type="image/svg+xml" id="UUID67e55ac8-7613-4760-5004-2f46e6df1ffe" />
+      </media>
+      <caption id="UUIDf8f26070-03bb-4caa-7048-38daec20aaa6">Krzywa popytu o stałej elastyczności jednostkowej będzie zakrzywioną linią (matematycy nazwaliby ją hiperbolą równoosiową). Zwróć uwagę, że cena i wielkość zapotrzebowania zmieniają się o identyczną wielkość procentową między każdą parą punktów na krzywej popytu.</caption>
+    </figure>
+    <para id="UUIDfd5ef6bf-e0f5-4ed4-431b-d71d092a2bab">W przeciwieństwie do krzywej popytu o stałej elastyczności jednostkowej, która ma kształt zakrzywionej linii, krzywa podaży o stałej elastyczności jednostkowej jest linią prostą przechodzącą przez początek układu współrzędnych. Między każdą parą punktów zaznaczonych na krzywej podaży występuje taka sama różnica w ilości oferowanej, równa w naszym przypadku 30. Natomiast wielkości procentowe, obliczone przy wykorzystaniu elastyczności łukowej, maleją w miarę przesuwania się z lewej strony do prawej: z 28,6% do 22,2% i 18,2%. Dzieje się tak, ponieważ przy obliczaniu procentowych zmian ilości oferowanej mianownik wyrażenia cały czas rośnie, podczas gdy wartość licznika nie ulega zmianie.</para>
+    <para id="fs-idp46346848">Przyjrzyjmy się zmianom ceny przy ruchu w górę krzywej podaży na <link target-id="CNX_Econ_C05_017" cmlnle:case="locative" id="UUID37ed2090-5874-4a0f-7168-d1b3b4720070" />. Przesuwając się z punktu D do E, a następnie do punktu F i G, zmiana ceny jest każdorazowo taka sama w kategoriach absolutnych i wynosi 1,50 jednostki pieniężnej. Jednak zmiany cen w kategoriach procentowych, biorąc pod uwagę elastyczność łukową, maleją: z 28,6% do 22,2% i 18,2%. Ponownie wynika to z faktu, że mianownik wyrażenia służącego obliczeniu elastyczności cały czas rośnie (wraz ze wzrostem poziomu ceny rynkowej), natomiast licznik pozostaje na niezmienionym poziomie. Przy ruchu wzdłuż krzywej podaży o stałej elastyczności jednostkowej procentowe wzrosty ilości oferowanej, odkładane na osi poziomej, dokładnie odpowiadają procentowym wzrostom ceny rynkowej, odkładanym na osi pionowej, tak więc krzywa podaży ma stałą elastyczność jednostkową dla wszystkich tworzących ją punktów.</para>
+    <para id="UUIDb1fa43f1-0663-48fa-5bea-2d31e8d33c2b" />
+    <figure id="CNX_Econ_C05_017">
+      <title id="UUID72956675-bc38-4f09-4826-7e2f54165aa2">Krzywa podaży o stałej elastyczności jednostkowej</title>
+      <media alt="Wykres pokazuje, że krzywa podaży o elastyczności jednostkowej we wszystkich punktach będzie zawsze linią prostą." id="fs-idp63777360">
+        <image src="../../media//CNX_Econ_C05_017.svg" mime-type="image/svg+xml" id="UUIDd7210541-2ff8-4199-6d41-7cf86c06f9c0" />
+      </media>
+      <caption id="UUID10052bc0-e948-4cb7-7568-1cf71d471e2d">Krzywa podaży o stałej elastyczności jednostkowej jest linią prostą mającą swój początek w punkcie przecięcia osi układu współrzędnych. Między każdą parą punktów tworzących podaż procentowy wzrost ilości oferowanej jest taki sam jak procentowy wzrost ceny rynkowej.</caption>
+    </figure>
+    <para id="UUID882eac9f-2da4-480c-45c5-7307ee2f69c2" />
+    <section id="fs-idp13027664" class="summary">
+      <title id="UUID38ff65d1-0d19-4eeb-4e12-24a927ada4f8">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idp58796464">Popyt lub podaż doskonale elastyczne występują w skrajnym przypadku, w którym wielkość zapotrzebowania lub ilości oferowanej zmienia się o nieskończoną wartość w odpowiedzi na jakąkolwiek zmianę ceny rynkowej. Natomiast popyt lub podaż doskonale nieelastyczne występują w skrajnej sytuacji, w której procentowa zmiana ceny rynkowej, bez względu na jej wielkość, nie prowadzi do zmiany ani zapotrzebowania, ani ilości oferowanej. Stała elastyczność jednostkowa krzywej podaży lub popytu odnosi się do sytuacji, w której zmiana ceny o 1% zawsze powoduje analogiczną zmianę ilości oferowanej i zapotrzebowania.</para>
+    </section>
+    <section id="fs-idp15065264" class="self-check-questions">
+      <title id="UUIDa2d2d7cc-6162-45c8-5969-1ca9b51e4d08">Pytania Self-Check</title>
+      <exercise id="fs-idp21610480">
+        <problem id="fs-idm3713536">
+          <para id="fs-idp1644288">Dlaczego krzywa popytu o stałej elastyczności jednostkowej jest wypukła?</para>
+        </problem>
+        <solution id="fs-idm4299200">
+          <para id="fs-idm12655760">Krzywa popytu o stałej elastyczności jednostkowej jest wypukła, ponieważ aby utrzymać stałe względne tempo zmian cen, nie może ono pozostać niezmienne w kategoriach absolutnych. Po lewej stronie krzywej popytu występują wysokie ceny, zaś przy przesuwaniu się w prawą stronę spadki cen są coraz mniejsze. Powoduje to, że krzywa popytu jest stroma po lewej stronie i płaska po prawej, przyjmując zakrzywiony, wypukły kształt.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp15543856">
+        <problem id="fs-idp26415632">
+          <para id="fs-idm40927248">Dlaczego krzywa podaży o stałej elastyczności jednostkowej jest linią prostą?</para>
+        </problem>
+        <solution id="fs-idm59263152">
+          <para id="fs-idp19230464">Jest ona linią prostą, ponieważ krzywa ma nachylenie dodatnie i zarówno cena, jak i ilość rosną proporcjonalnie.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm4967728" class="review-questions">
+      <title id="UUIDc7c7087a-acab-414b-57f4-840f0f1bec51">Pytania Review</title>
+      <exercise id="fs-idm63826016">
+        <problem id="fs-idp55082032">
+          <para id="fs-idm21489232">Opisz ogólny wygląd krzywej popytu lub podaży o zerowej wartości współczynnika elastyczności cenowej.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp16054480">
+        <problem id="fs-idp25776112">
+          <para id="fs-idm14923200">Opisz ogólny wygląd krzywej popytu lub podaży o wartości współczynnika elastyczności cenowej równej nieskończoności.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm18957232" class="critical-thinking">
+      <title id="UUID2a1c58d6-2d11-41a9-5186-9abc573c723a">Pytania Critical Thinking</title>
+      <exercise id="fs-idp41066976">
+        <problem id="fs-idp19319104">
+          <para id="fs-idm17722144">Czy możesz pomyśleć o rynku konkretnego produktu (lub branży), na którym występuje podaż o niemal nieskończonej elastyczności w krótkim okresie? Oznaczałoby to, że na tym rynku w odpowiedzi na wzrost ceny można zwiększać ilość oferowaną (Q<sub>s</sub>) prawie bez ograniczeń .</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp89970816" class="problems">
+      <title id="UUID1cfef9b3-8faf-435a-5b5b-edec17c71498">Problemy</title>
+      <exercise id="fs-idp83542176">
+        <problem id="fs-idp116115408">
+          <para id="fs-idp3956256">Podaż obrazów zmarłego w 1519 r. Leonarda da Vinci, który namalował m.in. <emphasis effect="italics">Mona Lisę</emphasis> oraz <emphasis effect="italics">Damę z gronostajem</emphasis>. jest nieelastyczna. Naszkicuj wykres podaży i popytu, zwracając uwagę na odpowiednie elastyczności, aby pokazać, że popyt na te obrazy określa ich cenę.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp84179312">
+        <problem id="fs-idp58158496">
+          <para id="fs-idp56543104">Powiedzmy, że pewien stadion ma pojemność 70 tys. miejsc. Jaki kształt przyjmie krzywa podaży biletów na zawody sportowe na tym obiekcie? Uzasadnij odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp50759088">
+        <problem id="fs-idp90426128">
+          <para id="fs-idp85449088">Kiedy czyjeś nerki zawodzą, osoba ta musi być poddawana dializom (chyba że otrzyma przeszczep nerki), inaczej umrze. Naszkicuj wykres podaży i popytu, zwracając uwagę na odpowiednie elastyczności, aby pokazać, że cenę dializy będzie determinować przede wszystkim podaż urządzeń umożliwiających ten zabieg.</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID90926e2e-29ca-4c6b-57de-ffc4b44fd5ad">
+    <definition id="fs-idp17966400">
+      <term id="UUID9cd2b9a1-4e16-4703-58f8-70468736dc7c">stała elastyczność jednostkowa (ang. <foreign xml:lang="en" id="UUID51687594-cc7a-41e2-4a8f-3718690153ac">constant unitary elasticity</foreign>)</term>
+      <meaning id="fs-idp30778560">
+        <para id="UUID2fe92d67-7778-45d8-7ece-f907480c1db5">sytuacja, w której określona względna zmiana ceny rynkowej prowadzi do takiej samej względnej zmiany wielkości zapotrzebowania lub ilości oferowanej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp41787328">
+      <term id="UUID82c79f65-6f4d-4ca8-7f42-447194a43ed3">popyt doskonale elastyczny (ang. <foreign xml:lang="en" id="UUID7ae5c8ca-34f5-4cec-794b-543393477e1f"><term id="UUIDaebb395f-46a8-4e56-5632-3bcb1350f88e">infinite elastic demand</term></foreign>)</term>
+      <meaning id="fs-idp35020496">
+        <para id="UUID05320cfa-4cc2-43e3-70c4-3424b5487de4">sytuacja, w której jakakolwiek zmiana ceny danego dobra powoduje nieskończenie silną reakcję konsumenta, w zakresie zmiany wielkości popytu na to dobro; w przypadku popytu doskonale elastycznego wartość współczynnika elastyczności cenowej popytu jest równa nieskończoność</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDf2ca9a3e-5aa2-415f-74a8-2161d5367631">
+      <term id="UUID7085f40d-43bc-40aa-7ba6-b1d702885bb8">podaż doskonale elastyczna (ang. <foreign xml:lang="en" id="UUID2c32fdc7-0732-4c58-64db-fc4e730e4866">infinite elastic supply</foreign>)</term>
+      <meaning id="UUID18ce41e4-bfc6-477d-4401-66c5be00ecf6">
+        <para id="UUIDbd8d8571-e56c-4cb5-60d5-9ebb5a0f2d4e">sytuacja, w której jakakolwiek zmiana ceny danego dobra powoduje nieskończenie silną reakcję producenta, w zakresie zmiany wielkości podaży; w przypadku podaży jednostkowo elastycznej wartość współczynnika elastyczności cenowej podaży wynosi nieskończoność</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm51600048">
+      <term id="UUID7818fd44-3763-44fe-4d04-3fb51ff75dca">popyt doskonale nieelastyczny (ang. <foreign xml:lang="en" id="UUIDa6760b93-7c4e-4782-4833-fdef5ad448aa">perfectly inelastic demand</foreign>)</term>
+      <meaning id="fs-idp17805888">
+        <para id="UUIDa0c31f2f-89b6-4e9b-553f-64b2ae7b144d">zwany także popytem sztywnym, sytuacja, w której procentowa zmiana ceny danego dobra, bez względu na jej wielkość, nie prowadzi do zmiany wielkości popytu na to dobro</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDdaf93f84-c2af-4072-67c1-954f5a1edac1">
+      <term id="UUIDc8564fc8-d39f-443e-5632-250b563b8f02">podaż doskonale nieelastyczna (ang. <foreign xml:lang="en" id="UUIDe6754d80-0eb4-4abd-7bb9-f117b75ebe07">perfectly inelastic supply</foreign>)</term>
+      <meaning id="UUIDe4f768bc-3a54-414d-4d4d-a0975720b450">
+        <para id="UUID70bbf5de-2257-4f3b-59d4-44e7c05d593f">zwana także podażą sztywną, sytuacja, w której procentowa zmiana ceny danego dobra, bez względu na jej wielkość, nie prowadzi do zmiany wielkości podaży tego dobra</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

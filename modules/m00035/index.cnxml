@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U8a7159c7-5e82-4a8f-b8e9-b5b4c6561c8d" id="U8a7159c7-5e82-4a8f-b8e9-b5b4c6561c8d" xml:lang="en" cnxml-version="0.7">
+  <title>Decyzje o wejściu i wyjściu w długim okresie</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00035</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Decyzje o wejściu i wyjściu w długim okresie</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:56.780982254+00:00</md:version>
+    <md:created>2022-08-08T07:43:56.780982254+00:00</md:created>
+    <md:revised>2022-08-08T07:43:56.780982254+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>8a7159c7-5e82-4a8f-b8e9-b5b4c6561c8d</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID4001bd46-7d6e-4f0c-77d8-b419eec75367" class="learning-objectives">
+      <para id="ch08md03_p01">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID6d5fae23-edac-4565-44a0-d02f5fb14907">
+        <item id="UUID191776d7-3128-4721-579b-1bb22d66da03">
+          <para id="UUIDe6280a8a-c885-437a-6083-1cae49f92b35">Objaśnić, jak decyzję pojedynczych przedsiębiorstw o wejściu lub wyjściu z gałęzi przekładają się na zerowe zyski ekonomiczne w długim okresie</para>
+        </item>
+        <item id="UUIDfe4a31c7-c80b-4fb3-515d-8e3dbee5456a">
+          <para id="UUID800c98db-3764-493c-414e-163406cc5aaa">Opisać przebieg dostosowań na rynku doskonale konkurencyjnym w długim okresie</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDad236fa2-dc9f-448c-59d7-63b926d864a1">Nie da się precyzyjnie określić granicy między krótkim a długim okresem za pomocą stopera czy nawet kalendarza. Różnice zależą od konkretnej firmy i gałęzi, dlatego rozróżnienie między krótkim a długim okresem jest bardziej techniczne: w krótkim okresie przedsiębiorstwa nie mogą w pełni swobodnie dostosowywać do swoich potrzeb nakładu wszystkich czynników produkcji, a w długim okresie taką swobodę już mają.</para>
+    <para id="ch08md03_p02">Na konkurencyjnym rynku zyski są elementem zachęcającym przedsiębiorstwa do zwiększenia skali aktywności gospodarczej. Jeśli firma osiąga zysk w krótkim okresie, ma motywację do rozbudowy istniejących fabryk lub budowy kolejnych. Również nowe przedsiębiorstwa mogą rozpocząć produkcję i sprzedaż na rynku. Kiedy nowe firmy wchodzą do branży zachęcone zwiększonymi zyskami, jakie oferuje, nazywa się to <term cmlnle:reference="wejściem" id="UUID4bdb9fcd-bfcb-4ef8-53af-519da5c3c609">wejściem</term> lub <term cmlnle:reference="decyzją o wejściu" id="UUID8b12e33d-bc22-4bfe-4501-452853d7e2c0">decyzją o wejściu</term> (ang. <foreign xml:lang="en" id="UUIDb7f93251-3fe7-4e3d-5030-4102197ffc78"><term cmlnle:reference="entry" id="UUID365cb89f-26eb-4a0e-7f1d-ba547e88b76b">entry</term></foreign>).</para>
+    <para id="ch08md03_p03">Z kolei straty są elementem, który powoduje ucieczkę przedsiębiorstw z gałęzi. Jeśli przedsiębiorstwo ponosi straty w krótkim okresie, wówczas albo będzie ograniczać wykorzystanie mocy wytwórczych, produkując ze stratą, albo po prostu się zamknie, w zależności od tego, czy jego utarg pokrywa koszty zmienne, czy też jest od nich niższy. Jednak w długim okresie firmy, które ponoszą straty, całkowicie zaprzestaną produkcji. Długookresowy proces wygaszania działalności w odpowiedzi na utrzymujące się straty nazywa się <term cmlnle:reference="wyjściem" id="UUIDe2b3cc75-d29e-4d81-5bc0-baac66548dd9">wyjściem</term> lub <term cmlnle:reference="decyzją o wyjściu" id="UUIDab8714a5-655e-4339-6594-b908240a9aca">decyzją o wyjściu</term> (ang. <foreign xml:lang="en" id="UUID421dbb7d-33b8-4ad8-672c-c6922b35b1de"><term cmlnle:reference="exit" id="UUID3338f596-6666-4f33-401e-3658fb5f68f7">exit</term></foreign>). Poniższa <link target-id="ch08mod03_clearup" id="UUIDb90a0f3f-6ef9-4764-7910-23ba4396dd19" /> zawiera omówienie możliwych czynników powodujących straty przedsiębiorstw, a także determinant decyzji o wyjściu z gałęzi.</para>
+    <note type="note" id="ch08mod03_clearup" class="clearup economics">
+      <title id="UUIDdfe6db6a-188b-4278-5bd2-ad378c5e0393">Dlaczego przedsiębiorstwa przestają istnieć?</title>
+      <para id="ch08mod03_p04">Czy możemy powiedzieć cokolwiek o przyczynach, dla których przedsiębiorstwa wychodzą z gałęzi? Najważniejszą miarą przesądzającą o tym, czy firma ma dalej działać, są zyski ekonomiczne. W końcu ludzie zakładają firmy właśnie w celu osiągania zysków. Inwestują swoje pieniądze, czas, wysiłek i wiele innych zasobów, aby wyprodukować i sprzedać coś, co – jak mają nadzieję – w zamian da im profity. Niestety nie wszystkie przedsiębiorstwa odnoszą sukcesy, a wiele nowych startupów szybko zdaje sobie sprawę, że ich przedsięwzięcie biznesowe musi ostatecznie przestać istnieć.</para>
+      <para id="ch08mod03_p05">W modelu konkurencji doskonałej przedsiębiorstwa, które konsekwentnie nie mogą zarabiać, wyjdą z gałęzi, co jest łagodnym określeniem w istocie bolesnego i trudnego procesu. Gdy biznes upada, pracownicy tracą przecież pracę, inwestorzy pieniądze, a właściciele i menedżerowie marzenia. Każdego roku wiele firm bankrutuje. Amerykańska rządowa agencja odpowiedzialna za monitorowanie małych i średnich przedsiębiorstw (<foreign xml:lang="en" id="UUID69f5841b-86e1-4c13-7f02-f18c79d086dd">Small Business Administration</foreign>) wskazuje, że w 2011 r. w USA pojawiło się 534 907 nowych podmiotów gospodarczych, ale równocześnie aż 575 691 upadło.</para>
+      <para id="ch08mod03_p06">Czasami przedsiębiorstwo bankrutuje z powodu złego sposobu zarządzania, niskiej produktywności pracy zatrudnionych ludzi albo silnej konkurencji krajowej bądź zagranicznej. Przedsiębiorstwa upadają również z innych przyczyn. Na przykład warunki popytu i podaży na rynku mogą zmienić się w nieoczekiwany sposób, co oznacza spadek cen pobieranych za sprzedawane produkty lub wzrost kosztów pozyskiwania nakładów. Przy setkach tysięcy lub nawet milionach przedsiębiorstw w gospodarkach różnych krajów upadek nawet niewielkiej części z nich dotknie wielu ludzi, a niepowodzenia biznesowe mogą być bardzo trudne dla bezpośrednio zaangażowanych pracowników i menedżerów. Jednak z punktu widzenia całego systemu wyjście przedsiębiorstwa z gałęzi jest czasami złem koniecznym, jeśli rynkowy mechanizm alokacji ma oferować elastyczne instrumentarium zaspokajania potrzeb klientów, utrzymywania niskich kosztów i kreowania nowych produktów.</para>
+    </note>
+    <section id="ch08mod03_01">
+      <title id="UUID997793f7-a93d-4b87-75a4-06daa4d8381d">Jak decyzje przedsiębiorstw o wejściu i wyjściu z gałęzi prowadzą do zerowych zysków w długim okresie?</title>
+      <para id="ch08mod03_p07">Żadne <term cmlnle:reference="przedsiębiorstwo doskonale konkurencyjne" id="UUID1ab1e576-654b-46b2-5f55-e93e5e7c44c9">przedsiębiorstwo doskonale konkurencyjne</term> (ang. <foreign xml:lang="en" id="UUIDc3eb6f58-4dd9-49fa-4b64-64dd6c3d3385"><term cmlnle:reference="perfectly competitive firm" id="UUID4b956414-1ca4-41be-4821-c2d224fd1c0b">perfectly competitive firm</term></foreign>) działając samodzielnie, nie może wpłynąć na cenę rynkową. Jednak grupa wielu przedsiębiorstw wchodzących lub wychodzących z danej gałęzi wpłynie na ogólną podaż rynkową. Z kolei zmiana podaży odbije się na cenie rynkowej. Wejście i wyjście z rynku to siły napędowe procesu, który w długim okresie obniża cenę do poziomu minimalnych przeciętnych kosztów całkowitych, przez co wszystkie firmy działające w danej branży osiągają jedynie zerowy zysk ekonomiczny.</para>
+      <para id="ch08mod03_p08">Aby zrozumieć, jak krótkookresowe zyski przedsiębiorstwa doskonale konkurencyjnego znikają w długim okresie, wyobraź sobie następującą sytuację. Rynek jest w <term cmlnle:reference="równowadze długookresowej" id="UUIDf000eeef-002f-4e5d-4622-6979b61489dd">równowadze długookresowej</term> (ang. <foreign xml:lang="en" id="UUID699b656e-ca9b-4862-62a5-9a0f55130ab7"><term cmlnle:reference="long-run equilibrium" id="UUID12c33f34-3ad1-40d3-5123-c82b6cb60b8a">long-run equilibrium</term></foreign>), wszystkie firmy osiągają zerowe zyski ekonomiczne, wytwarzając produkcję, dla której P = MR = LMC i P = LAC. Żadna firma nie ma motywacji do wejścia lub wyjścia z gałęzi. Załóżmy następnie, że popyt na produkt rośnie, a wraz z nim zwiększa się cena rynkowa. Istniejące w danej gałęzi gospodarki przedsiębiorstwa stoją teraz w obliczu wyższej ceny, więc zwiększają produkcję do nowego poziomu, dla którego P = MR = LMC.</para>
+      <para id="ch08mod03_p09">Spowoduje to chwilowy wzrost ceny rynkowej powyżej punktu minimum na krzywej kosztu przeciętnego, a zatem istniejące na rynku firmy będą osiągać zyski ekonomiczne. Ta perspektywa przyciągnie do gałęzi nowe przedsiębiorstwa. Wejście wielu nowych firm spowoduje przesunięcie krzywej podaży w prawo. Gdy krzywa podaży przesuwa się w prawo, cena rynkowa zaczyna spadać, a wraz z nią maleją zyski ekonomiczne nowych i istniejących firm. Dopóki na rynku nadal będą zyski, wejście na rynek będzie przesuwało podaż w prawo. Proces zostanie zatrzymany, gdy cena rynkowa spadnie do poziomu, dla którego żadne przedsiębiorstwo nie będzie już osiągać zysków.</para>
+      <para id="ch08mod03_p10">Z kolei krótkookresowe straty znikną dzięki odwrotnemu procesowi. Załóżmy, że rynek jest w długookresowej równowadze. Tym razem popyt spada, a wraz z nim maleje cena rynkowa. Istniejące w gałęzi przedsiębiorstwa mają teraz do czynienia z niższą ceną niż wcześniej, a ponieważ będzie ona poniżej krzywej kosztu przeciętnego, przedsiębiorstwa będą ponosić straty ekonomiczne. Niektóre firmy będą kontynuować produkcję według warunku: nowa cena P = MR = LMC, o ile uda im się pokryć swoje koszty zmienne. Inne zaś będą musiały natychmiast wstrzymać działalność, ponieważ nie zdołają pokryć swoich kosztów zmiennych. Wyjście wielu przedsiębiorstw z branży spowoduje przesunięcie krzywej podaży rynkowej w lewo. Gdy krzywa podaży przesuwa się w lewo, cena rynkowa zaczyna rosnąć, a straty ekonomiczne maleć. Proces ten kończy się, gdy cena rynkowa wzrośnie do poziomu zerowego zysku ekonomicznego, dla którego wszystkie istniejące w gałęzi przedsiębiorstwa nie tracą już pieniędzy. Tak więc podczas gdy doskonale konkurencyjne przedsiębiorstwo może notować zysk w krótkim okresie, w długim okresie proces wejścia będzie obniżał ceny, aż osiągnięty zostanie poziom zerowego zysku. I odwrotnie, doskonale konkurencyjne przedsiębiorstwo może ponosić stratę w krótkim okresie, ale firmy nie będą w stanie stale tracić pieniędzy. W długim okresie przedsiębiorstwa ponoszące straty mogą pozbyć się kosztów stałych, a ich wyjście z rynku spowoduje powrót ceny do poziomu zysku zerowego. W długim okresie procesy wejścia i wyjścia doprowadzą cenę na doskonale konkurencyjnych rynkach do <term cmlnle:reference="progu rentowności" id="UUIDca7e68a2-6a52-4be3-48b4-d4ac3acc2c61">progu rentowności</term> (ang. <foreign xml:lang="en" id="UUIDfb5b1479-2fb4-4d9f-57e6-34b9fb1e8df7"><term cmlnle:reference="break even point" id="UUID413542b2-f190-48b5-5aee-5ecf6bda5421">break even point</term></foreign>), dla którego koszt krańcowy przecina koszt przeciętny.</para>
+    </section>
+    <section id="ch08mod03_02">
+      <title id="UUID1c4accb9-a0cf-4abd-56e1-14f8168dc50b">Długookresowe dostosowania i rodzaje branż</title>
+      <para id="ch08mod03_p11">Ilekroć w gałęzi doskonale konkurencyjnej następuje wzrost produkcji, koszty wytwarzania w istniejących i nowych przedsiębiorstwach mogą pozostać takie same, wzrosnąć, a nawet spaść. Dlatego możemy kategoryzować te branże jako: (1) gałęzie o stałych kosztach (gdy koszty w przedsiębiorstwach pozostają takie same wraz ze wzrostem produkcji), (2) gałęzie o rosnących kosztach (w miarę wzrostu produkcji koszty w przedsiębiorstwach rosną), lub (3) gałęzie o malejących kosztach (gdy produkcja rośnie, koszty maleją).</para>
+      <para id="ch08mod03_p12">W przypadku <term cmlnle:reference="gałęzi o stałych kosztach" id="UUID8b4204c5-a9bd-411f-5b41-ad850a936f14">gałęzi o stałych kosztach</term> (ang. <foreign xml:lang="en" id="UUID4be6e6a4-cbaf-4ae8-6e31-8f8c7b2bd015"><term cmlnle:reference="constant cost industry" id="UUID19c77b47-8713-44a5-7fe0-b07b8417a139">constant cost industry</term></foreign>), ilekroć występuje wzrost popytu na rynku i wzrost ceny, krzywa podaży przesuwa się w prawo wraz z wejściem nowych przedsiębiorstw i zatrzymuje się w punkcie, w którym nowa długookresowa równowaga występuje przy tej samej cenie rynkowej co poprzednio. Jest to przypadek stałych przychodów ze skali, które omówiliśmy wcześniej w rozdziale <link document="m00026" id="UUID65e39827-96fe-4676-7b90-33af520ac279">Introduction to Production, Costs, and Industry Structure</link>. Dlaczego jednak koszty pozostają takie same? W tego typu branżach krzywa podaży jest bardzo elastyczna. Firmy mogą z łatwością wyprodukować dowolną ilość, której zażądają konsumenci. Ponadto istnieje doskonale elastyczna podaż nakładów – np. przedsiębiorstwa mogą łatwo zwiększyć zatrudnienie pracowników bez wzrostu płac. Włączając w nasze rozważania przykład z sekcji <link target-id="ch08mod03_clearup" id="UUID3b165efd-5e2c-4951-7faa-7e16fb05606b" />, zwiększony popyt na etanol w ostatnich latach spowodował wzrost popytu na kukurydzę. W związku z tym wielu rolników przerzuciło się z uprawy pszenicy na uprawę kukurydzy. Rynki rolne są ogólnie dobrymi przykładami gałęzi o stałych kosztach.</para>
+      <para id="ch08mod03_p13">W <term cmlnle:reference="gałęzi o rosnących kosztach" id="UUID334c5c4f-7b9f-4a62-4dc8-12d6baec2426">gałęzi o rosnących kosztach</term> (ang. <foreign xml:lang="en" id="UUIDbeb83267-47d2-4d91-74d5-44bb65666ccd"><term cmlnle:reference="increasing cost industry" id="UUID05ebbc99-6154-49c4-6c51-b79afd1c1ee5">increasing cost industry</term></foreign>) wraz ze wzrostem produkcji rynkowej stare i nowe przedsiębiorstwa doświadczają wzrostu kosztów, co sprawia, że nowy poziom zerowego zysku występuje przy wyższej cenie niż wcześniej. W tym przypadku przedsiębiorstwa mogą mieć np. do czynienia z czynnikami produkcji, których podaż jest ograniczona (takimi jak wykwalifikowana siła robocza), co oznacza, że wzrost produkcji i tym samym wzrost popytu na te czynniki będzie zwiększał ich cenę (wynagrodzenia pracowników) i podnosił koszty wytwarzania. Krzywa podaży gałęzi jest mniej elastyczna.</para>
+      <para id="ch08mod03_p14">W przypadku <term cmlnle:reference="gałąź o malejących kosztach" id="UUID6366a08b-e70d-4dda-4d03-4ec89c472ad0">gałęzi o malejących kosztach</term> (ang. <foreign xml:lang="en" id="UUIDf7b2e660-f739-4d2c-6f1f-3da3ead4f3fe"><term cmlnle:reference="decreasing cost industry" id="UUID7ee6f61a-8ce3-48ec-772b-4155430550cf">decreasing cost industry</term></foreign>) wraz ze wzrostem produkcji rynkowej stare i nowe przedsiębiorstwa doświadczają niższych kosztów, co sprawia, że nowy poziom zerowego zysku występuje przy cenie niższej niż poprzednio. W tym przypadku branża i wszystkie funkcjonujące w niej przedsiębiorstwa doświadczają spadku przeciętnych kosztów całkowitych. Może to być spowodowane zmianą technologii w całej gałęzi lub wzrostem wykształcenia pracowników. Dobrym przykładem rynków o malejących kosztach są branże high-tech.</para>
+      <para id="ch08mod03_p15"><link target-id="CNX_Econ_C08_013" id="UUIDb8d4fa8c-472a-4bc2-4588-9c767d047599" /> na panelu (a) przedstawia proces dostosowawczy w gałęzi o stałych kosztach. Ilekroć w takiej gałęzi następuje wzrost produkcji, efekt długookresowy oznacza większą produkcję przy dokładnie tej samej cenie co wcześniej. Należy zauważyć, że podaż była w stanie wzrosnąć, aby sprostać zwiększonemu popytowi. Kiedy połączymy początkową i końcową równowagę długookresową, otrzymamy linię będącą krzywą długookresowej podaży (LRSS) na rynkach doskonale konkurencyjnych. W tym przypadku jest to pozioma linia. <link target-id="CNX_Econ_C08_013" id="UUID9d24188b-f198-4e8a-4c61-31826693c864" /> na panelu (b) i <link target-id="CNX_Econ_C08_013" id="UUIDd49990a8-c1c6-4d73-41b7-e3dd2d232991" /> na panelu (c) przedstawiają odpowiednio gałęzie o rosnących i malejących kosztach. W przypadku branży o rosnących kosztach LRSS ma nachylenie dodatnie, natomiast w gałęzi o malejących kosztach LRSS ma nachylenie ujemne.</para>
+      <figure id="CNX_Econ_C08_013">
+        <title id="UUID2ac17989-23cd-44f6-6c8b-66fa81735a99">Proces dostosowawczy w gałęzi o stałych, rosnących i malejących kosztach</title>
+        <media alt="Wykres na trzech panelach pokazuje, że krzywa podaży długookresowej LRSS jest stała, gdy koszty nie rosną ani nie spadają, LRSS ma nachylenie dodatnie, gdy koszty rosną, oraz nachylenie ujemne, gdy koszty spadają." id="mCNX_Econ_C08_013">
+          <image src="../../media//CNX_Econ_C08_013.svg" mime-type="image/svg+xml" id="UUIDf9609794-05c4-48db-5406-aff3626c1e4f" />
+        </media>
+        <caption id="UUIDa146880b-734a-409b-70fc-5a6f135002ca">Na panelu (a) popyt wzrósł, a podaż się dostosowała. Zauważ, że wzrost podaży jest równy wzrostowi popytu. W rezultacie cena równowagi pozostaje taka sama przy wzroście ilości sprzedanych towarów. Na panelu (b) sprzedawcy nie byli w stanie zwiększyć podaży w stopniu odzwierciedlającym wzrost popytu. Brakowało niektórych nakładów lub zwiększyły się płace. Cena równowagi wzrosła. Na panelu (c) sprzedawcy z łatwością zwiększyli podaż w odpowiedzi na wzrost popytu. Tutaj nowa technologia lub korzyści skali spowodowały duży wzrost podaży skutkujący spadkiem ceny równowagi.</caption>
+      </figure>
+    </section>
+    <section id="ch08mod03_summ" class="summary">
+      <title id="UUID30aa1bbe-a6d0-4d64-6b90-f7f6d7e48341">Kluczowe pojęcia i podsumowanie</title>
+      <para id="ch08mod03_p16">W długim okresie przedsiębiorstwa reagują na istnienie zysków ekonomicznych w gałęzi doskonale konkurencyjnej, decydując się na rozpoczęcie w niej działalności (wejście), a podmioty, które już w niej funkcjonowały, zwiększając produkcję. I odwrotnie, przedsiębiorstwa reagują na straty w długim okresie, decydując się na wstrzymanie produkcji i wyjście z rynku. W konsekwencji, poziom cen na rynku doskonale konkurencyjnym będzie się zmieniał w taki sposób, aby każde przedsiębiorstwo, które działa w tej gałęzi miało tylko zyski normalne (osiągnęło próg rentowności, gdzie krzywa kosztu krańcowego przecina krzywą kosztu przeciętnego w punkcie jej minimum).</para>
+      <para id="ch08mod03_p17">Długookresowa krzywa podaży pokazuje wielkość produkcji wszystkich przedsiębiorstw w długim okresie w trzech różnych typach gałęzi doskonale konkurencyjnych: o stałych kosztach, rosnących kosztach i malejących kosztach.</para>
+    </section>
+    <section id="ch08mod03_sques" class="self-check-questions">
+      <title id="UUIDef609b89-e690-496a-7154-df2baf44b737">Pytania Self-Check</title>
+      <exercise id="ch08mod03_sques01">
+        <problem id="ch08mod03_sques01p">
+          <para id="ch08mod03_p18">Jeśli nowa technologia na doskonale konkurencyjnym rynku przyniesie znaczną redukcję kosztów produkcji, jak wpłynie to na ten rynek?</para>
+        </problem>
+        <solution id="ch08mod03_sques01s">
+          <para id="ch08mod03_p19">Wraz z postępem technicznym, który przyniesie obniżenie kosztów produkcji, na rynku nastąpi proces dostosowawczy. Postęp techniczny spowoduje wzrost podaży poszczególnych przedsiębiorstw i całego rynku. Istniejące firmy będą przez jakiś czas osiągać większe zyski, co przyciągnie na rynek nowe podmioty. Proces wejścia zostanie wstrzymany, gdy tylko podaż na rynku wystarczająco wzrośnie (zarówno dzięki produkcji istniejących wcześniej, jak nowych firm), tak że zyski wrócą do poziomu zerowego.</para>
+        </solution>
+      </exercise>
+      <exercise id="ch08mod03_sques02">
+        <problem id="ch08mod03_sques02p">
+          <para id="ch08mod03_p20">Rynek doskonale konkurencyjny znajduje się w równowadze długookresowej. Co stanie się z tym rynkiem, jeśli związki zawodowe będą w stanie wywalczyć podniesienie płac pracowników?</para>
+        </problem>
+        <solution id="ch08mod03_sques03s">
+          <para id="ch08mod03_p21">Wraz ze wzrostem płac rosną koszty produkcji. Niektóre przedsiębiorstwa zaczną ponosić straty ekonomiczne i zostaną zamknięte. Krzywa podaży będzie przesuwała się w lewo, podnosząc cenę rynkową. Proces ten zakończy się, gdy wszystkie przedsiębiorstwa pozostające na rynku osiągną zerowe zyski ekonomiczne. Rezultatem będzie zmniejszenie produkcji rynkowej.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="ch08mod03_rques" class="review-questions">
+      <title id="UUID2ae95871-b547-40ef-6340-a005b02f8b6a">Pytania Review</title>
+      <exercise id="ch08mod03_rques01">
+        <problem id="ch08mod03_rques01p">
+          <para id="ch08mod03_p22">Dlaczego firmy decydują się na wejście do danej gałęzi?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch08mod03_rques02">
+        <problem id="ch08mod03_rques02p">
+          <para id="ch08mod03_p23">Dlaczego firmy decydują się na wyjście z gałęzi?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch08mod03_rques03">
+        <problem id="ch08mod03_rques03p">
+          <para id="ch08mod03_p24">Czy proces wchodzenia i wychodzenia z gałęzi występuje w krótkim okresie, w długim okresie, w obu okresach czy w żadnym z nich?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch08mod03_rques04">
+        <problem id="ch08mod03_rques04p">
+          <para id="ch08mod03_p25">Jaką cenę w długim okresie będzie pobierała firma doskonale konkurencyjna? Dlaczego?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch08mod03_ctques" class="critical-thinking">
+      <title id="UUID492f2953-1c78-4580-59e5-a320d076e560">Pytania Critical Thinking</title>
+      <exercise id="ch08mod03_ctques01">
+        <problem id="ch08mod03_ctques01p">
+          <para id="ch08mod03_p26">Wiele przedsiębiorstw co roku składa wniosek o upadłość, ale nadal działają. Dlaczego to robią, zamiast całkowicie wstrzymać działalność?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch08mod03_ctques02">
+        <problem id="ch08mod03_ctques02p">
+          <para id="ch08mod03_p27">Dlaczego zyski przedsiębiorstw w gałęzi doskonale konkurencyjnej mają tendencję do zanikania w długim okresie?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch08mod03_ctques03">
+        <problem id="ch08mod03_ctques03p">
+          <para id="ch08mod03_p28">Dlaczego straty przedsiębiorstw w gałęzi doskonale konkurencyjnej mają tendencję do zanikania w długim okresie?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID0deec02e-9cb8-4a16-43ee-e780e82d0e0a">
+    <definition id="ch08mod03_gl01">
+      <term id="UUID2096e388-692c-42db-7bd5-36f886cd8b85">wejście lub decyzja o wejściu (ang. <foreign xml:lang="en" id="UUIDbbee8bea-fa47-42ba-6ead-0005a17e8eef">entry</foreign>)</term>
+      <meaning id="ch08mod03_gl01m">
+        <para id="UUIDa774f55d-f81d-4708-4688-98da8b570404">długookresowy proces wchodzenia przedsiębiorstw do gałęzi w odpowiedzi na zyski, które w niej występują</para>
+      </meaning>
+    </definition>
+    <definition id="ch08mod03_gl02">
+      <term id="UUIDd42518f2-ed97-4987-51a9-8d2f2ac81dce">wyjście lub decyzja o wyjściu (ang. <foreign xml:lang="en" id="UUID6032efc4-4ba9-4704-6642-80c17006a9da">exit</foreign>)</term>
+      <meaning id="ch08mod03_gl02m">
+        <para id="UUID3df4e152-cc6d-49cb-74fa-f439036a98ce">długookresowy proces ograniczania produkcji i wstrzymywania działalności przedsiębiorstw w odpowiedzi na straty występujące w danej gałęzi gospodarki</para>
+      </meaning>
+    </definition>
+    <definition id="ch08mod03_gl03">
+      <term id="UUID821319a7-3302-464a-407a-b6dc02354c4b">równowaga długookresowa (ang. <foreign xml:lang="en" id="UUIDa792a5ef-3cb8-4af3-5067-0b657dccf1a7">long-run equilibrium</foreign>)</term>
+      <meaning id="ch08mod03_gl03m">
+        <para id="UUIDbc102b49-f1db-41de-5f03-9ce8d14e31ac">sytuacja, gdy wszystkie przedsiębiorstwa osiągają zerowe zyski ekonomiczne wytwarzając produkcję, dla której P = MR = MC i P = AC</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

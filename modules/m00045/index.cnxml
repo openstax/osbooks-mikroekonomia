@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uc6bdefc9-29bf-4d81-960f-27aff7b5c366" id="Uc6bdefc9-29bf-4d81-960f-27aff7b5c366" xml:lang="en" cnxml-version="0.7">
+  <title>Rynek pracy</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00045</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Rynek pracy</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.235497643+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.235497643+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.235497643+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>c6bdefc9-29bf-4d81-960f-27aff7b5c366</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDeceb64c5-929a-418c-48d5-a6fe441c8559" class="learning-objectives">
+      <para id="UUID3d685565-af47-4019-64c5-1318efa22afd">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID6d1b0b49-ac97-4bfd-64a0-3d653468996b">
+        <item id="UUIDaa9c1c11-312f-45fb-6ac6-2c2733078e58">
+          <para id="UUID5c988deb-004e-421e-5743-f0ba4a660c9b">Określić, jakie czynniki determinują popyt na pracę, jeśli przedsiębiorstwo sprzedaje swoje produkty na rynku doskonale konkurencyjnym</para>
+        </item>
+        <item id="UUID5ecfcf60-ba3f-4313-6035-22cc35ae9298">
+          <para id="UUIDae613dcc-36c8-4a7d-406b-adda4b2dac78">Wyjaśnić, jakie czynniki determinują popyt na pracę, jeśli przedsiębiorstwo sprzedaje swoje produkty na rynkach konkurencji niedoskonałej</para>
+        </item>
+        <item id="UUIDb2d9bdae-7196-497f-5bb2-f2a4b83afdd9">
+          <para id="UUIDb68a05b7-2a32-4150-563a-a53ffcab5d71">Wskazać, jakie czynniki określają stawkę płac na rynku</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID780ef05c-e2c3-4dc1-533e-e8138bc6026c">W poprzednim podrozdziale zdefiniowaliśmy rynek pracy jako jeden z rynków czynników produkcji (nakładów). Oczywiście nie istnieje jeden rynek pracy. Ekonomiści posługują się tym określeniem, żeby opisać rynki różniące się m.in. kwalifikacjami pracowników i rodzajem wykonywanej przez nich pracy (istnieje rynek pracowników sektora IT, rynek prawników i rynek robotników niewykwalifikowanych), zasięgiem (rynki lokalne, na których zatrudnienie uzyskują pracownicy handlu detalicznego, i globalny rynek oficerów i marynarzy floty handlowej) oraz stopniem regulacji wprowadzonej przez państwo (ściśle regulowany rynek lekarzy, pilotów samolotów i nauczycieli). Trzeba też wspomnieć o pozostającym praktycznie poza jakimikolwiek regulacjami rynkiem pracowników rolnych. Chociaż każdy rynek pracy jest inny, wszystkie działają w podobny sposób. Na przykład gdy płace rosną na jednym, zwykle w górę idą również na innych. Gdy ekonomiści mówią o rynku pracy, wskazują właśnie na te podobieństwa.</para>
+    <para id="UUID06d1534c-e6d5-4ebb-6be9-b07db23c243d">Równowagę na rynku pracy określiliśmy jako konkretny poziom wynagrodzenia (płacy) oraz wielkość zatrudnienia. Wskazaliśmy na popyt i podaż na rynku pracy jako parametry wyznaczające poziom równowagi. Od czego zależy jednak wysokość wynagrodzenia, którą pracodawcy (przedsiębiorstwa) są skłonni zapłacić pracownikom? Dlaczego wraz ze wzrostem płac zapotrzebowanie na siłę roboczą maleje? Z drugiej zaś strony – jakie czynniki determinują dochód gospodarstw domowych? W krajach o gospodarce rynkowej, takich jak Stany Zjednoczone i Polska, dochód pochodzi ze sprzedaży lub wynajmu czynników produkcji (pracy, kapitału i ziemi). Mówiąc dokładniej, dochód jest funkcją dwóch czynników: tego, jaką ilość konkretnego czynnika produkcji posiadamy, oraz wartości, jaką społeczeństwo mu przypisuje (w społeczeństwie, w którym nikt już nie wykorzystuje transportu konnego do przewożenia ludzi i towarów, nawet najlepsi woźnice będą mieli problemy z uzyskaniem godziwego dochodu). Dla większości z nas najważniejszym zasobem, jaki posiadamy, jest nasza praca. Tak więc większość naszych dochodów to płace, prowizje, napiwki i inne dochody z pracy. Twój dochód z pracy zależy od tego, ile godzin musisz przepracować, oraz wynagrodzenia, jakie wypłaci ci pracodawca. Jednocześnie niektórzy z nas są właścicielami nieruchomości, z których mogą korzystać samodzielnie lub wynajmować innym użytkownikom. Niektórzy ludzie mają aktywa finansowe, takie jak lokaty bankowe, akcje i obligacje, za które otrzymują odsetki, dywidendy lub inną formę dochodu.</para>
+    <para id="UUID98c036fb-d54a-4ea3-4eb4-74255b846a9d">Wysokość wynagrodzenia za czynniki produkcji (płaca za pracę, odsetki od kapitału finansowego) jest określana na poszczególnych rynkach. W dalszej części tego podrozdziału skupimy się na rynkach pracy, ale rynki innych czynników produkcji działają bardzo podobnie.</para>
+    <para id="UUID690afe4b-5942-499a-53e8-f5c8bf4ba00a">Po lekturze pierwszego podrozdziału wiesz już, że na rynku pracy, podobnie jak na każdym innym, mamy do czynienia z popytem i podażą. Teraz spróbujmy się zastanowić, dlaczego właściwie przedsiębiorstwa zgłaszają zapotrzebowanie na pracę. Dlaczego pracodawca jest gotów zapłacić ci za twoje usługi? Nie dzieje się tak dlatego, że cię lubi lub czuje się do tego moralnie lub społecznie zobowiązany, to oczywiste. Pracodawca wypłaca ci wynagrodzenie, ponieważ twoja praca ma dla niego wartość – dzięki niej przedsiębiorstwo może coś wyprodukować, a następnie sprzedać i osiągnąć z tego tytułu przychód. Ile pracodawca jest gotów ci zapłacić? To zależy od twoich umiejętności i doświadczenia, czyli tego, jaka jest wartość twojej pracy (umiejętności, doświadczenia) z punktu widzenia przedsiębiorstwa.</para>
+    <para id="UUIDb74c9e49-aac9-4b46-7194-609f94d04d5c">Jeśli przedsiębiorstwo chce maksymalizować zyski, nigdy nie zapłaci pracownikowi (w formie płac i dodatkowych świadczeń) więcej, niż wynosi wartość jego krańcowej produktywności dla tego przedsiębiorstwa. Nazywamy to <term cmlnle:reference="pierwsza zasada rynków pracy" id="UUID413d16a3-5f80-432a-57e1-85595d3ee5fb">pierwszą zasadą rynków pracy</term> (ang. <foreign xml:lang="en" id="UUIDcb301c42-3d2a-433c-7046-84a350d28cf1"><term cmlnle:reference="first rule of labor markets" id="UUIDdd2eba34-241d-45fb-6a96-2d98069cac3a">first rule of labor markets</term></foreign>).</para>
+    <para id="UUIDf401db1d-a6d0-4d70-5c6e-e69fa335b73d">Załóżmy, oczywiście upraszczając i pomijając inne koszty produkcji, że przeciętny pracownik może wyprodukować dwa gadżety w ciągu godziny, a przedsiębiorstwo może sprzedać każdy gadżet po 4 zł. Wówczas pracownik generuje dla przedsiębiorstwa produkt wartości 8 zł w ciągu godziny, a maksymalizujący zysk pracodawca zapłaci pracownikowi co najwyżej 8 zł za godzinę, bo tyle jest warta jego praca z punktu widzenia przedsiębiorstwa.</para>
+    <para id="UUID91dcfe04-ca13-464b-7bd4-a9d888a5fd66">Przypomnij sobie definicję produktu krańcowego. <term cmlnle:reference="produkt krańcowy" id="UUIDb6dd2adf-278e-4015-5f4f-08e2e82ce3f5">Produkt krańcowy</term> (ang. <foreign xml:lang="en" id="UUIDbac0c790-9c70-4d5d-68a7-a80a89b9c7fb"><term cmlnle:reference="marginal product" id="UUIDdf4c2209-d974-44f5-5e8a-986adb92c3e4">marginal product</term></foreign>) to dodatkowa produkcja, którą przedsiębiorstwo może wytworzyć, zwiększając liczbę pracowników o jednostkę. Ponieważ pracodawcy często zatrudniają pracowników na godziny, zdefiniujemy produkt krańcowy jako dodatkową produkcję, którą przedsiębiorstwo wytwarza, dodając do procesu produkcyjnego jeszcze jedną godzinę pracy. W tym rozdziale zakładamy, że pracownicy nie różnią się – mają takie same wykształcenie, doświadczenie i umiejętności oraz wkładają w pracę taki sam wysiłek. Zatem produkt krańcowy zależy od zasobów kapitału i technologii, jakimi pracownicy dysponują.</para>
+    <para id="UUIDa1edc906-b749-4b12-508b-da5172036291">Maszynistka wyposażona w komputer z odpowiednim oprogramowaniem i drukarką może w ciągu godziny przepisać więcej stron niż w sytuacji, gdyby miała do dyspozycji jedynie elektryczną maszynę do pisania. Zaś na elektrycznej maszynie zdołałaby przepisać więcej stron niż na maszynie ręcznej. Doświadczony operator z koparką jest w stanie wykopać w jednostce czasu dół o bez porównania większej kubaturze niż najsilniejszy nawet robotnik machający łopatą.</para>
+    <para id="UUIDe5e0783b-e935-42c4-4cdd-4233ea396621">Wziąwszy pod uwagę powyższe zależności, możemy zdefiniować popyt przedsiębiorstwa na pracę jako produkt krańcowy pracy (wyrażony w jednostkach fizycznych) pomnożony przez rynkową wartość tego produktu z punktu widzenia przedsiębiorstwa.</para>
+    <table summary="Marginal Product of Labor" id="Table_14_01"><title id="UUID704d5026-4517-c8b4-63d0cbf8a8861f92">Krańcowy produkt pracy</title><tgroup cols="5" id="UUID704d5026-ec5a-2dce-5ec7d2c0298aae55"><colspec colnum="1" colname="col1" id="UUID704d5026-9afe-4a66-9a575282bdea953d" /><colspec colnum="2" colname="col2" id="UUID704d5026-2288-4912-ba22c0742c5351ae" /><colspec colnum="3" colname="col3" id="UUID704d5026-e2ed-fecc-97ece57bfe081efd" /><colspec colnum="4" colname="col4" id="UUID704d5026-5c79-21da-41efabdc2e228041" /><colspec colnum="5" colname="col5" id="UUID704d5026-c80c-f778-0dacc320a010482f" /><tbody id="UUID704d5026-eb0a-b1cb-2c0b8f75356d6982"><row id="UUID704d5026-af53-2ae3-f117b75d8af0bba5"><entry id="UUID704d5026-ade1-b89f-edc00844a74a2c75">Liczba pracowników (L)</entry><entry id="UUID704d5026-61d3-dfd2-14989b60587b1b2e">1</entry><entry id="UUID704d5026-768f-281c-4f3d11795c6ce339">2</entry><entry id="UUID704d5026-2b02-b085-fc45f195f798a098">3</entry><entry id="UUID704d5026-c4f0-9c40-d688e7a4570cd581">4</entry></row><row id="UUID704d5026-109d-8d59-653f8d9f66797ea9"><entry id="UUID704d5026-f1fd-b90b-ae2ede804db2cc0c">Krańcowy produkt pracy (MP<sub>L</sub>)</entry><entry id="UUID704d5026-8670-b550-f0d828c674bb8e59">4</entry><entry id="UUID704d5026-86b0-3031-f87219b8d70c3b03">3</entry><entry id="UUID704d5026-b1a5-c110-89967b0a0a32d24d">2</entry><entry id="UUID704d5026-1deb-1c0b-79e95e40184171dc">1</entry></row></tbody></tgroup></table>
+    <figure id="CNX_Econ_C15_001">
+      <title id="UUID86c8f308-787f-4d86-48d6-6d25f488f0ea">Krańcowy produkt pracy</title>
+      <media alt="Wykres przedstawia krańcowy produkt pracy. Na osi X odłożona jest ilość pracy, która w naszym przykładzie jest rozumiana jako liczba zatrudnionych pracowników. Przyjmuje ona wartości od 0 do 4. Na osi Y z kolei odłożony jest jest krańcowy produkt pracy (MPL), który również przyjmuje wartości od 4 do 1. Wraz ze wzrostem liczby zatrudnionych pracowników krańcowy produkt pracy maleje, co oznacza, że krzywa jest nachylona w dół. Gdy dysponujemy jednym pracownikiem, produkt krańcowy jest równy 4. Natomiast czwarty zatrudniony pracownik sprawia, że wartość produkcji zwiększa się jedynie o jednostkę." id="fs-idp3958">
+        <image src="../../media//CNX_Econ2e_C15_001.svg" mime-type="image/svg+xml" id="UUID7cd646ea-57b5-46ff-7f38-deefda6d9818" />
+      </media>
+      <caption id="UUID15d2c9af-1957-43fe-583a-eea0a41ee38d">Ze względu na stały zasób kapitału, jakim dysponuje przedsiębiorstwo, krańcowy produkt pracy maleje wraz ze wzrostem zatrudnienia (co jest zgodne z prawem malejących przychodów krańcowych).</caption>
+    </figure>
+    <para id="UUID4eb201ee-6d4a-4e8f-4b5b-9726b3b9bec1">Od czego zależy wartość produktu krańcowego wytworzonego dzięki zatrudnieniu kolejnego pracownika? Jeśli przyjmiemy, że pracodawca sprzedaje wytwarzane przez siebie dobra lub usługi na rynku doskonale konkurencyjnym, to wartość produkcji uzyskanej dzięki zatrudnieniu kolejnego pracownika będzie równa rynkowej cenie produktu. Zatem,</para>
+    <para id="UUID87307b91-bf8e-4240-41bb-eaa2fec3a1eb">Popyt na pracę = MP<sub>L</sub> × P = wartość krańcowego produktu pracy (MVP<sub>L</sub>)</para>
+    <para id="eip-642">Stosowne dane zawarte są w <link target-id="Table_14_02" cmlnle:case="locative" id="UUIDe115a71f-7ec1-4231-47fa-99da7ef0592f" />, która jest rozszerzoną wersją <link target-id="Table_14_01" cmlnle:case="genitive" id="UUID60ec870c-9301-415e-410d-25b0e7079a75" /></para>
+    <table summary="Value of the Marginal Product of Labor" id="Table_14_02"><title id="UUID704d5026-35rd-jgyk-aa1fe67b7fbad45d">Wartość krańcowego produktu pracy</title><tgroup cols="5" id="UUID704d5026-dcb2-8ed9-9f93515cb023e99f"><colspec colnum="1" colname="col1" id="UUID704d5026-a6bf-d166-aa1fe67b7fbad45d" /><colspec colnum="2" colname="col2" id="UUID704d5026-1772-db3f-a6f6ef9d7fb14b20" /><colspec colnum="3" colname="col3" id="UUID704d5026-676b-cf59-29bc1b991e3f7d8d" /><colspec colnum="4" colname="col4" id="UUID704d5026-ec41-6572-bd5b85856a20c476" /><colspec colnum="5" colname="col5" id="UUID704d5026-425c-c9cd-ae173648da69bb22" /><tbody id="UUID704d5026-99e4-acbd-0f8a76c31215d689"><row id="UUID704d5026-2b2d-5846-ec0d10d1eccdd528"><entry id="UUID704d5026-a11c-1480-9cb02daca1259caf">Liczba pracowników (L)</entry><entry id="UUID704d5026-cdcf-0238-cc3f37c1b0e41aa4">1</entry><entry id="UUID704d5026-3808-49bb-5d21008baf8c7750">2</entry><entry id="UUID704d5026-3dd0-c0f8-ce3c4aedfd5b50d0">3</entry><entry id="UUID704d5026-169f-248b-9ed8140c5be94c2d">4</entry></row><row id="UUID704d5026-2ad9-5471-965e5f4287fa0621"><entry id="UUID704d5026-07aa-2f6d-86ed06d9d8d2c533">Krańcowy produkt pracy (MP<sub>L</sub>)</entry><entry id="UUID704d5026-771a-049c-c49167e444bccccf">4</entry><entry id="UUID704d5026-2046-f6d6-0780f491b304d5d7">3</entry><entry id="UUID704d5026-4928-5a1b-7e8017ca565dd50d">2</entry><entry id="UUID704d5026-5005-a17c-00545a2136dbcc84">1</entry></row><row id="UUID704d5026-b408-4d2a-d41644ed0c3f22bf"><entry id="UUID704d5026-62c6-f798-d3fc21f589204758">Cena produktu</entry><entry id="UUID704d5026-87cd-610d-f50379628308aa2e">4</entry><entry id="UUID704d5026-455b-29a4-b9b1969b0527fb91">4</entry><entry id="UUID704d5026-7119-6bff-81e0f16488d73e3c">4</entry><entry id="UUID704d5026-992b-cc1e-985cdcfa4422a3b8">4</entry></row><row id="UUID704d5026-f796-dd17-74da358ae4897647"><entry id="UUID704d5026-fb97-00af-1fde5d682aa0ccdb">Wartość krańcowego produktu pracy (MVP<sub>L</sub>)</entry><entry id="UUID704d5026-a865-8e2b-fb805dbfe7e8a4f8">16</entry><entry id="UUID704d5026-50b6-cb3a-75a74b0358e5b9ed">12</entry><entry id="UUID704d5026-e806-f318-491a5e343fcf025f">8</entry><entry id="UUID704d5026-510e-c3a4-068d3be593b8651e">4</entry></row></tbody></tgroup></table>
+    <para id="eip-325">Zauważ, że z punktu widzenia przedsiębiorstwa wartość pracy wykonywanej przez każdego kolejnego pracownika jest mniejsza od wartości pracy tych, którzy zostali zatrudnieni wcześniej.</para>
+    <figure id="CNX_Econ_C15_002">
+      <title id="UUID69d76fe7-e9f7-48c6-5e8b-f552dea240c6">Wartość krańcowego produktu pracy</title>
+      <media alt="Wykres przedstawia wartość krańcowego produktu pracy. Na osi X odłożona jest liczba zatrudnionych pracowników, przyjmująca wartości od 0 do 4. Na osi Y zaś mamy odłożoną wartość krańcowego produktu pracy (MVPL), która przyjmuje wartości od 0 do 16. Krzywa opada w dół, co oznacza, że wraz ze wzrostem zatrudnienia wartość krańcowego produktu pracy zmniejsza się każdorazowo o 4. Gdy przedsiębiorstwo zatrudnia tylko jednego pracownika, MVPL jest równa 16. Ale gdy zatrudniony zostaje czwarty pracownik, wartość wytworzonego przez niego produktu spada do poziomu 4." id="fs-idp39898958">
+        <image src="../../media//CNX_Econ2e_C15_002.svg" mime-type="image/svg+xml" id="UUIDeb9ae8e0-bd63-4f12-53de-4255dddd26aa" />
+      </media>
+      <caption id="UUIDb7f33631-1512-4e31-5807-ff417391b08a">W przypadku przedsiębiorstw działających na doskonale konkurencyjnym rynku wartość dodatkowej wytworzonej i sprzedanej produkcji jest równa cenie, jaką przedsiębiorstwa otrzymują za powstały produkt. Ponieważ MP<sub>L</sub> spada wraz z zatrudnieniem każdego kolejnego pracownika, również wartość produktu krańcowego spada wraz ze wzrostem zatrudnienia.</caption>
+    </figure>
+    <section id="fs-idm41651616">
+      <title id="UUIDda215a33-81b6-498b-4c56-5255f1103b53">Popyt na pracę w warunkach doskonałej konkurencji na rynku dóbr</title>
+      <para id="UUIDfcd4066c-725c-4d06-6a04-24108165d00b">Podstawowe pytanie, na jakie musi odpowiedzieć sobie każde przedsiębiorstwo, brzmi następująco: ile pracy (pracowników, godzin pracy) zatrudnić?</para>
+      <para id="UUID40df5e2e-5515-43be-72ef-bc127686b699">Możemy zdefiniować <term cmlnle:reference="doskonale konkurencyjny rynek pracy" id="UUID7f500828-b5d8-4fd7-6bb2-b4f2e9d44be9">doskonale konkurencyjny rynek pracy</term> (nazywany inaczej <term id="UUID91eabd82-538d-44c5-7a88-6918da56033d">rynkiem pracy konkurencji doskonałej</term> lub <term id="UUIDf386d6bb-89f7-4fdd-55d9-c6fd70f1c19e">doskonałym rynkiem pracy</term>) (ang. <foreign xml:lang="en" id="UUID80a9daea-1e06-4f68-5c2a-8d71e7b787b2"><term cmlnle:reference="perfectly competitive labor market" id="UUID9fca4692-dbd6-4103-7423-611ae7c694d7">perfectly competitive labor market</term></foreign>) jako taki, na którym przedsiębiorstwa mogą w nieograniczony sposób zwiększać zatrudnienie, bez konieczności podnoszenia stawki płac dla kolejnych przyjmowanych pracowników. Pomyśl o sekretarkach i asystentkach w dużym mieście. Pracodawcy, którzy potrzebują tego rodzaju pracy, mogą bez problemów zatrudnić tyle pracownic, ile potrzebują, oferując im rynkową stawkę wynagrodzenia.</para>
+      <para id="UUID42f5003e-ad05-41cc-7afe-fbc8aa391695">Graficznie ilustracja takiej sytuacji to pozioma krzywa podaży siły roboczej wykreślona na wysokości rynkowej stawki płac, tak jak to widać na <link target-id="CNX_Econ_C15_003" cmlnle:case="locative" id="UUIDa2d99240-7e05-4277-741d-c9f8395d2d8b" />.</para>
+      <para id="eip-930">Biorąc pod uwagę płacę rynkową, przedsiębiorstwa maksymalizujące zysk zwiększają zatrudnienie do momentu, w którym płaca rynkowa nie zrówna się z MVP<sub>L</sub>.</para>
+      <figure id="CNX_Econ_C15_003">
+        <title id="UUID2c383215-554c-4faf-65f6-f12db57dd89c">Optymalny poziom zatrudnienia dla przedsiębiorstw działających na doskonale konkurencyjnym rynku pracy</title>
+        <media alt="Wykres przedstawia krańcowy produkt pracy i podaż pracy zdefiniowaną przez rynkową stawkę płac. Na osi X oznaczona jest liczba zatrudnionych pracowników. Na osi Y odłożono natomiast odłożono rynkową stawkę płac i wartość krańcowego produktu pracy. Wykres podaży pracy jest płaski, stawka wynagrodzenia pozostaje niezależna od liczby zatrudnionych w przedsiębiorstwie osób, natomiast wartość krańcowego produktu pracy maleje wraz ze wzrostem zatrudnienia. Punkt przecięcia obu linii wyznacza optymalną wielkość zatrudnienia w przedsiębiorstwie." id="fs-idp3958988">
+          <image src="../../media//CNX_Econ2e_C15_003.svg" mime-type="image/svg+xml" id="UUIDb7f4e819-edf8-4ace-454d-690938a123d6" />
+        </media>
+        <caption id="UUID9e5eb029-f889-4463-5ce4-69f45b7f5845">Na doskonale konkurencyjnym rynku pracy przedsiębiorstwa mogą zwiększać zatrudnienie bez konieczności podnoszenia płacy dla kolejnych pracowników. W związku z tym zatrudnienie rośnie aż do poziomu wyznaczonego przez punkt L<sub>1</sub>, w którym rynkowa stawka płacy zrównuje się z wartością krańcowego produktu pracy.</caption>
+      </figure>
+      <note type="note" id="eip-375" class="clearup economics">
+        <title id="UUIDf8617a77-75e5-4a33-727f-9657e0950d44">Popyt pochodny</title>
+        <para id="eip-idm304744672">Ekonomiści opisują popyt na czynniki produkcji – takie jak praca – jako <term cmlnle:reference="popyt pochodny" id="UUIDadddf778-70a6-4235-6f35-3708e3187a89">popyt pochodny</term> (ang. <foreign xml:lang="en" id="UUID55247f7c-5f98-4b97-7c2c-f1dde2d79ecb"><term cmlnle:reference="derived demand" id="UUIDb168020c-5989-4a2f-4620-c16555c1f857">derived demand</term></foreign>). Ponieważ popyt na pracę jest zdeterminowany przez krańcowy produkt pracy oraz cenę rynkową sprzedawanego dobra i opisany wzorem: MP<sub>L</sub>×P, jest on zależny od popytu na dobra i usługi, które wytwarza przedsiębiorstwo. Wzrost popytu na towary sprzedawane przez przedsiębiorstwo zwiększa ich rynkową cenę, co przekłada się na wzrost zgłaszanego przez firmę popytu na siłę roboczą i inne czynniki produkcji. Zatem popyt na pracę wyprowadzamy z popytu na dobra i usługi sprzedawane przez przedsiębiorstwa.</para>
+      </note>
+    </section>
+    <section id="fs-idm68184528">
+      <title id="UUID95577adf-7dae-437d-52c0-3c2d0d245f79">Popyt na pracę w warunkach konkurencji niedoskonałej na rynku dóbr</title>
+      <para id="fs-idm57560416">Jeśli pracodawca nie sprzedaje swojej produkcji na rynku doskonale konkurencyjnym, napotyka na opadającą krzywą popytu, co oznacza, że aby zbyć dodatkowe jednostki produkcji, musi obniżyć cenę. Dzieje się tak, jeśli przedsiębiorstwo jest monopolistą, oligopolistą lub działa w warunkach konkurencji monopolistycznej. W tej sytuacji wartość krańcowego produktu pracy każdego kolejnego pracownika określona jest przez przychód krańcowy, a nie cenę. Zatem popyt na pracę to iloczyn krańcowego produktu pracy i przychodu krańcowego.</para>
+      <para id="eip-319">Popyt na pracę = MP<sub>L</sub> × MR = Krańcowy przychód z pracy (MRP<sub>L</sub>)</para>
+      <table summary="..." id="Table_14_03"><title id="UUID704d5026-2c5f-5847-14780ae3d67239a2">Krańcowy przychód z pracy</title><tgroup cols="5" id="UUID704d5026-a6a9-31f0-1de8a9f741103ea2"><colspec colnum="1" colname="col1" id="UUID704d5026-35bb-1460-ce3c8933725e71e1" /><colspec colnum="2" colname="col2" id="UUID704d5026-81aa-3ee1-eee72b91ac42c965" /><colspec colnum="3" colname="col3" id="UUID704d5026-03f3-8283-57d4fcd565edbf63" /><colspec colnum="4" colname="col4" id="UUID704d5026-7e4d-b65a-2c89962547c6863b" /><colspec colnum="5" colname="col5" id="UUID704d5026-38f2-1c25-57f672befbb53466" /><tbody id="UUID704d5026-1ad8-a699-a450d8147889ff4e"><row id="UUID704d5026-1bf0-bd22-cd325d095268798d"><entry id="UUID704d5026-fed4-f390-247a131050a5e7cf">Liczba pracowników (L)</entry><entry id="UUID704d5026-6d93-622f-8c483e2adfd5d589">1</entry><entry id="UUID704d5026-4ec8-def9-f82e859871069b76">2</entry><entry id="UUID704d5026-b12f-13d3-894104b9b8fe0cb2">3</entry><entry id="UUID704d5026-8edf-20ed-0176f875026d862e">4</entry></row><row id="UUID704d5026-d9ba-928c-b7c7bef395439d96"><entry id="UUID704d5026-3606-19a6-023ccf87f525712e">Krańcowy produkt pracy (MP<sub>L</sub>)</entry><entry id="UUID704d5026-cc07-e154-f1709b6a461906ae">4</entry><entry id="UUID704d5026-1656-13cd-9294921d69fb41a2">3</entry><entry id="UUID704d5026-63cf-295c-5ee4fb5e49065554">2</entry><entry id="UUID704d5026-a6be-a718-65e169c2ea06effc">1</entry></row><row id="UUID704d5026-5bc1-7e81-e8ec2c2be61b6e08"><entry id="UUID704d5026-00a0-3549-e8f9a7c2f14bcf22">Przychód krańcowy (MR)</entry><entry id="UUID704d5026-1fea-042d-707ae7f11a0c2913">4</entry><entry id="UUID704d5026-c272-76ae-9f49bb330ed2581e">3</entry><entry id="UUID704d5026-fe43-3ce5-0164d241f7e704d2">2</entry><entry id="UUID704d5026-4a82-98fa-adbdf6485807cfcc">1</entry></row><row id="UUID704d5026-623e-7fe4-b65793a32144c44c"><entry id="UUID704d5026-6b69-c266-644eba82200c88fa">Krańcowy przychód z pracy (MRP<sub>L</sub>)</entry><entry id="UUID704d5026-c14c-7284-2dc9ff3bda82e285">16</entry><entry id="UUID704d5026-88e6-d0aa-6426c6cf295456ee">9</entry><entry id="UUID704d5026-f24e-3231-4487ffd3a7493ebf">4</entry><entry id="UUID704d5026-fcb8-590f-82b9dae5295c3b2e">1</entry></row></tbody></tgroup></table>
+      <figure id="CNX_Econ_C15_004">
+        <title id="UUID2afd3922-bbfd-4a97-592e-132de28e6143">Krańcowy przychód z pracy</title>
+        <media alt="Wykres przedstawia wartość krańcowego przychodu z pracy. Na osi X odłożona jest liczba zatrudnionych pracowników, która przyjmuje wartości od 1 do 4. Oś Y to wartość krańcowego przychodu z pracy dla każdego, kolejnego zatrudnionego pracownika. Krzywa ilustrująca tę wielkość opada, co odzwierciedla zależność, zgodnie z którą przychód związany z zatrudnieniem każdego kolejnego pracownika maleje (dla pierwszego zatrudnionego wynosi 16, a dla czwartego tylko 1)." id="fs-idm86929280">
+          <image src="../../media//CNX_Econ2e_C15_012.svg" mime-type="image/svg+xml" id="UUID759630ac-9397-4a12-533d-ff168bafa002" />
+        </media>
+        <caption id="UUIDdb9f3dce-6ff8-4e5d-63be-861efc8bb363">W przypadku firm posiadających siłę monopolową (napotykających opadającą krzywą popytu na sprzedawane produkty) wartość dodatkowej sprzedanej produkcji jest krańcowym przychodem przedsiębiorstwa. Ponieważ MPL spada wraz ze wzrostem zatrudnienia, podobnie zresztą jak MR wraz z każdą dodatkową sprzedaną jednostką produkcji, krańcowe przychody przedsiębiorstwa spadają wraz ze wzrostem zatrudnienia.</caption>
+      </figure>
+      <para id="fs-idp201647984">Biorąc pod uwagę stały poziom płacy rynkowej, przedsiębiorstwa maksymalizujące zysk będą zwiększać zatrudnienie pracowników do momentu, w którym płaca rynkowa zrówna się z przychodem krańcowym, jak to widać na <link target-id="CNX_Econ_C15_004" cmlnle:case="locative" id="UUID1370a3b1-d52f-42b3-72c5-250b8a399f7c" />.</para>
+      <figure id="CNX_Econ2e_C15_009">
+        <title id="UUIDb0abc061-a177-4c6d-4a1c-8a5f9135aecf">Optymalny poziom zatrudnienia dla przedsiębiorstw posiadających pewną siłę monopolową</title>
+        <media alt="Wykres przedstawia trzy linie ilustrujące odpowiednio: podaż pracy (płaska, równoległa do osi X i przebiegająca na poziomie rynkowej stawki płac), krańcowy produkt pracy (opadająca) i krańcowy przychód z pracy (również opadająca, położona bliżej osi Y). Na osi X odłożona jest liczba zatrudnionych pracowników. Natomiast na osi Y wskazane są wartości płac, krańcowego przychodu z pracy i wartości krańcowego produktu pracy. Wykorzystanie zarówno krzywej ilustrującej krańcowy przychód z pracy, jak i wartość krańcowego produktu pracy pozwala na wskazanie, jak przedsiębiorstwa posiadające i nieposiadające siły monopolowej ustalają wielkość zatrudnienia. Punkt L1 wyznaczony przez przecięcie podaży pracy i wartości krańcowego produktu pracy wskazuje na optymalny poziom zatrudnienia dla przedsiębiorstwa, które napotyka poziomą linię popytu na swoje produkty. Natomiast punkt L2 wyznaczony przez przecięcie podaży pracy i krańcowego przychodu z pracy wskazuje na optymalną wielkość zatrudnienia dla przedsiębiorstwa napotykającego opadającą krzywą popytu (dysponującego pewną siłą monopolową)." id="fs-idp358">
+          <image src="../../media//CNX_Econ2e_C15_004.svg" mime-type="image/svg+xml" id="UUID02df7b07-11ed-4cf5-7c9c-ef128a51ae09" />
+        </media>
+        <caption id="UUID262ee18d-352a-4796-40b2-a0a971325c4e">Przedsiębiorstwa, które dysponują pewną siłą monopolową (napotykające opadającą krzywą popytu na swoje produkty), wybierają liczbę pracowników wyznaczoną przez punkt L<sub>2</sub>, w którym płaca rynkowa zrównuje się z krańcowym przychodem z pracy. Ponieważ przychód krańcowy jest zawsze mniejszy od ceny, popyt na pracę przedsiębiorstwa, które posiada siłę monopolową, jest mniejszy niż popyt na pracę dla przedsiębiorstwa działającego na rynku doskonale konkurencyjnym (L<sub>1</sub>). W rezultacie zatrudnienie w gałęziach zmonopolizowanych, zoligopolizowanych i takich, gdzie występuje konkurencja monopolistyczna, będzie niższe niż w gałęziach doskonale konkurencyjnych.</caption>
+      </figure>
+      <note type="note" id="eip-7" class="clearup economics">
+        <title id="UUID0d27e8fd-6fcf-460f-40e5-e04033e8bd06">Czy pracodawcy maksymalizujący zysk wykorzystują siłę roboczą?</title>
+        <para id="UUID1ec5feb0-1aeb-41d2-46be-69b9dc93e515">Jeśli jeszcze raz przyjrzysz się wykresom zaprezentowanym w niniejszym podrozdziale, łatwo zauważysz, że przedsiębiorstwa oferują swoim pracownikom płace, które są niższe niż wartość ich produktu pracy lub krańcowy przychód z ich pracy. Dokładniej rzecz ujmując, tylko ostatni zatrudniony pracownik otrzymuje wynagrodzenie, które jest równe korzyściom, jakie przedsiębiorstwo odnosi w związku z jego zatrudnieniem. Konstatacja ta prowadzi często do stwierdzenia, że pracodawcy wyzyskują pracowników, ponieważ nie płacą im tyle, ile są oni warci z punktu widzenia firmy. Zastanówmy się nad tym stwierdzeniem. Pierwszy pracownik jest dla przedsiębiorstwa wart x, a drugi y jednostek pieniężnych. Z czego jednak wynika ta różnica? Dzieje się tak ze względu na zasób kapitału i technologię, którą wykorzystują oni w swojej pracy. Różnica między wartością pracy kolejnych pracowników a ich wynagrodzeniem jest przeznaczana na opłacenie kosztów kapitału i technologii, bez których pracownicy nie mieliby gdzie i czym pracować. Nadwyżka pozwala także na osiągnięcie zysków właścicielom przedsiębiorstw i skłania ich do kontynuowania działalności. Gdyby nie zysk, nikt nie miałby pracy, bo nikomu nie opłacałoby się zakładać przedsiębiorstw. Oczywiście problem eksploatacji pracy jest realny (stąd zresztą narzędzia takie jak płaca minimalna, która została omówiona w poprzednim podrozdziale), ale jego natura jest znacznie bardziej skomplikowana niż nadwyżka krańcowego przychodu z pracy i wartości krańcowego produktu pracy nad stawką wynagrodzenia.</para>
+      </note>
+    </section>
+    <section id="fs-idm41225984">
+      <title id="UUIDd643231d-0aa9-4572-5d89-0912dd950dda">Co determinuje stawkę płac na rynku?</title>
+      <para id="UUID16e5492d-9f04-4dd8-5b38-d1934cf3bd04">Z poprzedniego podrozdziału dowiedzieliśmy się, że na rynkach czynników produkcji krzywe popytu i podaży mają kształt analogiczny do tych, które są obserwowane na rynkach dóbr i usług konsumpcyjnych. Krzywa popytu na pracę jest opadającą funkcją stawki płac. Popyt na pracę to suma zapotrzebowania wszystkich przedsiębiorstw na pracę. Krzywa podaży pracy jest nachyloną w górę funkcją stawki płac. Jeśli wynagrodzenia za określony rodzaj pracy wzrosną na danym rynku pracy, osoby o odpowiednich umiejętnościach mogą zmienić pracę, a wakaty przyciągną osoby z innych regionów lub branż. Rynkowa podaż pracy to horyzontalna suma podaży pracy wszystkich pracowników.</para>
+      <figure id="CNX_Econ_C15_010">
+        <title id="UUID07dd6ceb-c40e-432d-4410-54c0fa9c161c">Rynkowa stawka płac</title>
+        <media alt="Wykres przedstawia krzywe popytu i podaży pracy. Na osi X odłożona jest liczba zatrudnionych osób, na osi Y – płace. Krzywa popytu na pracę opada, zaś podaż pracy nachylona jest w górę. Obie krzywe przecinają się, wyznaczając wielkość zatrudnienia i poziom płacy, które równoważą rynek pracy." id="fs-idp39588228">
+          <image src="../../media//CNX_Econ2e_C15_005.svg" mime-type="image/svg+xml" id="UUID0bdf749f-4344-43a4-4aa6-9cf66eed76d5" />
+        </media>
+        <caption id="UUID41278264-a82f-4478-47d0-f2480d0fd6c9">Na konkurencyjnym rynku pracy płaca i poziom zatrudnienia w równowadze (mierzony liczbą pracowników lub liczbą przepracowanych godzin) są wyznaczone w punkcie, w którym podaż i popyt się przecinają.</caption>
+      </figure>
+    </section>
+    <section id="fs-idm198791600" class="summary">
+      <title id="UUIDa65a1c2b-cb60-4d8f-6ebe-49036b5f5ab6">Key Concepts and Summary</title>
+      <para id="UUIDaddd3d6d-aaf3-4fef-4a17-8c8b2ef78a0e">Przedsiębiorstwo potrzebuje pracy ze względu na jej wartość. Zatrudnieni pracownicy zwiększają produkcję przedsiębiorstwa, co oznacza, że ich praca jest źródłem przyrostu produktu, czyli produktu krańcowego. Wraz ze wzrostem zatrudnienia krańcowy produkt pracy maleje, zgodnie z prawem malejących przychodów krańcowych. Dla przedsiębiorstwa działającego na rynku dóbr i usług w warunkach doskonałej konkurencji wartość każdego kolejnego zatrudnionego pracownika będzie równa wartości krańcowego produktu jego pracy, którą definiujemy jako krańcowy produkt pracy pomnożony przez stałą cenę produktu. Dla przedsiębiorstwa, które nie działa na rynku doskonale konkurencyjnym, właściwym parametrem pozwalającym określić wartość pracownika dla firmy jest krańcowy przychód z pracy, który definiujemy jako iloczyn krańcowego produktu pracy i krańcowego przychodu. Firmy maksymalizujące zysk zatrudniają siłę roboczą do momentu, w którym rynkowa płaca jest równa korzyści związanej z zatrudnieniem ostatniego pracownika. Na konkurencyjnym rynku pracy płacę rynkową określamy poprzez interakcję między podażą a popytem na pracę.</para>
+      <para id="UUID61f8cda5-b839-4ed7-712a-89379c7488fc" />
+    </section>
+    <section id="fs-idm85528944" class="self-check-questions">
+      <title id="UUIDc45452cb-af26-43b3-7cf3-855f8b00edae">Self-Check Questions</title>
+      <exercise id="eip-473">
+        <problem id="eip-51">
+          <para id="eip-782"><link target-id="Table_14_04" id="UUIDa6feb554-0674-4c23-4dd8-149fdfd02792" /> pokazuje różne poziomy zatrudnienia, produkt krańcowy dla każdego z tych poziomów oraz cenę, po której przedsiębiorstwo może sprzedawać produkcję, działając na rynku doskonale konkurencyjnym.</para>
+          <table summary="..." id="Table_14_04"><tgroup cols="3" id="UUIDca8d77cd-3250-4bc0-6e07-1f46488ea4ef"><colspec colnum="1" colname="col1" id="UUID1cd39085-7a39-48d3-423a-bf46deb01806" /><colspec colnum="2" colname="col2" id="UUIDb021abb0-d9cd-400e-7dec-ed5a10f319ca" /><colspec colnum="3" colname="col3" id="UUIDa8e665f5-8efd-45c0-66ce-93975a75a279" /><thead id="UUID704d5026-2e3a-2e62-8e5cf4656cd3737e"><row id="UUID704d5026-e093-43cb-393cf7f40ec4c0f5"><entry id="UUID704d5026-25e0-cab9-29f3bd239b72d4ba">Ilość pracy</entry><entry id="UUID704d5026-4fdc-6273-61174d8896709ff9">Krańcowy produkt pracy (MP<sub>L</sub>)</entry><entry id="UUID704d5026-1802-9dc5-1d7408ada5e7750a">Cena produktu (zł)</entry></row></thead><tbody id="UUID704d5026-a7f7-06b2-4993cffaf63b0d2d"><row id="UUID704d5026-c223-8b7e-ee79a24dc3941d0c"><entry id="UUID704d5026-3e6e-7b50-49a9a45268daf612">1</entry><entry id="UUID704d5026-61ff-a592-28ef94641bd524e5">10</entry><entry id="UUID704d5026-b599-66a2-797735f0bc794a9c">4</entry></row><row id="UUID704d5026-a77f-a1eb-00dbeac4f78d9d78"><entry id="UUID704d5026-cb07-121a-690127ad068a3948">2</entry><entry id="UUID704d5026-456c-367a-715a981e3b38c8eb">8</entry><entry id="UUID704d5026-96ac-c509-bea22e20ea3ed8d2">4 </entry></row><row id="UUID704d5026-089b-61cd-2be2cad159563242"><entry id="UUID704d5026-20c4-1630-575ef9c62a0c98d0">3</entry><entry id="UUID704d5026-913c-991f-38bc8dc3f267b895">7</entry><entry id="UUID704d5026-5fb5-1c86-c6b1eaa85f296b96">4</entry></row><row id="UUID704d5026-5fff-e687-b489da7c8b6a7915"><entry id="UUID704d5026-044e-aa65-99efe3cba24aee4f">4</entry><entry id="UUID704d5026-0194-cbec-05c51eea39ce1b64">5</entry><entry id="UUID704d5026-1523-300c-440b25f066150d6a">4</entry></row><row id="UUID704d5026-177c-d2db-16f6c844db1088ef"><entry id="UUID704d5026-bdb3-08b6-0c3e445f47dcd38d">5</entry><entry id="UUID704d5026-0517-2019-9938635c60f5db6a">3</entry><entry id="UUID704d5026-d3a9-66c6-020642042867110d">4</entry></row><row id="UUID704d5026-0246-6f06-6bf74165de9eecc9"><entry id="UUID704d5026-9363-13df-8317fc4cc9fd0f3b">6</entry><entry id="UUID704d5026-a689-8e00-7a8236e845363cce">1</entry><entry id="UUID704d5026-41dc-a575-e79a9a4b6503dc0c">4</entry></row></tbody></tgroup></table>
+          <list list-type="enumerated" number-style="lower-alpha" id="eip-idm202926512">
+            <item id="UUID25bc757e-1dc5-43bc-5055-82f96eff4d50">
+              <para id="UUID1ffc15a1-0b5c-4deb-51c4-12f2f0859cd2">Jaka jest wartość produktu krańcowego dla każdego poziomu zatrudnienia?</para>
+            </item>
+            <item id="UUID3575078b-8ec5-4387-6eb3-8efe7efbcb71">
+              <para id="UUIDb531ed5e-2704-4cf8-451a-29df63034e28">Jeśli przedsiębiorstwo działa na doskonale konkurencyjnym rynku pracy, na którym obecna płaca rynkowa wynosi 12 zł, to jaki jest jego zysk, jeżeli wybrało ono optymalny poziom zatrudnienia?</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="eip-idm1050660992">
+          <list list-type="enumerated" number-style="lower-alpha" id="eip-idm929703984">
+            <item id="UUIDb444c551-fdd7-463a-515a-87cf21243132">
+              <para id="UUID918e5d23-cd4b-4af2-5095-54642d46c38a">Dla przedsiębiorstwa działającego na doskonale konkurencyjnym rynku dóbr wartość produktu krańcowego to krańcowy produkt pracy pomnożony przez cenę za ten produkt.</para>
+            </item>
+            <item id="UUIDbdc2c95c-8d14-416b-50e2-678f856cb2ba">
+              <para id="UUIDf1129861-5252-4da6-4c1c-287354e4571f">Na doskonale konkurencyjnym rynku pracy, gdzie obecna płaca rynkowa wynosi 12, przedsiębiorstwo maksymalizujące zysk będzie zatrudniać pracowników do momentu, w którym płaca rynkowa zrówna się z wartością krańcowego produktu pracy. W tym przypadku płaca rynkowa jest równa przychodowi krańcowemu, gdy wielkość zatrudnienia wynosi 5, ponieważ na tym poziomie przychód krańcowy wynosi 12.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="eip-194">
+        <problem id="eip-5321">
+          <para id="eip-78232"><link target-id="Table_14_11" id="UUIDbead263c-e958-4543-72db-4a263a999b1c" /> pokazuje różne poziomy zatrudnienia, produkt krańcowy na każdym z tych poziomów oraz krańcowy przychód monopolu.</para>
+          <table summary="." id="Table_14_11"><tgroup cols="3" id="UUID704d5026-b52b-1ac9-b7569f78ed5efd71"><colspec colnum="1" colname="col1" id="UUID704d5026-76ab-08e7-b7a0590b78949dec" /><colspec colnum="2" colname="col2" id="UUID704d5026-539e-c5b7-4f5f621b5f829320" /><colspec colnum="3" colname="col3" id="UUID704d5026-37b6-1c94-6427f1605ef0c283" /><thead id="UUID704d5026-2982-b6b5-073f9895744b5b39"><row id="UUID704d5026-7fdf-248b-980da0122d24816e"><entry id="UUID704d5026-2624-9f3b-278f969630826563">Ilość pracy</entry><entry id="UUID704d5026-799e-2c60-3d3eabc573d6d715">Krańcowy produkt pracy (MP<sub>L</sub>)</entry><entry id="UUID704d5026-ad8f-4be6-099492ed38abe4f5">Cena produktu (zł)</entry></row></thead><tbody id="UUID704d5026-6f02-ac69-b968a100cbe0df44"><row id="UUID704d5026-3b5a-ab07-d97494f4effe1588"><entry id="UUID704d5026-5311-4b33-a033e543300c6dfb">1</entry><entry id="UUID704d5026-24d8-676c-9dbc8bbd31ae1a0a">10</entry><entry id="UUID704d5026-8f9b-0c61-40c9beab2ff8133b">10</entry></row><row id="UUID704d5026-057f-e914-91097ff1f9ce0db3"><entry id="UUID704d5026-c3bc-e756-9ccba291e1693d12">2</entry><entry id="UUID704d5026-ec12-5daf-053238847b87ef58">8</entry><entry id="UUID704d5026-8aca-1a16-f737b736b68fadc6">7</entry></row><row id="UUID704d5026-4962-a8ff-1ae055d9da1171bb"><entry id="UUID704d5026-4ac4-a2b0-e6e143bccb7e4628">3</entry><entry id="UUID704d5026-df8c-c14b-7292a36347dc09e6">7</entry><entry id="UUID704d5026-ffc2-f892-c658e6897fc99417">5</entry></row><row id="UUID704d5026-5d78-e87e-fd85cd109962a4bc"><entry id="UUID704d5026-d88b-e861-b0ef72a77fddc975">4</entry><entry id="UUID704d5026-4e1b-7c39-d4bf98d53a5a6472">5</entry><entry id="UUID704d5026-46fd-9b62-910d8fdea3ae049f">4</entry></row><row id="UUID704d5026-a3db-176a-80b3b1390322e803"><entry id="UUID704d5026-3e39-3af3-bc246ae8a59ae082">5</entry><entry id="UUID704d5026-8039-5a6e-2819b6e944d504e8">3</entry><entry id="UUID704d5026-0efe-24b1-0ebb60d70b16e63b">2</entry></row><row id="UUID704d5026-c936-fff1-57a4b836c215b96c"><entry id="UUID704d5026-4232-32fb-824818ee9f365b0e">6</entry><entry id="UUID704d5026-24f9-f0a7-92e5812f39662208">1</entry><entry id="UUID704d5026-ce13-3dfb-2945b096a0a75ef0">1</entry></row></tbody></tgroup></table>
+          <list list-type="enumerated" number-style="lower-alpha" id="eip-idm20292323326512">
+            <item id="UUID56bc5f61-a11f-4a5e-55b8-4ecedc46bb6c">
+              <para id="UUIDd7b25a67-6c79-4197-5ac2-9e94e9e5331e">Jaki jest krańcowy przychód monopolu dla każdego poziomu zatrudnienia?</para>
+            </item>
+            <item id="UUID18d3202c-50de-4ec5-7c02-eeb4b52e4de0">
+              <para id="UUID4badb388-5ad4-4724-7198-bf993d3655ed">Jeśli monopol działa na doskonale konkurencyjnym rynku pracy, na którym obecna płaca rynkowa wynosi 20, to jaki jest jego zysk, jeśli poziom zatrudnienia jest optymalny?</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="eip-idm249648208">
+          <list list-type="enumerated" number-style="lower-alpha" id="eip-idm251165840">
+            <item id="UUIDcd233a65-1cc5-4e7b-7005-5beef0a7323c">
+              <para id="UUIDaaeccc3c-480d-4b60-71c1-a598060ca953">W przypadku przedsiębiorstw o pewnej sile monopolowej wartość dodatkowej sprzedanej produkcji jest krańcowym przychodem, a nie ceną. Dzieje się tak dlatego, że mają one do czynienia z opadającą krzywą popytu na produkty. To oznacza, że aby sprzedać dodatkową jednostkę produkcji, przedsiębiorstwo musi obniżyć jej cenę. Krańcowy przychód równa się krańcowemu produktowi pracy pomnożonemu przez przychód krańcowy.</para>
+            </item>
+            <item id="UUIDc45368e0-a61b-4fc8-4a81-cf92e6b0a84c">
+              <para id="UUIDed32db3c-72cb-4f01-6ce3-7864ad2258c7">Przedsiębiorstwo maksymalizujące zysk będzie zatrudniało pracowników do momentu, w którym płaca rynkowa zrówna się z krańcowym przychodem z pracy. Jeśli obecna płaca rynkowa wynosi 20 zł, maksymalizujący zysk poziom zatrudnienia wynosi 4, ponieważ w tym momencie krańcowy przychód wynosi 20 zł.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp24193264" class="review-questions">
+      <title id="UUIDc54362c0-c648-470d-5e89-aa87003a34bb">Review Questions</title>
+      <exercise id="eip-861">
+        <problem id="eip-168">
+          <para id="eip-141">Od czego zależy popyt na pracę w przedsiębiorstwie działającym na doskonale konkurencyjnym rynku dóbr?</para>
+        </problem>
+      </exercise>
+      <exercise id="eip-345">
+        <problem id="eip-528">
+          <para id="eip-754">Co determinuje popyt na pracę w przedsiębiorstwie o pewnej sile monopolowej na rynku dóbr?</para>
+        </problem>
+      </exercise>
+      <exercise id="eip-763">
+        <problem id="eip-853">
+          <para id="eip-680">Na czym polega doskonała konkurencja na rynku pracy</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm85989520" class="references">
+      <title id="UUID8a99941c-f024-4572-5326-af7320d21ebe">References</title>
+      <para id="fs-idm16915952">AFL-CIO. “Training and Apprenticeships.” http://www.aflcio.org/Learn-About-Unions/Training-and-Apprenticeships.</para>
+      <para id="fs-idp22886256">Central Intelligence Agency. “The World Factbook”. https://www.cia.gov/library/publications/the-world-factbook/index.html.</para>
+      <para id="fs-idp92477200">Clark, John Bates. <emphasis effect="italics">Essentials of Economic Theory: As Applied to Modern Problems of Industry and Public Policy</emphasis>. New York: A. M. Kelley, 1907, 501.</para>
+      <para id="fs-idm44853440">United Auto Workers (UAW). “About: Who We Are.” http://www.uaw.org/page/who-we-are.</para>
+      <para id="fs-idm114246752">United States Department of Labor: Bureau of Labor Statistics. “Economic News Release: Union Members Summary.” Last modified January 23, 2013. http://www.bls.gov/news.release/union2.nr0.htm.</para>
+      <para id="fs-idm200256">United States Department of Labor, Bureau of Labor Statistics. 2015. “Economic News; Union Members Summary.” Accessed April 13, 2015. http://www.bls.gov/news.release/union2.nr0.htm.</para>
+    </section>
+  </content>
+  <glossary id="UUID95744ff4-e91e-48ba-6e20-3b543cfc1433">
+    <definition id="fs-idm290880224">
+      <term id="UUID9618fae2-ce53-4ac0-6393-017894696568">pierwsza zasada rynków pracy (ang. <foreign xml:lang="en" id="UUID07541da5-1b65-417f-4e48-ebe85460805c">first rule of labor markets</foreign>)</term>
+      <meaning id="fs-idm796091120">
+        <para id="UUID7dce37e2-5cdd-4dcc-5518-383ca70778d6">pracodawca nigdy nie zapłaci pracownikowi więcej, niż wynosi wartość jego krańcowej produktywności z punktu widzenia przedsiębiorstwa</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDc5ae34d3-0480-410b-5cb1-c58fcaa1b9aa">
+      <term id="UUIDac5eb189-d963-46f2-54ba-69fc1787c11d">doskonały rynek pracy</term>
+      <meaning id="UUID6e0ec515-ff50-454d-76f8-fab44fb4fde7">
+        <para id="UUID8ee598b0-75f2-4e4b-71c5-047aaa09aaa0">patrz: doskonale konkurencyjny rynek pracy</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDfb5a37f0-dbd0-4708-47b2-9fc2a64c0db5">
+      <term id="UUID6c9c63e2-aef3-4c54-445b-b7009868eee9">rynek pracy konkurencji doskonałej</term>
+      <meaning id="UUIDe5dfd530-6b51-49cb-5231-7c5c1b73ab16">
+        <para id="UUID61ab57ad-d497-4da9-46d1-da37d60e12d3">patrz: doskonale konkurencyjny rynek pracy</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm775466592">
+      <term id="UUID6e16c7ae-e065-450e-40e0-6d6aa90deeb4">doskonale konkurencyjny rynek pracy (ang. <foreign xml:lang="en" id="UUID178fbd25-8dd5-4704-439c-6e213f41710b">perfectly competitive labor market</foreign>)</term>
+      <meaning id="fs-idm330003872">
+        <para id="UUIDffbf71df-1ef2-4fb8-754a-dc27597455eb">rynek pracy, na którym ani dostawcy siły roboczej, ani podmioty poszukujące pracowników nie mają żadnej siły rynkowej, zatem pracodawca może zwiększać zatrudnienie bez konieczności podnoszenia płac</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

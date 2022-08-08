@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ud184ab32-3efa-40e8-a53f-22bd603db4c6" id="Ud184ab32-3efa-40e8-a53f-22bd603db4c6" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00043</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.155843798+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.155843798+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.155843798+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>d184ab32-3efa-40e8-a53f-22bd603db4c6</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="CNX_Econ_C04_022" class="splash">
+      <media alt="Zdjęcie przedstawia pielęgniarkę wykonującą zastrzyk." id="fs-idp3379744">
+        <image src="../../media//CNX_Econ_C04_022.jpg" mime-type="image/jpeg" id="UUIDb37ed3c6-2e85-4088-4900-1f75efc1782f" />
+      </media>
+      <caption id="UUID2565e945-1db7-49b7-4d5d-aea619d9934a">Ludzie często myślą o popycie i podaży wyłącznie w odniesieniu do dóbr i usług konsumpcyjnych, ale rynki pracy, np. pielęgniarek, i rynki kapitału również mogą być poddane takiej analizie. (Źródło: modyfikacja pracy „Fotos GOVBA"/Flickr Creative Commons)</caption>
+    </figure>
+    <note type="note" id="fs-idp39999728" class="bringhome economics">
+      <title id="UUIDe654425e-e237-4dce-499f-51597a375f2a">Pokolenie wyżu demograficznego wkracza w jesień życia</title>
+      <para id="fs-idm100393408"><foreign xml:lang="en" id="UUID70215b68-96e0-4502-64b6-4ef52ab135ab">The Census Bureau</foreign>, amerykański odpowiednik GUS-u, donosi, że w 2013 r. 20% populacji USA miało ponad 60 lat, co oznacza, że prawie 63 mln ludzi osiągnęło wiek, w którym będą potrzebować rozbudowanej opieki medycznej. W Polsce na koniec 2019 r. osób w wieku 60+ było 9 mln, a odsetek osób starszych w populacji naszego kraju wynosił 25,3%. Demografowie szacują, że w roku 2050 liczba seniorów zwiększy się do poziomu blisko 14 mln, link do danych znajdziesz <link url="https://stat.gov.pl/obszary-tematyczne/ludnosc/prognoza-ludnosci/prognoza-ludnosci-na-lata-2014-2050-opracowana-2014-r-,1,5.html" id="UUIDe79b69b9-1ece-4643-77f5-7e557bacecb1">tutaj</link>.</para>
+      <para id="UUID9f81c9bb-a807-4165-4f78-d9f0804fec8b">W USA 74 mln ludzi urodzonych w czasie powojennego wyżu demograficznego (czyli w latach 1946–1964) właśnie osiągnęło wiek emerytalny. Wraz z upływem czasu zaczną dotykać ich dość powszechne dla tej grupy wiekowej problemy zdrowotne, takie jak choroby serca, zapalenie stawów i choroba Alzheimera, które mogą wymagać przedłużającej się hospitalizacji lub domowej opieki pielęgniarskiej. Starzenie się pokolenia wyżu demograficznego oraz postęp w technologiach ratujących i przedłużających życie zwiększą zapotrzebowanie na opiekę zdrowotną i pielęgniarską. Dodatkowo popyt ten pobudzi <foreign xml:lang="en" id="UUIDa0511975-f831-48b2-751e-a8b5b393f63c">The Affordable Care Act</foreign> (ustawa o przystępnej cenie opieki), rozszerzający dostęp do opieki zdrowotnej dla milionów Amerykanów.</para>
+      <para id="UUID758f55a1-fd39-4af6-73d6-c3f7576a832f">Według <foreign xml:lang="en" id="UUIDd1024895-2640-4b2f-4880-f7781e3bfa13">Bureau of Labor Statistics</foreign> (BLS) można oczekiwać, że liczba pracowników zatrudnionych w charakterze pielęgniarki i pielęgniarza w latach 2014–2024 w Stanach Zjednoczonych zwiększy się o 16%. Mediana rocznych wynagrodzeń (która w 2015 r. wyniosła 67 490 dol.) zapewne również wzrośnie. BLS prognozuje, że do 2022 r. pojawi się zapotrzebowanie na 439 tys. nowych etatów pielęgniarskich. Zgodnie z raportem przygotowanym przez Naczelną Izbę Pielęgniarek i Położnych w 2021 r. w Polsce zawody te wykonywało 261 tys. osób. Jednak w przeciwieństwie do prognoz formułowanych dla USA liczba pielęgniarek i położnych zatrudnionych w Polsce ma się zmniejszyć o 16 761 do 2025 r. i aż o 36 293 do roku 2030 niezależnie od rosnącego zapotrzebowania na opiekę; link do <link url="https://pulsmedycyny.pl/nipip-liczba-zatrudnionych-pielegniarek-i-poloznych-zmniejszy-sie-do-2030-r-o-363-tys-1118884" id="UUID54b1b7b0-931f-48e8-4c23-b26b2711ff76">źródła</link>.</para>
+      <para id="UUIDf1d658c2-540a-4e8b-494a-837e4f7a3330">Te dane mówią nam – ekonomistom – że rynek pracowników służby zdrowia, a w szczególności pielęgniarek i pielęgniarzy, stanie przed poważnymi wyzwaniami. Wprowadzony wcześniej sposób analizy podaży i popytu pomoże nam ocenić, jakie będą konsekwencje przedstawionych wyżej czynników dla rynku pracy zawodów medycznych. Omówimy je na końcu niniejszego rozdziału.</para>
+    </note>
+    <note type="note" id="fs-idp60268464" class="chapter-objectives economics">
+      <title id="UUIDf066f325-3212-4b3b-784d-31b56c21abec">Wprowadzenie do rozdziału</title>
+      <para id="fs-idm14702256">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idm26607056">
+        <item id="UUID1fec0e14-c1bc-44b5-79ae-f141d6b2ae48">
+          <para id="UUID22aa19ad-0bf8-4203-4525-c3ac6753ed68">Jakie czynniki wpływają na popyt i podaż na rynkach pracy</para>
+        </item>
+        <item id="UUID2c663c14-1dd8-4eb8-7b48-566d3374a0c2">
+          <para id="UUID4c6270be-376d-4974-7ff8-52746cb2204d">Jakie zmienne determinują popyt i podaż na rynkach finansowych</para>
+        </item>
+        <item id="UUID81e8a666-d047-44a8-750e-6f8188a8a271">
+          <para id="UUID529fbb26-d4e8-405b-79b0-29e629f5f542">W jaki sposób mechanizm rynkowy tworzy efektywny system dystrybucji informacji wśród podmiotów ekonomicznych</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDff190089-7fdc-4f05-42b6-e4ae741b9888">Prawa popytu i podaży nie dotyczą tylko rynków dóbr i usług. Odnoszą się do każdego rynku, na którym coś jest sprzedawane i kupowane, a więc również do rynków czynników produkcji, czyli pracy i kapitału. Rynki pracy to rynki pracowników lub miejsc pracy, a bardziej precyzyjnie – usług pracy. Rynki kapitałowe (usług finansowych) to rynki oszczędności lub pożyczek.</para>
+    <para id="UUIDcc66ded9-fa56-40c0-6e31-cd7279969a05">Gdy myślimy o krzywych popytu i podaży na rynkach dóbr i usług, łatwo wyobrazić sobie, kto zgłasza popyt i kto zapewnia podaż: przedsiębiorstwa wytwarzają i sprzedają swoje produkty, a gospodarstwa domowe je kupują. Kim są nabywcy i sprzedawcy na rynkach pracy i usług finansowych? Na rynkach pracy stroną podażową są osoby poszukujące pracy, czyli oferujące swe usługi pracy, podczas gdy przedsiębiorstwa i inni pracodawcy zatrudniający zgłaszają na nią popyt. Na rynkach finansowych z kolei każdy podmiot, który oszczędza, tworzy podaż kapitału niezbędnego do realizacji procesów produkcyjnych, a każdy, kto pożycza ten kapitał od innych (osoba fizyczna, przedsiębiorstwo lub rząd), tworzy na niego popyt.</para>
+    <para id="UUIDe9d660d6-c060-4c8c-4a8f-08e3f56cfabd">Należysz do grona studentów, więc najprawdopodobniej albo już jesteś częścią rynku pracy (zapewne tworząc podaż, jakkolwiek możesz też kreować popyt, jeśli posiadasz własną firmę), albo wejdziesz na ten rynek w nieodległej przyszłości. Niniejszy rozdział pozwoli ci dostrzec, że rynki pracy i rynki finansowe możemy analizować za pomocą tych samych narzędzi, których używamy do analizy popytu i podaży na rynkach dóbr i usług konsumpcyjnych.</para>
+  </content>
+</document>

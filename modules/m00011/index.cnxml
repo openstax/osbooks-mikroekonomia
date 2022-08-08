@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uacd6bf8d-72b4-47b5-9f19-9595a844d6ec" id="Uacd6bf8d-72b4-47b5-9f19-9595a844d6ec" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00011</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:52.418405895+00:00</md:version>
+    <md:created>2022-08-08T07:43:52.418405895+00:00</md:created>
+    <md:revised>2022-08-08T07:43:52.418405895+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>acd6bf8d-72b4-47b5-9f19-9595a844d6ec</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="CNX_Econ_C03_000" class="splash">
+      <title id="UUID00d810e3-d82c-4bb6-759d-583a464cc29d">Targ owocowo-warzywny</title>
+      <media alt="Na fotografii przedstawione są koszyki z różnymi warzywami (cukinia, papryka ziemniaki i inne) stojące na targu." id="fs-idm35962960">
+        <image src="../../media//CNX_Econ_C03_000.jpg" mime-type="image/jpeg" id="UUIDdee6dba4-b170-4f88-6079-52bc02d1d28c" />
+      </media>
+      <caption id="UUID7a670422-5a78-470a-60b5-ab85297e9f45">Ekologiczne warzywa i owoce, które są uprawiane i sprzedawane w tym samym regionie, teoretycznie powinny kosztować mniej niż żywność standardowa, ponieważ niższe są koszty ich transportu. Zazwyczaj jednak wcale tak nie jest. (Źródło: modyfikacja pracy autorstwa Natalie Maynor/Flickr Creative Commons)</caption>
+    </figure>
+    <note type="note" id="fs-idp118896912" class="bringhome economics">
+      <title id="UUID54686a15-e7c9-4e84-7eac-26b6fb1eeb8f">Dlaczego nie mamy wystarczająco dużo taniej żywności ekologicznej?</title>
+      <para id="fs-idp37204704">Żywność ekologiczna (organiczna) jest coraz bardziej popularna, nie tylko w Polsce, ale na całym świecie. Do niedawna, aby kupić tego typu owoce i warzywa, konsumenci musieli wybierać się na zakupy do wyspecjalizowanych sklepów lub na targi produktów eko. Obecnie są one dostępne w większości warzywniaków i popularnych supermarketów. Krótko mówiąc, żywność ekologiczna stała się częścią normalnego handlu.</para>
+      <para id="UUID3ed27803-8478-477c-73b2-24633b0f48f0">Czy kiedykolwiek zastanawialiście się, dlaczego żywność organiczna kosztuje więcej niż standardowa? Dlaczego, powiedzmy, organiczne jabłka, choć są mniejsze i nie wyglądają tak ładnie, kosztują w Warszawie 10 zł za kilogram, podczas gdy za ich standardowy odpowiednik trzeba zapłacić 3–4 zł? Podobna relacja cen występuje w przypadku prawie wszystkich produktów ekologicznych dostępnych na rynku. Skoro duża część żywności organicznej jest produkowana lokalnie, to potrzeba mniej czasu i paliwa, aby dostarczyć ją na rynek. Czy w takim razie nie powinna być tańsza? Jakie czynniki przeciwdziałają spadkowi cen? Okazuje się, że czynniki te mają całkiem sporo wspólnego z zagadnieniami poruszanymi w niniejszym rozdziale, czyli popytem i podażą.</para>
+    </note>
+    <note type="note" id="fs-idp76550768" class="chapter-objectives economics">
+      <title id="UUIDd65d397b-7924-461a-6dda-d1b39aa577b0">Wprowadzenie do rozdziału</title>
+      <para id="UUID919bb159-3781-494f-7001-6e82f423496b">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idp114240032">
+        <item id="UUIDda61ff3f-ac1c-4748-6f1c-bf2bd924ca7e">
+          <para id="UUID43180ac1-9ec8-4ad8-710d-f38ae9af1529">Czym są popyt, podaż oraz równowaga na rynku dóbr i usług</para>
+        </item>
+        <item id="UUIDc8ffcaa8-8053-4947-63c5-6c848f802df0">
+          <para id="UUID751063ee-1d88-4f19-5df2-988648a5c4e3">Jakie czynniki wpływają na zmiany popytu i podaży na dobra i usługi</para>
+        </item>
+        <item id="UUIDff126a82-a3af-4556-5279-c4d63ac0c75a">
+          <para id="UUIDea8a53d3-528a-48ed-7a4e-f218da2933b4">W jaki sposób zmianie ulegają cena i ilość zapewniające równowagę na rynku oraz jakie cztery etapy składają się na ten proces</para>
+        </item>
+        <item id="UUID91b22273-2db4-49db-5bce-13522b308565">
+          <para id="UUID22a7faf5-fbbb-4fb2-6e57-b5bf58425921">Czym są ceny maksymalne i minimalne</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID3ed188d6-209a-4edf-46f0-53d4a697fc88">W czasie aukcji oferent płaci tysiące dolarów za suknię, którą nosiła Whitney Houston. Kolekcjoner wydaje małą fortunę na kilka rysunków wykonanych przez Johna Lennona. Ludzie zwykle reagują na podobne transakcje na dwa sposoby. Albo zdumiewa ich fakt, że ktoś jest gotów zapłacić tak wysokie kwoty za tego rodzaju dobra, albo uważają, że są to przedmioty rzadkie i pożądane, więc ceny wydają się im adekwatne.</para>
+    <note type="note" id="fs-idp89890656" class="economics linkup">
+      <para id="fs-idm25119856">Odwiedź <link url="http://openstax.org/l/celebauction" id="UUIDcde0221f-c759-42e9-4d4e-dece59f10561">tę witrynę</link>, aby zobaczyć, jak dziwne rzeczy (i za jakie pieniądze!) ludzie kupują tylko dlatego, że należały one do celebrytów (np. guma do żucia Britney Spears albo uwięziony w słoiku oddech Brada Pitta i Angeliny Jolie). Te przykłady w interesujący sposób pokazują związek popytu i podaży.</para>
+    </note>
+    <para id="UUID9944b74b-c293-4e60-47df-88614f0ac5a4">Gdy ekonomiści rozmawiają o cenach, bardziej niż formułowanie sądów normatywnych interesuje ich próba zrozumienia tego, co w istocie determinuje ceny i dlaczego się one zmieniają. Rozważcie cenę dobra, z zakupami którego większość z nas ma do czynienia dość regularnie, a mianowicie paliwa. Dlaczego w październiku 2021 r. średnia cena litra oleju napędowego sięgała w Polsce niemal 6 zł? Dlaczego jeszcze rok wcześniej była o blisko 30% niższa? Aby wyjaśnić te ruchy cen, ekonomiści skupiają się na determinantach określających, jaką cenę nabywcy i sprzedawcy paliwa są gotowi zaakceptować.</para>
+    <para id="UUID0efead86-e4c8-4553-4638-92a05c6def54">Jak się okazuje, ceny paliw w okresie letnim są prawie zawsze wyższe od cen w styczniu tego samego roku. Prawdopodobną przyczyną stojącą za tą zależnością jest fakt, że ludzie latem znacznie więcej podróżują, a więc są gotowi zapłacić za paliwo więcej. Z tego też powodu ceny paliw na stacjach benzynowych w miejscowościach wypoczynkowych – nad morzem, w górach, na Mazurach – zazwyczaj są wyższe niż w miejscach, które nie mają walorów turystycznych. Nie wyjaśnia to jednak gwałtownego wzrostu cen benzyny, z którym mieliśmy do czynienia w ciągu 2021 r. W czasie tych 12 miesięcy w grę wchodziły także inne czynniki, takie jak zmniejszenie podaży i zwiększenie popytu na ropę naftową.</para>
+    <para id="UUIDfedb2784-b65a-46b3-52a5-0c8a0440b61b">Ten rozdział wprowadza ekonomiczny model popytu i podaży – jeden z najważniejszych w całej ekonomii. Zaczniemy od określenia, w jaki sposób popyt i podaż determinują cenę i ilość będącą przedmiotem transakcji na rynkach dóbr i usług oraz w jaki sposób wahania popytu i podaży prowadzą do zmian tych cen i ilości oferowanych.</para>
+  </content>
+</document>

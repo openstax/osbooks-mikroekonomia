@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uddad0384-9b92-4705-bb71-4c88928fdfb2" id="Uddad0384-9b92-4705-bb71-4c88928fdfb2" xml:lang="en" cnxml-version="0.7">
+  <title>Jak powstaje monopol: bariery wejścia</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00038</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Jak powstaje monopol: bariery wejścia</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:56.838487293+00:00</md:version>
+    <md:created>2022-08-08T07:43:56.838487293+00:00</md:created>
+    <md:revised>2022-08-08T07:43:56.838487293+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>ddad0384-9b92-4705-bb71-4c88928fdfb2</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID0aed1fdc-66f7-4493-5744-f11b8b5c2189" class="learning-objectives">
+      <para id="UUIDacd63094-87fa-4f3c-573b-421350dd42b7">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID28c48a4b-9ab9-48d0-7970-4787e119a638">
+        <item id="UUIDebff462c-1261-42dc-5f3f-7793847f8b83">
+          <para id="UUID61116ec9-b599-48ad-60f4-90ce3d16d337">Odróżnić monopol naturalny od monopolu opartego na przepisach prawa</para>
+        </item>
+        <item id="UUID7667f9ad-188a-44ee-49e6-44a1d52a4b56">
+          <para id="UUID408d2d31-933b-4957-7bbc-8dd497cd7745">Objaśnić, w jaki sposób korzyści skali i kontrola nad zasobami naturalnymi prowadzą nieuchronnie do powstania monopoli</para>
+        </item>
+        <item id="UUIDbd7aad93-edf1-481e-5a3e-3f4fcf794e70">
+          <para id="UUIDdbc2a018-4402-47be-5569-ad99a8339d36">Analizować znaczenie znaków handlowych, marek i patentów w promowaniu innowacji</para>
+        </item>
+        <item id="UUIDf9ba1f5d-0d31-48f8-5a7f-ef8bc7f023a8">
+          <para id="UUIDe95d8966-1ff1-437b-653a-f0464a5723a1">Identyfikować przykłady cen dumpingowych</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDbe072f16-53ab-41fc-4f84-2de8ff02ba10">Brak konkurencji powoduje, że monopole mogą osiągać znaczne zyski ekonomiczne. Ich wysokość powinna pobudzać energiczne działania potencjalnych konkurentów, tak jak to zostało opisane w rozdziale traktującym o doskonałej konkurencji. Jednak ze względu na jedną szczególną cechę monopolu tak się nie dzieje. <term cxlxt:index="default" cmlnle:reference="bariera wejścia" id="UUID78bc5777-ebd9-4e4c-7db9-c1d9f7329492">Bariery wejścia</term> (ang. <foreign xml:lang="en" id="UUID816ee5d7-15b3-4dde-6b5a-4e9ae66c8002"><term cxlxt:index="foreign" id="UUID465c04af-93cb-41e5-71d5-078a37f371b1">barriers to entry</term></foreign>) to przepisy prawa, rozwiązania technologiczne lub siły rynkowe, które zniechęcają potencjalnych konkurentów do wejścia na rynek opanowany przez monopolistę lub im to uniemożliwiają. Bariery wejścia mogą być relatywnie niewielkie i łatwe do pokonania, np. barierą wejścia na rynek detalicznego handlu żywnością będzie koszt wynajmu powierzchni handlowej, lub też bardzo restrykcyjne, np. istnieje skończona liczba częstotliwości radiowych dostępnych dla nadawców. Gdy przedsiębiorstwo zdobędzie prawa do wykorzystywania ich wszystkich, nowi konkurenci nie będą mogli wejść na rynek.</para>
+    <para id="UUIDb934b117-e14d-4d57-468c-25b50bb11aba">Istnienie barier wejścia może prowadzić do powstania monopolu lub ograniczyć konkurencję do kilku przedsiębiorstw. Takie bariery mogą blokować wejście do gałęzi nowych producentów, nawet jeśli działające w niej przedsiębiorstwo lub przedsiębiorstwa osiągają zyski. Tak więc na rynkach chronionych znacznymi barierami wejścia nawet ponadprzeciętne zyski nie przełożą się na wzrost liczby funkcjonujących firm. Tym samym cena obowiązująca na takim rynku nie spadnie, a zyski ekonomiczne nawet w długim okresie nie zmniejszą się do poziomu zysków normalnych.</para>
+    <para id="UUID90d5eff6-0cbe-4c01-7bdf-e2bd9b998809">Istnieją dwa rodzaje monopoli, wyróżnione na podstawie rodzaju barier wejścia chroniących rynki, na których monopole te działają. Pierwszym z nich jest <term id="UUID3de789f0-298e-4334-611d-bfc20a1d69be">monopol naturalny</term> (ang. <foreign xml:lang="en" id="UUIDdbc2e856-2cd7-4e50-5203-2ebf26e2937d"><term cxlxt:index="foreign" id="UUID4d5bb96a-7e20-433e-76b3-a3393919a600">natural monopoly</term></foreign>), w którego przypadku bariery wejścia mają charakter pozaprawny. Drugim jest <term cmlnle:reference="monopol prawny" id="UUIDec612ba3-5493-4fd4-6038-ae680cfab03a">monopol oparty na przepisach prawa / prawny</term> (ang. <foreign xml:lang="en" id="UUIDa7990c9d-7665-4fe1-5841-33b5d1074a18"><term cxlxt:index="foreign" id="UUID581f692d-a1de-474f-6b45-7a855e1dd4d1">legal monopoly</term></foreign>), w którym zakaz konkurencji (lub jej poważne ograniczenie) wprost wynika z różnego rodzaju regulacji.</para>
+    <section id="fs-idm57912096">
+      <title id="UUID655a1d0a-0c9e-417e-5775-da38b61250ec">Monopol naturalny</title>
+      <para id="UUIDebffae0f-07b0-429b-751e-ff7075d8693f">Jeśli korzyści skali występują dla rozmiarów produkcji zdefiniowanych przez popyt rynkowy, może to stanowić istotny czynnik ograniczający konkurencję (wprowadziliśmy ten temat w rozdziale o produkcji, kosztach i strukturze rynku). <link target-id="CNX_Econ_C09_001" id="UUIDf7988b3f-6581-401f-4262-1be7112c8483" /> przedstawia krzywą długookresowych kosztów przeciętnych typowego producenta samolotów. Dla produkcji o wielkości do 8 tys. sztuk rocznie i cenie P<sub>0</sub> przedsiębiorstwo napotyka rosnące przychody ze skali produkcji (korzyści skali), dla produkcji od 8 tys. do 20 tys. samolotów rocznie przychody ze skali produkcji są stałe, a dla produkcji większej niż 20 tys. maszyn rocznie przychody ze skali produkcji maleją (pojawiają się niekorzyści skali).</para>
+      <para id="UUIDefa1ffdf-b068-4a3e-47e3-9858fffe6481">Rozważmy teraz na wykresie krzywą popytu, która przecina długookresową krzywą kosztów przeciętnych (LAC) przy poziomie produkcji 5 tys. samolotów rocznie i przy cenie P<sub>1</sub>wyższej niż P<sub>0</sub>. W takiej sytuacji na rynku jest miejsce tylko dla jednego producenta. Jeśli drugie przedsiębiorstwo będzie próbowało wejść na rynek i produkować na przykład 4 tys. samolotów, to jego koszty przeciętne będą wyższe niż w przypadku obecnego już na rynku przedsiębiorstwa. A więc nowy podmiot nie będzie w stanie przedstawić konkurencyjnej oferty dla potencjalnych klientów. Jeśli nowe przedsiębiorstwo spróbuje wejść na rynek i produkować więcej, np. 8 tys. maszyn rocznie, to osiągnie niższe koszty przeciętne, ale nie sprzeda wszystkich wyprodukowanych samolotów z powodu niewystarczającego popytu na rynku.</para>
+      <figure id="CNX_Econ_C09_001">
+        <title id="UUIDb7546b24-f729-4bd0-7dd9-47c34683e55a">Ekonomia skali i monopol naturalny</title>
+        <media alt="Wykres przedstawia monopol naturalny, którego istnienie jest konsekwencją występowania korzyści skali dla rozmiarów produkcji równych popytowi rynkowemu." id="fs-idm61039072">
+          <image src="../../media//CNX_Econ_C09_001.svg" mime-type="image/svg+xml" id="UUID19949eb2-9d0a-48e7-7cc2-94839ff1f0e8" />
+        </media>
+        <caption id="UUIDffd74124-a02b-4b1b-72e7-a150133bcfc2">Na tym rynku krzywa popytu przecina długookresową krzywą kosztów przeciętnych (LAC) w jej opadającej części. Monopol naturalny powstaje wówczas, gdy zapotrzebowanie jest mniejsze niż minimalna wielkość produkcji pozwalająca osiągnąć najniższe koszty przeciętne (optimum techniczne), zaznaczone na krzywej długookresowych kosztów przeciętnych.</caption>
+      </figure>
+      <para id="UUIDc5836a88-ee6a-42fa-7649-dbd50c8ef2eb">Rynek, na którym korzyści skali występują dla rozmiarów produkcji zbliżonych do rynkowego zapotrzebowania, ekonomiści nazywają „monopolem naturalnym”. Takie struktury często powstają w gałęziach, w których krańcowy koszt pozyskania dodatkowego klienta jest bardzo niski w sytuacji, gdy koszty stałe zostały już poniesione. Skutkuje to pojawieniem się znacznych korzyści skali. Na przykład gdy firma wodociągowa ułoży już szkielet systemu rur w danej dzielnicy, koszt krańcowy świadczenia usługi dla kolejnej nieruchomości będzie dość niski. Podobnie gdy przedsiębiorstwo dystrybuujące energię elektryczną zainstaluje już linie przesyłowe w nowym rejonie, krańcowy koszt podłączenia do sieci jeszcze jednego domu stanie się minimalny. Wejście na rynek drugiego przedsiębiorstwa świadczącego usługi wodociągowe i inwestycja polegająca na położeniu konkurencyjnego systemu rur lub wejście na rynek drugiego przedsiębiorstwa energetycznego i dublowanie układu linii przesyłowych byłoby nie tylko bardzo kosztowne, ale i niepotrzebne. W tego typu gałęziach jeden sprzedawca, ze względu na korzyści skali, może obsłużyć cały rynek bardziej efektywnie niż wielu mniejszych producentów, którzy musieliby niezależnie od siebie inwestować w kapitał rzeczowy. Warto zwrócić uwagę, że brak ekonomicznego uzasadnienia dla istnienia konkurencji na takich rynkach tworzy presję na regulację działalności monopoli naturalnych przez państwo. Regulator publiczny najczęściej zastrzega sobie prawo do zatwierdzania nowych cen proponowanych przez naturalnego monopolistę, tak aby firma nie nadużywała swojej dominującej pozycji. Przykładem takiego regulatora w polskim środowisku prawnym jest Urząd Regulacji Energetyki (URE) odpowiedzialny za regulację gospodarki paliwowej i energetycznej.</para>
+      <para id="UUID3d85f28a-feb4-4bb6-42f7-0ca61c497942">Naturalny monopol może również powstać na mniejszych, lokalnych rynkach produktów, których transport jest utrudniony lub kosztowny. Na przykład produkcja cementu charakteryzuje się korzyściami skali, gdyż zapotrzebowanie na cement na danym obszarze bywa zbliżone do ilości, którą może wyprodukować pojedyncza cementownia. Ponadto koszty transportu drogowego tego materiału są wysokie, a więc cementownia działająca na obszarze pozbawionym możliwości transportu wodnego może stać się naturalnym monopolistą.</para>
+    </section>
+    <section id="fs-idm14255184">
+      <title id="UUID8696891f-293b-4bb2-7fe1-7a6dcb57c483">Kontrola zasobów</title>
+      <para id="UUIDb4d592f2-2ccb-4bfc-4fcc-b6e59dd140b8">Z inną odmianą monopolu mamy do czynienia wówczas, gdy przedsiębiorstwo kontroluje dostęp do zasobów jakiegoś surowca. W gospodarce amerykańskiej historycznym przykładem takiego monopolu była ALCOA – <foreign xml:lang="en" id="UUID00cc0d99-0d2f-4e8b-6a8f-7de7b5903a3a">Aluminium Company of America</foreign> – przedsiębiorstwo, które dysponowało większością złóż boksytu, kluczowego minerału używanego do produkcji aluminium. W latach 30. XX w., kiedy ALCOA kontrolowała większość podaży boksytów, inne firmy po prostu nie były w stanie wyprodukować wystarczającej ilości aluminium, aby z nią konkurować.</para>
+      <para id="UUID087ab7ab-60a6-4392-5432-84d420933bb3">Albo inny przykład: większość światowej produkcji diamentów kontrolowana jest przez DeBeers, międzynarodową firmę, która prowadzi działalność wydobywczą w RPA, Botswanie, Namibii oraz Kanadzie, wciąż aktywnie poszukuje nowych złóż na czterech kontynentach i jednocześnie kieruje ogólnoświatową siecią dystrybucji nieoszlifowanych diamentów. Choć w ostatnich latach firma ta napotyka rosnącą konkurencję, to jej wpływ na rynek diamentów jest nadal znaczny.</para>
+    </section>
+    <section id="fs-idp101936160">
+      <title id="UUIDed3e4329-1766-4008-550a-04b0fe31ba97">Monopol oparty na przepisach prawa (prawny)</title>
+      <para id="UUID720b8066-1e8b-4f92-6219-76be7377366f">W przypadku produkcji niektórych dóbr lub usług to państwo tworzy bariery wejścia, zakazując lub ograniczając konkurencję. Zgodnie z prawem Stanów Zjednoczonych żaden podmiot poza <foreign xml:lang="en" id="UUID328c302f-47df-4ad0-4157-7f5d52c42967">US Postal Service</foreign> nie może dostarczać przesyłek pierwszej klasy. W Polsce z kolei, realizując monopol państwa, tylko Totalizator Sportowy może oferować klientom hazardowe gry liczbowe i produkty loteryjne. W wielu miastach obowiązują przepisy, które pozwalają gospodarstwom domowym na wybór tylko jednego przedsiębiorstwa energetycznego, jednego przedsiębiorstwa świadczącego usługi wodociągowe i jednego podmiotu wywożącego śmieci. Większość prawnych monopoli to firmy działające na rynku mediów, w jakie wyposażone są budynki (woda, energia elektryczna, gaz lub ciepło), dostarczające produkty niezbędne do codziennego życia, czyli dobra społecznie pożądane. Z drugiej strony prawny monopol jest w pewnym sensie potwierdzeniem tego, że przedsiębiorstwa te są najczęściej naturalnymi monopolami, ze względu na dostęp do kosztownej infrastruktury przesyłowej. Państwo, gwarantując tym podmiotom status monopolistów, zapewnia klientom dostęp do odpowiedniej ilości wysokiej jakości produktów lub usług, jednocześnie rezerwując sobie wpływ na te specyficzne rynki i prawo do kontroli cen.</para>
+    </section>
+    <section id="fs-idm8280976">
+      <title id="UUID61657512-dfff-4674-6c45-cce6f3eeeffe">Promocja innowacji</title>
+      <para id="UUID362a25e4-2494-4d43-638a-11dd6765f735">Wprowadzenie innowacji wymaga czasu i zasobów. Załóżmy, że przedsiębiorstwo farmaceutyczne inwestuje spore kwoty w badania i dzięki temu wynajduje lekarstwo na przeziębienie. W świecie niemal nieograniczonego dostępu do informacji inne przedsiębiorstwa mogłyby przejąć tę nową substancję i wyprodukować swój lek. A ponieważ nie poniosły kosztów badań, mogłyby zaoferować cenę rynkową poniżej poziomu wyznaczonego przez firmę, która opracowała nowe lekarstwo. Wziąwszy pod uwagę taki scenariusz, wiele przedsiębiorstw w ogóle nie zdecydowałoby się na prowadzenie jakiejkolwiek działalności w obszarze badań i rozwoju (BiR), co w rezultacie znacznie ograniczyłoby liczbę innowacji. Aby temu zapobiec, większość państw wprowadziła rozwiązanie zapewniające autorom i wynalazcom wyłączne prawo do ich odkryć na pewien ograniczony czas. Jest to <term id="UUID455822d8-99e1-4664-500f-6a5dbb44c79a">patent</term> (ang. <foreign xml:lang="en" id="UUID06f44716-82d5-46f8-67d5-de19d3fccb42"><term cxlxt:index="foreign" id="UUID74852199-6300-4329-488f-2d17eda38a34">patent</term></foreign>), który tylko wynalazcy przyznaje prawo do wytwarzania, używania lub sprzedaży wynalazku. W Polsce, podobnie jak w Stanach Zjednoczonych, wyłączne prawa patentowe obowiązują maksymalnie przez 20 lat. Chodzi o to, aby, zapewniając firmie-wynalazcy kontrolę nad rynkiem, umożliwić jej odzyskanie nakładów poniesionych na badania i rozwój, a następnie pozwolić innym przedsiębiorstwom na wytwarzanie tego konkretnego produktu i sprzedawanie go po niższej cenie już po wygaśnięciu patentu. W ten sposób nowy produkt stanie się tańszy i będzie dostępny dla szerszej grupy klientów.</para>
+      <para id="UUID5938e7ca-b2fe-447a-61a6-21932e41f890"><term cmlnle:reference="znak towarowy" id="UUID8cbca0f5-beca-4aee-6cf5-efe51138563d">Znak towarowy</term> (ang. <foreign xml:lang="en" id="UUIDebd864ff-0ca5-4d95-4c34-98f248cdd2bf"><term cxlxt:index="foreign" id="UUIDb61c226a-1573-4746-5d96-ec195861d0e9">trademark</term></foreign>) to nazwa konkretnego towaru, takiego jak banany <foreign xml:lang="en" id="UUIDe8695cdf-e8aa-41b2-6270-662c852c420a">Chiquita</foreign>, samochody <foreign xml:lang="en" id="UUID05c11fae-ca9b-4c0b-7fe9-9a968e25091e">Chevrolet</foreign> i czekolady Wedel, lub symbol (logo) identyfikujący dany produkt (trzy paski firmy Adidas, gwiazda Mercedesa lub żuraw LOT-u). W USA jest zarejestrowanych ok. 1,9 mln znaków towarowych. W przeciwieństwie do patentu wyłączne prawo do posługiwania się konkretnym znakiem towarowym można sobie zagwarantować na czas nieokreślony, o ile oczywiście symbol lub nazwa są przez przedsiębiorstwo aktywnie używane.</para>
+      <para id="UUID72fa1c52-c723-47c3-5633-c51134202f71">Prawo patentowe obejmuje wynalazki, natomiast książki, piosenki i dzieła sztuki są chronione prawami autorskimi. Prawa autorskie ograniczają możliwości wykorzystywania (tj. powielania, kopiowania, prezentowania itd.) oryginalnych dzieł tylko do sytuacji, w których autor wyrazi na to zgodę. Jednak w niektórych obszarach, takich jak tworzenie nowego oprogramowania, nie jest jasne, czy należy stosować ochronę patentową, czy raczej prawo autorskie. Istnieje również zbiór praw znany jako <term id="UUID6b91a4dc-b2d7-47a5-4d7b-25c76a455c9c">tajemnica handlowa</term> (ang. <foreign xml:lang="en" id="UUID1d819f8c-5595-44c5-7600-67735e6f91e4"><term cxlxt:index="foreign" id="UUID267d385b-4a83-454e-4d22-451c2630d655">trade secret</term></foreign>). Nawet jeśli przedsiębiorstwo nie ma patentu na wynalazek, to konkurentom nie wolno kraść tych tajemnic. Jedną z najsłynniejszych tajemnic handlowych jest formuła Coca-Coli, a w Polsce dokładny przepis na wiele słodyczy sprzedawanych np. pod marką Wedel (Ptasie Mleczko). Receptury te nie są chronione ani prawem autorskim, ani prawem patentowym, stanowią po prostu tajemnicę konkretnych przedsiębiorstw. Jeśli zatem komuś udałoby się legalnie skopiować przepisy na wytwarzane przez te firmy produkty, mógłby je zgodnie z prawem sprzedawać, oczywiście pod inną marką.</para>
+      <para id="UUID59b813a6-030c-4b58-5ae1-5234a507aa24">Podsumowując: kombinację wspomnianych wyżej patentów, znaków towarowych, praw autorskich i tajemnicy handlowej nazywamy <term id="UUIDb67f7a7a-0d8d-4382-4931-60b2857154ed">własnością intelektualną</term> (ang. <foreign xml:lang="en" id="UUIDb4a34ed5-5128-4d9b-6e60-990080ef7fd9"><term cxlxt:index="foreign" id="UUIDb8c1a3f1-f872-4921-6972-3988a5b6eb64">intellectual property</term></foreign>), ponieważ oznacza ona prawa do pomysłu, koncepcji lub obrazu, a nie części majątku rzeczowego, takiego jak nieruchomości lub środki transportu. Wiele państw uchwaliło prawa chroniące własność intelektualną, chociaż okresy ochrony i szczegółowe przepisy dotyczące tych praw różnią się w zależności od kraju. Trwają międzynarodowe negocjacje prowadzone m.in. pod egidą Światowej Organizacji Własności Intelektualnej (WIPO) mające na celu zwiększenie harmonizacji prawa własności intelektualnej w różnych krajach. Chodzi o ustalenie zakresu, w jakim podmioty w danych państwach będą respektować zagraniczne patenty i prawa autorskie.</para>
+      <para id="UUID103be2e0-bd8b-4a3e-550f-db6df9901450">W większości krajów rozwiniętych, w tym i w Polsce, monopole publiczne wynikające z przepisów prawa były jeszcze 50 lat temu znacznie bardziej powszechne niż obecnie. Przez większą część XX w. w Stanach Zjednoczonych telefoniczne usługi usługi lokalne i międzymiastowe mogła legalnie świadczyć tylko jedna firma – <foreign xml:lang="en" id="UUIDe2960f56-7502-41df-70b2-52448eefa69b">AT&amp;T</foreign>. Od lat 30. do 70. XX w. przepisy federalne ograniczały w USA możliwości swobodnego oferowania przez linie lotnicze usług na konkretnych trasach, jak również ustalania wysokości opłat pobieranych za bilety. Z kolei w Europie okres swobody świadczenia usług przewozów lotniczych zaczął się dopiero w XXI w. Inne przepisy ograniczały odsetki, jakie banki mogły wypłacać deponentom; jeszcze inne określały, jakie opłaty firmy przewozowe mogły pobierać od klientów.</para>
+      <para id="UUIDe48a3671-8eca-4bc1-5a8d-2184661f0146">To, jakie produkty uważamy za media związane trwale z nieruchomościami, zależy w dużej mierze od dostępnej technologii. 50 lat temu firmy telekomunikacyjne świadczyły usługi lokalne i międzymiastowe, wykorzystując przewody. Nie było zatem uzasadnienia, aby wiele przedsiębiorstw budowało swoje sieci kablowe w miastach i na terenie całego kraju. <foreign xml:lang="en" id="UUID593ebaeb-a4f7-4e89-7ce6-9f6726bf0e64">AT&amp;T</foreign> straciło monopol na usługi międzymiastowe, gdy technologia świadczenia usług telefonicznych zmieniła się z przewodowej na transmisję radiową. Dzięki temu wiele przedsiębiorstw mogło korzystać z tego samego urządzenia do przesyłania informacji. To samo stało się z usługami lokalnymi, zwłaszcza w ostatnich latach, wraz z rozwojem systemów telefonii komórkowej. Z kolei rozwój technologii paneli fotowoltaicznych do pewnego stopnia ogranicza monopole związane z przesyłaniem energii. Jak widać, postęp techniczny i rozwój technologii przekładają się na ograniczenie skali funkcjonowania monopoli naturalnych, a w konsekwencji również tych, które cieszą się ochroną prawa.</para>
+      <para id="UUIDcb9246dc-636c-48bf-5be7-2d58c3d7f388">Pod koniec lat 70. XX w. w USA postęp techniczny, zmiana nastawienia opinii publicznej a także przedstawicieli władz federalnych i stanowych, doprowadziły do spopularyzowania przekonania, że rynki mogą zapewnić odpowiednią jakość świadczonych usług. Zapoczątkowało to proces <term cmlnle:reference="deregulacja" id="UUIDcdd616f4-a231-49f7-72d3-04bda68dbf10">deregulacji</term> (ang. <foreign xml:lang="en" id="UUID552af942-9587-41c3-5b48-e7026bce35cf"><term cxlxt:index="foreign" id="UUID2b3725d3-8a43-4605-52c8-a4cf33ae174d">deregulation</term></foreign>), który trwał do lat 90. XX w. Konsekwencją tego procesu było zmniejszenie lub wręcz likwidacja ograniczeń nałożonych na swobodę świadczeń usług (zasady określające możliwości wejścia do branży, wolność wyznaczania cen itd.) w wielu gałęziach gospodarki, takich jak telekomunikacja, przewozy lotnicze, transport samochodowy, bankowość i energetyka.</para>
+      <para id="UUID0664077a-f03e-499c-7492-3fabdf7346cf">Mimo to nadal na całym świecie – od Europy, przez Amerykę Łacińską, Afrykę i Azję, a na Stanach Zjednoczonych kończąc – wiele rządów nadal kontroluje i ogranicza konkurencję (szczególnie zagraniczną) w branżach, które postrzegane są jako kluczowe, np. transporcie lotniczym i kolejowym, bankowości, telekomunikacji, przemyśle wydobywczym itp.</para>
+      <note type="note" id="fs-idp105680576" class="economics linkup">
+        <para id="fs-idm6182576">Wejdź na tę <link url="http://openstax.org/l/patents" id="UUID6898c84f-9c9c-4f55-627e-e70f6808c7e6">stronę</link>, aby dowiedzieć się, jak dziwaczne rzeczy zostały kiedyś opatentowane.</para>
+      </note>
+    </section>
+    <section id="fs-idp109307664">
+      <title id="UUIDe60f57f6-0f97-43e6-5d0b-239e593f8a18">Odstraszanie potencjalnych konkurentów</title>
+      <para id="fs-idm66009296">Przedsiębiorstwa opracowały bardzo wiele sposobów tworzenia barier, które mają zniechęcać potencjalnych konkurentów do wchodzenia na rynek. Jedna z nich znana jest jako <term id="UUIDefee5655-ac4d-4589-5abd-564162a0c60a">drapieżnictwo cenowe</term> (w literaturze przedmiotu spotykane są również określenia: <term id="UUIDf13f1d24-d28f-4d91-494b-be092b4046a3">ceny dumpingowe</term> lub <term cmlnle:reference="ceny antykonkurencyjne" id="UUID3e62d319-83ba-48ae-543c-74abccc24095">antykonkurencyjne</term>) (ang. <foreign xml:lang="en" id="UUID2e38154a-ac18-4f46-54d7-c81f747358b0"><term cxlxt:index="foreign" id="UUID61b6f989-3766-4ed0-5f0d-00267b1dd96c">predatory pricing</term></foreign>) i polega na groźbie ogromnych obniżek cen, które zostałyby wprowadzone, gdyby konkurenci zdecydowali się na rozpoczęcie działalności na konkretnym rynku. Posługiwanie się cenami dumpingowymi jest nielegalne zarówno w USA, jak i w Polsce, ale proceder ten bardzo trudno udowodnić.</para>
+      <para id="UUID4b500310-babe-4b51-418f-23125c82d9cf">Pomyśl o dużej linii lotniczej, która obsługuje większość lotów między dwoma miastami. Nowa, niewielka linia lotnicza również postanawia oferować swoje usługi na trasie między tymi dwoma ośrodkami. Duża linia natychmiast obcina ceny za to połączenie do poziomu, który wyklucza jakikolwiek zysk małej firmy. Niekiedy wystarczy jednoznacznie zadeklarować, że będzie się stosować tego typu strategię (wystarczy obniżyć ceny do poziomu kosztu przeciętnego, który w przypadku dużych podmiotów zazwyczaj jest niższy, w dodatku będzie to działanie legalne), żeby nikt nie próbował wejść na ten wąski rynek. Dzięki temu nie trzeba nawet obniżać cen w krótkim okresie, żeby podnosić je w okresie długim. To dlatego małe linie lotnicze często oskarżają większe o ustalanie antykonkurencyjnych cen (drapieżnictwo cenowe). Na początku XXI w. w USA <foreign xml:lang="en" id="UUID88de0e00-e542-47eb-57be-269e9ebeebe7">ValuJet</foreign> oskarżał o takie działanie Deltę, <foreign xml:lang="en" id="UUID221a4e16-2720-4d16-5e79-63f792e02426">Frontier</foreign> – linie <foreign xml:lang="en" id="UUID3d4746a7-8fb4-4ff3-496b-47342b58907e">United</foreign>, a <foreign xml:lang="en" id="UUID5026c10b-0501-4383-6c38-4e29fa92c56f">Reno Air</foreign> przewoźnika <foreign xml:lang="en" id="UUIDf236a2ca-6747-465e-76f6-108777448339">Northwest</foreign>. Z drugiej strony, aby taka strategia miała sens, poziom cen na trasach zmonopolizowanych przez duże linie lotnicze nie może być zbyt wysoki, a to jest korzystne dla klientów. Odbywa się to jednak kosztem coraz niższej jakości, czego najlepszym przykładem na rynku europejskim jest firma <foreign xml:lang="en" id="UUIDc52a605c-9352-49cf-61dd-5d6ce30b1cf3">Ryanair</foreign> i wprowadzane przez nią liczne opłaty za usługi, które inne linie lotnicze traktują jako standard.</para>
+      <para id="UUIDb2aae97c-1aff-40aa-65e6-0d9b7d443510">W niektórych przypadkach duże budżety reklamowe również mogą zniechęcać konkurencję. Jeśli jedynym sposobem na wprowadzenie na rynek krajowy nowego, odnoszącego sukcesy napoju jest przeznaczenie na jego marketing sum większych niż te przewidziane w budżetach na reklamę i promocję produktów sprzedawanych pod markami <foreign xml:lang="en" id="UUIDd2e37e72-3cfa-43e3-415b-f74a64dd95c2">Coca-Cola</foreign> i <foreign xml:lang="en" id="UUIDca982377-6572-465d-74b1-2556b679dde5">Pepsi Cola</foreign>, to niewiele firm spróbuje to zrobić. Jeśli marka cieszy się renomą i popularnością wśród konsumentów, próba zastąpienia lidera rynkowego swoim produktem może być niezwykle kosztowna lub wręcz niemożliwa do realizacji.</para>
+    </section>
+    <section id="fs-idp48599888">
+      <title id="UUID6d046647-6e7a-47bd-535b-8bdf9a0f2050">Podsumowanie barier wejścia</title>
+      <para id="fs-idp73722064"><link target-id="Table_09_01" document="" id="UUID917d8367-93fe-419a-5078-0b924080ff0a" /> wymienia bariery wejścia, które już omówiliśmy. Ich lista nie jest pełna, ponieważ przedsiębiorstwa wykazują się dużą kreatywnością w wymyślaniu praktyk biznesowych zniechęcających potencjalną konkurencję. Gdy na rynku istnieją bariery wejścia ograniczające swobodę świadczenia usług, model konkurencji doskonałej nie jest właściwym sposobem opisu funkcjonowania danej gałęzi gospodarki. Gdy bariery wejścia są wystarczająco wysokie, może to doprowadzić do powstania monopolu.</para>
+      <table summary="This table consists of three columns and five rows. The first column is labeled barrier to entry and rows 1-5 read &apos;natural monopoly,&apos; &apos;control of a physical resource,&apos; &apos;legal monopoly,&apos; &apos;patent, trademark, and copyright,&apos; and &apos;intimidating potential competitors.&apos; The second column is labeled government role? with rows 1-5 reading: &apos;government often responds with regulation (or ownership),&apos; &apos;No,&apos; &apos;Yes,&apos; &apos;Yes, through protection of intellectual property,&apos; and &apos;Somewhat.&apos; The third column is labeled example with rows 1-5 reading: &apos;water and electric companies,&apos; &apos;DeBeers for diamonds,&apos; &apos;Post office, past regulation of airlines and trucking,&apos; &apos;New drugs or software,&apos; and &apos;Predatory pricing; well-known brand names.&apos;" id="Table_09_01"><title id="UUID704d5026-ca97-a6b0-59c8cf782a17b20e">Bariery wejścia</title><tgroup cols="3" id="UUID704d5026-91ea-ca00-b6976b86b8e2c6a9"><colspec colnum="1" colname="col1" id="UUID704d5026-3058-6508-dcc9ac8773436e22" /><colspec colnum="2" colname="col2" id="UUID704d5026-1b1b-df53-bdc800760e094cf9" /><colspec colnum="3" colname="col3" id="UUID704d5026-6b8d-19c7-42e6a5b58af32f0f" /><thead id="UUID704d5026-e9f8-56cc-d9663705364331e8"><row id="UUID704d5026-ec28-729e-983abd4221f23fe1"><entry id="UUID704d5026-d3b8-377f-ab43f37091314a48">Bariery wejścia</entry><entry id="UUID704d5026-db20-0075-2e96109bf0041f99">Rola państwa</entry><entry id="UUID704d5026-b398-205e-6c6ba7f06ad0bb84">Przykład</entry></row></thead><tbody id="UUID704d5026-23fe-a896-5c5214ed86557b5c"><row id="UUID704d5026-307e-f1d3-9ad4a959d23d39cc"><entry id="UUID704d5026-238f-776c-5297c9a28ddae9e9">Monopol naturalny</entry><entry id="UUID704d5026-4d5a-fe8a-be03133e23202e0a">Państwo często reaguje na taką sytuację, wprowadzając publicznego regulatora lub nawet nacjonalizując przedsiębiorstwo</entry><entry id="UUID8bb68505-c6c9-4f30-4b58-f3fa9e809f36">Przedsiębiorstwa wodociągowe i przesyłające energię elektryczną</entry></row><row id="UUID704d5026-939d-7a42-a1e415b5e4d121df"><entry id="UUID704d5026-7bcb-f453-0c4c575e1687a5df">Kontrola zasobów naturalnych</entry><entry id="UUID704d5026-721a-f8f2-1cc5bd34fac874dc">Nie</entry><entry id="UUID704d5026-4c5a-cbf6-8a26720e04c342fd"><foreign xml:lang="af" id="UUIDec8dd567-560f-4f54-61d3-3612de4c7aa9">DeBeers</foreign> na rynku diamentów</entry></row><row id="UUID704d5026-22f1-f34b-d5ab2f4badec6801"><entry id="UUID704d5026-a11f-8d4b-fb169236046366a2">Monopol prawny</entry><entry id="UUID704d5026-d9db-959a-26d38c0247057f7d">Tak</entry><entry id="UUID704d5026-c6f9-03ec-1ada8e97be80ddaf">Poczta, monopole loteryjne, w przeszłości również regulacja zasad funkcjonowania linii lotniczych i transportu samochodowego</entry></row><row id="UUID704d5026-a839-43a6-af095cbb193588ee"><entry id="UUID704d5026-e861-4328-5274af4d9a2b5a7c">Patenty, znaki towarowe, logotypy, prawa autorskie</entry><entry id="UUID704d5026-7b42-4a33-217e53966c9e22d0">Tak, poprzez ochronę własności intelektualnej</entry><entry id="UUID704d5026-dc0c-3ce4-83aadac38c94eb8e">Nowe lekarstwa i oprogramowanie</entry></row><row id="UUID704d5026-e42a-7fd9-65855810f2ee012a"><entry id="UUID704d5026-5c8a-44ec-0a56f0f2c5b0758c">Odstraszanie potencjalnych konkurentów</entry><entry id="UUID704d5026-3ae4-8e05-47fe455ab4898fc3">Do pewnego stopnia</entry><entry id="UUID704d5026-6bc2-7f7c-e66793fc1a120774">Drapieżnictwo cenowe, budowa silnych marek</entry></row></tbody></tgroup></table>
+    </section>
+    <section id="fs-idp1111968" class="summary">
+      <title id="UUID908ce759-d8ab-4222-537d-28dd204280bf">Key Concepts and Summary</title>
+      <para id="UUIDf6846778-b5e3-480b-4034-4b53778f7efb">Bariery wejścia zniechęcają konkurentów do wejścia na rynek lub uniemożliwiają im to. Bariery te obejmują: korzyści skali, które – jeśli dotyczą rozmiarów produkcji równych popytowi rynkowemu – prowadzą do powstania naturalnego monopolu zaopatrującego cały rynek i nie pozostawiającego miejsca dla innych wytwórców; kontrolę zasobów naturalnych; prawne ograniczenia konkurencji; ochronę patentów, znaków towarowych i praw autorskich; i wreszcie praktyki mające na celu odstraszenie konkurencji, takie jak drapieżnictwo cenowe (ceny dumpingowe lub inaczej antykonkurencyjne). Własność intelektualna odnosi się do chronionych przepisami prawa wartości niematerialnych (pomysłów i idei), a nie do fizycznych składników kapitału. Prawa chroniące własność intelektualną obejmują patenty, prawa autorskie, znaki towarowe i tajemnice handlowe.</para>
+    </section>
+    <section id="fs-idp53717264" class="self-check-questions">
+      <title id="UUID5c8d9ccf-450c-4ee5-455a-0d95c35b425c">Self-Check Questions</title>
+      <exercise id="fs-idp100806496">
+        <problem id="fs-idp25881776">
+          <para id="UUIDf4bf2dff-b466-4a21-73f6-1bd4c412181e">Określ, czy następujące rozwiązania są barierą wejścia narzuconą przez państwo, barierą wejścia, która nie jest egzekwowana przez państwo, czy też w ogóle nie są barierą wejścia.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp131627008">
+            <item id="UUID525a513c-4ef8-4682-70fc-114f99352f83">
+              <para id="UUID226d602a-e9f5-4ecb-74f4-67b8387ceaa8">Opatentowany wynalazek</para>
+            </item>
+            <item id="UUID8f7c4f79-6e6b-4fb9-6667-9311aedd9b99">
+              <para id="UUID1818e323-2784-4aca-5934-e4cfa72f5db9">Popularny, ale łatwy do skopiowania przepis na danie serwowane w restauracji</para>
+            </item>
+            <item id="UUIDef20dee3-1128-4aa1-6bca-17c95e27bb6e">
+              <para id="UUIDf12a260c-d1d6-4e08-710c-408d10040f1f">Rynek, na którym rozmiary produkcji dające korzyści skali są bardzo małe w porównaniu z popytem</para>
+            </item>
+            <item id="UUID3e690d4f-700d-4f9e-511c-30840ec1c345">
+              <para id="UUID317ce155-ebb9-43d8-7c4b-23c3ae7430ca">Ugruntowana reputacja firmy, która zawsze znacznie obniża ceny w odpowiedzi na wejście na rynek nowego przedsiębiorstwa</para>
+            </item>
+            <item id="UUID2aad8357-3944-4787-61b1-f78beb99c859">
+              <para id="UUIDe2c20273-b09e-4f6e-4c2c-052a29039c02">Dobrze rozpoznawalna marka starannie budowana przez wiele lat</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp91797296">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp801872">
+            <item id="UUID551c0c15-fa36-48a1-68ea-e3b59beb0107">
+              <para id="UUID33b1c73f-d07e-4831-5a46-712395ec04d2">Patent jest narzuconą przez państwo barierą wejścia</para>
+            </item>
+            <item id="UUID34b2102a-8ea0-4de1-602b-828db9b409bb">
+              <para id="UUIDa8a026ef-7bdf-4fcb-47a0-a11827759542">To nie jest bariera wejścia</para>
+            </item>
+            <item id="UUIDdffe8557-ee96-419f-5d46-a1d96d672c51">
+              <para id="UUIDa807d22d-844a-4f7a-720b-15517e479610">To nie jest bariera wejścia</para>
+            </item>
+            <item id="UUIDee1b8190-36cc-4dbf-73fb-b56698b8a5cc">
+              <para id="UUID76c294df-0771-4d76-6dbc-d9dad372b3d0">To jest bariera wejścia, ale nie jest egzekwowana przez państwo</para>
+            </item>
+            <item id="UUID516b4eae-45fb-4340-6e82-4c6d6290f2de">
+              <para id="UUIDf6a01eb6-d6f6-4b4d-799c-0ba014ffb996">To jest bariera wejścia, ale nie jest bezpośrednio ustanowiona przez państwo</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm13007456">
+        <problem id="fs-idp33422144">
+          <para id="fs-idp53334576">Określ, czy następujące elementy są barierą wejścia narzuconą przez władze, barierą wejścia, która nie jest egzekwowana przez władze, czy też w ogóle nie są barierą wejścia.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp34149184">
+            <item id="UUID8c8d2134-cfc4-4b3c-6dd8-c509e2348214">
+              <para id="UUID94d9a604-a0c7-428f-6994-1f7787453308">Miasto uchwala prawo określające, ile licencji na prowadzenie taksówek zostanie wydanych.</para>
+            </item>
+            <item id="UUIDa1be4b82-ef12-4641-7229-f2cb0854775e">
+              <para id="UUIDd603754e-c52f-4555-61f9-0d0e3f441bda">Miasto uchwala prawo, zgodnie z którym wszyscy kierowcy taksówek muszą zdać test z bezpiecznej jazdy i posiadać ubezpieczenie</para>
+            </item>
+            <item id="UUIDe3063068-15eb-48e8-49f0-30735132ee48">
+              <para id="UUID5d186d82-c28c-4ecb-5322-b166142edaae">Dobrze znane logo</para>
+            </item>
+            <item id="UUID2fda6c9a-3e0f-4d96-5f55-03f1d1f89f51">
+              <para id="UUID16b48a18-a733-4849-724c-6a683dff39af">Prawa do eksploatacji źródła niezwykle czystej wody</para>
+            </item>
+            <item id="UUID1a13854d-f44a-49ea-607d-2f3489e042a9">
+              <para id="UUID8d376b2c-03df-4cf2-4fc3-3bdb0e851ac1">Branża, w której rosnące przychody ze skali produkcji występują aż do osiągnięcia wolumenu zdecydowanie przekraczającego popyt rynkowy</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp79813744">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm14985760">
+            <item id="UUIDe7e8b219-0271-4b78-4c49-fc681cd6f6a2">
+              <para id="UUID97a847ec-83a4-430d-4a2a-9a886749bde6">To jest wprowadzona przez władze bariera wejścia.</para>
+            </item>
+            <item id="UUID42a33ec6-c302-46c1-7533-9be6d5239851">
+              <para id="UUID0fd6f09b-f9c8-49c0-5cac-99fc539ff2b2">Jest to przykład prawa wprowadzonego przez władze, ale nie musi ono stanowić istotnej bariery wejścia, jeśli większość osób zainteresowanych prowadzeniem taksówki może bez problemu zdać ten test i nabyć ubezpieczenie.</para>
+            </item>
+            <item id="UUID90f5d6a5-6a3a-4dec-6ba2-623e1b61f416">
+              <para id="UUIDd3008642-1984-4804-7a0f-5c07b429e373">Znaki handlowe są chronione przepisami prawa, których egzekucją zajmuje się państwo, dlatego są barierami wejścia.</para>
+            </item>
+            <item id="UUID29a05909-583d-43d3-4fc3-643cb9869e1b">
+              <para id="UUID0a927692-28af-4dce-63c6-e1c6bc9a186a">Najprawdopodobniej nie jest to bariera wejścia, ponieważ jest wiele różnych sposobów pozyskiwania czystej wody.</para>
+            </item>
+            <item id="UUID6045a9a9-a473-4b58-6cb9-c1f583f1442c">
+              <para id="UUID8dcc060c-55a6-4e8c-6723-3b29c19bc28b">To jest bariera wejścia, ale nie jest wprowadzona przez rząd.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm2309808">
+        <problem id="fs-idp2588624">
+          <para id="UUIDad249c9b-2255-451e-451f-463c8ac38104">Załóżmy, że lokalny zakład energetyczny, prawny monopol oparty na korzyściach skali, został podzielony na cztery przedsiębiorstwa równej wielkości. Celem było wyeliminowanie monopolu i promowanie konkurencji cenowej wśród dostawców energii elektrycznej. Jak myślisz, co stanie się z cenami?</para>
+        </problem>
+        <solution id="fs-idp73749792">
+          <para id="UUID7afd3369-58f5-4160-4028-533f83b47f87">Ze względu na korzyści skali każde przedsiębiorstwo produkowałoby przy wyższym niż poprzednio koszcie przeciętnym. (Każde musiałoby zbudować własne linie przesyłowe). W rezultacie każde z przedsiębiorstw musiałoby podnieść ceny, aby pokryć wyższe koszty. Takie rozwiązanie byłoby przeciwskuteczne.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp761744">
+        <problem id="fs-idp131461840">
+          <para id="UUIDb3699258-dfec-4d35-5c1a-db021d3297f5">Gdyby parlament pewnego kraju skrócił okres ochrony patentowej z 20 do 10 lat, co najprawdopodobniej stałoby się z inwestycjami prywatnych przedsiębiorstw w badania i rozwój?</para>
+        </problem>
+        <solution id="fs-idm2538576">
+          <para id="UUIDd22af8ff-9ccd-4102-7bfe-7d1864771a8b">Krótsza ochrona patentowa sprawiłaby, że innowacje stałyby się mniej opłacalne, więc liczba badań i inicjatyw rozwojowych prawdopodobnie by się zmniejszyła.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp167896144" class="review-questions">
+      <title id="UUID6c0aa7f2-a3d6-4bce-4163-038cc41a2340">Review Questions</title>
+      <exercise id="fs-idp4850000">
+        <problem id="fs-idp4764720">
+          <para id="fs-idp20605424">Czym różni się monopol od doskonałej konkurencji?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp98371680">
+        <problem id="fs-idp7622544">
+          <para id="fs-idp107201152">Co to jest bariera wejścia? Podaj kilka przykładów.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp105904928">
+        <problem id="fs-idp51093248">
+          <para id="fs-idp84490960">Czym jest monopol naturalny?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp159912560">
+        <problem id="fs-idp74540400">
+          <para id="fs-idp159879440">Co to jest monopol oparty na przepisach prawa (prawny)?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp74133904">
+        <problem id="fs-idp96434272">
+          <para id="fs-idp50846864">Czym jest drapieżnictwo cenowe (ceny dumpingowe lub inaczej antykonkurencyjne)?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm10538960">
+        <problem id="fs-idp158114128">
+          <para id="fs-idp96432496">Czym różni się własność intelektualna od innych rodzajów własności?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp143440176">
+        <problem id="fs-idp159857392">
+          <para id="fs-idp41564592">Jakie prawne mechanizmy chronią własność intelektualną?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp74861424">
+        <problem id="fs-idp166311504">
+          <para id="fs-idp54209408">W jakim sensie monopol naturalny jest „naturalny”?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp8558192" class="critical-thinking">
+      <title id="UUID588b2167-6ff0-4af0-46ed-d85a05cd2e07">Critical Thinking Questions</title>
+      <exercise id="fs-idm28561984">
+        <problem id="fs-idm59899440">
+          <para id="fs-idp79263616">ALCOA nie ma już monopolu tak silnego jak kiedyś. Jak sądzisz, w jaki sposób doszło do osłabienia barier wejścia chroniących rynek, na którym działa to przedsiębiorstwo?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm4933440">
+        <problem id="fs-idm10251104">
+          <para id="fs-idm60427376">Dlaczego leki generyczne są znacznie tańsze niż markowe?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp77803408">
+        <problem id="fs-idp20158816">
+          <para id="fs-idp79235568">Przez wiele lat amerykański Departament Sprawiedliwości próbował rozbić duże firmy, takie jak IBM, <foreign xml:lang="en" id="UUID5e9758c1-585b-41b8-409c-218b13390505">Microsoft</foreign>, a ostatnio <foreign xml:lang="en" id="UUID97c6ef40-c6cf-4de4-764b-86aa2d567c2f">Google</foreign>, argumentując, że ich duże udziały w rynku w zasadzie czynią je monopolistami. Czy na globalnym rynku, na którym firmy amerykańskie konkurują z przedsiębiorstwami z innych krajów, ta polityka miałaby taki sam sens jak w kontekście wewnętrznym?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm31156016">
+        <problem id="fs-idm37791056">
+          <para id="UUID0bf262cd-392a-421d-598b-b7cdb696447b">Prawna ochrona własności intelektualnej ma na celu promowanie innowacji, ale niektórzy ekonomiści, np. Milton Friedman, twierdzili, że takie prawa nie są potrzebne. W Stanach Zjednoczonych nie ma ochrony własności intelektualnej przepisów kulinarnych ani projektów ubrań. Wziąwszy pod uwagę kondycję tych dwóch branż i mając na uwadze dyskusję na temat nieefektywności monopoli, czy możesz podać powody, dla których prawo własności intelektualnej może w niektórych sytuacjach zmniejszać innowacyjność?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp28042752" class="problems">
+      <title id="UUID1b952438-66c4-41dc-5494-85dc4b24e660">Problems</title>
+      <exercise id="fs-idp33877424">
+        <problem id="fs-idm66116816">
+          <para id="fs-idp110177952">Wróć do <link target-id="CNX_Econ_C09_001" document="" cmlnle:case="locative" id="UUIDfb3da82a-8dce-4968-6e0f-a685392c66c2" />. Załóżmy, że P<sub>0</sub> to 10 zł, a P<sub>1</sub> to 11 zł. Załóżmy też, że nowe przedsiębiorstwo próbuje wejść na rynek, sprzedając 4 tys. sztuk produktu. To nowe przedsiębiorstwo ma taką samą krzywą LAC jak operator zasiedziały już na rynku. Na podstawie wykresu oszacuj, jaki byłby koszt przeciętny produkcji w nowej firmie. Jeśli przedsiębiorstwo zasiedziałe będzie nadal wytwarzać 6 tys. sztuk, jaką wielkość produkcji oba podmioty dostarczą na rynek? Oszacuj, co stanie się z ceną rynkową w wyniku dostarczania produktów na rynek przez obie firmy. Ile w przybliżeniu zarobi każda z nich?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDfaa0c9ec-6341-4ebe-57d3-860cce3efb12">
+    <definition id="fs-idm39724032">
+      <term id="UUIDa58fba46-7f87-4a32-7de8-06b35fa2f000">bariery wejścia (ang. <foreign xml:lang="en" id="UUIDd54c98f7-4f94-4431-47d9-a98dd4a231b9">barriers to entry</foreign>)</term>
+      <meaning id="fs-idm77879456">
+        <para id="UUIDff50019f-1c86-4793-4904-457a0d3c3a7c">przepisy prawa, rozwiązania technologiczne lub siły rynkowe, które uniemożliwiają potencjalnym konkurentom wejście na rynek lub zniechęcają ich do tego</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDacae9e10-355b-4f95-788b-bd59e6d816dc">
+      <term id="UUID8dfda2ed-3c79-4fd0-7ce9-9ae6b89fe712">deregulacja (ang. <foreign xml:lang="en" id="UUID154bdb4a-1674-4bcb-4cce-3e0c76848d81">deregulation</foreign>)</term>
+      <meaning id="fs-idm45711872">
+        <para id="UUID7fa040d0-303f-42c9-66ea-e40c5ae6dbe2">zniesienie państwowych narzędzi kontroli nad podażą i cenami w wybranych branżach</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm74853248">
+      <term id="UUID0d8435af-9c11-4293-5a64-25a2ddc5e3a0">własność intelektualna (ang. <foreign xml:lang="en" id="UUID7e231b8f-231d-4fd1-6c9c-21fa7cf73423">intellectual property</foreign>)</term>
+      <meaning id="fs-idp35482208">
+        <para id="UUIDf158bb7e-faec-4e2f-7ae1-9ae5a5cdd3aa">zbiór praw, w tym patentów, znaków towarowych, praw autorskich i tajemnic handlowych, które chronią prawo autorów wynalazków do ich produkcji i sprzedaży</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm138131040">
+      <term id="UUID7ed02368-ca6f-4f07-7571-3ff8ccd9d243">monopol oparty na przepisach prawa (ang. <foreign xml:lang="en" id="UUIDcd4b8be0-7c97-4b6f-5031-5525001c69e7">legal monopoly</foreign>)</term>
+      <meaning id="fs-idm46681568">
+        <para id="UUIDd1fe282e-f889-4bc2-4b92-de4664dfec14">prawny zakaz konkurencji będący konsekwencją regulowanych monopoli ustanowionych przez państwo lub przepisów chroniących własność intelektualną</para>
+      </meaning>
+    </definition>
+    <definition id="UUID171decec-b663-4c1f-6c53-5fdb547f6ea7">
+      <term id="UUID11080a46-e559-4b0c-43f2-9b594a6d3e85">monopol prawny</term>
+      <meaning id="UUID5e0fcb86-8791-48c1-70c2-3ef478438789">
+        <para id="UUID825f2765-8b08-4cc0-6418-6197ae7f4cfa">patrz: monopol oparty na przepisach prawa</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm23562640">
+      <term id="UUID5e7878f2-08d8-4020-7c12-f14fa4973eba">monopol (ang. <foreign xml:lang="en" id="UUIDf0cfbc82-630d-4282-6726-b9baf7f9c1b9">monopoly</foreign>)</term>
+      <meaning id="fs-idm47394720">
+        <para id="UUID88e2d11f-ffa0-4036-60fb-eee2ca497e05">sytuacja, w której tylko jedno przedsiębiorstwo odpowiada za całą produkcję na rynku</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm34444352">
+      <term id="UUIDe612f266-63ad-4e88-6ae3-c29fe30c90b8">monopol naturalny (ang. <foreign xml:lang="en" id="UUIDd8723567-d19f-4c3e-6ad8-a76aa4807860">natural monopoly</foreign>)</term>
+      <meaning id="fs-idm123235024">
+        <para id="UUID2ecd3fbf-3363-4074-6c3a-b2d9334dd0ae">rynek, na którym to czynniki ekonomiczne, takie jak korzyści skali lub kontrola nad kluczowymi zasobami, ograniczają efektywną konkurencję</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm21117920">
+      <term id="UUIDcf0f9e0f-0182-46b0-5a59-4b1f81b26d6c">patent (ang. <foreign xml:lang="en" id="UUID0b5865e5-e4d4-407f-4c55-4e3c814248a5">patent</foreign>)</term>
+      <meaning id="fs-idm91636384">
+        <para id="UUID00a32c21-314b-4630-50a5-dc41728bcd17">reguła, zgodnie z którą wynalazca otrzymuje wyłączne prawo do wytwarzania, używania lub sprzedaży swojego wynalazku przez pewien ograniczony okres (najczęściej 20 lat)</para>
+      </meaning>
+    </definition>
+    <definition id="UUID5092012d-d84e-4fee-7289-4819f08f8a29">
+      <term id="UUID99363919-6fc2-4213-6b71-5e61dc161dc0">ceny dumpingowe</term>
+      <meaning id="UUIDcb88885c-8102-427b-7a7c-5ed29f75513e">
+        <para id="UUID965745d6-20ae-46d5-5be8-e227b08af68b">patrz: drapieżnictwo cenowe</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDb4f41c3f-2214-4c85-73c0-dcf2ba552079">
+      <term id="UUIDbf4a78a7-d697-4f0c-611c-965c39ce44e5">drapieżnictwo antykonkurencyjne</term>
+      <meaning id="UUID82bf9da2-975c-428d-5dd3-30531446c4b0">
+        <para id="UUIDc8a55ec9-7a0c-412a-5de5-23fc0502c608">patrz: drapieżnictwo cenowe</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm81400272">
+      <term id="UUID782cc467-7031-4f93-6763-5524ce3c608a">drapieżnictwo cenowe (ang. <foreign xml:lang="en" id="UUID387e6b2d-d4cc-4461-69c7-755decf31499">predatory pricing</foreign>)</term>
+      <meaning id="fs-idm98824368">
+        <para id="UUIDaa4b9d2a-affb-4bab-7cba-4aeb6047e3d9">strategia polegająca na zastosowaniu przez przedsiębiorstwo funkcjonujące na rynku dużych obniżek cen w krótkim okresie po to, by zniechęcić potencjalnych konkurentów do wejścia na zajęty przez nie rynek</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm139794752">
+      <term id="UUIDc9edfd45-83f6-4107-4c01-56fc929288c8">tajemnica handlowa (ang. <foreign xml:lang="en" id="UUID7567dc23-28a9-491c-6680-a6caf8812990">trade secret</foreign>)</term>
+      <meaning id="fs-idm31279152">
+        <para id="UUID6c37da6d-009f-4100-6787-bedbe1445999">utrzymywana przez przedsiębiorstwo w tajemnicy receptura produktu lub metoda produkcji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm144113648">
+      <term id="UUID1f373d61-9647-48ec-7a83-8186817ce8be">znak towarowy (ang. <foreign xml:lang="en" id="UUID38250ebf-ace1-4f3c-4539-6be18f5d5e87">trademark</foreign>)</term>
+      <meaning id="fs-idm21124240">
+        <para id="UUID1006e296-7319-4f0d-5f9b-7f0b46bec3f7">nazwa konkretnego towaru lub symbol (logo) identyfikujący dany produkt; może być używany wyłącznie przez firmę, która zarejestrowała ten znak towarowy</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

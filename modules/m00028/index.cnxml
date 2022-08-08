@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ueae73529-8acf-4ca0-9c1b-9a7d06813262" id="Ueae73529-8acf-4ca0-9c1b-9a7d06813262" xml:lang="en" cnxml-version="0.7">
+  <title>Produkcja w krótkim okresie</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00028</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Produkcja w krótkim okresie</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:55.275267188+00:00</md:version>
+    <md:created>2022-08-08T07:43:55.275267188+00:00</md:created>
+    <md:revised>2022-08-08T07:43:55.275267188+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>eae73529-8acf-4ca0-9c1b-9a7d06813262</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDe7c8622a-5fa6-41d0-7db6-b1b71ba3137d" class="learning-objectives">
+      <para id="eip-217">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID89e74218-bbab-4ec3-5040-d88f4595942a">
+        <item id="UUID37d6dc7e-d250-427d-478f-2733378115ff">
+          <para id="UUID69f7a8db-f007-4f75-4777-fb9a9b5b0373">Wyjaśnić koncepcję funkcji produkcji</para>
+        </item>
+        <item id="UUID68d44861-7960-4538-6859-cd40e46f4f46">
+          <para id="UUIDe46575d7-f11e-4d5a-7fbd-f361e4279c2c">Wymienić rodzaje nakładów i czynników produkcji</para>
+        </item>
+        <item id="UUID9fb5c36a-7c39-4e82-72fc-7e4145136eee">
+          <para id="UUIDe9cac57b-1988-4758-6249-ade118df61fd">Rozróżnić stałe i zmienne nakłady w procesie produkcji w krótkim okresie</para>
+        </item>
+        <item id="UUID48fcb7e1-771c-4442-4575-d1b4203a1319">
+          <para id="UUID5ab4fb68-cd73-434a-7fa7-2454887eda78">Dokonać rozróżnienia między produkcją w krótkim okresie a produkcją w długim okresie</para>
+        </item>
+        <item id="UUID3b9f69fd-a859-4737-4c34-31b72200e54b">
+          <para id="UUID101f6016-43cf-4c7e-6a60-77c2de2cbd10">Odróżnić produkt krańcowy od całkowitego</para>
+        </item>
+        <item id="UUIDd545a1a8-571f-4a17-585b-76ff6329bab9">
+          <para id="UUIDa4f69499-973e-4373-52fb-59260dfd19cd">Przedstawić koncepcję malejącej produktywności krańcowej</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID86850619-9fff-4a18-686c-552114cc1745">W tym podrozdziale chcemy zbadać związek między wytwarzanym przez przedsiębiorstwo wolumenem produkcji a kosztem jego wytworzenia. Wspomnieliśmy już, że koszt konkretnego dobra lub usługi zależy od tego, ile nakładów jest potrzebnych do ich wyprodukowania i ile te nakłady kosztują. Na pierwsze pytanie możemy odpowiedzieć, wprowadzając funkcję produkcji przedsiębiorstwa.</para>
+    <figure id="fs-id1168148721712">
+      <media alt="Na zdjęciu przedstawiona jest pizza z grzybami i rukolą." id="fs-id1168147930665">
+        <image src="../../media//CNX_Econ2e_C07_000.jpg" mime-type="image/jpeg" id="UUID626bbfd0-0074-4b4f-5d93-0b6623dbf60c" />
+      </media>
+      <caption id="UUIDafbc1f09-29d1-492e-7ab5-feb45bca70f1">Proces produkcji pizzy obejmuje takie elementy, jak: składniki potrzebne do przygotowania placka, wierzchnie dodatki, praca kucharza oraz narzędzia i materiały niezbędne do przygotowania i zaserwowania tego dania. (Źródło: Haldean Brown/Flickr Creative Commons)</caption>
+    </figure>
+    <para id="UUID69dfe01c-ee1f-482d-5e23-ffa2e70a082a">Produkcja to proces (lub znacznie częściej szereg procesów), który przedsiębiorstwo wykorzystuje do przekształcania nakładów (np. pracy, kapitału, surowców) w gotowe produkty, tj. dobra lub usługi oferowane przez firmę na rynku. Przeanalizujmy proces powstawania pizzy. Pizzaiolo (czyli kucharz formujący pizzę) potrzebuje mąki, wody i drożdży, aby zrobić ciasto. Następnie z pomidorów, przypraw i wody przygotowuje sos, którym posmaruje uformowany placek. Po nałożeniu nań sera i innych dodatków (szynki, grzybów, owoców morza itp.) pizza trafia do pieca. No właśnie, w pizzerii niezbędny jest piec opalany drewnem, jak również specjalna drewniana deska podobna do łopaty, która służy do wkładania i wyjmowania pizzy z pieca. Po upieczeniu pizzę pakuje się do pudełka (jeśli jest na wynos), a klient płaci za przygotowany produkt. Jakie są zatem nakłady (lub czynniki produkcji) wykorzystywane w procesie produkcji pizzy?</para>
+    <para id="eip-240">Ekonomiści dzielą czynniki produkcji na kilka kategorii:</para>
+    <list id="eip-100">
+      <item id="UUIDc3f77e68-2c5f-4a09-612e-9be3a3980a98">
+        <para id="UUID53f85679-1d22-4c51-4e59-65af3f893982"><term cmlnle:reference="zasoby naturalne" id="UUIDf5eea137-1641-4f3e-4d95-d22f62e72278">Zasoby naturalne (ziemia i surowce)</term> (ang. <foreign xml:lang="en" id="UUID3aca180e-3296-4669-6147-eab1c186e86b"><term cmlnle:reference="natural resources" id="UUID0fb84f9b-9cab-42a2-57af-53d55bfc977f">natural resources</term></foreign>). Składniki niezbędne do przygotowania pizzy to surowce. Należą do nich mąka, drożdże i woda do ciasta, pomidory i zioła do sosu oraz ser i inne dodatki, które dopełnią pizzę. Jeśli pizzeria korzysta z pieca opalanego drewnem, wówczas jako surowiec dodamy drewno. Gdyby piec był ogrzewany gazem ziemnym, do surowców zaliczylibyśmy gaz. Nie zapominajmy o elektryczności potrzebnej do oświetlenia kuchni. Gdybyśmy – zamiast procesu wytwarzania pizzy – analizowali proces produkcji zbóż, wśród zasobów naturalnych umieścilibyśmy ziemię, którą rolnik wykorzystuje pod uprawy.</para>
+      </item>
+      <item id="UUID8e931a06-63e8-4470-50a9-691693699301">
+        <para id="UUIDeef02144-5fdb-4d9d-4e8b-e0758d7bccb3"><term cmlnle:reference="praca" id="UUID691d6c5d-3b36-46fb-4fc7-e2c3036989cb">Praca</term> (ang. <foreign xml:lang="en" id="UUIDfed1bcd6-29ca-4bb5-5411-78bfb97adc64"><term cmlnle:reference="labor" id="UUIDd694e275-4d82-41c7-4983-dd2608fb7521">labor</term></foreign>). W kontekście produkcji praca oznacza ludzki wysiłek, zarówno fizyczny, jak i umysłowy. Praca kucharza jest najważniejszym elementem tego czynnika produkcji. Pizzaiolo musi być wystarczająco silny, aby rozwałkować ciasto, włożyć i wyjąć pizzę z piekarnika, a jednocześnie wystarczająco zręczny, aby uformować w powietrzu cienki placek. Oczywiście musi też wiedzieć, jak zrobić pizzę, jak długo ją piec i znać inne tajniki wytwarzania pizzy. Pizzeria może również zatrudniać jedną osobę lub więcej do obsługi klientów, przyjmowania zamówień i inkasowania płatności.</para>
+      </item>
+      <item id="UUID3da64d04-ca05-4660-6b0d-b782409b1f16">
+        <para id="UUIDd18294fb-3530-49c5-5ea3-5d8f527edc17"><term cmlnle:reference="kapitał" id="UUIDebdfc4e9-7baa-4587-5541-8cbbd37b1467">Kapitał</term> (ang. <foreign xml:lang="en" id="UUID41da9604-a4d9-4957-494f-79b14d6ef89d"><term cmlnle:reference="capital" id="UUIDe8aab46a-2cfd-4f08-4c31-a9201d145455">capital</term></foreign>). Gdy ekonomiści stosują ten termin, nie mają na myśli kapitału finansowego (pieniędzy), lecz kapitał fizyczny, czyli maszyny, sprzęt i budynki, których używa się w trakcie produkcji. W przypadku pizzerii kapitał obejmuje piec do pizzy, przybory kuchenne wykorzystywane przez kucharza, budynek i pozostałe niezbędne wyposażenie (np. stoły i krzesła).</para>
+      </item>
+      <item id="UUID8df42e68-de26-41e0-7bce-f0e472857782">
+        <para id="UUID051390f8-5d7d-4ccb-646f-85ff2f1773dc"><term cmlnle:reference="technologia" id="UUID2cdd4d4e-4ab2-45c1-478d-cf2b552fa492">Technologia</term> (ang. <foreign xml:lang="en" id="UUID47825f78-b140-4aea-5ed5-ae6905a69ef1"><term cmlnle:reference="technology" id="UUID063e7280-e930-45ab-6ca6-bd08ffd2b803">technology</term></foreign>). Pojęcie to odnosi się do procesu lub procesów produkcji. W jakiej proporcji pizzaiolo łączy składniki, aby zrobić idealne ciasto na pizzę? Do jakiej temperatury powinien być nagrzany piec? Jak długo należy trzymać w nim pizzę? Jaki jest najlepszy dostępny na rynku piec opalany drewnem? A może jednak lepszy będzie gazowy? Czy restauracja powinna wyrabiać własne ciasto i sos, czy może lepiej je kupić (tak jak zazwyczaj dzieje się z deserami we włoskich knajpkach)?</para>
+      </item>
+      <item id="UUIDf84992de-11e8-4fcc-6519-b616bfc484de">
+        <para id="UUIDbd296bee-c75e-4b7b-4c79-27d82e321e07"><term cmlnle:reference="przedsiębiorczość" id="UUID730c7672-1e9f-4435-4fca-cb784263a064">Przedsiębiorczość</term> (ang. <foreign xml:lang="en" id="UUIDab729060-745a-405a-4b61-9ae00bd2fd59"><term cmlnle:reference="entrepreneurship" id="UUIDee1a7859-87f5-410b-4077-48a2670f8d22">entrepreneurship</term></foreign>). Proces produkcji wymaga podjęcia wielu istotnych decyzji i dużej wiedzy, nawet w przypadku produktu tak nieskomplikowanego jak pizza. Kto podejmuje te decyzje? Ostatecznie to przedsiębiorca, osoba prowadząca działalność gospodarczą, musi się z nimi zmierzyć. Przedsiębiorczość to nic innego jak dostrzeganie potrzeb konsumentów i wymyślanie sposobów, które pozwolą zarobić pieniądze na ich zaspokajaniu. Mark Zuckerberg jako pierwszy zorientował się, że pieniądze będzie można zarobić na umożliwieniu ludziom dzielenia się z innymi szczegółami z prywatnego życia za pomocą specjalnie do tego zaprojektowanej aplikacji komputerowej. W ten sposób stworzył rynek, na którym działają media społecznościowe i niezależnie od tego, że młodzi ludzie znacznie częściej niż Facebooka używają teraz TikToka, jak również niezależnie od wątpliwości etycznych i prawnych związanych ze sprzedażą danych, które użytkownicy Facebooka dobrowolnie udostępniają w tej aplikacji, uczyniło to z Marka Zuckerberga jednego z najbogatszych ludzi na świecie. To chyba najlepszy przykład przedsiębiorczości w działaniu.</para>
+      </item>
+    </list>
+    <para id="UUIDd15bc0c7-c93a-4493-728b-432a591f774f">Koszt produkcji pizzy (lub dowolnego innego produktu) zależy od ilości kapitału, pracy, surowców i innych niezbędnych czynników produkcji oraz ceny, którą musi zapłacić przedsiębiorca za każdy z nich. Przyjrzyjmy się zatem temu problemowi nieco dokładniej.</para>
+    <para id="UUID047a0902-db64-4b96-6ae4-e66e5ad29ae5">Możemy podsumować nasze dotychczasowe rozważania w formie funkcji produkcji – wyrażenia matematycznego lub równania, które wyjaśnia relację między danymi wejściowymi a wynikami:</para>
+    <equation id="UUID1ea3822f-0f72-460d-7a2a-7f4dfd656d2d" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Q</mi><mo> = </mo><mi>f</mi><mo>[</mo><mi>N</mi><mi>R</mi><mtext>,</mtext><mspace width="0.2em" /><mi>L</mi><mtext>,</mtext><mspace width="0.2em" /><mi>K</mi><mtext>,</mtext><mspace width="0.2em" /> <mi>t</mi><mtext>,</mtext><mspace width="0.2em" /><mi>E</mi><mo>]</mo></math></equation>
+    <para id="UUIDe00f729b-0600-4df3-6fa2-ef7f1d64dde0">Funkcja produkcji daje odpowiedź na pytanie, jaką wielkość produkcji może wytworzyć przedsiębiorstwo przy różnych poziomach nakładów. Dla każdego produktu (pizzy, samochodu i zboża) można stworzyć specyficzną i unikalną funkcję produkcji. Ilość pracy wykorzystywanej przez rolnika do wyprodukowania kwintala pszenicy jest prawdopodobnie inna niż ilość pracy potrzebna do wyprodukowania samochodu. Każde przedsiębiorstwo może produkować w nieco inny sposób, więc nawet funkcje produkcji przedsiębiorstw z tej samej branży mogą być nieco inne (w jednej pizzerii wszystkie składniki pizzy wytwarzane będą w lokalu, zaś w drugiej ciasto i sos dostarczą poddostawcy). Pizzeria z konsumpcją na miejscu prawdopodobnie zużywa więcej pracy (kelnerów i osób zmywających zastawę stołową) niż restauracja produkująca wyłącznie na wynos.</para>
+    <para id="eip-353">Możemy opisać te nakłady i czynniki produkcji (oraz wiążące się z nimi koszty) jako <emphasis effect="bold">stałe</emphasis> lub <emphasis effect="bold">zmienne</emphasis>.</para>
+    <para id="UUID900ef6c6-af71-4110-48a6-592473cd5c4b"><term cmlnle:reference="nakłady (koszty) stałe" id="UUIDf55e724c-b841-4c78-49de-2a3f60ecc081">Stałe nakłady i czynniki produkcji</term> (ang. <foreign xml:lang="en" id="UUID04decd8e-7dbe-4657-668f-95ff8c175ebe"><term cmlnle:reference="fixed input" id="UUID884364d7-c8f9-4233-4243-d567f475812d">fixed inputs</term></foreign>) to takie, których ilości nie można łatwo zwiększyć lub zmniejszyć w krótkim okresie. W przykładzie z pizzą nakładem stałym jest np. lokal. Gdy przedsiębiorca podpisze umowę najmu i zobowiąże się opłacać czynsz w jakimś okresie, nie może się z niej wycofać aż do momentu jej wygaśnięcia. W krótkim okresie nie da się również znaleźć kolejnej nieruchomości, którą od razu można wykorzystać jako pizzerię. Oznacza to, że również koszt najmu pomieszczeń jest stały. Stałe nakłady określają maksymalną zdolność produkcyjną przedsiębiorstwa w krótkim okresie. Przecież nawet jeśli będziemy powiększać zatrudnienie i kupować więcej surowców, to w jednym budynku nie da się zwiększać produkcji pizzy w nieskończoność. Analogicznie jest z potencjalnym produktem możliwym do wytworzenia w danym społeczeństwie, który zdefiniowany jest przez krzywą możliwości produkcyjnych. Wskazuje ona na maksymalną wielkość produkcji, jaką społeczeństwo może wytworzyć w danym momencie przy użyciu dostępnych zasobów.</para>
+    <para id="UUIDe3cf76b9-f1ac-43ba-504b-309fa40d9277"><term cmlnle:reference="nakłady (koszty) zmienne" id="UUIDa01ff8b1-e6cc-4ba4-6e67-ce52bfb43775">Zmienne nakłady i czynniki produkcji</term> (ang. <foreign xml:lang="en" id="UUID08635ff6-5ea0-4163-7eb7-e49b1ea42a1c"><term cmlnle:reference="variable input" id="UUID878d3135-bf06-4a1f-7319-3e7c79bc7a1c">variable inputs</term></foreign>) można łatwo zwiększyć lub zmniejszyć w krótkim okresie. Aby zamówić więcej mąki, pomidorów i szynki, pizzaiolo może po prostu zadzwonić do dostawcy. Składniki do przygotowania placków są zatem nakładami zmiennymi. Właściciel może również dość szybko zatrudnić nową osobę do obsługi telefonicznych zamówień, ponieważ praca ta nie wymaga żadnych długo nabywanych umiejętności ani kwalifikacji.</para>
+    <para id="eip-480">Ekonomiści zwykle używają skróconej formy funkcji produkcji:</para>
+    <equation id="UUIDf925b18c-66a2-446d-79a2-a0469b27c21c" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Q</mi><mo> = </mo><mi>f</mi><mo>[</mo><mi>L</mi><mtext>,</mtext><mspace width="0.2em" /><mi>K</mi><mo>]</mo><mtext>,</mtext></math></equation>
+    <para id="eip-530">gdzie L reprezentuje wszystkie nakłady zmienne, zaś K – wszystkie nakłady stałe. Wynika to z przyjęcia założenia, zgodnie z którym w krótkim okresie łatwo jest zwiększać nakład pracy (<emphasis effect="bold">L</emphasis>abor), natomiast powiększanie nakładu <emphasis effect="bold">K</emphasis>apitału nie jest możliwe.</para>
+    <para id="eip-725">W konsekwencji ekonomiści analizują sytuację przedsiębiorstwa, w tym przede wszystkim poziom jego produkcji, w krótkim i w długim okresie.</para>
+    <para id="UUIDa994db95-24c5-4ecc-781a-516435f3cbc0"><term cmlnle:reference="krótki okres" id="UUID657eee9c-6798-4edd-6a83-ae9ed07732a1">Krótki okres</term> (ang. <foreign xml:lang="en" id="UUIDac306586-9052-424f-7228-478900f23426"><term cmlnle:reference="short run" id="UUIDec0db49b-e67b-4758-5a8f-bcec521f48d2">short run</term></foreign>) to czas, w którym przynajmniej niektóre czynniki produkcji są stałe. Dla pizzerii krótkim okresem będzie czas obowiązywania umowy najmu pomieszczeń, ponieważ związany bieżącą umową właściciel nie może wybrać innego lokalu.</para>
+    <para id="UUID36d7d33a-c53e-484d-7b6b-a374ab343129">W <term cmlnle:reference="długi okres" id="UUIDfdbee83d-598d-4004-6cfe-2cde64c0cd03">długim okresie</term> (ang. <foreign xml:lang="en" id="UUID77e10ac0-fb89-485a-5ded-935de5c4ea66"><term cmlnle:reference="long run" id="UUID72748cc7-7258-4f07-4b7f-4d9506d2b8ed">long run</term></foreign>) wszystkie nakłady i czynniki produkcji są zmienne. Po wygaśnięciu umowy najmu pomieszczeń na pizzerię właściciel może przenieść się do większego lub mniejszego lokalu, w zależności od popytu na przygotowywane przezeń placki.</para>
+    <para id="UUID36aedd80-35e5-4780-64be-33975250d012">Przyjrzyjmy się produkcji w krótkim okresie na konkretnym przykładzie: ścinania drzew za pomocą piły spalinowej.</para>
+    <figure id="fs-id1168143098941">
+      <media alt="Zdjęcie przedstawia dwóch drwali przy pracy." id="fs-id1168147446066">
+        <image src="../../media//CNX_Econ2e_C07_001.jpg" mime-type="image/jpeg" id="UUID27013520-371b-4138-4227-0c264b4ff6b0" />
+      </media>
+      <caption id="UUIDc5109027-3b7b-4a9e-65dd-eea392f33bfd">Zasady rządzące produkcją w krótkim okresie można omówić na przykładzie drwali ścinających drzewa.</caption>
+    </figure>
+    <para id="eip-444">Ponieważ na mocy definicji nakład kapitału jest stały w krótkim okresie, nasza funkcja produkcji ma postać:</para>
+    <equation id="UUID7c9ac242-ca60-483d-50e8-7b33cb8ab957" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Q</mi><mo> = </mo><mi>f</mi><mo stretchy="false">[</mo><mi>L</mi><mtext>,</mtext><mspace width="0.2em" /><mover><mi>K</mi><mo>−</mo></mover><mo stretchy="false">]</mo><mspace width="0.2em" /><mtext>lub</mtext><mspace width="0.2em" /><mi>Q</mi><mo> = </mo><mi>f</mi><mo stretchy="false">[</mo><mi>L</mi><mo stretchy="false">]</mo></math></equation>
+    <para id="UUID46aa7c97-09dd-46ef-7d94-a1e52ac184b7">To równanie w prosty sposób pokazuje, że wielkość produkcji (np. liczba drzew ścinanych dziennie) zależy tylko od wielkości zatrudnionej siły roboczej (np. liczby pracujących drwali), przy założeniu, że nakład kapitał jest stały (czyli dysponują oni jedną piłą spalinową). Możemy zilustrować funkcję produkcji konkretnymi wartościami, tak jak to zostało pokazane w <link target-id="UUID704d5026-a32a-a85e-0e6475bfbc94b76a" cmlnle:case="locative" id="UUID8a53faa7-4b53-4cf4-54d2-70d07be2f7c6" />.</para>
+    <table summary="Increased quantities of lumberjacks result in more trees cut. One lumberjack cuts down four trees, with marginal product (abbreviated M P) of four. Two lumberjacks cut ten trees, with a marginal product of six. Three lumberjacks cut twelve trees, with a marginal product of 2. Four lumberjacks cut thirteen trees, with a marginal product of one. Five lumberjacks also cut thirteen trees, with a marginal product of zero." id="UUID704d5026-a32a-a85e-0e6475bfbc94b76a"><title id="UUID704d5026-abac-61f4-73ecc36f1798f525">Krótkookresowa funkcja produkcji ściętych drzew</title><tgroup cols="6" id="UUID704d5026-4ec7-f687-af956767a4fa4990"><tbody id="UUID704d5026-12ba-3fd1-f17303da1c8a45c6"><row id="UUID704d5026-ffdc-9446-bb4057a45522f0d7"><entry align="center" id="UUID704d5026-7d65-8633-a260b88b4b3f386b">Liczba drwali</entry><entry align="center" id="UUID704d5026-77aa-de1e-4f43e6573d6c0636">1</entry><entry align="center" id="UUID704d5026-1817-8d51-21b366d3665eb1a2">2</entry><entry align="center" id="UUID704d5026-42d1-8c04-42b0fcbe8bc20d24">3</entry><entry align="center" id="UUID704d5026-ff25-bfd7-93ee35d22e2b2895">4</entry><entry align="center" id="UUID704d5026-f2bd-aad0-ca001c54550ae38c">5</entry></row><row id="UUID704d5026-f2b4-dc79-944d292d01bcdb33"><entry align="center" id="UUID704d5026-bb8a-f348-442e3f3bbabdaec7">Produkt całkowity (TP)</entry><entry align="center" id="UUID704d5026-7d9f-779e-a5b6acd3b3de05e5">4</entry><entry align="center" id="UUID704d5026-b6af-aa49-3ea43bb2f488fdac">10</entry><entry align="center" id="UUID704d5026-9fad-1f4b-12c7503e50e2a9f9">12</entry><entry align="center" id="UUID704d5026-ea8d-236b-134f83f23c891894">13</entry><entry align="center" id="UUID704d5026-caa2-bc5d-6b338bbd88064d8d">13</entry></row><row id="UUID704d5026-0c72-063b-0762677a539ff330"><entry align="center" id="UUID704d5026-366d-c4fb-3173de0ad591ffad">Produkt krańcowy (MP)</entry><entry align="center" id="UUID704d5026-a695-39ad-6ee7dcb6957e6941">4</entry><entry align="center" id="UUID704d5026-387f-1f49-70df270023249322">6</entry><entry align="center" id="UUID704d5026-436b-c072-d80b4816e7852803">2</entry><entry align="center" id="UUID704d5026-a9cb-d44f-871845c847ab1d1d">1</entry><entry align="center" id="UUID704d5026-0440-e888-d4a9e29d83e37d40">0</entry></row></tbody></tgroup></table>
+    <para id="UUID2aedcbdb-2e47-4333-6661-87ea95a222f9">Warto zauważyć, że do naszych rozważań wprowadziliśmy nowe pojęcia. Produkcję (Q) możemy także nazwać <term cmlnle:reference="produkcja całkowita" id="UUID342fe159-5e33-4e21-6662-0eb636baa2e4">produkcją całkowitą</term> (TP – <foreign xml:lang="en" id="UUIDaf0b6617-3099-4d2c-66c3-3c6453f6face"><term cmlnle:reference="total product" id="UUID0f2ed829-f0f2-48f3-6e81-0426e7606691">total product</term></foreign>), co oznacza wielkość produkcji wytworzoną przy danej ilości pracy i stałej ilości kapitału. W tym przykładzie jeden drwal używający piły może ściąć cztery drzewa w ciągu godziny. Dwóch drwali, mając do dyspozycji jedną piłę, może ściąć w tym samym okresie dziesięć drzew. Dzieje się tak dlatego, że podczas gdy pierwszy pracuje przy ścinaniu, drugi wyszukuje kolejne drzewa nadające się do ścięcia. Mogą się również zmieniać przy pracy, dzięki czemu mniej się męczą i pracują wydajniej.</para>
+    <para id="UUID21148ed3-d90c-4fce-9933-5350eaeeb8a0">Powinniśmy również wprowadzić bardzo ważne pojęcie: <term cmlnle:reference="produkt marginalny (krańcowy)" id="UUID2b296ba7-e1fd-434c-791e-78a11ab8f0a6">produkt krańcowy (marginalny)</term> (ang. <foreign xml:lang="en" id="UUIDf2974439-074e-40ce-7e90-71b945cf8f55"><term cmlnle:reference="marginal product" id="UUID23c7497b-4b11-480e-76be-45fc9b03466e">marginal product</term></foreign>). Produkt krańcowy to dodatkowa produkcja, która zostaje wytworzona dzięki zatrudnieniu kolejnego pracownika. Produktu krańcowego nie należy jednak utożsamiać z konkretnymi dobrami lub usługami, które wytworzyła nowo zatrudniona osoba. Przecież dodatkowe 6 ściętych drzew w naszym przykładzie zostało wyprodukowane przez dwóch drwali. Przyrost produkcji był możliwy dzięki zatrudnieniu kolejnego pracownika, ale nie jest on efektem <emphasis effect="bold">wyłącznie</emphasis> jego pracy. W ujęciu matematycznym produkt krańcowy to przyrost produktu całkowitego podzielony przez przyrost nakładu pracy:</para>
+    <equation id="UUID816412a2-8ea4-4fc0-7c8c-e3debe515473" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mi>P</mi><mo> = </mo><mi>Δ</mi><mi>(T</mi><mi>P)</mi><mo>/</mo><mi>Δ</mi><mi>L</mi></math></equation>
+    <para id="UUID21148ed3-d90c-4fce-4d30-5350eaeeb8a0">W powyższej tabeli, ponieważ 0 pracowników ścina 0 drzew, produkt krańcowy pierwszego pracownika to cztery drzewa dziennie, ale produkt krańcowy drugiego pracownika to sześć drzew dziennie. Dlaczego tak się dzieje? Jak wskazaliśmy powyżej, wynika to z charakteru omawianego procesu produkcyjnego. Załóżmy, że dodamy do tej historyjki trzeciego drwala. Jaki będzie produkt krańcowy tej osoby? Co ta osoba wniesie do zespołu? Może na przykład dbać o dostarczanie paliwa, dzięki któremu piła mechaniczna działa, albo przynosić wodę, którą orzeźwiać się będą koledzy. Trzeci pracownik umożliwi również jeszcze częstsze zmiany przy ścinaniu, co uczyni pracę każdego z drwali szybszą. Wartości, które zostały wskazane w tabeli, pozwalają na sformułowanie niezwykle ważnego wniosku dotyczącego produkcji w krótkim okresie. Wraz ze wzrostem liczby zatrudnionych osób produkt krańcowy początkowo rośnie, ale wcześniej czy później nieuchronnie zaczyna maleć. Od pewnego poziomu zatrudnienia każdy kolejny pracownik nie przekłada się już na wzrost wielkości produkcji albo jego wpływ na produkt całkowity jest ujemny. Wniosek ten nazywany jest <term cmlnle:reference="prawo malejącego produktu krańcowego" id="UUID6507a5ae-096d-4565-5b1c-9d52fce27581">prawem malejącego produktu krańcowego</term> (ang. <foreign xml:lang="en" id="UUIDe2d0cc89-40f1-4d32-7f60-77028e93b854"><term cmlnle:reference="law of diminishing marginal product" id="UUID03fe91c7-333b-4aa3-4aa9-f1170e288d4b">law of diminishing marginal product</term></foreign>) i jest immanentną cechą produkcji w krótkim okresie.</para>
+    <para id="UUID39561727-64bf-4a48-625c-877497be4e0e">Koncepcja malejącej produktywności krańcowej jest bardzo podobna do malejącej użyteczności krańcowej, o której była mowa w rozdziale dotyczącym wyboru konsumenta. Obie z kolei są przykładami bardziej ogólnej koncepcji malejących przychodów krańcowych. Dlaczego produktywność krańcowa maleje? Dzieje się tak ze względu na stały nakład kapitału (szerzej – na nakłady stałych czynników produkcji). Wrócimy do tego zagadnienia, gdy w jednym z kolejnych podrozdziałów będziemy omawiać produkcję w długim okresie.</para>
+    <para id="UUID3f5414ff-96e1-4119-4991-dc54fc01d2ab">Prawo malejącego produktu krańcowego możemy również przedstawić graficznie, na przykład tak, jak na <link target-id="fs-id1169820082704" cmlnle:case="locative" id="UUIDe171b962-3243-4613-4021-d2c21f888f65" /> i <link target-id="fs-id1169819510579" cmlnle:case="locative" id="UUID4708de4e-3f46-46de-6a46-7476599656e1" />. <link target-id="fs-id1169820082704" cmlnle:case="nominative" id="UUID705ecda9-f6aa-420d-5a52-f5bd4cd765db" /> wykorzystuje dane z <link target-id="UUID704d5026-a32a-a85e-0e6475bfbc94b76a" cmlnle:case="genitive" id="UUID3dc51b03-15e3-4792-7650-54a2b73c1937" />. Natomiast <link target-id="fs-id1169819510579" id="UUID2cc83ff3-fce1-45dd-7afd-b64102f8ea0b" /> przedstawia bardziej ogólne przypadki krzywych produktu całkowitego i krańcowego.</para>
+    <para id="UUID20cbd7df-4023-45f1-6727-867897d18d2e" />
+    <figure id="fs-id1169820082704">
+      <media alt="Panel górny wykresu przedstawia całkowitą produkcję ściętych drzew. Na osi pionowej odłożona jest liczba ściętych drzew, zaś na osi poziomej liczba zatrudnionych drwali. Początkowo łączna liczba ściętych drzew szybko rośnie wraz ze wzrostem zatrudnienia, ale od czwartego zatrudnionego drwala przestaje się zmieniać. Natomiast panel dolny wykresu przedstawia produkt krańcowy związany z zatrudnieniem każdego z drwali. Ponownie, na osi pionowej odłożona jest liczba drzew, zaś na osi poziomej wielkość zatrudnienia. Początkowo krańcowy produkt pracy każdego z drwali rośnie, zaś od trzeciego zatrudnionego zaczyna szybko spadać. Piąty zatrudniony drwal nie przyczynia się od powstania żadnego dodatkowego (krańcowego) produktu. W jego przypadku produkt krańcowy jest równy zero." id="fs-id1169820381951">
+        <image src="../../media//CNX_Econ2e_C7_004.svg" mime-type="image/svg+xml" id="UUIDf84ed8f1-2cb4-4b61-43b9-94cadee9aa9e" />
+      </media>
+      <caption id="UUID526bd953-6417-44f8-6901-3a76dba795e5">Prawo malejącego produktu krańcowego: całkowita produkcja drzew w krótkim okresie (na górze), krańcowa produkcja drzew (na dole).</caption>
+    </figure>
+    <figure id="fs-id1169819510579">
+      <media alt="Wykres na obu panelach przedstawia wygładzone wersję przebiegu funkcji produktu całkowitego (panel górny) i produktu krańcowego (panel dolny). Oznaczenie osi jest analogiczne jak na poprzednim wykresie." id="fs-id1169819347233">
+        <image src="../../media//CNX_Econ2e_C7_005.svg" mime-type="image/svg+xml" id="UUID8cb15616-4229-43a8-7d7b-9dcb0b64cc34" />
+      </media>
+      <caption id="UUID1097af14-41a0-4fc5-4aaa-011e2e3b54c8">Krzywe produktu całkowitego (na górze) i produktu krańcowego (na dole).</caption>
+    </figure>
+    <section id="fs-id4331933" class="summary">
+      <title id="UUIDe9b546d7-148c-4180-622a-fa134e83025a">Key Concepts and Summary</title>
+      <para id="UUID573b13ce-0498-40a4-779f-9f69778d38a8">Produkcja to seria toczących się w przedsiębiorstwie procesów, które prowadzą do przekształcania nakładów i czynników produkcji (np. pracy, kapitału, surowców itp.) w dobra i usługi, jakie będzie można zaoferować nabywcom na rynku. Zmiana nakładu stałych czynników produkcji (przede wszystkim kapitału) w krótkim okresie jest niemożliwa. Przyrost produkcji w krótkim okresie jest zatem konsekwencją rosnącego nakładu zmiennych czynników produkcji, przede wszystkim wzrostu liczby zatrudnionych pracowników. Produkt krańcowy to dodatkowa produkcja, którą przedsiębiorstwo uzyskuje, zatrudniając kolejne jednostki siły roboczej (dodatkowych ludzi). Dla każdej funkcji produkcji w krótkim okresie wzrost zatrudnienia powyżej pewnego poziomu doprowadzi do spadku produktu krańcowego – kolejni zatrudniani pracownicy będą przyczyniać się do coraz mniejszych przyrostów produkcji całkowitej. Z matematycznego punktu widzenia produkcja krańcowa to nachylenie krzywej produkcji całkowitej.</para>
+    </section>
+    <section id="fs-idm476761328" class="review-questions">
+      <title id="UUID7f02e384-0252-4642-6eab-085bed37d6ec">Review Questions</title>
+      <exercise id="eip-865">
+        <problem id="eip-140">
+          <para id="eip-617">Co to jest funkcja produkcji?</para>
+        </problem>
+      </exercise>
+      <exercise id="eip-661">
+        <problem id="eip-947">
+          <para id="eip-939">Jaka jest różnica między stałymi a zmiennymi nakładami (czynnikami produkcji)?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID9f7aa573-f6b7-43d8-686e-7d586054c29a">
+    <definition id="fs-id1166742187022">
+      <term id="UUIDe799626c-c838-42cb-63c3-64737ca43b3f">malejąca produktywność krańcowa (ang. <foreign xml:lang="en" id="UUID14151cef-88c3-4e4a-7a62-8c419b1a16f5">diminishing marginal productivity</foreign>)</term>
+      <meaning id="fs-id1166742154447">
+        <para id="UUIDd937adef-1265-49d0-6dd7-83d591e7da37">ogólna zasada, zgodnie z którą zatrudnianie kolejnych jednostek siły roboczej przy stałym zasobie kapitału prowadzi do coraz mniejszych przyrostów produktu całkowitego</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id7093140">
+      <term id="UUID5fe208d3-264b-443c-7818-b1090702ad19">czynniki produkcji (lub nakłady) (ang. <foreign xml:lang="en" id="UUID25f415b8-d6b8-4a08-48d9-eaa550c0099d">factors of production [or inputs</foreign>])</term>
+      <meaning id="fs-id1211588">
+        <para id="UUID29badfc5-88ab-4104-6630-e7bddc54617f">zasoby, które przedsiębiorstwa wykorzystują do wytwarzania swoich produktów, np. praca i kapitał</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id1164567565507">
+      <term id="UUID403a3a11-ba72-4227-7cda-bc079a7ac385">nakłady (koszty) stałe (ang. <foreign xml:lang="en" id="UUID059ca6f2-dd9d-4c4d-5cf5-b2536759ec0e">fixed inputs</foreign>)</term>
+      <meaning id="fs-id1164567565652">
+        <para id="UUID2bd89ffd-ac94-4208-5d0c-c116b6560c23">czynniki produkcji, których wielkości zatrudnienia w krótkim okresie nie można łatwo zwiększyć lub zmniejszyć</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id1168119498237">
+      <term id="UUID0e3f8c83-b537-423e-68a4-023273a893f4">produkt krańcowy (ang. <foreign xml:lang="en" id="UUID48ed351b-e563-4935-4405-b3616c8f49ac">marginal product</foreign>)</term>
+      <meaning id="fs-id1168114583507">
+        <para id="UUID38f7e662-eb4a-4f7f-6ae0-de64e920cd6b">zmiana wielkości produkcji całkowitej w przedsiębiorstwie wynikająca ze wzrostu zatrudnienia o jednostkę; matematycznie MP = ΔTP / ΔL</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

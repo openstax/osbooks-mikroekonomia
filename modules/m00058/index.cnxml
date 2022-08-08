@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U41de00b1-f5af-4cea-86dc-811719101526" id="U41de00b1-f5af-4cea-86dc-811719101526" xml:lang="en" cnxml-version="0.7" class="bringhome economics">
+  <title>Problem niedoskonałej informacji i asymetrii informacji</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00058</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Problem niedoskonałej informacji i asymetrii informacji</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.893212106+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.893212106+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.893212106+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>41de00b1-f5af-4cea-86dc-811719101526</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDdb0b5c04-b08d-4e63-5ea1-ba0e4ec33298" class="learning-objectives">
+      <para id="fs-idm15906208">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUIDc83d2e4e-7073-4a7a-4c0f-2e5b6a381e5b">
+        <item id="UUID7f4b251f-989e-4107-72a4-506a13603f31">
+          <para id="UUID743ac6e6-95d7-4a71-6a61-41b25dd598c0">Przeanalizować wpływ niedoskonałej informacji i asymetrii informacji na równowagę rynkową</para>
+        </item>
+        <item id="UUID206ba599-029a-4ff6-4ed8-35299b90cb34">
+          <para id="UUIDa66bf3c9-6cf8-4b69-6e63-cc54d61177b2">Ocenić rolę kampanii marketingowych w kreowaniu zjawiska asymetrii informacji</para>
+        </item>
+        <item id="UUID747aaf10-72d2-4b3e-61ce-9bbe3f372b4e">
+          <para id="UUID6f7ae43b-ab3b-46ec-7fa7-1f2f64cf6e81">Zidentyfikować sposoby służące ograniczaniu problemu niedoskonałej informacji</para>
+        </item>
+        <item id="UUID7de19a13-fbae-46ff-7268-966f10cd67f2">
+          <para id="UUIDe1903668-e5c3-4838-6b0f-adacf6fc3ae8">Wyjaśnić, w jaki sposób niedoskonała informacja wpływa na jakość dóbr i usług, a także wielkość produkcji i cenę w warunkach równowagi rynkowej</para>
+        </item>
+        <item id="UUID41f826e3-c4ca-4f51-44de-d334bbd249b8">
+          <para id="UUIDec828a48-f549-45bb-5203-8031e9ce75e0">Zdefiniować zjawiska pokusy nadużycia i negatywnej selekcji</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID799bb393-3a8e-4cf1-59dd-fd4470dfb325">Pomyślmy o zakupach dokonywanych przez wiele osób w internecie. Ten specyficzny kanał dystrybucji nie dość, że naraża nas na oszustwa (sprzedający w ogóle nie dostarczy nam produktu, za który zapłaciliśmy), to jeszcze nie pozwala nabywcy na kompleksową ocenę jakości, stanu technicznego i innych parametrów wpływających na cenę kupowanego dobra. W związku z tym wielu kupujących ma do czynienia z <term cmlnle:reference="asymetria informacji" id="UUIDdabaea7c-f36e-45b2-6d08-f5d9731e2bba">asymetrią informacji</term> (ang. <foreign xml:lang="en" id="UUID1cb8a726-c9e4-43ce-596d-cdc5764a4b9a"><term cmlnle:reference="asymmetric information" id="UUID2c5c4a4b-03a4-429f-4cf0-a544efc63ded">asymmetric information</term></foreign>), czyli sytuacją, gdy dwie strony zaangażowane w transakcję rynkową mają nierówny dostęp do informacji (jedna strona wie znacznie więcej niż druga). Ten sam mechanizm pojawia się na rynku używanych samochodów, antyków, usług turystycznych itd.</para>
+    <para id="fs-idp3956992">Wiele transakcji odbywa się w warunkach <term cmlnle:reference="niedoskonała informacja" id="UUID1aadb423-6d39-46fc-65c0-375a6e5ad9c4">niedoskonałej informacji</term> (ang. <foreign xml:lang="en" id="UUIDeee4569c-6d17-4ab1-45c2-f47e35ffce9d"><term cmlnle:reference="imperfect information" id="UUID39d9abb1-490d-472c-4e9b-867244344647">imperfect information</term></foreign>), czyli w sytuacji, gdy nabywca, sprzedawca lub obie strony nie są w 100% pewne, jaka jest jakość kupowanych lub sprzedawanych produktów. Zacznijmy od kilku przykładów, które pokażą, jak niedoskonała informacja komplikuje transakcje na rynkach dóbr, pracy i <term cmlnle:reference="rynek kapitału finansowego" id="UUID3840084e-e335-4035-4aa3-16bc73d97665">kapitału finansowego</term> (ang. <foreign xml:lang="en" id="UUIDd333f6dc-c5eb-4959-4e16-0e23d333b22e"><term cmlnle:reference="financial capital market" id="UUIDb9d17540-72ec-4b1e-44a6-98f506be00dd">financial capital market</term></foreign>). Niedoskonała informacja może łatwo doprowadzić do spadku ceny lub ilości sprzedawanych produktów. Jednak nabywca i sprzedawca mają również motywację do tworzenia mechanizmów, które pozwolą im dokonywać obopólnie korzystnych transakcji nawet w obliczu niedoskonałej informacji.</para>
+    <para id="fs-idm30150864">Jeśli nie masz pewności, czym różni się asymetria informacji od niedoskonałej informacji, przeczytaj poniższą <link target-id="fs-idp52549392" cmlnle:case="accusative" id="UUID9b777d14-8af9-4099-595f-5d7c9262bbf6" />.</para>
+    <note type="note" id="fs-idp52549392" class="clearup economics">
+      <title id="UUIDa7d767e8-0833-433d-501e-276e63dd5c27">Jaka jest różnica między niedoskonałą informacją a asymetrią informacji?</title>
+      <para id="fs-idm12723824">Aby rynek osiągnął równowagę, sprzedający i kupujący muszą mieć pełną informację o cenie, jakości produktu i innych czynnikach istotnych dla transakcji. Jeśli informacje są ograniczone, kupujący i sprzedający mogą nie być w stanie przeprowadzić transakcji lub podjąć złe decyzje.</para>
+      <para id="fs-idm13012672">Z niedoskonałą informacją mamy do czynienia wówczas, gdy kupujący i/lub sprzedający nie posiadają wszystkich informacji niezbędnych do podjęcia świadomej decyzji. Asymetria informacji występuje, gdy jedna strona, kupujący lub sprzedający, ma więcej informacji o jakości lub cenie produktu niż druga. W obu przypadkach (niedoskonała informacja i asymetria informacji) nabywca lub sprzedawca potrzebują narzędzi, aby podejmować bardziej świadome decyzje.</para>
+    </note>
+    <section id="fs-idp211860480">
+      <title id="UUID74d5447f-dc73-4b9d-6b5f-3b742185feae">Rynek tandety i inne przykłady niedoskonałej informacji</title>
+      <para id="fs-idp103586288">Spróbujmy postawić się w sytuacji Marka, który zastanawia się nad kupnem używanego samochodu. Załóżmy, że Marek nie ma bladego pojęcia, jak działa silnik spalinowy, w związku z czym nie będzie w stanie zorientować się w ewentualnych usterkach. Jest gotów zainwestować swój czas w czytanie raportów konsumenckich lub sprawdzanie stron internetowych zawierających informacje o markach i modelach używanych aut oraz ich cenach. Mógłby również zapłacić mechanikowi za sprawdzenie wozu, który mu się spodoba. Jednak nawet poświęcając pieniądze i czas na zbieranie informacji, Marek nadal nie może być absolutnie pewien, że kupi używany samochód w dobrym stanie. Wie, że może nabyć auto, pojechać nim do domu, używać przez kilka tygodni i dopiero wtedy odkryć, że jego samochód to „tandeta” (angielskim terminem określającym taki produkt jest <emphasis effect="italics" /><foreign xml:lang="en" id="UUID305e648a-071d-41fc-5d82-b8c14d6e689c"><emphasis effect="italics">lemon</emphasis></foreign>, czyli cytryna, ze względu na to, że w starych automatach hazardowych, tzw. jednorękich bandytach, cytryny oznaczały przegraną).</para>
+      <para id="fs-idp71527872">Wyobraź sobie, że Marek szuka używanego samochodu i znajduje dwa, które wyglądają bardzo podobnie, mają zbliżony przebieg, wiek i inne parametry (pojemność silnika, spalanie itd.) stanowiące o cenie. Jeden samochód kosztuje 40 tys., a drugi 46 tys. zł. Który z nich Marek powinien kupić?</para>
+      <para id="fs-idp162554288">Gdyby Marek wybierał w świecie doskonałej informacji, odpowiedź byłaby prosta: powinien kupić auto tańsze. Jednak Marek działa w warunkach niedoskonałej informacji, w świecie, w którym sprzedawcy prawdopodobnie wiedzą więcej o problemach technicznych samochodu i mają motywację do ukrywania takich informacji. W końcu im więcej problemów ujawnią potencjalnemu nabywcy, tym niższa będzie cena samochodu.</para>
+      <para id="fs-idp95769504">Co powinien zrobić Marek? Po pierwsze, musi zrozumieć, że nawet przy niedoskonałej informacji ceny nadal mają pewną wartość informacyjną. Używane samochody są zazwyczaj droższe u dealerów posiadających dobrą reputację. Tacy sprzedawcy, chcąc utrzymać swoją markę na rynku, starają się informować klientów o wszystkich potencjalnych problemach sprzedawanych aut, aby nie stracić renomy. Krótkookresowe korzyści ze sprzedaży szmelcu mogą bowiem spowodować szybką utratę reputacji i tym samym spadek zysków w długim okresie. U innych dealerów, o mniej ugruntowanej pozycji rynkowej, można znaleźć tańsze używane samochody, ale kupujący ponosi większe ryzyko, gdyż takie firmy mniej troszczą się o opinię klientów (konkurują ceną, a nie jakością). Najtańsze samochody pojawiają się zwykle w internetowych serwisach ogłoszeń, w których indywidualny sprzedawca nie ma żadnej reputacji. Podsumowując, niższe ceny niosą ze sobą większe ryzyko, więc Marek powinien ocenić, czy bardziej zależy mu na niskiej cenie, czy też woli zmniejszyć prawdopodobieństwo niedogodności wynikających z konieczności naprawy dopiero co kupionego samochodu.</para>
+      <para id="fs-idp145159152">Podobne problemy z niedoskonałą informacją pojawiają się na rynku pracy i na rynku kapitału finansowego. Tym razem przeanalizujmy sytuację Grażyny, która stara się o pracę. Jej potencjalny pracodawca, podobnie jak nabywca używanego samochodu, obawia się nabycia „tandety”, czyli w tym przypadku zatrudnienia leniwego pracownika, który nie posiada wiedzy, kwalifikacji i umiejętności niezbędnych na wakującym stanowisku. Pracodawca może zebrać informacje o wykształceniu i doświadczeniu zawodowym Grażyny, jednak pewien stopień niepewności co do jej umiejętności i zaangażowania w wykonywane obowiązki pozostanie. W jaki sposób potencjalny pracodawca może sprawdzić takie cechy jak motywacja, terminowość i umiejętność współpracy z innymi? Przedstawiciele działów kadr często wykorzystują informacje o ukończonych szkołach i uczelniach w celu wstępnej selekcji kandydatów. Pracodawcy mogą uznać nagrody, wysoką średnią ocen i inne wyróżnienia jako oznakę gotowości do ciężkiej pracy, wytrwałości i nabytej wiedzy. Mogą też prosić o referencje od poprzednich pracodawców w celu sprawdzenia takich cech jak terminowość realizacji powierzonych zadań i etyka pracy.</para>
+    </section>
+    <section id="fs-idp102134624">
+      <title id="UUID667fcbc8-a98e-4dc5-5bac-0934004fad13">Jak niedoskonała informacja może wpłynąć na cenę i ilość w stanie równowagi rynkowej?</title>
+      <para id="fs-idp220497040">Niedoskonała informacja może zniechęcić zarówno kupujących, jak i sprzedających do dokonania transakcji rynkowej. Nabywcy mogą nie chcieć uczestniczyć w wymianie, nie będąc w stanie sprawdzić jakości tego, co kupują. Z kolei sprzedawcy produktów wysokiej lub średniej klasy mogą być nieskorzy do udziału w transakcji z powodu trudności z udowodnieniem jakość oferowanych przez nich dóbr lub usług; w takiej sytuacji kupujący nie będą chcieli zapłacić wyższej ceny, nie mając gwarancji jakości nabywanych towarów.</para>
+      <para id="fs-idp156701824">Rynek, na którym jest niewielu kupujących i sprzedających, ekonomiści nazywają czasem <term cmlnle:reference="rynek wąski" id="UUIDa316d74d-1cae-4cd9-626f-3d403b7cd806">rynkiem wąskim</term> (ang. <foreign xml:lang="en" id="UUID853e6428-6ff6-4e1c-4958-7a200991ed7b"><term cmlnle:reference="thin market" id="UUID57b1aa0b-fe99-4e6a-758c-bfed78492f0b">thin market</term></foreign>). Natomiast rynek, na którym jest wielu kupujących i sprzedających, jest nazywany <term cmlnle:reference="rynek szeroki " id="UUID1f3d3a4b-ce8c-4582-7472-febb4ce7349f">szerokim rynkiem</term> (ang. <foreign xml:lang="en" id="UUID7fdb3c80-a848-40d2-6988-7c37088e5589"><term cmlnle:reference="thick market" id="UUIDa8ee8dce-dcd8-4377-4cb9-5bad8ee74b48">thick market</term></foreign>). Kiedy informacja jest wysoce niedoskonała, a nabywcy i sprzedawcy niechętnie uczestniczą w wymianie, rynki mogą stać się bardzo wąskie, ponieważ tylko stosunkowo niewielka liczba kupujących i sprzedających może dojść do porozumienia i ustalić cenę transakcji.</para>
+    </section>
+    <section id="fs-idm89523456">
+      <title id="UUID5cb48e15-3463-4699-7943-64f6cb6e7557">Jak cena zmienia postrzeganie jakości produktów w warunkach niedoskonałej informacji?</title>
+      <para id="fs-idm107241808">W obliczu niedoskonałej informacji nabywca często uważa, że cena odzwierciedla jakość produktu. Na przykład kupujący, nawet jeśli nie jest ekspertem znającym się na elektronice i motoryzacji, może założyć, że droższy samochód lub gadżet elektroniczny muszą reprezentować wyższą jakość. Pomyśl o drogiej restauracji, w której jedzenie musi być dobre, bo jest drogie, lub o sklepie, w którym ubrania muszą być stylowe, ponieważ dużo kosztują. Albo o galerii, w której wystawa musi być świetna, skoro ceny biletów są wysokie. Jeśli zatrudniasz prawnika, możesz przypuszczać, że pobierający 400 zł za godzinę jest lepszy od tego, który życzy sobie tylko 150 zł. W takich przypadkach cena może być sygnałem jakości. Zwróć uwagę, że ten mechanizm działa tylko wówczas, gdy trudno jest obiektywnie ocenić jakość produktów. Cóż to bowiem znaczy świetna wystawa lub stylowe ubranie? Chcemy wierzyć, że płacimy za dane dobro wysoką cenę, bo ma ono wysoką jakość. Być może jest jednak tak, że pewne specyficzne produkty mają wysoką jakość, bo klienci bardzo dużo za nie płacą (najlepszym przykładem tego mechanizmu są dzieła sztuki, szczególnie nowoczesnej). Jeśli jednak potrafimy ocenić jakość konkretnego produktu (np. chleba), wtedy cena nie będzie dla nas sygnałem odzwierciedlającym jego jakość. Tyle że w tej sytuacji nie będziemy mieć do czynienia z niedoskonałą informacją.</para>
+      <para id="fs-idm38016592">Kiedy nabywcy wykorzystują cenę rynkową do wyciągania wniosków na temat jakości produktów, rynki mogą mieć problem z osiągnięciem ilości i ceny równowagi. Wyobraź sobie pewną sytuację: oto dealer samochodów ma „na placu” dużo używanych aut, których nikt nie chce kupić. Postanawia więc obniżyć ceny, aby się ich wreszcie pozbyć. Na rynku z niedoskonałą informacją wielu kupujących może przypuszczać, że niższa cena oznacza samochody niskiej jakości. W efekcie niższa cena może wręcz zniechęcić potencjalnych klientów. I odwrotnie, dealer podnoszący ceny może założyć, że klienci uznają, iż większa cena oznacza wyższą jakość. W takiej sytuacji, w wyniku wzrostu cen, dealer może sprzedać więcej samochodów. (To, czy konsumenci zawsze zachowują się racjonalnie, przynajmniej z punktu widzenia ekonomisty, jest tematem poniższej <link target-id="fs-idm103554096" cmlnle:case="genitive" id="UUID6e2a7e6a-293f-477f-5083-a8136e85ed35" />).</para>
+      <para id="fs-idp6104288">Koncepcja, zgodnie z którą wyższe ceny mogą doprowadzić do wzrostu zapotrzebowania, a niższe przynieść jego spadek, stoi w sprzeczności z podstawowym modelem popytu i podaży (jaki nakreśliliśmy w rozdziale <link document="m00011" id="UUID96c13ec3-a578-40d3-7549-485e67909e1e">Introduction to Demand and Supply</link>). Oczywiście, opisany powyżej mechanizm również ma swoje naturalne granice. W pewnym momencie, jeśli cena będzie wystarczająco wysoka, popyt spadnie. I odwrotnie, gdy cena spadnie do wystarczająco niskiego poziomu, kupujący będą widzieli sens zakupu dobra, nawet podejrzewając, że jakość produktu jest niska. Ponadto informacje rozprzestrzeniają się wśród nabywców na rynku. Zbyt droga restauracja, która pobiera wyższe ceny, niż wynikałyby to z jakości posiłków, nie będzie działać wiecznie. Choć liczba snobów, którzy kupią dobro lub usługę tylko dlatego, że jest ona modna, mogłaby nas zadziwić.</para>
+      <note type="note" id="fs-idm103554096" class="clearup economics">
+        <title id="UUID64415f30-9fd0-4493-61b8-60d54e492a49">Czy zachowanie konsumentów jest racjonalne?</title>
+        <para id="fs-idm92398624">Ekonomiści głównego nurtu wiele naszych zachowań zwykli nazywać irracjonalnymi, ponieważ są one sprzeczne ze stosowanymi przez nich modelami <term cmlnle:reference="maksymalizacja użyteczności" id="UUID545dd837-3171-42e9-7f4a-1fd6dd664aa3">maksymalizacji użyteczności</term> (ang. <foreign xml:lang="en" id="UUIDd0f877a0-5eb1-4b11-5455-5be41c187bf4"><term cmlnle:reference="utility maximization" id="UUID37bada9a-cb1f-43bd-78e7-eab8d600fe49">utility maximization</term></foreign>). Typową reakcją takich badaczy jest ignorowanie tych zachowań i nazywanie ich anomalią lub niewyjaśnionymi dziwactwami.</para>
+        <para id="fs-idm46950592">„Gdybyś tylko znał się na ekonomii, nie zachowywałbyś się tak irracjonalnie” – wydaje się mówić wielu tradycyjnych ekonomistów. Nurt znany jako <term cmlnle:reference="ekonomia behawioralna" id="UUID366499d9-9224-4590-6021-9e5baf0771c5">ekonoma behawioralna</term> (ang. <foreign xml:lang="en" id="UUIDca465587-aa32-4f61-53da-8437c803d8d3"><term cmlnle:reference="behavioral economics" id="UUID9ac91e64-0a58-4180-6386-d054ee46d145">behavioral economics</term></foreign>) zakwestionował takie podejście, ponieważ wiele tzw. dziwactw jest wśród nas zaskakująco popularnych. Na przykład konwencjonalny ekonomista powiedziałby, że jeśli ktoś zgubi dzisiaj 10 zł oraz otrzyma dodatkową wypłatę w tej samej kwocie, jego nastrój nie powinien się zmienić. Wszak (–10) + 10 = 0 [zł], więc sytuacja finansowa pozostaje taka sama. Jednak ekonomiści behawioralni przeprowadzili badania, które pokazują, że po wystąpieniu tych dwóch zdarzeń wiele osób odczuje negatywne emocje – gniew lub frustrację. Mamy bowiem tendencję do skupiania się bardziej na stracie niż na zysku. Ekonomiści Daniel Kahneman i Amos Tversky w słynnym artykule opublikowanym w czasopiśmie <emphasis effect="italics">Econometrica</emphasis> w 1979 r. nazwali to „awersją (niechęcią) do strat” i wykazali, że strata 1 dolara boli nas 2,25 razy bardziej niż zysk w tej samej wysokości. Ma to istotne konsekwencję dla procesów inwestycyjnych, ponieważ ludzie są skłonni do przesadnych zachowań na rynku akcji, mocniej reagując na straty niż na zyski.</para>
+        <para id="fs-idm48029392">Ekonomia behawioralna stara się również wyjaśnić, dlaczego ludzie podejmują pozornie irracjonalne decyzje w obliczu różnych sytuacji lub jakie schematy zachowań stosują przy ich podejmowaniu. Poniżej przedstawiamy popularny przykład: Wyobraź sobie, że masz okazję kupić budzik za 200 zł w sklepie A. Dowiadujesz się, że w sklepie B, znajdującym się po drugiej stronie ulicy, jest dokładnie taki sam budzik za 150 zł. Można powiedzieć, że warto poświęcić swój czas – pięciominutowy spacer – aby zaoszczędzić 50 zł. A teraz inny przykład: jesteś w sklepie A i kupujesz telefon za 3 tys. zł. Pięć minut drogi dalej, w sklepie B, ten sam telefon kosztuje 2950 zł. Znowu oszczędzasz 50 zł, wykonując pięciominutowy spacer. Czy jednak pójdziesz na drugą stronę ulicy?</para>
+        <para id="fs-idm58022784">Zaskakujące jest, że prawdopodobnie tego nie zrobisz. Ekonomiści głównego nurtu powiedzieliby, że „50 złotych to 50 złotych” i że byłoby irracjonalne, aby pięciominutowy spacer za 50 zł w jednym przypadku podjąć, a w drugim już nie. Jednak ekonomiści behawioralni wskazali, że większość z nas dokonuje oceny względem punktu odniesienia – w tym przypadku ceny produktu – i myśli o zyskach i stratach w kategoriach procentowych, a nie w kategoriach samego poziomu zysku.</para>
+        <para id="fs-idp61457984">Który pogląd jest właściwy? Oba mają swoje zalety, ale ekonomiści behawioralni przynajmniej podjęli próby opisania i wyjaśnienia zachowań, które były wcześniej uznawane za irracjonalne. Jeśli większość z nas przejawia jakieś „irracjonalne zachowanie”, być może istnieją głębsze przyczyny tego stanu rzeczy.</para>
+      </note>
+    </section>
+    <section id="fs-idm98551936">
+      <title id="UUID6f81767c-1dac-4fb9-7f2b-c8d91fc78e1e">Mechanizmy zmniejszające ryzyko związane z niedoskonałą informacją</title>
+      <para id="fs-idm176549264">Jeśli sprzedajesz dobra takie jak antyki lub używane samochody, gdzie niedoskonała informacja może stanowić problem, jak możesz zachęcić potencjalnych nabywców do zawarcia transakcji? Z kolei gdybyś kupował towar w warunkach niedoskonałej informacji, co mogłoby cię skłonić do dokonania zakupu? Nabywcy i sprzedawcy na rynku dóbr wykorzystują reputację, a także gwarancje, rękojmie i umowy serwisowe do zagwarantowania określonej jakości produktu. Na rynku pracy wykorzystywane są świadectwa, licencje i certyfikaty zawodowe pokazujące kompetencje, wiedzę i umiejętności pracowników, zaś na rynku kapitału finansowego poręczyciele i zabezpieczenia majątkowe stanowią częściową gwarancję uniknięcia kosztu nieprzewidzianych szkodliwych zdarzeń.</para>
+      <para id="fs-idm130246752">Na rynku dóbr sprzedawca może zaoferować <term cmlnle:reference="gwarancja zwrotu pieniędzy" id="UUID9f2a0991-81da-40f9-46f0-9213708d6305">gwarancję zwrotu pieniędzy</term> (ang. <foreign xml:lang="en" id="UUID77fc3df5-0867-4dab-4169-f911110ed6e9"><term cmlnle:reference="money-back guarantee" id="UUID9f0154e2-16b9-47b6-6ad5-106085260da6">money-back guarantee</term></foreign>). Jest to umowa, która działa jak obietnica jakości. Gwarancja zwrotu pieniędzy polega na tym, że jeśli nie spodoba nam się konkretny produkt, możemy go bez żadnych dodatkowych warunków zwrócić, często na koszt sprzedawcy. Jest to szczególnie istotne dla firm, które sprzedają towary za pośrednictwem katalogów wysyłkowych lub przez internet, w związku z czym klienci nie mogą zobaczyć i przymierzyć towaru przed jego zakupem. Gwarancja zachęca ludzi do kupna, nawet jeśli nie wiedzą, czy na pewno chcą dane dobro nabyć. Jest to nieodłączny element modelu biznesowego takich marek, jak e-obuwie lub Zalando.</para>
+      <para id="fs-idm100183744">Sprzedawcy mogą zaoferować <term cmlnle:reference="gwarancja" id="UUIDfe4fd684-1eb7-49d6-5cd2-87ce5c5f6937">gwarancję</term> (ang. <foreign xml:lang="en" id="UUID1286c8fe-1af7-4951-479e-1f4f4e2c2f60"><term cmlnle:reference="warranty" id="UUIDcb50c20d-6de7-4c94-630a-a4e16365ba29">warranty</term></foreign>), która jest obietnicą naprawy lub wymiany towaru, przynajmniej przez określony czas. Sprzedawca może również zawrzeć z nabywcą <term cmlnle:reference="umowa serwisowa" id="UUIDb2137c06-3ff6-4385-7ff5-9aabcdb9dbaf">umowę serwisową</term> (ang. <foreign xml:lang="en" id="UUID10ccfa74-1962-4d26-4ddd-19827ec3beeb"><term cmlnle:reference="service contract" id="UUID1ee2d687-cb53-4864-5b8c-3782508be83f">service contract</term></foreign>), w ramach której, za dodatkową opłatą, zgadza się naprawiać przez określony czas wszystkie usterki zakupionego towaru. Umowy serwisowe występują często jako opcja przy zakupie dóbr wartościowych, np. samochodów, urządzeń gospodarstwa domowego, a nawet domów.</para>
+      <para id="UUIDc3516861-479f-4dd2-67c5-b280f027fe3b">Gwarancje, rękojmie i umowy serwisowe to przykłady pewnego rodzaju zabezpieczeń udzielanych przez sprzedawców. W wielu przypadkach firmy oferują również nieformalne zabezpieczenia. Na przykład niektóre kina mogą zwrócić koszt biletu widzowi, który wychodzi z seansu w ciągu pierwszych 20-30 minut i skarży się na film. Podobnie jest z restauracjami, które raczej nie gwarantują zwrotu pieniędzy ani nie oferują polityki wymiany towarów, ale często pozwalają swoim klientom na wymianę jednego dania na inne lub na obniżenie ceny rachunku, jeśli klient jest niezadowolony.</para>
+      <para id="UUID8c00cac4-614e-44e5-73f8-88ee5ab70516">Uzasadnieniem takich działań jest chęć pozyskania stałych klientów, którzy z kolei będą polecać firmę innym potencjalnym nabywcom. W związku z tym zbudowanie dobrej reputacji ma ogromne znaczenie. Gdy nabywcy wiedzą, że przedsiębiorstwu zależy na opinii klientów, jest mniej prawdopodobne, że otrzymają produkt niskiej jakości. Na przykład sklep spożywczy o ugruntowanej pozycji i dobrej reputacji może żądać wyższej ceny niż sprzedawca na lokalnym targu, którego klienci po dokonaniu zakupu mogą już nigdy więcej nie zobaczyć.</para>
+      <para id="UUIDf9750dea-c191-40b0-710c-8b2571dcea33">Pracownicy mogą zmniejszyć lub nawet zlikwidować zjawisko niedoskonałej informacji, dostarczając potencjalnemu pracodawcy swój życiorys, rekomendacje z poprzednich miejsc pracy, świadectwa, dyplomy, transkrypty ocen i inne dowody poświadczające uzyskanie koniecznych na danym stanowisku kompetencji. Na <term cmlnle:reference="rynek pracy" id="UUIDb9881e58-0337-452a-7861-8477d9e98e8d">rynku pracy</term> (ang. <foreign xml:lang="en" id="UUIDc8972c76-ef62-4630-77c1-13d8d743ddaf"><term cmlnle:reference="labor market" id="UUID391860c9-5381-46a2-5ec2-e33ce5c6623b">labor market</term></foreign>) wykorzystywane są także <term cmlnle:reference="licencja zawodowa" id="UUIDef01f742-fc5b-4d8d-7f1d-4fb5b2a81b8c">licencje zawodowe</term> (ang. <foreign xml:lang="en" id="UUID9701aa20-1840-4295-79c9-cd4b2a8f3a3c"><term cmlnle:reference="occupational license" id="UUID39430563-485c-488b-445f-559be8c45420">occupational licenses</term></foreign>). Wydają je zwykle agencje rządowe i są one dowodem, że pracownik ma określone wykształcenie lub zdał stosowny egzamin. Do podjęcia pracy w zawodach takich jak lekarz, pielęgniarka, architekt czy prawnik licencja jest niezbędna.</para>
+      <para id="UUID4f8ad36f-bd2d-49d4-62db-5603ad9dd7f4">Licencje zawodowe mają również swoją wadę, ponieważ stanowią barierę wejścia do niektórych profesji. Utrudnia to nowym chętnym konkurowanie z osobami już pracującymi, co może prowadzić do wyższych płac i w efekcie do wyższych cen oraz gorszej sytuacji konsumentów. Jednak w wypadku wybranych stanowisk państwo uznało, że dodatkowe informacje dostarczane przez licencje przeważają nad ich negatywnym wpływem na konkurencję rynkową.</para>
+      <para id="UUID516e7fe7-742f-43c7-78d7-925d3d3ba222">Po stronie pracodawcy standardowym zabezpieczeniem przed zatrudnieniem leniwego i niekompetentnego pracownika jest nawiązanie z nim pierwszego stosunku pracy na czas określony, co powoduje, że pracodawca po upływie określonego terminu może nie przedłużyć zatrudnienia z dowolnego powodu lub nawet bez podania przyczyny. Czasami pracownicy w okresie próbnym otrzymują również niższe wynagrodzenie.</para>
+      <para id="UUIDd701a90f-5584-4a70-49f8-bd991e9c2b22">Na <term cmlnle:reference="rynek kapitału finansowego" id="UUIDe7a327e5-36c9-4758-6ec0-c5defcca601d">rynku kapitału finansowego</term> (ang. <foreign xml:lang="en" id="UUID8c6aabbb-ea97-4026-4078-d9eaa9ee088a"><term cmlnle:reference="financial capital market" id="UUID9278c58c-945f-429e-7e09-ed6c9b7f5eed" class="no-emphasis">financial capital market</term></foreign>) bank, zanim udzieli kredytu, wymaga od potencjalnego kredytobiorcy wypełnienia formularzy dotyczących źródeł dochodów. Ponadto instytucja finansowa kontroluje historię kredytową danej osoby. Kolejnym sposobem jest wymaganie <term cmlnle:reference="poręczyciel" id="UUIDbde4e3eb-6169-41b3-5cfc-20054a87b9aa">poręczyciela</term> (ang. <foreign xml:lang="en" id="UUIDd39e3fa8-9aa1-4ea4-4c92-c68d65deabfa"><term cmlnle:reference="cosigner" id="UUID831064bf-5796-4d90-768f-b8357d677d9a">cosigner</term></foreign>), czyli innej osoby lub firmy, która prawnie zobowiązuje się do spłaty części lub całości pieniędzy, jeśli pierwotny kredytobiorca tego nie zrobi. Jeszcze innym narzędziem jest wymaganie <term cmlnle:reference="zabezpieczenie" id="UUID90b95574-6232-43eb-7581-1ee8516870a2">zabezpieczenia</term> (ang. <foreign xml:lang="en" id="UUID668d4e49-6207-4bd9-7006-0e29e7047a5f"><term cmlnle:reference="collateral" id="UUIDcddfd049-00b6-4761-7014-4a0da810342f">collateral</term></foreign>), które bank ma prawo zająć i sprzedać w sytuacji, gdy kredytobiorca nie spłaci kredytu. Standardowym zabezpieczeniem kredytu zaciągniętego na zakup nieruchomości jest hipoteka, czyli wpis do księgi wieczystej poświadczający, że dom lub grunt został zakupiony na kredyt i kredytodawca ma prawo do uzyskania zwrotu pożyczonych środków od właściciela danej nieruchomości.</para>
+      <para id="UUID2d64c359-e66a-4278-7363-b351ab70863c">Nabywcy dóbr i usług rzadko są ekspertami, którzy potrafią ocenić jakość używanych samochodów, usług oferowanych przez prawników czy racjonalne podstawy cen antyków i dzieł sztuki. Pracodawcy i pożyczkodawcy nie mają żadnych gwarancji, że potencjalni pracownicy będą poprawnie i terminowo wykonywać swoje obowiązki, a kredytobiorcy spłacą kredyty na czas. Jednak mechanizmy, które wskazaliśmy wyżej, mogą zmniejszyć ryzyko związane z niedoskonałą informacją, tak aby kupujący i sprzedający byli skłonni zawrzeć transakcję nawet wówczas, gdy nie dysponują pełną informacją o jej warunkach.</para>
+      <section id="UUIDed579d64-d9cb-4234-7690-17570dc332c0">
+        <title id="UUIDcebdb510-68f6-441c-5af7-0414ff095827">Pokusa nadużycia i selekcja negatywna</title>
+        <para id="UUID84300494-1538-4af4-54d0-b4ca7b59d029"><term cmlnle:reference="pokusa nadużycia" id="UUID4d095f36-e264-47ff-5d23-368e0c8fecbe">Pokusa nadużycia</term> (ang. <foreign xml:lang="en" id="UUID4330abca-5d8d-4677-7d43-612118e3737a"><term cmlnle:reference="moral hazard" id="UUID5b51b279-519e-431b-487d-e50ad0cc444b">moral hazard</term></foreign>) występuje wówczas, gdy mając ubezpieczenie, ludzie zachowują się bardziej ryzykownie niż w sytuacji, w której by go nie mieli. Na przykład jeśli posiadasz ubezpieczenie zdrowotne pokrywające koszty wizyty u lekarza i zakupu niezbędnych medykamentów, z mniejszym prawdopodobieństwem podejmiesz środki ostrożności zapobiegające zarażeniu się chorobą, która może wymagać porady lekarskiej (podejmiesz choćby ryzykowne zachowania seksualne). Jeśli masz ubezpieczenie samochodu, będziesz mniej martwić się sposobem jego prowadzenia lub miejscem parkowania. gdyż ewentualna kolizja, stłuczka lub zarysowanie lakieru nie narazi cię na dodatkowe koszty. Firma, która nie ma ubezpieczenia, będzie chciała zainstalować najwyższej klasy systemy bezpieczeństwa i przeciwpożarowe w celu ochrony przed kradzieżą i pożarem. Natomiast jeśli jest ubezpieczona, może zainwestować jedynie w minimalny poziom zabezpieczeń przed wspomnianymi zagrożeniami.</para>
+        <para id="UUID830d167c-8a24-4a75-41f2-03aeb4b1e95d">Nie można całkowicie wyeliminować pokusy nadużycia (występuje tu asymetria informacji między firmą ubezpieczeniową a jej klientem), ale przedsiębiorstwa działające na tym rynku mają pewne sposoby na ograniczenie jej negatywnych skutków. Jedną z metod eliminacji skrajnych przypadków pokusy nadużycia są śledztwa mające na celu zapobieganie oszustwom ubezpieczeniowym. Przedsiębiorstwa ubezpieczeniowe mogą również monitorować niektóre rodzaje zachowań swoich klientów. Na przykład zaoferować niższą stawkę ubezpieczeniową przedsiębiorstwu, jeśli zainstaluje ono najwyższej klasy systemy bezpieczeństwa i ochrony przeciwpożarowej oraz będzie przeprowadzało kontrolę tych systemów co najmniej raz w roku.</para>
+        <para id="UUID830968e7-d4f0-499f-69e5-00061031b3ad">Natomiast zjawisko <term cmlnle:reference="selekcja negatywna" id="UUIDf62655f6-188d-4762-7850-973ebac67b45">negatywnej selekcji</term> (ang. <foreign xml:lang="en" id="UUID431482e3-de8d-429e-41c5-b90dfa9eba6e"><term cmlnle:reference="adverse selection" id="UUIDbfa4b755-3ae6-4186-6ece-3e94ad199498">adverse selection</term></foreign>) odnosi się do sytuacji, w której nabywcy ubezpieczeń wiedzą lepiej niż przedsiębiorstwo ubezpieczeniowe, czy ubezpieczana aktywność wiąże się w ich przypadku z wysokim, czy niskim ryzykiem. Prowadzi to do asymetrii informacji, ponieważ osoby obarczone wysokim ryzykiem będą bardziej skłonne do zakupu ubezpieczenia, nie informując sprzedawcy o podwyższonym ryzyku. To z kolei narazi firmę ubezpieczeniową na straty, gdyż cena ubezpieczenia w niewłaściwy sposób odzwierciedli ryzyko związane z konkretnym podmiotem, który kupuje ubezpieczenie. Na przykład osoba kupująca ubezpieczenie zdrowotne lub ubezpieczenie na życie historię zdrowia swojej rodziny zna lepiej niż ubezpieczyciel, nawet jeżeli przeprowadzi on kosztowne śledztwo w tym zakresie. Z kolei właściciel auta kupujący jego ubezpieczenie wie, czy prowadzi je w sposób ryzykowny, czy raczej bezpieczny, natomiast firmie ubezpieczeniowej, o ile kierowca nie miał wcześniej wypadku lub kolizji, trudno jest zebrać informacje o tym, jak faktycznie jeździ.</para>
+        <note type="note" id="UUID31ed10c7-8bba-4db7-6bcb-48826de52865" class="bringhome economics">
+          <title id="UUID1b04c7f8-2502-4c34-7f13-e8467efda131">Korzyści z misji sondy Voyager I</title>
+          <para id="UUID2ff906cb-c819-4141-61d2-2073325b15d8">Chociaż pozytywne efekty zewnętrzne inwestycji publicznych związanych z organizowanymi przez NASA misjami sond kosmicznych (w tym sondy Voyager I) z pewnością są powodem do zadowolenia (w końcu to m.in. dzięki nim cieszymy się takimi produktami jak telefony komórkowe), powinniśmy mieć świadomość, że korzyści te nie są dzielone równo. Ekonomiści tacy jak Tyler Cowen, profesor na Uniwersytecie George'a Masona, jednoznacznie wskazali, że przepaść między tymi, którzy mają dostęp do szybko rozwijającej się technologii, a tymi, którzy jej nie mają, nieustannie się powiększa. Według Cowena, autora książki, <foreign xml:lang="en" id="UUID7550f535-ad80-41cf-7ce0-aaa7250718bb">Average Is Over: Powering America Beyond the Age of the Great Stagnation</foreign> (<emphasis effect="italics">Koniec średniej; napędzanie Ameryki poza epoką wielkiej stagnacji</emphasis>, przyp tłum.), ta nierówność w dostępie do technologii i informacji pogłębi nierówność w umiejętnościach, a ostatecznie również w płacach i globalnych standardach życia. Tym większa rola państwa, które, m.in. za pomocą finansowania dóbr takich jak edukacja czy sfera B+R może przeciwdziałać powiększaniu się tej luki.</para>
+        </note>
+      </section>
+    </section>
+    <section id="fs-idp71413824" class="summary">
+      <title id="UUID316b52da-4db2-4c59-656c-29bd1618d361">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idp165222320">Wiele osób dokonuje transakcji w warunkach niedoskonałej informacji, czyli w sytuacji, gdy nabywca, sprzedawca lub obie strony nie mają pewności, że wiedzą wszystko na temat jakości i cen rynkowych kupowanego lub sprzedawanego towaru. Gdy informacja o jakości produktu i warunkach transakcji jest niedoskonała, funkcjonowanie rynku może być utrudnione.</para>
+      <para id="UUID2b79b686-6ec5-49a5-4880-021829f79395">„Tandeta” to produkt, który po zakupie okazuje się mieć jakość niższą niż ta deklarowana przez sprzedawcę. Gdy sprzedawca ma dokładniejsze informacje o jakości produktu niż nabywca, nabywca będzie się wahał przed zakupem w obawie przed otrzymaniem szmelcu.</para>
+      <para id="UUIDd25f1627-b1bf-4fdf-69d5-5b198f8cb9ab">Istnieje wiele sposobów radzenia sobie z niedoskonałą informacją. Nabywcy mogą korzystać z możliwości zwrotu pieniędzy, gwarancji, rękojmi, umów serwisowych i reputacji. Na rynkach pracy pracodawcy mogą korzystać z życiorysów pracowników, rekomendacji i licencji zawodowych oraz zatrudniać na okres próbny. Na rynkach kapitału finansowego pożyczkodawcy mogą wymagać od pożyczkobiorców wypełniania szczegółowych wniosków o kredyt lub pożyczkę, weryfikować zdolność kredytową, wymagać poręczycieli i różnego rodzaju zabezpieczeń.</para>
+      <para id="UUID3461f26b-83d7-48e2-68e0-91c78a30ad62">W przypadku rynku ubezpieczeniowego szczególnie wyraźne są problemy związane z niedoskonałą informacją. W konsekwencji pojawiają się na nim zjawiska takie jak pokusa nadużycia i negatywna selekcja.</para>
+    </section>
+    <section id="fs-idm37488880" class="self-check-questions">
+      <title id="UUIDef05d1a3-16ca-48dc-6455-0adf7cf8a807">Pytania Self-Check</title>
+      <exercise id="fs-idp89150912">
+        <problem id="fs-idp18342016">
+          <para id="fs-idp67759088">Dla każdej z poniższej sytuacji określ, czy stopień niedoskonałości informacji jest stosunkowo wysoki, czy niski:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp35330256">
+            <item id="UUID7566ce6a-bbd9-45b5-6f15-1bf0cc54af2f">
+              <para id="UUID9f99850f-5ca9-4adc-5125-38d07d72a540">Zakup jabłek na przydrożnym stoisku</para>
+            </item>
+            <item id="UUID176cdf1f-5c2f-47f8-6baf-dae928faf0f1">
+              <para id="UUID7dc557c9-967c-49ea-4fd2-52c4f90ab0f2">Zakup obiadu w restauracji za rogiem</para>
+            </item>
+            <item id="UUIDfc963a81-4925-4dff-505d-6c207e7b9c3e">
+              <para id="UUID2b493ec5-b489-46b2-4008-7b0dcb6c1eb2">Zakup używanego laptopa na wyprzedaży garażowej</para>
+            </item>
+            <item id="UUID98bfd603-77f4-4130-4e5e-9552a240d999">
+              <para id="UUIDc4e4112a-4a88-499a-6d88-cab8568065a8">Zamówienie kwiatów przez internet</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp6270160">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp41785728">
+            <item id="UUIDcf2c4539-72f7-4a95-6435-b4dd8791ae7f">
+              <para id="UUID52ab8ad6-36d9-4d28-4e01-6952bee48f91">Stopień niedoskonałości informacji jest stosunkowo niski; w końcu możesz zobaczyć jabłka, które chcesz kupić.</para>
+            </item>
+            <item id="UUIDd944a120-7cdc-42a6-68ca-ccf3fecb2226">
+              <para id="UUIDf77b0e03-17f3-4744-6b0d-1ddb0bd209ee">Stopień niedoskonałości informacji jest stosunkowo niski. Pobliska restauracja ma prawdopodobnie pewną lokalną reputację.</para>
+            </item>
+            <item id="UUID6eb789af-e9fc-4922-745d-0ca8f23fa626">
+              <para id="UUID3aedd213-3580-42c9-5402-7dcafc9c3ddc">Stopień niedoskonałości informacji jest stosunkowo wysoki. Jak możesz stwierdzić, czy komputer jest naprawdę w dobrym stanie? Dlaczego jest sprzedawany?</para>
+            </item>
+            <item id="UUIDfab64c41-8c44-42b8-657f-6124426568e0">
+              <para id="UUID3579d275-1dbf-41d8-5c0d-80ae924ce401">Stopień niedoskonałości informacji jest stosunkowo wysoki. Jak naprawdę wyglądają te kwiaty?</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp8078640">
+        <problem id="fs-idm101003248">
+          <para id="fs-idp55706848">Dlaczego na rynku pracy występuje asymetria informacji? Jakie narzędzia może wykorzystać pracodawca w celu znalezienia pracownika o pożądanych cechach?</para>
+        </problem>
+        <solution id="fs-idm60173408">
+          <para id="fs-idm54415648">Na rynku pracy często występuje asymetria informacji, ponieważ pracodawcy nie mogą z całą pewnością określić wielu, kluczowych z ich punktu widzenia, cech pracowników przed ich zatrudnieniem. Pracownicy natomiast wiedzą, czy są energiczni, skrupulatni, czy terminowo wykonują powierzone im zadania itp. Dlatego pracodawcy często wykorzystują poziom wykształcenia w celu wstępnej selekcji kandydatów. Pracodawcy mogą nawet nie przeprowadzić rozmowy kwalifikacyjnej z kandydatem, jeśli nie ma on odpowiedniego wykształcenia lub nie ukończył renomowanej uczelni. Pracodawcy mogą również postrzegać nagrody, wysoką średnią ocen i inne wyróżnienia jako oznaki gotowości do ciężkiej pracy, wytrwałości i umiejętności. Mogą też wykorzystywać referencje do oceny kluczowych cech, takich jak inicjatywa, etyka pracy itd.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm100678832" class="review-questions">
+      <title id="UUID16d1b1a0-2575-4177-6647-572b97257c13">Pytania Review</title>
+      <exercise id="fs-idp158668896">
+        <problem id="fs-idm41370192">
+          <para id="fs-idp117719008">Dlaczego nabywcom i sprzedawcom może być trudno uzgodnić cenę, gdy istnieje niedoskonała informacja?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp21921216">
+        <problem id="fs-idp5421760">
+          <para id="fs-idp135923728">Co ekonomiści (i sprzedawcy używanych samochodów) rozumieją przez „tandetę” ?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm30409600">
+        <problem id="fs-idm14754416">
+          <para id="fs-idm56359488">Jak w warunkach niedoskonałej informacji sprzedawca może zagwarantować potencjalnemu nabywcy odpowiednią jakość produktu?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp75053456">
+        <problem id="fs-idp56066400">
+          <para id="fs-idp7042704">Jak w warunkach niedoskonałej informacji pracownik może zagwarantować potencjalnemu pracodawcy odpowiednią jakość swojej pracy?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp19384112">
+        <problem id="fs-idm46482176">
+          <para id="fs-idp85102832">Jak w warunkach niedoskonałej informacji kredytobiorca może zagwarantować bankowi, że spłaci kredyt?</para>
+          <para id="UUID69e8e849-8bc3-418d-4a36-bc8cd0a4069b">Na czym polega problem pokusy nadużycia?</para>
+          <para id="fs-idp98839904">W jaki sposób negatywna selekcja może utrudnić funkcjonowanie rynku ubezpieczeniowego?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp50050032" class="critical-thinking">
+      <title id="UUID6fdc94f6-0c5e-4708-69ae-5c348938d4a0">Pytania Critical Thinking</title>
+      <exercise id="fs-idp102459888">
+        <problem id="fs-idp18652352">
+          <para id="fs-idp204875152">Jesteś członkiem rady dyrektorów prywatnego liceum, które rekrutuje nowych nauczycieli przedmiotów ścisłych. Gdy myślisz o zatrudnieniu kogoś do pracy, jakich narzędzi możesz użyć, aby przezwyciężyć problem niedoskonałej informacji?</para>
+          <para id="UUID743253a7-9534-49b7-5164-15bb6b58f499">W jaki sposób problem pokusy nadużycia mógł wpłynąć na bezpieczeństwo zawodników uprawiających dyscypliny takie jak futbol amerykański czy boks w sytuacji, w której przepisy bezpieczeństwa nałożyły na sportowców obowiązek noszenia strojów lepiej chroniących ciało?</para>
+        </problem>
+      </exercise>
+      <para id="fs-idp186356960" />
+    </section>
+    <section id="fs-idp40903760" class="references">
+      <title id="UUIDcdbf12b6-6ebc-4ef6-722c-a4a50cd54f9d">Bibliografia</title>
+      <para id="eip-293">Center on Budget and Policy Priorities. 2015. “Policy Basics: Where Do Our Federal Tax Dollars Go?” Accessed April 1, 2015. http://www.cbpp.org/cms/?fa=view&amp;id=1258.</para>
+      <para id="fs-idp105100400">Consumer Reports. “Consumer Reports.org.” http://www.consumerreports.org/cro/index.htm.</para>
+      <para id="fs-idp135513520">Federal Trade Commission. “About the Federal Trade Commission.” Last modified October 17, 2013. http://www.ftc.gov/ftc/about.shtm.</para>
+      <para id="eip-821">Huffington Post. 2015. “HUFFPOLLSTER: Poll Shows Uptick In Obamacare Favorable Rating.” Accessed April 1, 2015. http://www.huffingtonpost.com/2015/03/19/affordable-care-act-fav_n_6900938.html.</para>
+      <para id="fs-idp39810512">Kahneman, Daniel, and Amos Tversky. “Prospect Theory: An Analysis of Decision under Risk.” <emphasis effect="italics">Econometrica</emphasis>. 47, no. 2 (1979): 263-291. http://www.princeton.edu/~kahneman/docs/Publications/prospect_theory.pdf.</para>
+      <para id="fs-idp207277536">Rasmussen Reports, LLC. “Rasmussen Reports.” http://www.rasmussenreports.com/.</para>
+    </section>
+  </content>
+  <glossary id="UUID34fcfe5e-c416-406e-7f51-f05a41745d1e">
+    <definition id="fs-idp105164368">
+      <term id="UUID4b14e568-80e6-48f0-4f4b-0c40cb5a8b9f">asymetria informacji (ang. <foreign xml:lang="en" id="UUID7a2f2922-a104-4880-56e7-3b1790e86815">asymmetric information</foreign>)</term>
+      <meaning id="fs-idp52744576">
+        <para id="UUIDadf0fc9e-e769-4f48-6652-fb1fe98af15d">sytuacja, w której jedna strona transakcji ma więcej informacji dotyczących jej istotnych warunków niż druga strona</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp49136">
+      <term id="UUIDda39fd22-9b68-4673-5619-e45a558b3d0a">zabezpieczenie (ang. <foreign xml:lang="en" id="UUID766f4469-656f-48e6-6f29-596029185740">collateral</foreign>)</term>
+      <meaning id="fs-idp23031200">
+        <para id="UUID58aaf053-dda9-40b5-643f-d48c8a2c3636">cenny składnik majątku – często nieruchomość lub dobro o wysokiej wartości – który kredytodawca ma prawo zająć i sprzedać, jeśli kredytobiorca nie spłaci kredytu</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp102621824">
+      <term id="UUID7741f370-0beb-4052-60b8-44af181323c0">poręczyciel (ang. <foreign xml:lang="en" id="UUIDc1f43f67-7398-4480-7d8f-bad9455a9ce9">cosigner</foreign>)</term>
+      <meaning id="fs-idp135347168">
+        <para id="UUID3dcb761f-dc26-4a1b-6cba-1c9ada220f75">osoba lub firma, która prawnie zobowiązuje się do spłaty części lub całości pożyczki (kredytu), jeśli pierwotny pożyczkobiorca tego nie zrobi</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp50317392">
+      <term id="UUID7eaeb207-f50c-40bb-4b7c-6399099ba83a">niedoskonała informacja (ang. <foreign xml:lang="en" id="UUID627b21c7-5b42-43f4-5ced-fc5a9b18a3fe">imperfect information</foreign>)</term>
+      <meaning id="fs-idp51518800">
+        <para id="UUID541f7ce5-322b-44a8-7aa2-fafe2261894d">sytuacja, w której nabywca, sprzedawca lub obaj jednocześnie nie są pewni jakości kupowanego lub sprzedawanego produktu</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp168129696">
+      <term id="UUIDa99d170a-fee6-4a42-6b8d-319db1ac1c12">gwarancja zwrotu pieniędzy (ang. <foreign xml:lang="en" id="UUIDd13f15ba-99e8-4348-6b0c-54ee6889975e">money-back guarantee</foreign>)</term>
+      <meaning id="fs-idp111488352">
+        <para id="UUID0600577c-8586-4e46-4b15-63f0d0abc15e">obietnica, że sprzedawca zwróci nabywcy pieniądze, najczęściej bez żadnych dodatkowych warunków</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp209060544">
+      <term id="UUID7a1b3ce9-0c8c-4f57-5e1f-7a6ddc8f8c2c">licencja zawodowa (ang. <foreign xml:lang="en" id="UUIDdf39e40c-6e61-4a75-402d-5d4af44c8a83">occupational license</foreign>)</term>
+      <meaning id="fs-idp207847872">
+        <para id="UUID6f2ca6cc-6f9e-4279-5ff1-52b199d698f5">licencja wydawana przez agencję rządową lub stowarzyszenie branżowe poświadczająca, że pracownik ma określone wykształcenie lub zdał stosowny egzamin</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp99565008">
+      <term id="UUID904b631c-4d03-42d6-4222-4f51e6bcd422">umowa serwisowa (ang. <foreign xml:lang="en" id="UUID3dcf9f4f-89d6-410b-4a4f-4a26086f108a">service contract</foreign>)</term>
+      <meaning id="fs-idp204801936">
+        <para id="UUIDdc14674a-48bc-4ae0-54fb-282c14b3cb7a">obietnica sprzedawcy – za dodatkową opłatą ponoszoną przez nabywcę – naprawy przez określony czas wszystkiego, co jest przewidziane w umowie</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp168395504">
+      <term id="UUID44940186-bcf2-4828-6330-495099904cf3">gwarancja (ang. <foreign xml:lang="en" id="UUID1df06519-d9a6-475c-4a20-7b969c44aa74">warranty</foreign>)</term>
+      <meaning id="fs-idp22945344">
+        <para id="UUIDff680fd2-9131-4359-7e14-4b618ae246f1">obietnica naprawy lub wymiany towaru we wskazanym w umowie okresie</para>
+        <para id="UUID1ceaedbb-055e-47c5-7f37-63d41fdaa8a6"><emphasis effect="bold">Negatywna selekcja</emphasis> (ang. <foreign xml:lang="en" id="UUIDdd63b780-581e-4387-6765-acf670077974">adverse selection</foreign>)</para>
+        <para id="UUIDc7d6d14f-dfe8-4113-794f-587971f60873">sytuacja, w której wśród osób ubezpieczających się zaczynają dominować te o wyższym poziomie ryzyka, co obciąża system ubezpieczeniowy</para>
+        <definition id="UUID1c65635b-5935-47fe-6a1b-0ab6d8d69e92">
+          <term id="UUIDa467d10c-5ecc-4558-648d-ecbe2e82f186">ubezpieczenie (ang. <foreign xml:lang="en" id="UUID5df7e9cf-0721-497a-4f95-129264231d91">insurance</foreign>)</term>
+          <meaning id="fs-idm8271024">
+            <para id="UUIDa7783091-e99d-456d-63bc-b456d09a8848">sposób ochrony przed stratami finansowymi polegający na tym, że ubezpieczeni dokonują regularnych wpłat na rzecz zakładu ubezpieczeń, a przedsiębiorstwo ubezpieczeniowe wypłaca odszkodowanie tej osobie, która poniosła szkody finansowe w wyniku zdarzenia objętego polisą</para>
+          </meaning>
+        </definition>
+        <definition id="fs-idp152572048">
+          <term id="UUID79131d34-6543-4e08-77f4-e4674e0f021c">pokusa nadużycia (ang. <foreign xml:lang="en" id="UUID331f41eb-1d0a-417b-763f-13a70f48d7ae">moral hazard</foreign>)</term>
+          <meaning id="fs-idp110044640">
+            <para id="UUID04c85b66-8466-43f1-6bac-b1edae3d8717">sytuacja, w której ludzie dysponujący ubezpieczeniem związanym z wystąpieniem określonego zdarzenia są mniej skłonni do podejmowania działań mających je przed nim ochronić</para>
+          </meaning>
+        </definition>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

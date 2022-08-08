@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ua61cfcde-2e75-4157-af68-659b7149d60e" id="Ua61cfcde-2e75-4157-af68-659b7149d60e" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00032</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:56.256290163+00:00</md:version>
+    <md:created>2022-08-08T07:43:56.256290163+00:00</md:created>
+    <md:revised>2022-08-08T07:43:56.256290163+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>a61cfcde-2e75-4157-af68-659b7149d60e</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="CNX_Econ_C08_000" class="splash">
+      <media alt="Zdjęcie mężczyzny na polu pszenicy." id="mCNX_Econ_C08_000">
+        <image src="../../media//CNX_Econ_C08_000.jpg" mime-type="image/jpeg" id="UUIDe31069c4-8904-4ee5-607f-aa68b090b67b" />
+      </media>
+      <caption id="UUID9a86f87d-c902-4ba7-7ae9-70a1b18670ee">W zależności od liczby konkurentów i oferowanych cen rolnik może zdecydować się na uprawę innej rośliny. (Źródło: modyfikacja pracy Daniela X. O’Neil/Flickr Creative Commons)</caption>
+    </figure>
+    <note type="note" id="ch08mod00_bring" class="bringhome economics">
+      <title id="UUID672402f1-73e7-4af5-4260-6c8b8a2c180a">Liczba sprzedawców liczona na pęczki</title>
+      <para id="ch08mod00_p02">Część z was z pewnością kiedyś wykonywała odpłatnie proste prace na rzecz sąsiadów – myła samochody, kosiła trawniki albo opiekowała się dziećmi. Jeśli tak, to wasze usługi napotykały na silną konkurencję ze strony wielu innych młodych ludzi gotowych wykonywać te same prace.</para>
+      <para id="ch08mod00_p03">Wszyscy pobieraliście standardową stawkę przyjętą za świadczenie tego typu usług. Gdyby ktoś zażądał więcej, jego klienci po prostu porozumieliby się z kimś innym. Reguły te są bardzo podobne do warunków, z jakimi mają do czynienia rolnicy zajmujący się produkcją roślinną.</para>
+      <para id="ch08mod00_p04">Rozpoczęcie uprawy jest nieco trudniejsze i bardziej kosztowne niż opieka nad dziećmi lub koszenie trawnika, a konkurencja, z jaką rolnicy mają do czynienia, jest tak samo (a nawet bardziej) zacięta. Biorąc pod uwagę skalę światowej produkcji roślinnej, zmagają się z konkurencją ze milionami innych osób, ponieważ sprzedają identyczny produkt. W końcu pszenica ozima jest pszenicą ozimą niezależnie od tego, gdzie jest uprawiana. Ponadto jeśli trudno im zarobić na sprzedaży tego konkretnego zboża, mogą stosunkowo łatwo opuścić jego rynek i zasiać żyto lub kukurydzę. A zatem nie sprzedają rodzinnego gospodarstwa, lecz zmieniają rodzaj uprawy.</para>
+      <para id="ch08mod00_p05">Rozważmy przykład jednego z regionów Stanów Zjednoczonych, Środkowego Zachodu, który przez wiele pokoleń nazywany był „pszenicznym królestwem”. Według statystyk Departamentu Rolnictwa Stanów Zjednoczonych w 1997 r. w Dakocie Północnej pszenicą obsiano 4,7 mln ha, zaś kukurydzą tylko 315 tys. ha. Czy w ciągu kolejnych 20 lat struktura upraw uległa znaczącym przeobrażeniom? Jako że decyzja o zmianie upraw jest stosunkowo łatwa i tania, to czy rolnicy reagowali w ten sposób na fluktuacje względnych cen? Dowiemy się tego na końcu rozdziału.</para>
+      <para id="ch08mod00_p06">Tymczasem rozważmy główny temat tego rozdziału – rynek doskonale konkurencyjny. Jest to rynek, na którym nie istnieją bariery wejścia i wyjścia, co oznacza, że zarówno rozpoczęcie, jak i zakończenie działalności jest stosunkowo proste i tanie, w związku z czym liczbę sprzedawców można na nim liczyć na pęczki.</para>
+    </note>
+    <note type="note" id="ch08mod00_obj" class="chapter-objectives economics">
+      <title id="UUIDb07dd106-bcaf-410d-6b4b-146fca4f8416">Wprowadzenie do rozdziału</title>
+      <para id="ch08mod00_p01">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="ch08mod00_list01">
+        <item id="UUID77ea23ac-10b2-4245-561c-410847c218bb">
+          <para id="UUID4260b979-ce47-400a-49f4-ab049e580c7d">Na czym polega struktura rynku zwana konkurencją doskonałą i jakie jest jej znaczenie dla teorii ekonomii</para>
+        </item>
+        <item id="UUID3b47776b-ca15-42cf-4ae2-8c6de833c728">
+          <para id="UUIDfbd3a6b3-0011-473a-54e4-13e240535ad7">W jaki sposób przedsiębiorstwa działające na rynku doskonale konkurencyjnym podejmują decyzje o rozmiarach produkcji</para>
+        </item>
+        <item id="UUID4ee204da-3ee8-446d-55af-86dd82deab14">
+          <para id="UUID2a8feb5f-61eb-407e-5cae-6568cc7d3742">Co determinuje decyzje firm o wejściu (lub wyjściu) na rynek doskonale konkurencyjny w długim okresie</para>
+        </item>
+        <item id="UUID8da673c5-97ef-433f-58ec-13984a5c8a38">
+          <para id="UUIDe6d2bb5e-2789-49b6-4111-325715d40ca0">Czy rynki doskonale konkurencyjne są efektywne</para>
+        </item>
+      </list>
+    </note>
+    <para id="ch08mod00_p07">Większość przedsiębiorstw musi zaakceptować dwa istotne fakty, które determinują ich działalność. Po pierwsze – nikt nie musi kupować wytwarzanych przez nich produktów. Po drugie – nawet klienci, którzy chcieliby nabyć te produkty, mogą zwrócić się do konkurentów. Firmy, które działają na rynkach doskonale konkurencyjnych, w największym stopniu mierzą się z tą rzeczywistością. W niniejszym rozdziale dowiesz się, w jaki sposób takie przedsiębiorstwa podejmują decyzje o tym, ile produkować, czy pozostać na rynku, jaki zysk uda się osiągnąć i wiele innych. Poszczególne branże (czyli grupy sprzedawców wytwarzające ten sam lub podobny produkt) różnią się między sobą pod względem liczby działających przedsiębiorstw, kosztów rozpoczęcia działalności oraz rodzaju sprzedawanego produktu (na ile jest on postrzegany przez potencjalnych nabywców jako standardowy). Modele opisujące sposób postępowania przedsiębiorstw w takich sektorach ekonomiści nazywają <term cmlnle:reference="strukturami rynku" id="UUID337e9695-dc10-4896-62b1-c64d506449af">strukturami rynku</term> (ang. <foreign xml:lang="en" id="UUIDa551d81e-ef41-470f-4f70-c4c62394628e"><term cmlnle:reference="market structure" id="UUID6949bb24-f6d4-4801-5c71-6bdefe6c765b">market structure</term></foreign>). W tym rozdziale skupiamy się na strukturze rynku nazywanej konkurencją doskonałą. W kolejnych przyjrzymy się innym modelom: monopolowi, konkurencji monopolistycznej i oligopolowi.</para>
+  </content>
+</document>

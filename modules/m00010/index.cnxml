@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U590a4ede-8275-410e-a2e2-8eab14a75be7" id="U590a4ede-8275-410e-a2e2-8eab14a75be7" xml:lang="en" cnxml-version="0.7">
+  <title>Konfrontacja z zastrzeżeniami do podejścia ekonomicznego</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00010</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Konfrontacja z zastrzeżeniami do podejścia ekonomicznego</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:52.348937599+00:00</md:version>
+    <md:created>2022-08-08T07:43:52.348937599+00:00</md:created>
+    <md:revised>2022-08-08T07:43:52.348937599+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>590a4ede-8275-410e-a2e2-8eab14a75be7</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDb54bdffb-b0ea-42b0-7324-b4b7fade5462" class="learning-objectives">
+      <para id="UUID2b4985a9-952a-4c41-7ef2-648f407e563c">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID9251aa45-ac27-4a62-4bbd-975c83ae475d">
+        <item id="UUID77fc47c6-c5c5-4496-7996-aeb0a4e3df22">
+          <para id="UUID538c45de-9dc1-4713-52f2-60fc628b8588">Samodzielnie ocenić racjonalność argumentów krytyków czysto ekonomicznego podejścia do procesu decyzyjnego</para>
+        </item>
+        <item id="UUID3a59cf29-a71b-4f17-76d4-cdca07b6a5c5">
+          <para id="UUID3dc33360-5be0-4b41-518a-95fd85faa7f3">Interpretować wykresy ilustrujące wybór typu „coś za coś”</para>
+        </item>
+        <item id="UUID440bc5e3-9292-495f-485b-4832d548ce9e">
+          <para id="UUIDb8798c89-4cec-4ec0-5d66-8ddca155d794">Rozróżniać stwierdzenia o charakterze normatywnym i pozytywnym</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDacdac576-b531-4289-75c7-8331974d51c6">Nawet jeśli zrozumiemy czysto ekonomiczne podejście do procesu podejmowania decyzji, możemy czuć się niekomfortowo podczas jego stosowania. Źródła ewentualnego dyskomfortu zwykle dzielą się na dwie kategorie zilustrowane następującymi stwierdzeniami:</para>
+    <list bullet-style="bulleted" id="UUID8bca4bd2-2a72-4170-4d92-7c57b7b3b35f">
+      <item id="UUID84b8a34d-9e95-43f7-48b2-0ac3d0626d77">
+        <para id="UUID35e24ce8-fbf9-4309-6a97-f3b2fd8f768f">ludzie nie postępują w sposób, który pasuje do ekonomicznego sposobu myślenia,</para>
+      </item>
+      <item id="UUID9c8accdb-afa1-4095-6e10-e36537a24f09">
+        <para id="UUIDfb02c009-00fe-4023-42d4-976f9797d52a">nawet jeśli ludzie postępowaliby w ten sposób, to – zdaniem niektórych – powinni starać się tego unikać.</para>
+      </item>
+    </list>
+    <para id="UUID1c356ba5-ed88-4a13-4857-789b80dc4397">Rozważmy kolejno te argumenty.</para>
+    <section id="fs-idm27124944">
+      <title id="UUID22b6c305-b9cd-4e79-4a42-eecd990288c1">Pierwszy zarzut: ludzie, przedsiębiorstwa i społeczeństwo nie postępują zgodnie z zasadami opisywanymi przez ekonomistów</title>
+      <para id="UUID5b71b811-ab5f-44cb-481a-5bdc3338faa0">Ekonomiczne podejście do procesu podejmowania decyzji wydaje się wymagać więcej informacji, niż posiada większość osób, i większej ostrożności, jaką mało kto faktycznie wykazuje. W końcu czy ty lub któryś z twoich znajomych wyznaczacie ograniczenie budżetowe i szepczecie pod nosem o maksymalizacji użyteczności, zanim pójdziecie do centrum handlowego? Czy członkowie polskiego parlamentu analizują krzywą możliwości produkcyjnych przed corocznym głosowaniem nad budżetem? Ludzie i społeczeństwa działają w sposób chaotyczny, który nie przypomina zgrabnych ograniczeń budżetowych lub płynnie wyginających się krzywych możliwości produkcyjnych.</para>
+      <para id="UUID6d8d0f22-110e-45ee-7e60-9b8ed2b8b2a9">Jednak podejście ekonomiczne może być użytecznym sposobem analizy i zrozumienia kompromisów związanych z podejmowaniem decyzji. Aby docenić tę kwestię, wyobraź sobie przez chwilę, że grasz w koszykówkę, dryblujesz w prawo i rzucasz w lewo do kolegi z drużyny, który biegnie w kierunku kosza. Fizyk lub inżynier może określić prawidłową prędkość gracza i trajektorię podania, biorąc pod uwagę szybkość wszystkich obiektów znajdujących się na boisku oraz wagę i sprężystość piłki. Jednak grając w koszykówkę, nie wykonujesz żadnego z tych obliczeń. Po prostu podajesz piłkę, a jeśli jesteś dobrym graczem, zrobisz to z dużą dokładnością.</para>
+      <para id="UUID26b5fa89-4c8e-4d99-59ea-5425502719ca">Ktoś mógłby się spierać: „Równania naukowe dotyczące gry wymagają znacznie większej wiedzy z zakresu fizyki i o wiele bardziej szczegółowych informacji na temat prędkości poruszania się i ciężaru, niż w rzeczywistości posiada koszykarz, więc musi to być nierealistyczny opis tego, jak odbywają się podania w koszykówce”. Ta reakcja byłaby błędna. Fakt, że dobry gracz dzięki wprawie i umiejętnościom może rzucać piłką dokładnie, bez wykonywania obliczeń, nie oznacza przecież, że obliczenia te są błędne.</para>
+      <para id="UUIDdc7d29d9-89e5-4d91-4773-9cbc657d1c2d">Podobnie, z ekonomicznego punktu widzenia, ktoś, kto co tydzień robi zakupy spożywcze, ma dużą praktykę w budowaniu zestawu towarów zapewniającego mu wysoką użyteczność, nawet jeśli nie formułuje swoich decyzji w kategoriach ograniczenia budżetowego. Instytucje rządowe mogą działać niedoskonale i powoli, ale generalnie w demokratyczną formę rządów wpisana jest presja ze strony wyborców i organizacji społecznych, aby dokonywać wyborów, które są w największym stopniu preferowane przez członków społeczeństwa. Tak więc myśląc o ekonomicznych podstawach sposobu zachowania grup ludzi, przedsiębiorstw i całych społeczności, zasadne jest przeanalizowanie ich – w pierwszym kroku – za pomocą narzędzi pochodzących z arsenału ekonomistów. Temat ten zostanie rozwinięty w rozdziale o wyborach konsumenckich (<link document="m00022" id="UUIDb9e57288-49b2-47c0-87ds-16f0ae27e629">Introduction to Consumer Choices</link>) w części poświęconej ekonomii behawioralnej.</para>
+    </section>
+    <section id="fs-idm6498768">
+      <title id="UUID4d5d8d58-27fa-4f21-4732-a9596e292572">Drugi zarzut: ludzie, przedsiębiorstwa i społeczeństwo nie powinny działać zgodnie z zasadami opisywanymi przez ekonomistów</title>
+      <para id="UUID5ec5d671-1310-4327-52dc-3701cba5e608">Ekonomiczny sposób opisu procesu podejmowania decyzji przedstawia ludzi jako egoistyczne indywidua. Dla niektórych krytyków tego podejścia, nawet jeśli interes własny jest właściwym opisem tego, jak ludzie faktycznie się zachowują, taki sposób postępowania jest niemoralny. Twierdzą oni, że opis rzeczywistości kładący nacisk na egoistyczne wybory może zachęcać do takiego właśnie postępowania, tymczasem ludzi należy raczej uczyć większej dbałości o innych. Na tak sformułowane zarzuty ekonomiści mają kilka odpowiedzi.</para>
+      <para id="UUIDeab1167b-31eb-42fd-64fd-bdb034d2cff6">Po pierwsze, ekonomia nie jest formą wychowania moralnego. Stara się ona raczej opisać zachowanie podmiotów gospodarczych tak, jak ono w istocie wygląda. Filozofowie dokonują rozróżnienia między <term cmlnle:reference="stwierdzenie pozytywne" id="UUIDb18018b6-2eda-4b50-5717-0fa85736f162">stwierdzeniami pozytywnymi</term> (ang. <foreign xml:lang="en" id="UUIDa8258096-21fc-450b-6538-03bd37dd9ccb"><term cxlxt:index="foreign" id="UUIDc7a0237a-7935-46e6-4bab-2178ea3328a3">positive statement</term></foreign>), które opisują świat takim, jaki on jest, a <term cmlnle:reference="stwierdzenie normatywne" id="UUID4b8e1847-6e51-45b2-6bd1-c467bb78352b">stwierdzeniami normatywnymi</term> (ang. <foreign xml:lang="en" id="UUIDd1e5b91a-b676-4ee5-7c7e-47a83df97b85"><term cxlxt:index="foreign" id="UUIDda298493-5070-4c78-59ef-d6743d42bf58">normative statement</term></foreign>), które opisują, jaki świat być powinien – zdaniem tego, kto owe poglądy formułuje. Pozytywne stwierdzenia są oparte na faktach. Mogą być prawdziwe lub fałszywe, ale dają się przetestować, przynajmniej co do zasady. Wypowiedzi normatywne są subiektywnym wyrażeniem opinii. Nie możemy ich przetestować, dowodząc ich prawdziwości lub fałszu. Są po prostu poglądami opartymi na czyichś sądach wartościujących. Na przykład ekonomista może przeanalizować projekt rozbudowy systemu metra w Warszawie. Jeśli oczekiwane korzyści przewyższają koszty, stwierdzi, że projekt jest sensowny – to przykład analizy pozytywnej. Inny ekonomista, zajmujący się polską transformacją systemową, sformułuje opinię, zgodnie z którą wysokość zasiłków wprowadzonych na początku lat 90. XX w. powinna być wyższa, ponieważ Polska była wówczas krajem wystarczająco bogatym, by mogła sobie pozwolić na bardziej hojne wsparcie osób, które utraciły pracę – to przykład analizy normatywnej.</para>
+      <para id="UUIDb0aff7f6-5ccd-4303-7247-79e645b5cf81">Nawet jeśli granica między stwierdzeniami pozytywnymi a normatywnymi nie zawsze jest czytelna, analiza ekonomiczna stara się opierać na badaniu rzeczywistych ludzi tworzących rzeczywistą gospodarkę. Na szczęście jednak założenie, że jednostki kierują się wyłącznie własnym interesem, jest uproszczeniem dotyczącym ludzkiej natury. Dowodów nie musimy szukać daleko – znajdziemy je już w pracach <term cxlxt:index="name" cxlxt:name="Smith, Adam" id="UUIDbf94de61-c323-4c88-6b7d-a20570ddc683">Adama Smitha</term>, ojca współczesnej ekonomii. Pierwsze zdanie jego książki <emphasis effect="italics">Teoria uczuć moralnych</emphasis> (ang. <foreign xml:lang="en" id="UUIDb8d8fa2a-6415-4637-5593-ab015378bb0e">The Theory of Moral Sentiments</foreign>) bardzo wyraźnie to ujmuje: <emphasis effect="italics">Jakkolwiek samolubny może być człowiek, ewidentnie w jego naturze są zakorzenione pewne zasady, które powodują, że interesuje go zadowolenie innych osób, i czynią owo zadowolenie ważnym dla niego, chociaż nie czerpie on z tego niczego poza przyjemnością oglądania go.</emphasis> Jasne jest, że jednostki są zarówno egoistyczne, jak i altruistyczne.</para>
+      <para id="UUIDa68f4b84-1129-48bd-62ad-4893fc657557">Po drugie, egoistyczne zachowanie i dążenie do zysku możemy nazwać inaczej, np. osobistym wyborem i wolnością. Możliwość dokonywania osobistych wyborów dotyczących zakupów, pracy i oszczędzania jest ważną wolnością osobistą. Niektórzy ludzie mogą wybierać związane z pracą pod presją wysoko płatne aktywności, aby móc dużo zarabiać i wydawać. Inni mogą przeznaczyć dużą część swoich zarobków na cele charytatywne lub ofiarować je przyjaciołom i rodzinie. Jeszcze inni mogą poświęcić się zajęciu wymagającemu czasu, energii i wiedzy, ale nieoferującemu wysokich korzyści finansowych, wykonując zawód nauczyciela w szkole podstawowej lub pracownika socjalnego. Wreszcie znajdą się i tacy, którzy wybiorą pracę pochłaniającą dużo czasu lub zapewniającą wysoki poziom dochodów, ale nadal pozostawiającą czas dla rodziny, przyjaciół i na kontemplację uroków życia. Niektórzy ludzie mogą postawić na zatrudnienie w dużej korporacji; inni mogą preferować prowadzenie własngo biznesu. Wolność ludzi do dokonywania własnych wyborów ekonomicznych ma wartość moralną, którą warto szanować.</para>
+      <note type="note" id="fs-idm90076880" class="clearup economics">
+        <title id="UUIDd933958d-7542-4ba1-5c15-8e04839070c3">Czy diagram pod inną nazwą to jednak to samo?</title>
+        <para id="UUID64eaa2b0-4a74-4998-50ea-b473ef889239">Kiedy studiujesz ekonomię, lawina wykresów i schematów może cię przytłaczać. Pamiętaj jednak, że twoim celem powinno być rozpoznanie ich wspólnej logiki, a nie zapamiętywanie każdego z nich.</para>
+        <para id="UUID7aac6b2e-15db-4069-6ed4-f296e1bb4614">Ten rozdział wykorzystuje tylko jeden podstawowy diagram, chociaż przedstawiamy go z różnymi zestawami etykiet. Ograniczenie budżetu konsumenta i krzywa możliwości produkcyjnych dla społeczeństwa jako całości to ten sam podstawowy schemat. <link target-id="CNX_Econ_C02_014" id="UUIDf6294f96-e6c5-4559-63c3-eff5d93acfe1" /> pokazuje linię ograniczenia budżetowego i krzywą możliwości produkcyjnych dla dwóch dóbr, Dobra 1 i Dobra 2. Schematy skupiające się na wyborach zawsze opierają się na trzech podstawowych zagadnieniach: rzadkości zasobów, wyborze typu „coś za coś" i efektywności ekonomicznej.</para>
+        <para id="UUID977dd404-78e9-4d4b-75d5-a85b4bd6b1f3">Pierwszym zagadnieniem jest <term id="UUID5327cb6d-1381-4b50-6e9b-4e950d2bb8f8">rzadkość zasobów</term> (ang. <foreign xml:lang="en" id="UUID19124122-0569-46b7-742c-98913a18f711"><term cxlxt:index="foreign" id="UUID63c02f33-68ec-42c9-7816-79c1ad3aa20a">scarcity</term></foreign>). Niemożliwe jest posiadanie nieograniczonych ilości obu towarów. Nawet jeśli zmienią się ograniczenie budżetowe lub krzywa możliwości produkcyjnych, rzadkość zasobów w dalszym ciągu będzie ograniczać wolumen dóbr, jaki możemy nabyć. Drugim zagadnieniem są <term id="UUID600b3ce4-c747-489a-5ef0-86b0eb211eb2">wybory typu</term> <term id="UUIDdb1cdf32-2f57-4a79-4499-a6a1f9177502">„coś za coś”</term> (<foreign xml:lang="en" id="UUIDbb7315cd-8940-460b-6bf3-f1ebe707d8c5"><term cxlxt:index="foreign" id="UUID56ba5571-f4aa-4b89-5b39-218119d9488c">trade off</term></foreign>). Jak pokazano za pomocą linii ograniczenia budżetowego i krzywej możliwości produkcyjnych, jeśli chce się kupić jedno dobro lub też zwiększyć jego produkcję w gospodarce, trzeba zmniejszyć konsumpcję lub produkcję drugiego dobra. Konieczne jest ograniczenie konsumpcji jednego dobra, aby zyskać więcej drugiego. Szczegóły opisujące ten wybór mogą być oczywiście bardzo różne. W przypadku ograniczenia budżetowego parametry wyboru (z ilu jednostek jednego dobra trzeba zrezygnować, aby nabyć kolejną jednostkę drugiego ) są określone przez relację cen dwóch analizowanych dóbr. Relacja cen pozostaje stała, w związku z czym wybór można opisać za pomocą linii prostej. Z kolei wybór w przypadku krzywej możliwości produkcyjnych ilustruje linia wypukła, ponieważ zgodnie z prawem malejących przychodów, gdy przeznaczamy więcej zasobów na produkcję danego dobra, korzyści krańcowe mają tendencję do zmniejszania się. Niezależnie od konkretnego kształtu wykresu wybory typu „coś za coś” leżą u podstaw każdego z nich.</para>
+        <para id="UUID63c0131c-1a4e-40b9-580f-38e81a51e328">Trzecim zagadnieniem jest <term id="UUID0477b8f7-206d-4fab-7070-356159fa1ee1">efektywność ekonomiczna</term> (ang. <foreign xml:lang="en" id="UUID8dd09644-119e-4d0b-4611-c69ae333db97"><term cxlxt:index="foreign" id="UUID5504e5e3-2289-4db2-4b56-36893fb4faac">economic efficiency</term></foreign>), czyli czerpanie jak największych korzyści z ograniczonych zasobów. Wszystkie wybory odzwierciedlane przez kombinację dwóch dóbr, które ilustrują punkty położone na krzywej możliwości produkcyjnych, wykazują efektywność produkcji, ponieważ w takich przypadkach nie ma możliwości zwiększenia wytwarzania jednego dobra bez zmniejszenia produkcji drugiego. Sytuacja wygląda podobnie, gdy dana osoba dokonuje wyboru w ramach ograniczenia budżetowego. Wtedy również nie ma możliwości zwiększenia konsumpcji jednego dobra bez zmniejszenia spożycia drugiego. Wybór kombinacji dwóch produktów, która jest preferowana społecznie, lub wybór koszyka dwóch dóbr odzwierciedlającego preferencje konkretnej osoby na linii ograniczenia budżetowego będą charakteryzowały się efektywną alokacją zasobów.</para>
+        <para id="UUIDb9baabdc-bf68-4ab7-65b1-de1847104e09">Schemat ograniczeń budżetowych / możliwości produkcyjnych będzie się jeszcze niejednokrotnie powtarzał w tej publikacji. Niektóre przykłady obejmują wykorzystanie takich diagramów do analizy handlu, ochrony środowiska i wzrostu gospodarczego, nierówności dochodów i produkcji oraz wyboru między konsumpcją a inwestycjami. Nie pozwól, aby różne etykiety cię zmyliły. Diagram ograniczeń budżetowych / możliwości produkcyjnych jest zawsze tylko narzędziem do uważnego przemyślenia wyboru typu „coś za coś” i efektywności w konkretnej sytuacji.</para>
+        <para id="UUIDd8182e13-3632-45e4-6d2e-644da3283d10"><emphasis effect="bold"><emphasis effect="underline"><emphasis effect="italics" /></emphasis></emphasis></para>
+        <figure id="CNX_Econ_C02_014">
+          <title id="UUIDbeafae31-3f08-43f1-4ddb-d4e0fea7d820">Wykres ilustrujący wybory typu „coś za coś”</title>
+          <media alt="W całej książce często będą pojawiały się te dwa wykresy. Przedstawiają one możliwe skutki ograniczeń w konsumpcji bądź produkcji dóbr." id="fs-idp73277088">
+            <image src="../../media//CNX_Econ_C02_014.svg" mime-type="image/svg+xml" id="UUID21c28681-f31f-4c7d-68e8-d882dd2754c4" />
+          </media>
+          <caption id="UUID52ab46b9-c477-414d-6fbc-886ee2bc0768">Zarówno zestaw możliwych wyborów konsumenta (ścieżka ograniczenia budżetowego), jak i krzywa możliwości produkcyjnych pokazują ograniczenia, w ramach których działają pojedynczy konsumenci i społeczeństwo jako całość. Oba wykresy ilustrują konsekwencje wyboru typu „coś za coś”, który powoduje, że więcej jednego dobra pozyskujemy zawsze kosztem zmniejszenia ilości drugiego.</caption>
+        </figure>
+      </note>
+      <para id="UUID7beab54d-f4e7-4c3b-4582-210cb4b0cd80">Po trzecie, egoistyczne zachowanie może prowadzić do pozytywnych rezultatów społecznych. Na przykład kiedy ludzie ciężko pracują, aby zarobić na życie, wytwarzają dobra. Konsumenci, którzy szukają najlepszych ofert, będą zachęcać przedsiębiorstwa do oferowania towarów dóbr i usług spełniających ich potrzeby. <term cxlxt:index="name" cxlxt:name="Smith, Adam" id="UUID19ffd93f-f3ff-4d97-40c4-0bd67e121fd7">Adam Smith</term>, pisząc swoje najważniejsze dzieło <emphasis effect="italics">Bogactwo</emphasis> <emphasis effect="italics">narodów,</emphasis> nazwał tę własność <term cmlnle:reference="niewidzialna ręka rynku" id="UUID963fede2-f3f4-4c67-74fd-86665f65b040">niewidzialną ręką rynku</term> (ang. <foreign xml:lang="en" id="UUID780acf50-e8e3-42ec-66da-4bd6b4d33157"><term cxlxt:index="foreign" id="UUID880bbdc6-becc-47e0-478f-fc3800986c18">invisible hand</term></foreign>). Opisując interakcje konsumentów i producentów w gospodarce rynkowej, Smith napisał:</para>
+      <quote id="fs-idp130687056">
+        <para id="UUID25d5fe1c-8256-4bc4-6428-756015873925">Każda osoba… na ogół rzeczywiście nie zamierza działać w imię interesu publicznego ani nie wie, jak bardzo swoim działaniem przyczynia się do jego urzeczywistnienia. Preferując wsparcie przemysłu krajowego względem przemysłu zagranicznego, dąży ona tylko do zapewnienia sobie bezpieczeństwa; a kierując tym przemysłem w taki sposób, aby jego produkt mógł mieć jak największą wartość, kieruje się ona tylko swoimi korzyściami. I jest w tym, jak w wielu innych przypadkach, prowadzona przez niewidzialną rękę, aby osiągać cel, który nie był częścią jej zamiarów… Realizując swój własny interes, często przyczynia się do realizacji interesu społeczeństwa skuteczniej niż wtedy, gdyby naprawdę zamierzała go promować.</para>
+      </quote>
+      <para id="UUIDd3d6a716-93c1-49c2-4c76-8287da08e2ca">Metafora niewidzialnej ręki sugeruje, że z samolubnych działań jednostki może wyłonić się dobro społeczne.</para>
+      <para id="UUID96daf56c-c455-48b9-4e3c-aa9c4876d154">Po czwarte, nawet ludzie, którzy skupiają się na własnym interesie, podejmując wybory ekonomiczne, w innych sferach życia często postępują zupełnie inaczej. Na przykład prosząc pracodawcę o podwyżkę lub negocjując zakup samochodu, możesz skupić się wyłącznie na własnym interesie. Następnie możesz skoncentrować się na potrzebach innych ludzi, gdy zgłosisz się na ochotnika do czytania dzieciom książek w pobliskiej bibliotece, pomożesz przyjacielowi przeprowadzić się do nowego mieszkania lub przekażesz pieniądze na cele charytatywne. Interes własny jest rozsądnym punktem wyjścia do analizy wielu decyzji ekonomicznych bez konieczności sugerowania, że ludzie nigdy nie robią niczego, co nie przekłada się na ich wąsko rozumianą korzyść.</para>
+      <note type="note" id="fs-idm3333744" class="bringhome economics">
+        <title id="UUID7ea2e224-4932-43c6-4593-2496fb9ecaea">Wybory... do jakiego stopnia?</title>
+        <para id="UUID0266e8ff-3cfc-457c-6de4-0e378fc4ef67">Czego się nauczyliśmy? Wiemy, że rzadkość zasobów wpływa na wszystkie dokonywane przez nas wybory. Ekonomista skonfrontowany z kwestią wyboru ścieżki edukacyjnej może argumentować, że ludzie nie decydują się na studia licencjackie i magisterskie, ponieważ nie mają wystarczających zasobów, które umożliwiłyby im taki wybór lub ponieważ ich dochody są zbyt niskie i/lub cena studiów jest zbyt wysoka. Stopień licencjata lub magistra może nie być dostępny w ich zestawie możliwości.</para>
+        <para id="UUIDfe58e715-7caa-47c2-60fc-db3b7506412c">Cena studiów może być zbyt wysoka nie tylko dlatego, że bezpośredni koszt w postaci czesnego (i być może również zakwaterowania i wyżywienia) jest zbyt wysoki. Ekonomista może również stwierdzić, że dla wielu osób pełny koszt alternatywny uzyskania tytułu licencjata lub magistra jest zbyt wysoki. Te osoby nie chcą lub nie są w stanie dokonać wyboru, który doprowadzi je wprawdzie do tytułu licencjata lub magistra i w przyszłości zapewni wyższe zarobki, ale oznacza również, że aby studiować, trzeba zrezygnować z pełnoetatowej pracy i związanego z nią dochodu.</para>
+        <para id="UUIDd67edb3a-b3ee-48c6-5268-a67cf5fa8ea6">Statystyki, które przedstawiliśmy na początku rozdziału, ujawniają informacje o <term cmlnle:reference="wybór międzyokresowy" id="UUID25f367a8-8e50-46de-559a-df359daf910b">wyborach międzyokresowych</term> (ang. <foreign xml:lang="en" id="UUIDd131ba56-a276-4821-4f00-9b15e8fa5075"><term cxlxt:index="foreign" id="UUIDaaf6d7b7-7106-463d-5809-3fdecdd59e48">intertemporal choice</term></foreign>). Ekonomista może powiedzieć, że ludzie nie decydują się na uzyskanie dyplomu magistra, ponieważ aby zrealizować swoje plany, musieliby pożyczyć pieniądze, a odsetki, które musieliby w związku z tym zapłacić, wpłyną na ich dzisiejsze decyzje. Może się również zdarzyć, że niektórzy ludzie przedkładają bieżącą konsumpcję nad zakupy w przyszłości, więc wolą pracować teraz za niższą pensję i cieszyć się kupowanymi dobrami, zamiast odkładać tę konsumpcję do czasu ukończenia studiów.</para>
+      </note>
+    </section>
+    <section id="fs-idm114850416" class="summary">
+      <title id="UUIDd1a348f3-9c95-4722-469f-1423020e82b8">Key Concepts and Summary</title>
+      <para id="UUIDdb4974da-c36a-4ca2-77ae-ae2ac4e6b6e4">Ekonomiczny sposób myślenia zapewnia użyteczne podejście do zrozumienia ludzkich zachowań. Ekonomiści dokonują starannego rozróżnienia między twierdzeniami pozytywnymi, które opisują świat takim, jaki on jest, a twierdzeniami normatywnymi, wskazującymi, jaki świat być powinien zdaniem osób wypowiadających te twierdzenia. Nawet jeśli ekonomiczna analiza korzyści i kosztów będących następstwem różnych zdarzeń lub decyzji politycznych prowadzi pośrednio lub wprost do konkluzji normatywnych, mówiących, jaki powinien być sposób organizacji różnych aspektów ludzkiej działalności, to jest zakorzeniona w pozytywnej analizie tego, jak faktycznie zachowują się ludzie, przedsiębiorstwa i rządy, a nie jak podmioty te powinny się zachowywać.</para>
+    </section>
+    <section id="fs-idp57649520" class="self-check-questions">
+      <title id="UUIDef6fe0f9-7186-4b8b-6667-856caa7ce356">Self-Check Questions</title>
+      <exercise id="fs-idm126889808">
+        <problem id="fs-idp87732832">
+          <para id="UUIDa216a065-20b1-4d8a-51ff-e0c97e805ae0">Jednostki mogą nie działać w sposób racjonalny, wyrachowany, opisany przez ekonomiczny model podejmowania decyzji, uwzględniający użyteczność i koszty krańcowe, ale czy możesz wskazać sytuacje, w których zachowują się w przybliżeniu w ten właśnie sposób?</para>
+        </problem>
+        <solution id="fs-idm118371456">
+          <para id="UUIDda63f1b8-e251-4bf7-60b2-d541fffa1071">Kiedy ludzie porównują koszt sztuki towaru w sklepie spożywczym lub cechy jednego produktu z własnościami innego zachowują się mniej więcej tak, jak opisuje model.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm106259344">
+        <problem id="fs-idm17755488">
+          <para id="UUIDf04fe781-cbbb-47eb-47e3-011f11b1062c">Czy artykuł w gazecie wzywający do realizowania określonego wariantu polityki gospodarczej byłby przykładem stwierdzeń pozytywnych, czy normatywnych?</para>
+        </problem>
+        <solution id="fs-idm100834480">
+          <para id="UUID9908fddd-0855-4eca-5da3-df4e21c79e00">Ponieważ artykuł apeluje o konkretne rozwiązania, które zdaniem jego autora należałoby wdrożyć, wypada go uznać za normatywny.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm56025936">
+        <problem id="fs-idm69350592">
+          <para id="UUIDa791e476-c863-49e0-4c02-9f4c51232057">Czy badanie naukowe dotyczące wpływu spożywania napojów bezalkoholowych na rozwój poznawczy dzieci miałoby charakter pozytywny, czy normatywny?</para>
+        </problem>
+        <solution id="fs-idm114425376">
+          <para id="UUID49258cff-7cab-415d-627e-abd46b7e8438">Zakładając, że badanie nie zajmuje wyraźnego stanowiska na temat tego, czy spożywanie napojów gazowanych jest dobre, czy złe, ale po prostu przedstawia wyniki dociekań naukowych, należy je uznać za pozytywne.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm3149616" class="review-questions">
+      <title id="UUID10b84688-a984-43a0-6eca-f9f40a06d613">Review Questions</title>
+      <exercise id="fs-idm39984080">
+        <problem id="fs-idm60186176">
+          <para id="UUIDb178924c-770d-458d-74cc-e651b1bc7cbb">Jaka jest różnica między stwierdzeniem pozytywnym a normatywnym?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm39494768">
+        <problem id="fs-idm58779472">
+          <para id="UUID9d7132a7-2110-43bd-64ad-e487a67dc277">Czy ekonomiczny model podejmowania decyzji ma stanowić dosłowny opis tego, w jaki sposób jednostki, przedsiębiorstwa i państwa faktycznie podejmują decyzje?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp55213600">
+        <problem id="fs-idp34822368">
+          <para id="UUID9a89e194-6f9c-4469-685d-936eb051f8f4">Wskaż cztery możliwe argumenty, które zaprzeczą poglądowi, jakoby ludzie nie powinni zachowywać się w sposób opisany w tym rozdziale.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm59613056" class="critical-thinking">
+      <title id="UUIDdb931bf5-c333-463e-513e-9b48364e1443">Critical Thinking Questions</title>
+      <exercise id="fs-idp83172592">
+        <problem id="fs-idp79512960">
+          <para id="UUID6c59ed41-8f3b-4bb3-61b7-85411dd9580d">Jakie założenia dotyczące funkcjonowania gospodarki muszą być prawdziwe, aby mechanizm „niewidzialnej ręki rynku" działał? W jakim stopniu te założenia są aktualne w realnym świecie?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm101578304">
+        <problem id="fs-idm29143136">
+          <para id="UUIDeb9871bc-15bb-4621-66b0-4b9ee71ac371">Czy twoim zdaniem ekonomiści mają jakieś wyróżniające ich umiejętności lub wiedzę umożliwiającą formułowanie twierdzeń normatywnych? Innymi słowy, mają oni oczywiście doświadczenie w formułowaniu twierdzeń pozytywnych (tj. jakie będą konsekwencje określonych działań ), np. na temat skutków określonej polityki gospodarczej, ale czy mają specjalne kompetencje pozwalające ocenić, czy polityka ta <emphasis effect="italics">powinna być r</emphasis>ealizowana, czy nie?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm60163904" class="references">
+      <title id="UUID7955c103-93dd-45e4-6b55-7a3960e3a490">References</title>
+      <para id="fs-idp33296064">Smith, Adam. “Of Restraints upon the Importation from Foreign Countries.” In <emphasis effect="italics">The Wealth of Nations</emphasis>. London: Methuen &amp; Co., 1904, first pub 1776), I.V. 2.9.</para>
+      <para id="fs-idp61894320">Smith, Adam. “Of the Propriety of Action.” In <emphasis effect="italics">The Theory of Moral Sentiments</emphasis>. London: A. Millar, 1759, 1.</para>
+    </section>
+  </content>
+  <glossary id="UUIDe58fc4e7-e598-431d-7bea-2feb95c294de">
+    <definition id="fs-idm69493936">
+      <term id="UUIDd087a0af-4aa2-4143-4028-6c087c8e7f60">niewidzialna ręka rynku (ang. <foreign xml:lang="en" id="UUID94d9c8af-3748-4108-797e-60c769d3dd89">invisible hand</foreign>)</term>
+      <meaning id="fs-idp27061216">
+        <para id="UUID81c3df1b-01bb-4a94-5251-3923b3e72078">koncepcja Adama Smitha, w myśl której zachowanie jednostek zgodne z własnym interesem może prowadzić do pozytywnych skutków społecznych</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm38152560">
+      <term id="UUIDeb2f3123-00df-4d55-4df5-eefe7844e267">stwierdzenie normatywne (ang. <foreign xml:lang="en" id="UUID599d023c-d0ac-4bea-5419-2f1c42d24757">normative statement</foreign>)</term>
+      <meaning id="fs-idm86526112">
+        <para id="UUID6dca0e27-4518-4ebf-74fa-c943d73ac5a7">stwierdzenie, które opisuje, jak powinien wyglądać świat zdaniem osoby, która to stwierdzenie wypowiada</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp22821184">
+      <term id="UUID8dbaaa99-6607-4a16-63f3-0fd9de1b96cd">stwierdzenie pozytywne (ang. <foreign xml:lang="en" id="UUID4f63a837-d791-4fa1-61dc-39fda5d00742">positive statement</foreign>)</term>
+      <meaning id="fs-idm141831488">
+        <para id="UUID1e9cb8bb-e840-453b-6c48-64fa6c325781">stwierdzenie, które opisuje świat takim, jaki on jest</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

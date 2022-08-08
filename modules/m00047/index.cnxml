@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U99ffb914-54b5-4915-9175-18131e46db83" id="U99ffb914-54b5-4915-9175-18131e46db83" xml:lang="en" cnxml-version="0.7">
+  <title>Dyskryminacja na rynku pracy</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00047</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Dyskryminacja na rynku pracy</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.284713109+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.284713109+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.284713109+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>99ffb914-54b5-4915-9175-18131e46db83</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDee7b108d-50db-402a-59d2-51acdd305d0e" class="learning-objectives">
+      <para id="UUID04b1a4e3-bb11-443d-693f-f4765e486232">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID1d7256aa-dfa7-4af3-5684-aa71118d0b4e">
+        <item id="UUID40ea22f2-b275-4a4f-52f5-27e3217bdd40">
+          <para id="UUIDa6f54d30-0a31-4cbe-7843-df634c9eb0ec">Przeanalizować różnice w poziomie wynagrodzeń wynikające z płci i pochodzenia etnicznego</para>
+        </item>
+        <item id="UUID385331cc-cf5b-4b6c-50f1-6ec1e8d72193">
+          <para id="UUIDd7a6c1c3-89a6-4285-7080-8401a3ada788">Objaśnić wpływ dyskryminacji płacowej na konkurencyjne rynki</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDc444d448-fafa-49b8-6163-f45d86610c14"><term cmlnle:reference="dyskryminacja" id="UUID55a5c27a-ff68-4e49-721f-f3ea388e769d">Dyskryminacja</term> (ang. <foreign xml:lang="en" id="UUID9cca6cf5-62dc-4cc6-4fb5-9352e0e2489d"><term cmlnle:reference="discrimination" id="UUIDa32178c7-e095-494c-6730-4cb7b0181af5">discrimination</term></foreign>) polega na działaniu opartym na przekonaniu, że członkowie określonej grupy zdefiniowanej za pomocą płci, rasy, pochodzenia etnicznego, wyznawanej religii lub jakiegokolwiek innego czynnika są gorsi wyłącznie ze względu na ten czynnik. Istnieje wiele rodzajów dyskryminacji, ale w tym podrozdziale nacisk zostanie położony na dyskryminację na rynkach pracy, która pojawia się wówczas, gdy pracownicy o tym samym poziomie umiejętności – określanym przez wykształcenie, doświadczenie i wiedzę specjalistyczną – otrzymują różne wynagrodzenie lub mają różne szanse na podjęcie pracy.</para>
+    <para id="UUID2f2fb713-7691-4702-65aa-a1c8299ad027">Różnica między średnimi zarobkami dla różnych kobiet i mężczyzn lub ludzi o różnym pochodzeniu etnicznym sama w sobie nie dowodzi, że na rynku pracy występuje dyskryminacja. Musimy porównać te same cechy opisujące wydajność dla wszystkich zaangażowanych stron (pracowników). Dyskryminacja ze względu na płeć na rynku pracy ma miejsce wówczas, gdy pracodawcy płacą kobietom mniej niż mężczyznom, mimo że mają one porównywalny poziom wykształcenia, doświadczenie i wiedzę. Do dyskryminacji rasowej na rynku pracy dochodzi wtedy, gdy pracodawcy płacą odmiennym rasowo pracownikom mniej niż ich współpracownikom należącym do rasy będącej na danym terytorium w większości, mimo posiadania przez nich porównywalnego poziomu wykształcenia, doświadczenia i wiedzy. Aby wnieść pozew o dyskryminację np. ze względu na płeć, pracownica musi udowodnić, że pracodawca płaci jej mniej niż pracownikowi płci męskiej, który ma podobny zakres obowiązków, analogiczne wykształcenie, doświadczenie i kompetencje.</para>
+    <para id="UUIDd20313ac-2585-4515-789d-643ddeb10f45">Istnieją jednak czynniki, które mogą wpływać na obniżenie średnich zarobków kobiet. Na przykład na kobiety może spadać nieproporcjonalnie duża część obowiązków domowych. Jest też bardziej prawdopodobne, że matka małych dzieci opuści rynek pracy na kilka lat lub będzie pracowała w niepełnym wymiarze godzin. W rezultacie kobiety 30–40-letnie mają przeciętnie mniejsze doświadczenie zawodowe niż mężczyźni w tym samym wieku. W Stanach Zjednoczonych bezdzietne kobiety z takim samym jak mężczyźni wykształceniem i doświadczeniem otrzymują zazwyczaj porównywalną płacę. Jednak kobiety mające rodziny i dzieci zarabiają zazwyczaj od 7% do 14% mniej niż kobiety o podobnym wykształceniu i doświadczeniu zawodowym, ale nieposiadające dzieci. (Tymczasem żonaci mężczyźni zarabiają od 10% do 15% więcej niż samotni mężczyźni z porównywalnym wykształceniem i doświadczeniem zawodowym.) Czynniki wskazane powyżej tworzą swoisty mechanizm negatywnego sprzężenia zwrotnego, który obniża przeciętne płace kobiet. Ponieważ istnieje ryzyko, że pracownica zajdzie w ciążę i po urodzeniu dziecka odejdzie z pracy, pracodawcy są mniej skłonni do zatrudniania kobiet i w związku z tym mniej im płacą. W sytuacji, w której para decyduje się na dziecko, z pracy zrezygnuje osoba o niższych zarobkach, czyli najczęściej kobieta. Taka indywidualna, racjonalna skądinąd decyzja wzmacnia trend obserwowany w skali makro.</para>
+    <para id="UUIDec7e6e0a-ae9c-4abb-5df1-a98e3384de43">Zapewne moglibyśmy nazwać różne wzorce obowiązków rodzinnych dyskryminacją, ale zarówno w Polsce, jak i w USA jest to przede wszystkim podział zakorzeniony w społecznych wzorcach dotyczących ról wypełnianych przez ojców i matki w wychowaniu dzieci, a nie dyskryminacja ze strony pracodawców przy podejmowaniu decyzji o zatrudnieniu i wynagrodzeniu.</para>
+    <section id="fs-idp20752896">
+      <title id="UUIDf58aadf9-1d27-494e-7910-5d52f4feee0d">Rynki konkurencyjne i dyskryminacja</title>
+      <para id="UUID0fd0e261-b14d-403a-66d2-1ae614ce5455"><term cmlnle:reference="Becker Gary" id="UUID69a647b8-a813-4965-5902-e6d1d0396261">Gary Becker</term> (1930–2014), laureat Nagrody Nobla w dziedzinie ekonomii w 1992 r., był jednym z pierwszych badaczy, którzy analizowali dyskryminację w kategoriach ekonomicznych. Becker zwrócił uwagę na to, że chociaż konkurencyjne rynki mogą pozwalać niektórym pracodawcom na dyskryminację, to jednocześnie potrafią stwarzać przedsiębiorstwom maksymalizującym zysk zachęty do niedyskryminowania. Biorąc je pod uwagę, Becker badał, dlaczego dyskryminacja się utrzymuje.</para>
+      <para id="UUIDad2b065a-e570-4f75-5b5d-b9c3ea2a7ec8">Jeśli przedsiębiorstwo działające na obszarze zamieszkiwanym przez dużą populację mniejszościową odmawia członkom tej mniejszości sprzedaży swoich produktów lub niechętnie ich zatrudnia, to redukuje własne zyski. Dzięki przedsiębiorstwom prowadzonym przez pracodawców odmawiających płacenia wynagrodzenia kobietom i/lub mniejszościom w oparciu o ich produktywność, inni – poszukujący zysku – pracodawcy mogą zatrudnić tych pracowników. Na rynku, na którym funkcjonuje wiele podmiotów, jeśli właścicielom przedsiębiorstw bardziej zależy na kolorze pieniędzy niż na kolorze skóry, istnieje silna motywacja do podejmowania decyzji dotyczących kupna, sprzedaży, zatrudniania i promocji w oparciu wyłącznie o czynniki ekonomiczne.</para>
+      <para id="UUIDcde61011-78a6-495c-717d-68ff8b8de689">Dlaczego zatem na konkurencyjnych rynkach dyskryminacja się utrzymuje? Gary Becker starał się wyjaśnić tę zagadkę. Impulsy dyskryminacyjne mogą pojawiać się na wielu poziomach: wśród menedżerów, pracowników i klientów. Rozważ sytuację menedżera, który nie jest osobiście uprzedzony, ale ma wielu pracowników lub klientów, którzy nie zaakceptują kobiety pracującej w „typowo męskim” zawodzie. Jeśli ten menedżer traktuje grupy mniejszościowe lub kobiety sprawiedliwie, może to odbić się na morale jego uprzedzonych współpracowników lub odstraszyć niektórych klientów. W takiej sytuacji polityka niedyskryminacji mogłaby zmniejszyć zyski firmy. W końcu przedsiębiorstwo jest częścią społeczeństwa i jeśli nie przestrzega jego norm, prawdopodobnie ucierpi. Same siły rynkowe raczej nie stłumią silnych postaw społecznych dotyczących dyskryminacji.</para>
+    </section>
+    <section id="fs-idm337399888" class="summary">
+      <title id="UUID0bf02af1-2cb0-4680-6228-c56bcbed1ce8">Key Concepts and Summary</title>
+      <para id="UUIDf54c6d84-6e41-48c3-5471-ca4158ba7ee1">Dyskryminacja na rynku pracy ma miejsce wtedy, gdy pracodawcy płacą zróżnicowane wynagrodzenia pracownikom mającym jednakowe wykształcenie, doświadczenie i umiejętności – ze względu na rasę, płeć, religię, wiek lub niepełnosprawność. W Stanach Zjednoczonych kobiety zarabiają średnio mniej niż pracownicy płci męskiej, z kolei czarnoskórzy otrzymują średnio niższe pensje niż biali. Istnieją pewne kontrowersje co do tego, które z niedyskryminacyjnych różnic w wykształceniu i doświadczeniu zawodowym mogą uzasadniać te różnice w zarobkach. Wolny rynek może pozwolić na dyskryminację, ale groźba utraty części zysków lub odejścia produktywnych pracowników stwarza również zachęty dla przedsiębiorstw, by zaniechały zachowań dyskryminacyjnych.</para>
+    </section>
+    <section id="eip-236" class="self-check-questions">
+      <title id="UUIDae62ed53-2885-4536-5827-0b5915bd268b">Self-Check Questions</title>
+      <exercise id="eip-874">
+        <problem id="eip-1">
+          <para id="eip-354"><link target-id="eip-idm1281877968" id="UUIDf4d179de-04be-4edc-5fcb-518f60399575" /> pokazuje informacje o krzywej podaży pracy dla monopsonu, czyli stawki płacy oczekiwanej na każdym poziomie zatrudnienia.</para>
+          <table summary="Table 14.13 shows information from the supply curve for labor for a monopsonist, that is, the wage rate required at each level of employment." id="eip-idm1281877968"><tgroup cols="3" id="UUID704d5026-d414-27de-abc80b67ccd30270"><colspec colnum="1" colname="col1" id="UUID704d5026-3ac5-35c9-1b1c83ff7c69dc45" /><colspec colnum="2" colname="col2" id="UUID704d5026-7497-2b5e-23f4d44ca0191e67" /><colspec colnum="3" colname="col3" id="UUID704d5026-1104-8914-9e5e48fdcd3fbbaf" /><thead id="UUID704d5026-6675-dder-504bc89c0607d301"><row id="UUID704d5026-vfrt-dsde-265f4ef30f7b3793">
+</row></thead><tbody id="UUID704d5026-8928-e611-443a3d173a957433">
+</tbody></tgroup></table>
+          <list list-type="enumerated" number-style="lower-alpha" id="eip-idm329599792">
+            <item id="UUID9a7408dc-7710-4e78-6f7c-36248bc6e6a4">
+              <para id="UUIDfcce9e1b-269c-4866-4bc2-8eb1ea9dde58">Jaki jest krańcowy koszt pracy dla monopsonu przy każdym poziomie zatrudnienia?</para>
+            </item>
+            <item id="UUID89d7f692-db18-4f0e-723a-953208dd86c0">
+              <para id="UUIDa2c3dcdc-fc83-4361-442c-17763a1f46df">Jeśli każdy pracownik generuje przyrost utargu całkowitego o wartości 13 zł, to jaki jest zysk przedsiębiorstwa, które wybrało optymalny poziom zatrudnienia?</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="eip-idm422944672">
+          <list list-type="enumerated" number-style="lower-alpha" id="eip-idm232146912">
+            <item id="UUID80ca6522-980f-4f38-6b12-74454a246e3b">
+              <para id="UUID1d9df6d5-cb4d-4770-44dc-c945292e1bca">Krańcowy koszt pracy to koszt, jaki przedsiębiorstwo ponosi z powodu zatrudnienia jeszcze jednego pracownika. Aby znaleźć krańcowy koszt pracy, należy najpierw ustalić całkowity koszt zatrudnienia dla każdej liczby pracowników, a następnie policzyć różnicę.</para>
+            </item>
+            <item id="UUID2557c594-babe-43e9-66b5-5a65b33fb893">
+              <para id="UUID2400d974-2569-4661-7776-318fa24e9d00">Monopsonista będzie zwiększał zatrudnienie do momentu, w którym korzyść z zatrudnienia dodatkowego pracownika nie zrówna się z kosztem krańcowym jego zatrudnienia. Oznacza to, że optymalnym poziomem zatrudnienia we wskazanej sytuacji jest 4 pracowników.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="eip-258">
+        <problem id="fs-idm32664288">
+          <para id="UUID9e350255-13e7-4ef0-5b67-10fd616f8c63">Wyjaśnij, w jaki sposób w każdej z poniższych sytuacji siły rynkowe mogą zachęcić przedsiębiorstwo do działania w mniej dyskryminacyjny sposób.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp22457072">
+            <item id="UUIDd8379218-73a0-4e0d-72d1-be535d38cdb8">
+              <para id="UUID5a1be0be-6105-4ad8-5a7f-0e3046614a4d">Lokalne przedsiębiorstwo dostarczające kwiaty, prowadzone przez fanatycznego białego właściciela, zauważa, że wielu klientów to osoby czarnoskóre.</para>
+            </item>
+            <item id="UUIDcab1fa10-0004-42b2-5eb7-a67cd927aba6">
+              <para id="UUIDeb667467-6f35-4cc4-7a66-d89bac064c1d">Linia montażowa tradycyjnie zatrudnia tylko mężczyzn, ale ma trudności ze znalezieniem odpowiednio wykwalifikowanych pracowników.</para>
+            </item>
+            <item id="UUID6ea9fb9f-5a60-49a9-6f2a-cb9c7c84668c">
+              <para id="UUID8a74605a-8aae-47ea-6186-65fa80465067">Stronniczy właściciel przedsiębiorstwa świadczącego usługi domowej opieki zdrowotnej chciałby płacić Latynosom pensje niższe niż innym pracownikom.</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm106410912">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp58801136">
+            <item id="UUIDbe7ce77a-1873-48a9-7b79-32f9c0e75a39">
+              <para id="UUIDcc240704-c5fa-44ed-6f4c-26357bc430bd">Przedsiębiorstwa mają motywację do osiągania zysków, a więc powinny sprzedawać produkty wszystkim, bez względu na rasę, pochodzenie etniczne, religię czy płeć.</para>
+            </item>
+            <item id="UUID78d843c1-4418-4b5e-73e1-3c7bff176feb">
+              <para id="UUID7b1d6404-782a-4b42-53e1-e1d488baefce">Przedsiębiorstwo musi zatrudniać ludzi, aby się rozwijać i zwiększać sprzedaż. Może ono stwierdzić, że przyjmując pracowników tylko ze swojej tradycyjnej puli – powiedzmy, białych mężczyzn – nie znajdzie ich w wystarczającej liczbie. To dobra motywacja do tego, by zatrudniać kobiety i przedstawicieli różnych mniejszości.</para>
+            </item>
+            <item id="UUIDfa1694d2-cebd-4663-4c2b-e3361ccd2d99">
+              <para id="UUID0b153f28-b609-4b23-64d0-991c7601a1c5">Przedsiębiorstwo zaniżające płace swoim pracownikom może ich stracić, gdyż odejdą do innego pracodawcy, oferującego lepsze wynagrodzenie. Ta presja rynkowa może zmienić podejście dyskryminującej firmy.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="eip-525">
+        <problem id="fs-idm53278">
+          <para id="fs-idm54512">Czy różnica w średnich zarobkach między kobietami a mężczyznami świadczy o dyskryminacji na rynku pracy? Uzasadnij swoją odpowiedźm</para>
+        </problem>
+        <solution id="fs-idm1557376">
+          <para id="fs-idm1540394">Nie. Różnica w zarobkach sama w sobie nie świadczy o dyskryminacji, ponieważ nie porównuje płac mężczyzn i kobiet wykonujących tę samą pracę, mających takie samo wykształcenie, doświadczenie i wydajność.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm328961168" class="review-questions">
+      <title id="UUIDa013b9f6-c776-4372-68ad-00fc704c63df">Review Questions</title>
+      <para id="UUID5b3db04c-dbb9-46e9-50f7-94e07e9f14de" />
+    </section>
+    <section id="eip-621" class="critical-thinking">
+      <title id="UUIDa0f4a8aa-c03b-46ab-492a-366f2503cfa4">Critical Thinking Questions</title>
+      <exercise id="fs-idm159833664">
+        <problem id="fs-idm98403792">
+          <para id="fs-idm68017744">Jeśli dyskryminacja nie jest opłacalna, dlaczego ciągle mamy z nią do czynienia?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm234154784">
+        <problem id="fs-idp3406160">
+          <para id="fs-idm89994288">Czy na przedsiębiorstwo, które dyskryminowało mniejszości w przeszłości, powinny być dziś nałożone specjalne wymogi, które będą faworyzować przedstawicieli dyskryminowanej do niedawna mniejszości? Dlaczego tak lub dlaczego nie?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID304b3710-898d-4193-6a3c-859a592030f5">
+    <definition id="fs-idm3684464">
+      <term id="UUID68888817-021a-449b-50be-442f01f7dfbf">dyskryminacja (ang. <foreign xml:lang="en" id="UUIDf04ed54f-4528-4a35-505f-8d7dae420e22">discrimination</foreign>)</term>
+      <meaning id="fs-idp97087536">
+        <para id="UUID276be8f9-ab90-4eec-4985-af0f6219f576">działania oparte na przekonaniu, że członkowie określonej grupy lub grup są w jakiś sposób gorsi wyłącznie ze względu na określony czynnik, np. rasę, płeć lub religię.</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

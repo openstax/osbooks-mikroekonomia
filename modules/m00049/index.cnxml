@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U1e906fdf-8454-445c-b4a9-d7a8b73612cb" id="U1e906fdf-8454-445c-b4a9-d7a8b73612cb" xml:lang="en" cnxml-version="0.7">
+  <title>System rynkowy jako efektywny mechanizm informacyjny</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00049</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>System rynkowy jako efektywny mechanizm informacyjny</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.364079400+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.364079400+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.364079400+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>1e906fdf-8454-445c-b4a9-d7a8b73612cb</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID7166c2de-f4d8-46e2-4b6a-115cd1365536" class="learning-objectives">
+      <para id="UUID723f87c1-7300-407f-4329-6647e8971832">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID1249eb4c-c35d-4a2f-42a8-d5da0ff38a6b">
+        <item id="UUIDb755263d-9354-4a90-53bb-72f9504c1c83">
+          <para id="UUIDb831cad3-2760-4bf9-61ba-c750cf671684">Wykorzystać popyt i podaż do analizy poziomu cen i produkcji zapewniających równowagę na rynku</para>
+        </item>
+        <item id="UUID1dab735d-5bd8-47fb-5ef7-31046633efe0">
+          <para id="UUID3aebb96e-b4cd-4088-4e53-e5acea63320a">Objaśnić, jaki jest wpływ wprowadzenia kontroli cen na stan równowagi rynkowej</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID208880ee-1f75-45f2-76cf-5f1ebfba3b16">Ceny to podstawowy parametr określający sytuację na rynkach dóbr i usług, pracy oraz na rynku finansowym. Są one nośnikiem istotnych informacji, kluczowych z punktu widzenia podmiotów chcących zawrzeć transakcje na konkretnym rynku. W gospodarce rynkowej żadna agencja rządowa ani żaden system sztucznej inteligencji nie śledzą reakcji podmiotów ekonomicznych na zmiany cen. Każdy konsument reaguje zgodnie z własnymi preferencjami i ustalonym budżetem, a każdy producent dąży do maksymalizacji zysku. Poniższa <link target-id="fs-idm202385216" id="UUIDa4cc6fd8-7803-4c76-46e3-09646a00d851" /> objaśnia sposób funkcjonowania <term cmlnle:reference="model popytu i podaży" id="UUIDf6f45df0-4134-412b-5eff-448f2584409b">modeli popytu i podaży</term> (ang. <foreign xml:lang="en" id="UUID33adcc46-a659-4f10-66cc-221a10b104da"><term cmlnle:reference="demand and supply model" id="UUID81427fcc-1217-4563-67ac-d99cf67b6f48">demand and supply model</term></foreign>).</para>
+    <note type="note" id="fs-idm202385216" class="clearup economics">
+      <title id="UUID80378983-8392-41d7-7dd3-9ac065e2816f">Dlaczego krzywe popytu i podaży są tak istotne?</title>
+      <para id="UUIDcfb867ec-8ffe-4b90-6ae2-e97cc7fcabf2">Model popytu i podaży jest drugą co do ważności koncepcją prezentowaną w ramach tego kursu mikroekonomii. (Najważniejszy jest model prezentujący sposób podejmowania decyzji w warunkach ograniczonych zasobów, który został przedstawiony w pierwszym rozdziale podręcznika.) Próby nauczenia się tego, na czym polega dzielenie dwóch liczb, metodą zapamiętywania ilorazu każdej możliwej kombinacji liczb byłyby chyba niezbyt mądre. Podobnie niemądre byłoby zapamiętywanie każdego konkretnego przykładu rynku z popytem i podażą, opisanego w tym podręczniku, czy w czasie całego kursu mikroekonomii. Znacznie rozsądniej jest potraktować ten model jako uniwersalne narzędzie do analizy czynników determinujących ceny i wielkość produkcji na KAŻDYM rynku. Twoim celem powinno być zrozumienie logiki podstawowego modelu, aby można było go używać do analizy dowolnego rynku.</para>
+      <para id="UUID49cd936a-fbfe-4262-70fb-a8bd24e63bd6"><link target-id="CNX_Econ_C04_008" document="" id="UUIDb36eba75-261e-4355-5cbb-9a9929054b7f" /> przedstawia typowe krzywe popytu i podaży. Na osi poziomej zaznaczone są różne miary określające ilość oferowaną na rynku: wielkość produkcji dóbr lub usług, ilość pracy i wartość środków finansowych. Oś pionowa pokazuje z kolei różne sposoby definiowania ceny rynkowej: cenę (dla dóbr i usług), płacę (na rynku pracy) i zwrot z kapitału (stopę procentową na rynku finansowym).</para>
+      <para id="UUID76c143eb-3e84-4760-4556-3ddc43020d1c">Model popytu i podaży objaśnia, dlaczego na rynku mamy do czynienia z takim, a nie innymi poziomami cen, płac i stóp procentowych. Aby przeprowadzić podobną analizę, zastanów się, jakie będzie zapotrzebowanie i jaka ilość oferowana na rynku przy każdym poziomie ceny rynkowej – to znaczy pomyśl o kształcie krzywych popytu i podaży – oraz o tym, jak wzajemna interakcja tych parametrów doprowadzi do równowagi rynkowej.</para>
+      <para id="UUID6c4a5ed9-b958-4baf-4ae3-cc3f4cf152e5">Możemy również wykorzystać popyt i podaż, aby wyjaśnić, w jaki sposób konkretne czynniki o charakterze ekonomicznym (czyli szoki lub wstrząsy rynkowe) wpłyną na zmiany cen, płac i stóp procentowych. Dla każdego szoku istnieją tylko cztery możliwe scenariusze: przesunięcie krzywej popytu w prawo, przesunięcie krzywej popytu w lewo, przesunięcie krzywej podaży w prawo i przesunięcie krzywej podaży w lewo. Kluczem do oceny wpływu konkretnego zdarzenia na cenę i ilość równoważące rynek jest ustalenie, z którym ze wspomnianych scenariuszy mieliśmy do czynienia. Aby zrobić to poprawnie, trzeba wrócić do listy czynników przesuwających krzywe popytu i podaży. Jeśli w tym samym czasie pojawi się więcej niż jeden szok, ostateczny wpływ będzie zależał od skali przesunięcia każdej z krzywych. W przypadku współistniejących zmian ekonomiści izolują każdą z nich i analizują przy założeniu <foreign xml:lang="la" id="UUIDbc17df17-2ccc-4ac9-57a5-b93fba98106b">ceteris paribus</foreign>.</para>
+      <figure id="CNX_Econ_C04_008">
+        <title id="UUIDf2f70cdd-1a49-4bed-742c-29f8847eb99d">Krzywe popytu i podaży</title>
+        <media alt="Wykres przedstawia kształt standardowych krzywych podaży i popytu, które przecinają się w punkcie równowagi." id="fs-idp100826432">
+          <image src="../../media//CNX_Econ_C04_008.svg" mime-type="image/svg+xml" id="UUID4083983d-7010-41da-411c-79050b4c6ed4" />
+        </media>
+        <caption id="UUID61c9d023-6a45-41e0-642c-54ff6ec4da70">Rysunek przedstawia podstawowe krzywe popytu i podaży. Na osi poziomej odłożone są różne miary ilości oferowanej na różnych rynkach: wielkość produkcji dóbr lub usług, ilość pracy lub wartość środków finansowych. Na osi pionowej zaznaczono różne ujęcia cen rynkowych: cenę (na rynku dóbr i usług), płacę (na rynku pracy) lub stopę zwrotu (np. stopę procentową na rynku finansowym). Możemy użyć krzywych popytu i podaży, aby wyjaśnić, w jaki sposób konkretne zdarzenia w gospodarce (szoki rynkowe) wpłyną na poziom cen, płac i stóp zwrotu.</caption>
+      </figure>
+    </note>
+    <para id="UUIDfa0ed692-d9b9-4dfa-70da-71047bbeca46">Wzrost ceny niektórych produktów sygnalizuje konsumentom ich niedobór na rynku (nadwyżkę popytu), dlatego mogą chcieć zaoszczędzić na ich zakupie. Na przykład jeśli myślisz o podróży samolotem do Włoch lub Francji, ale bilet na wybrany przez ciebie dzień okazuje się zbyt drogi, możesz rozważyć inne terminy. Cena może być wysoka, ponieważ planowałeś podróż w piątek w czasie szkolnych wakacji (choć sam nie masz jeszcze dzieci) lub w bezpośrednim sąsiedztwie świąt, czyli w okresie, w którym zapotrzebowanie na to specyficzne dobro jest szczególnie wysokie. Być może wzrósł koszt nakładów niezbędnych do produkcji tego dobra, bo zdrożało paliwo do silników odrzutowych, albo linia lotnicza tymczasowo podniosła cenę, aby zobaczyć, ile osób jest gotowych ją zapłacić. Być może wszystkie te czynniki występują jednocześnie. Nie musisz analizować rynku i rozkładać zmiany ceny na czynniki pierwsze. Wystarczy spojrzeć na cenę biletu i zdecydować, czy i kiedy ostatecznie chcesz lecieć.</para>
+    <para id="UUID59f9c655-f297-4fb5-402e-05b05795b900">W ten sam sposób zmiany cen dostarczają użytecznych informacji producentom. Wyobraź sobie sytuację rolnika, który uprawia owies i dowiaduje się, że cena owsa wzrosła. Wyższa cena może być spowodowana wzrostem popytu, uzasadnionym nowymi badaniami naukowymi potwierdzającymi bez żadnych wątpliwości, że jedzenie owsa jest szczególnie zdrowe (nie tylko dla koni!). Być może cena zbóż zastępczych, takich jak kukurydza, wzrosła, a ludzie zareagowali, kupując więcej owsa. Producent owsa nie musi znać takich szczegółów, choć oczywiście powinien się nimi interesować, jeśli profesjonalnie zajmuje się tą konkretną działalnością. Musi być natomiast świadomy, że cena owsa wzrosła i że w rezultacie opłaca się zwiększyć jego produkcję.</para>
+    <para id="UUID2b0d740c-e0ed-438b-4990-6777c2d0fe12">Sposoby reakcji każdego z konsumentów i producentów na zmiany cen nakładają się i zazębiają na rynkach dóbr konsumpcyjnych i czynników produkcji (pracy i kapitału). Zmiana na każdym z pojedynczych rynków może być następnie w pewnym stopniu odzwierciedlona przez przesunięcia krzywych popytu i podaży na innych rynkach. To, że ostatecznie efektem każdego z możliwych szoków będzie ustalenie równowagi na wszystkich rynkach w gospodarce, zaś kluczową rolę w tym procesie odgrywają ceny, pomaga wyjaśnić, dlaczego <term cmlnle:reference="kontrola cen" id="UUID4fc33da8-02dd-4a15-5962-67cb9082f149">kontrola cen</term> (ang. <foreign xml:lang="en" id="UUID6b0c56ea-f1be-439f-6cc2-53c48fc12ce1"><term cmlnle:reference="price control" id="UUID28d377dd-2f76-4877-6fb3-fc08fe9f1544">price control</term></foreign>) może być tak nieproduktywna. Proces ten nie unieważnia przecież czynników (szoków), które wpłynęły na zmianę ceny lub cen na konkretnym rynku (rynkach). Jest reakcją na objawy, a nie próbą zlikwidowania przyczyn. Jeśli państwo w arbitralny sposób ograniczy możliwość podnoszenia cen na rynku wynajmu mieszkań (zamiast pomyśleć o tym, jak zwiększyć dostępny zasób lokali), zachowa się jak osoba, która ból zęba próbuje zwalczyć połknięciem tabletki przeciwbólowej, zamiast pójść do dentysty. Ostatecznie i tak trzeba będzie zmierzyć się z przyczyną problemu, a nie łagodzić objawy jego występowania. Ceny pełnią funkcję analogiczną do starożytnych posłańców, którzy przynosili władcom złe wieści. Pokusa, aby zabić takiego posłańca, jest bardzo duża, ale jest to działanie kontrproduktywne, bo przecież to nie wina posłańca, że armia władcy poniosła w bitwie klęskę. Co więcej, zabicie posłańca miałoby niepożądany efekt uboczny: inni posłańcy odmawialiby przekazywania wiadomości temu władcy, co pozbawiałoby go dostępu do ważnych informacji.</para>
+    <para id="UUID74b03ae9-1bf1-4c03-6fb8-576282644dfe">Dążenie do kontroli cen to próba „zabicia posłańca” lub przynajmniej zagłuszenia niepożądanego komunikatu o tym, że popyt i podaż w istotny sposób się zmieniają. Kontrola cen nie wpływa na podstawowe siły popytu i podaży, a to może mieć poważne reperkusje. Podczas chińskiego Wielkiego skoku pod koniec lat 50. XX w. rząd sztucznie utrzymywał ceny żywności na niskim poziomie, w wyniku czego 30–40 mln ludzi zmarło z głodu, ponieważ niskie ceny doprowadziły do obniżenia produkcji rolnej. Przypomnijmy, Wielki skok to była polityczna kampania zainicjowana przez przywódcę partii komunistycznej Mao Zedonga. Jej celem było przekształcenie kraju z rolniczego w przemysłowy poprzez wprowadzenie kolektywizacji i szybkiej industrializacji. Kontrola cen powoduje unieruchomienie informatora cenowego, jakim jest rynek, uniemożliwiając podmiotom w gospodarce dostęp do kluczowej informacji. Bez niej wszystkim, zarówno kupującym, jak i sprzedającym, trudno będzie reagować w elastyczny i właściwy sposób na zmiany zachodzące w całej gospodarce.</para>
+    <note type="note" id="fs-idm181354016" class="bringhome economics">
+      <title id="UUIDd77231c7-239f-4b00-7a54-b9996c9ad39f">Pokolenie wyżu demograficznego wchodzi w jesień życia</title>
+      <para id="fs-idm31406704">Wzajemne interakcje podaży i popytu pomogą nam wyjaśnić, co dzieje się na rynkach pracy, i podpowiadają, że zapotrzebowanie na pracę pielęgniarek będzie rosło wraz ze wzrostem potrzeb zdrowotnych pokolenia wyżu demograficznego, tak jak zostało to zilustrowane na <link target-id="CNX_Econ_C04_015" document="" cmlnle:case="locative" id="UUID46a69e80-7c1d-4650-407b-e34b65121eba" />. Wpływ tych nasilających się potrzeb spowoduje również, że mediana płac pielęgniarek będzie wyższa niż 67 490 dol., czyli poziomu wynagrodzeń osób wykonujących ten zawód w 2015 r. Nowy punkt równowagi rynkowej (E<sub>1</sub>) będzie wskazywał na wzrost zarówno płacy (do wysokości Pe<sub>1</sub>), jak i liczby pracujących pielęgniarek (z Qe<sub>0</sub> do Qe<sub>1</sub>).</para>
+      <figure id="CNX_Econ_C04_015">
+        <title id="UUID2be791f9-287b-433c-4693-1bddc7995bf7">Wpływ rosnącego popytu na pracę pielęgniarek w latach 2014–2024 na równowagę rynkową</title>
+        <media alt="Wykres pokazuje, że przesunięcie w prawo popytu na pracę pielęgniarek z spowoduje zarówno wzrost zarówno ich płac, jak i liczby osób, wykonujących tę pracę." id="fs-idp98564464">
+          <image src="../../media//CNX_Econ_C04_015.svg" mime-type="image/svg+xml" id="UUIDbc70a4af-868f-4964-5bca-1df1418362df" />
+        </media>
+        <caption id="UUID6d0f299b-750e-40c5-562c-bf94f10b4c1d">W 2014 r. mediana pensji pielęgniarek w Stanach Zjednoczonych wynosiła 67 490 dol. Wraz ze wzrostem zapotrzebowania na ich usługi krzywa popytu przesuwa się w prawo (z D<sub>0</sub> do D<sub>1</sub>), a liczba pielęgniarek zatrudnionych w stanie równowagi na rynku rośnie z Qe<sub>0</sub> do Qe<sub>1</sub>. Płaca równoważąca rynek rośnie z Pe<sub>0</sub> do Pe<sub>1</sub>.</caption>
+      </figure>
+      <para id="UUIDf5f78667-7cd8-4588-6433-58696aadc9d5">Załóżmy, że wraz ze wzrostem zapotrzebowania na pracę pielęgniarek jednocześnie kurczy się jej podaż, ze względu na rosnącą liczbę pielęgniarek przechodzących na emeryturę i wzrost czesnego na studiach na kierunku pielęgniarstwo. Przesunięcie krzywej podaży w lewo na <link target-id="CNX_Econ_C04_016" document="" cmlnle:case="locative" id="UUID3424b412-8c0c-43b7-7e2f-38b527216639" /> pokazuje wpływ malejącej podaży usług pielęgniarek na rynek. Przesunięcia obu krzywych skutkują wyższymi płacami, ale ogólny wpływ na liczbę zatrudnionych pielęgniarek jest niejednoznaczny, ponieważ zależy od skali względnych przesunięć krzywych podaży i popytu.</para>
+      <figure id="CNX_Econ_C04_016">
+        <title id="UUID297ad0f3-9704-4332-4f0f-546051d2a25d">Wpływ malejącej podaży pracy pielęgniarek w latach 2014-2024 na równowagę rynkową</title>
+        <media alt="Wykres pokazuje, że jednoczesne przesunięcie krzywej popytu w prawo i krzywej podaży w lewo spowoduje znaczny wzrost wynagrodzeń, ale nie można przewidzieć, co stanie się z liczbą zatrudnionych pielęgniarek." id="fs-idp53179024">
+          <image src="../../media//CNX_Econ_C04_016.svg" mime-type="image/svg+xml" id="UUIDb7899814-9008-4983-69f3-c405e713f2d2" />
+        </media>
+        <caption id="UUID30e4a99b-8289-4f32-4b90-2e7852b61b03" />
+      </figure>
+      <para id="UUID426e54fa-8d52-46c3-789e-526ad37c0116">Wzrost popytu na usługi pielęgniarek pokazany na <link target-id="CNX_Econ_C04_015" cmlnle:case="locative" id="UUIDc3fa7050-7b55-4c0c-70b7-3053b5fbc4d3" /> prowadzi zarówno do wyższych wynagrodzeń, jak i większej liczby osób zatrudnionych w tym zawodzie. Wraz z odchodzeniem pielęgniarek na emeryturę podaż ich pracy spada (<link target-id="CNX_Econ_C04_016" id="UUIDec0450b1-b87a-4d52-7c7e-84b9133ad560" />), powodując przesunięcie krzywej podaży w lewo i ponowny wzrost ich płac (do poziomu Pe<sub>2</sub>). Efekt netto – jeśli chodzi o liczbę pielęgniarek zatrudnionych w stanie nowej równowagi – jest niepewny. W tym przykładzie liczba pielęgniarek pracujących w równowadze jest mniejsza niż Qe<sub>1</sub>, ale większa niż początkowe Qe<sub>0</sub>.</para>
+      <para id="fs-idp177707152">Chociaż nie wiemy, czy liczba zatrudnionych pielęgniarek się zwiększy, czy zmniejszy do 2024 r., mamy pewność, że te, które będą pracować, otrzymają wyższe wynagrodzenie.</para>
+    </note>
+    <section id="fs-idp111538224" class="summary">
+      <title id="UUID010443d2-9b47-4aa9-5647-e4066ae3ca2f">Key Concepts and Summary</title>
+      <para id="UUID978e45b9-6070-4ede-4b9d-93c27cc30ac4">System cen rynkowych zapewnia wysoce efektywny mechanizm dystrybuowania informacji o względnych niedoborach dóbr i usług, siły roboczej i środków finansowych. Uczestnicy rynku nie muszą wiedzieć, dlaczego ceny się zmieniły, a jedynie, że zmiany te wymagają od nich ponownego rozważenia wcześniejszych decyzji dotyczących zakupu lub sprzedaży. Mechanizmy kontroli cen, takie jak ceny minimalne i maksymalne, ukrywają informacje o realnej skali niedoborów na rynkach, a tym samym powodują niewłaściwą alokację zasobów.</para>
+    </section>
+    <section id="fs-idp25981872" class="self-check-questions">
+      <title id="UUID723ccd2f-bb7b-419d-49b2-d0bd125b3143">Self-Check Questions</title>
+      <exercise id="fs-idp53788832">
+        <problem id="fs-idm41081568">
+          <para id="fs-idp40765008">Zidentyfikuj najbardziej trafne stwierdzenie. Cena minimalna będzie miała największy wpływ na rynek, jeśli zostanie ustalona:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp54645600">
+            <item id="UUID796557b1-3278-45ee-4656-a98294c600d5">
+              <para id="UUID9c293378-2253-4edf-5cd8-bed5dcad1f72">znacznie powyżej ceny równowagi</para>
+            </item>
+            <item id="UUID4aba3861-b1ba-458d-6e26-383541537e9f">
+              <para id="UUIDc0862a26-7b5a-41ce-5a37-345341599256">nieco powyżej ceny równowagi</para>
+            </item>
+            <item id="UUIDe694a6ac-2b1f-4a68-4241-1ec79fa5f03c">
+              <para id="UUID1a237cf2-5259-4fa3-65f7-6ea81b57ebc3">nieco poniżej ceny równowagi</para>
+            </item>
+            <item id="UUIDda0ba970-32eb-4492-4cf7-67c3ace3f14d">
+              <para id="UUID71a8654b-7bbc-4a03-784a-445d7e6ad9d7">znacznie poniżej ceny równowagi</para>
+            </item>
+          </list>
+          <para id="fs-idm24412144">Aby zilustrować swoją odpowiedź, naszkicuj wszystkie cztery warianty, wykorzystując krzywe popytu i podaży.</para>
+        </problem>
+        <solution id="fs-idm23596562">
+          <para id="fs-idm15691344">Cena minimalna ustalona powyżej poziomu równowagi będzie miała wpływ na rynek, ponieważ podmioty ekonomiczne nie mogą zawierać legalnych transakcji z wykorzystaniem cen niższych niż minimalne. Jeśli cena rynkowa jest niższa od minimalnej, pojawi się znaczna nadwyżka podaży, taka jak na wykresie poniżej.</para>
+          <para id="UUID56a02a10-e459-40e0-4671-db4046a0714a" />
+          <figure id="UUID3783f661-3122-4d61-4cbc-130ed32c25bd">
+            <media alt="Wykres przedstawia cenę minimalną wyznaczoną na poziomie znacznie wyższym od ceny równowagi, co skutkuje pojawieniem się dużej nadwyżki podaży." id="UUID30f8c9bf-3b25-45e8-4e60-dc55e33d8bf6">
+              <image src="../../media//CNX_Econ_C04_017.svg" mime-type="image/svg+xml" id="UUIDd6034b14-ee8c-4815-6220-f1ac98c2f627" />
+            </media>
+          </figure>
+        </solution>
+        <solution id="UUIDcf1e9f1d-cfc9-4d5a-5dcd-990ae05aecd9">
+          <para id="UUIDc7841a9a-b22e-4a69-40da-ab4318e4b6b4">Jeśli cena minimalna w dalszym ciągu jest wyższa niż cena równowagi, nadwyżka podaży będzie się utrzymywać, jakkolwiek jej rozmiary będą mniejsze. Ilustruje to poniższy wykres.</para>
+          <figure id="UUID76703514-d339-4350-6b52-f7f8515f1170">
+            <media alt="Wykres przedstawia cenę minimalną wyznaczoną na poziomie nieznacznie wyższym od ceny równowagi, co skutkuje pojawieniem się niewielkiej nadwyżki podaży." id="UUIDfc9115c3-b835-47aa-670d-3f9b5e866c59">
+              <image src="../../media//CNX_Econ_C04_018.svg" mime-type="image/svg+xml" id="UUID18e4fd00-3203-40b4-42cf-dd53ca41e1d6" />
+            </media>
+          </figure>
+        </solution>
+        <solution id="UUIDdc869c7d-eac4-45de-79c4-d17e4283342e">
+          <para id="UUIDde0cfa39-363c-44b2-6643-25441ae932fb">Cena minimalna ustalona poniżej poziomu równowagi nie będzie miała żadnego wpływu na rynek niezależnie od tego, czy będzie to niewielka, czy znaczna różnica. Cena rynkowa mieści się w limicie wyznaczonym przez regulacje państwa, w związku z tym transakcje będą zawierane po cenie rynkowej. Poniższe wykresy ilustrują te sytuacje.</para>
+          <figure id="UUIDbc1d0b54-8a87-4304-4743-6de6f3c9b17e">
+            <media alt="Dwa panele wykresu przedstawiają cenę minimalną, która jest znacznie niższa (panel prawy) i nieznacznie niższa (panel lewy) od ceny równowagi. W żadnym wariancie nie ma jednak wpływu na poziom cen i ilość równowagi rynkowej." id="UUIDcd864014-17aa-4d97-4ff4-35f69b40260b">
+              <image src="../../media//CNX_Econ_C04_019.svg" mime-type="image/svg+xml" id="UUIDee1f5102-1e7f-46ab-44ca-7727cc3661a6" />
+            </media>
+            <caption id="UUID1b1804d7-b72c-4aba-7fdb-19f12505d655" />
+          </figure>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm48819353">
+        <problem id="fs-idp127005200">
+          <para id="fs-idm34667360">Największy wpływ na rynek będzie miała cena maksymalna ustalona:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm27061200">
+            <item id="UUID7d494021-52e0-44bb-4403-7e9e1e13bbce">
+              <para id="UUID04585c1d-14c7-40fc-7aff-2e17ac4bf448">znacznie poniżej ceny równowagi</para>
+            </item>
+            <item id="UUIDbf52b7eb-7e9b-4f54-6380-1dba7e021707">
+              <para id="UUIDf4186155-8854-4e46-6a93-b2b7fffc6328">nieco poniżej ceny równowagi</para>
+            </item>
+            <item id="UUIDfc64131e-bbde-40c4-43fe-c21296691df5">
+              <para id="UUID258fcafc-ea9f-49a7-4886-d54762b03803">znacznie powyżej ceny równowagi</para>
+            </item>
+            <item id="UUID8fc7eb06-8889-433f-61a4-3e62278bd525">
+              <para id="UUID14bc04e7-7bf2-4a0f-589d-1ba6afd370bb">nieco powyżej ceny równowagi</para>
+            </item>
+          </list>
+          <para id="fs-idp28686832">Aby zilustrować swoją odpowiedź, naszkicuj wszystkie cztery warianty, wykorzystując krzywe popytu i podaży.</para>
+        </problem>
+        <solution id="fs-idp35935223">
+          <para id="fs-idp22028144">Cena maksymalna ustalona poniżej poziomu równowagi będzie miała wpływ na rynek, ponieważ podmioty ekonomiczne nie mogą zawierać legalnych transakcji z wykorzystaniem cen wyższych niż maksymalne. Jeśli cena rynkowa jest wyższa od maksymalnej, wówczas pojawi się nadwyżka popytu taka jak na wykresach poniżej. Rozmiary nadwyżki popytu zależą od tego, czy cena maksymalna jest dużo niższa niż równowaga rynkowa (znaczna nadwyżka popytu), czy tylko nieznacznie niższa (mała nadwyżka popytu). Poniższy wykres ilustruje te sytuacje.</para>
+          <para id="UUIDbbed770b-76cc-4da4-5c44-3f61d046987c" />
+          <figure id="UUID423987be-9040-4de4-7170-44146aa0d8b7">
+            <media alt="" id="UUID80c01e49-77fb-4777-7d07-3f9e5c6f83f0">
+              <image src="../../media//CNX_Econ_C04_021.svg" mime-type="image/svg+xml" id="UUID883a1d64-ddb0-484c-7b7c-b23c1d08a10f" />
+            </media>
+          </figure>
+        </solution>
+        <solution id="UUIDdc10a59d-97f5-458f-792e-b15e548c94f7">
+          <para id="UUID4fe705cf-4eb5-453b-7554-09b593e93940">Cena maksymalna ustalona powyżej poziomu równowagi nie będzie miała żadnego wpływu na rynek, niezależnie od tego, czy będzie to niewielka, czy znaczna różnica. Cena rynkowa mieści się w limicie wyznaczonym przez regulacje państwa, w związku z tym transakcje będą zawierane po cenie rynkowej. Poniższe wykresy ilustrują te sytuacje.</para>
+          <para id="UUIDe84817c9-b1a7-44aa-552a-c0d926aa53bf" />
+          <figure id="UUID28a63ef7-932b-408c-6b5b-94b0693114a5">
+            <media alt="Dwa panele wykresu przedstawiają cenę maksymalną, która jest znacznie wyższa (panel lewy) i nieznacznie wyższa (panel prawy) od ceny równowagi. W obu sytuacjach jej wpływ na poziom cen i ilość równowagi rynkowej nie istnieje." id="UUID888f9ebb-7db2-4224-5825-afa246eaf98d">
+              <image src="../../media//CNX_Econ_C04_020.jpg" mime-type="image/svg+xml" id="UUID20280486-9b98-413f-79a1-de8634959122" />
+            </media>
+          </figure>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp29140256">
+        <problem id="fs-idm24429184">
+          <para id="fs-idm32195984">Wybierz poprawne stwierdzenie. Cena minimalna spowoduje przesunięcie:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp54240224">
+            <item id="UUID4a9d2bfd-a6fb-41a4-574c-109648965761">
+              <para id="UUID0630903e-fb3c-43cf-6664-4dfff6f6db49">popytu</para>
+            </item>
+            <item id="UUID6a2eb440-fb05-4340-72de-30e520bb874f">
+              <para id="UUID735b1a11-2e3a-408b-7be2-a6dbaed7e951">podaży</para>
+            </item>
+            <item id="UUID4030e7cc-e130-412a-7169-8e089f828403">
+              <para id="UUID86e9feda-e901-4d07-40d3-72034b452a65">popytu i podaży</para>
+            </item>
+            <item id="UUID32b73346-9d5c-443a-6537-24060cfcb681">
+              <para id="UUID69d3bef5-48f3-462d-7feb-e2a07f8aa0c6">żadne z powyższych</para>
+            </item>
+          </list>
+          <para id="fs-idp162082032">Naszkicuj swoją odpowiedź na wykresie.</para>
+        </problem>
+        <solution id="fs-idp53289744">
+          <para id="fs-idp86773424">Odpowiedź prawidłowa to „żadne z powyższych". Przesunięcie popytu lub podaży oznacza, że przy każdej cenie popyt lub podaż są większe lub mniejsze dla każdego poziomu ceny. Cena minimalna nie powoduje takiego efektu. Jeśli jednak cena minimalna jest ustalona powyżej poziomu równowagi, wówczas ilość oferowana na rynku będzie większa niż zapotrzebowanie, co doprowadzi do nadwyżki podaży.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp75628784">
+        <problem id="fs-idp126670096">
+          <para id="fs-idp65927152">Wybierz poprawne stwierdzenie. Cena maksymalna spowoduje przesunięcie:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp95262320">
+            <item id="UUIDa4d849f4-e9d5-4bdf-424d-79c6dcce2d5e">
+              <para id="UUID9f98341a-f985-4b93-4476-295627f1331c">popytu</para>
+            </item>
+            <item id="UUID3093bff1-ecbd-4c12-4eab-467c427c0728">
+              <para id="UUIDb96b836b-41c6-4e55-734e-2b806c681fe2">podaży</para>
+            </item>
+            <item id="UUID89dcf5f0-53bb-45ca-5203-f32cb8de2bcd">
+              <para id="UUID8a879da1-0dac-48f3-5cbc-e8e06e77dd7c">i popytu, i podaży</para>
+            </item>
+            <item id="UUID78e962e3-e7f8-4d16-7a54-a9662c48d9c9">
+              <para id="UUID2a910e22-58eb-4776-686a-c901f93faa3f">żadne z powyższych</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm11361888">
+          <para id="fs-idm41329008">Odpowiedź prawidłowa to „żadne z powyższych". Przesunięcie popytu lub podaży oznacza, że przy każdej cenie popyt lub podaż są większe lub mniejsze dla każdego poziomu ceny. Cena maksymalna nie powoduje takiego efektu. Jeśli jednak cena maksymalna jest ustalona poniżej poziomu równowagi, wówczas zapotrzebowanie będzie większe niż ilość oferowana na rynku, co doprowadzi do nadwyżki popytu.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm99356608" class="review-questions">
+      <title id="UUIDce691158-8bdb-47b1-47f7-522d42adc4ef">Review Question</title>
+      <exercise id="fs-idm48030224">
+        <problem id="fs-idm39413920">
+          <para id="fs-idm69262048">Niezależnie od tego, czy rozważamy rynek dóbr i usług, czy rynek pracy, co stanie się z ceną i ilością równoważącą rynek dla każdego z czterech następujących zdarzeń: wzrost popytu, spadek popytu, wzrost podaży i spadek podaży?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm55277984" class="critical-thinking">
+      <title id="UUIDdc4fbb20-2edf-4316-7b7d-251263b91f41">Critical Thinking Questions</title>
+      <exercise id="fs-idm169306384">
+        <problem id="fs-idm186276736">
+          <para id="fs-idm61609872">Dlaczego czynniki przesuwające popyt na dobra i usługi konsumpcyjne różnią się od czynników wpływających na położenie krzywej popytu na pracę? Dlaczego czynniki, które przesuwają krzywą podaży dóbr i usług różnią się od tych, które przesuwają krzywą podaży pracy?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm89937200">
+        <problem id="fs-idp16315584">
+          <para id="fs-idp126366992">Kilka lat temu, podczas dyskusji na temat budowy gazociągu do przesyłu gazu ziemnego z Alaski, Senat USA uchwalił ustawę przewidującą istnienie gwarantowanej ceny minimalnej za gaz ziemny przesyłany tym rurociągiem. Uzasadnienie pomysłu było takie, że prywatne przedsiębiorstwa mające gwarantowaną cenę za swój gaz będą bardziej skłonne robić odwierty w poszukiwaniu gazu na Alasce i płacić za budowę gazociągu.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp36308656">
+            <item id="UUID0079b60e-8df2-4a3a-6733-92646c4b5c11">
+              <para id="UUIDfe7a53e2-ec23-45d1-7d20-d3e9f0593b3c">Korzystając z modelu popytu i podaży, postaraj się przewidzieć wpływ tej ceny minimalnej na cenę, zapotrzebowanie i ilość gazu oferowaną na rynku.</para>
+            </item>
+            <item id="UUID04d7cfa5-f59b-4871-5c58-b40fb828e445">
+              <para id="UUIDdc41c249-9aa6-4158-62a5-49b1d2f7b0d6">Jakie są prawdopodobne, niezamierzone konsekwencje wprowadzenia ceny minimalnej na gaz ziemny?</para>
+            </item>
+            <item id="UUIDe9ca56ec-19ba-4ae0-7f4a-4f734c27ba39">
+              <para id="UUID0462bc91-e0d3-422e-741c-206fc0a0f092">Zaproponuj politykę inną niż wprowadzenie ceny minimalnej, którą amerykański rząd może zastosować, by zachęcić firmy do prowadzenia poszukiwań złóż gazu ziemnego i budowy rurociągu na Alasce.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm52243568" class="problems">
+      <title id="UUIDdc8784e2-8322-4962-6a3a-ca9b9c042925">Problems</title>
+      <exercise id="fs-idm39605632">
+        <problem id="fs-idm32573072">
+          <para id="fs-idm47484224">Wyobraź sobie, że aby zachować tradycyjny styl życia w małych rybackich wioskach, rząd postanawia ustanowić cenę minimalną ryb, która zagwarantuje wszystkim rybakom określone dochody związane z ich połowami.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp9445072">
+            <item id="UUID064859ce-312b-417e-6c8e-f767a412add9">
+              <para id="UUID965c6313-1dcc-47f9-4f15-8a01537dcea8">Korzystając z modelu popytu i podaży, spróbuj przewidzieć wpływ tej decyzji na cenę rynkową, zapotrzebowanie i ilość ryb oferowaną przez rybaków.</para>
+            </item>
+            <item id="UUIDc05b00b9-3653-4fec-54bf-675a0856641c">
+              <para id="UUID59449098-6aa4-4915-4dae-d57b342a5564">Jakie są prawdopodobne, niezamierzone konsekwencje związane z wprowadzeniem tej ceny minimalnej?</para>
+            </item>
+            <item id="UUID20cec1fe-f8c4-4af9-4912-6ab0f2c37fd9">
+              <para id="UUIDbf8d0994-92d6-4671-4926-3f9b5b4e4a9a">Zaproponuj inne niż cena minimalna ryb sposoby wsparcia, które umożliwią rybakom zachowanie dotychczasowego sposobu życia.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm166432016">
+        <problem id="fs-idm120243552">
+          <para id="fs-idm165267008">Co się stanie z ceną i ilością kupowanego i sprzedawanego na rynku kakao, jeśli kraje, w których uprawia się kakaowce, dotknie ciężka susza, a jednocześnie opublikowane zostaną wyniki badań dowodzące korzystnego wpływu kakao na zdrowie ludzi? Swoją odpowiedź zilustruj wykresem wykorzystującym krzywe popytu i podaży.</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+</document>

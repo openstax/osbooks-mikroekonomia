@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U7a32a8f5-6cf3-434e-8ce3-cc45e11d0491" id="U7a32a8f5-6cf3-434e-8ce3-cc45e11d0491" xml:lang="en" cnxml-version="0.7" class="">
+  <title>Jak ekonomiści wykorzystują teorie i modele do zrozumienia problemów ekonomicznych</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00005</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Jak ekonomiści wykorzystują teorie i modele do zrozumienia problemów ekonomicznych</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:51.057346820+00:00</md:version>
+    <md:created>2022-08-08T07:43:51.057346820+00:00</md:created>
+    <md:revised>2022-08-08T07:43:51.057346820+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>7a32a8f5-6cf3-434e-8ce3-cc45e11d0491</md:uuid>
+  </metadata>
+  <content>
+    <figure id="CNX_Econ_C01_004">
+      <title id="UUID9bd17a8c-0387-410f-7c0f-3dacfc808f6b">John Maynard Keynes,</title>
+      <media alt="Obraz jest fotografią Johna Maynarda Keynesa." id="fs-idm83385920">
+        <image src="../../media//CNX_Econ_C01_004.jpg" mime-type="image/jpeg" id="UUID860095eb-314d-416b-7b7b-c0f93dac55e0" />
+      </media>
+      <caption id="UUIDe5ef93cc-60f2-4626-5ab4-155223e6f981">jeden z najbardziej wpływowych ekonomistów w czasach nowożytnych. (Źródło: Wikimedia Commons)</caption>
+    </figure>
+    <note type="note" id="UUIDf7e3fcaf-5356-4e14-7b4b-ea2fbcb75a80" class="learning-objectives">
+      <para id="UUIDd1c4c940-844e-4b79-577d-b4a364cda6ad">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID14d71696-2f28-489d-6035-c2331e375c29">
+        <item id="UUID498b7986-b0f7-4ec7-6944-56e498ba66e3">
+          <para id="UUIDf2d8f3c7-a127-43fb-5205-3ba85aa6bf26">Wyjaśnić znaczenie teorii i modeli ekonomicznych</para>
+        </item>
+        <item id="UUIDb3b37055-84c9-418c-4e0c-eca475b9e8ba">
+          <para id="UUID86a063a3-7273-495c-77f3-e799a0eb7367">Opisać różnice pomiędzy współwystępowaniem (korelacją) i następstwem przyczynowo-skutkowym</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID576e5483-7d52-433e-4e3b-06e9d6926fe9"><term cxlxt:index="name" cxlxt:name="Keynes, John Maynard" id="UUID025d533a-f6c5-49ef-42e9-36e1f073872b">John Maynard Keynes</term> (1883–1946), jeden z najwybitniejszych ekonomistów XX w., zwrócił uwagę, że ekonomia to nie tylko nauka, ale także sposób myślenia. Keynes (<link target-id="CNX_Econ_C01_004" id="UUID542c9380-3b01-4d6e-7f5c-42e14f7f5a79" />) napisał we wstępie do książki kolegi ekonomisty: „[Ekonomia] jest raczej metodą niż doktryną, aparatem usprawniającym działanie umysłu, techniką myślenia, która pomaga jej użytkownikowi wyciągać właściwe wnioski”. Innymi słowy, ekonomia uczy, jak myśleć, a nie – co myśleć.</para>
+    <note type="note" id="fs-idp57248112" class="economics linkup">
+      <para id="UUID298879fe-4ffb-47d6-43e5-4311d802ba81">Obejrzyj ten <link url="http://openstax.org/l/Keynes" id="UUIDcd2cda00-2fbb-48c9-4998-f90d76afb346">film</link> o Johnie Maynardzie Keynesie i jego wpływie na ekonomię.</para>
+    </note>
+    <para id="UUID513ca8c8-9d2b-47f9-674f-3b5145280c15">Ekonomiści patrzą na świat z innej perspektywy niż antropolodzy, biolodzy, historycy czy specjaliści jakiejkolwiek innej dyscypliny naukowej. Analizują zagadnienia i problemy za pomocą teorii ekonomicznych, opierających się na konkretnych założeniach dotyczących ludzkiego zachowania, bywa, że różnych niż te, które mógłby zastosować antropolog lub psycholog. <term cmlnle:reference="teoria" id="UUIDd09a4363-0de7-464f-7187-54cd78d754f2">Teoria</term> (ang. <foreign xml:lang="en" id="UUIDd72e1a74-2e4c-4c10-65af-7411b5621ddc"><term cxlxt:index="foreign" id="UUID0766db0c-549d-46f3-4b48-0f8ba716f91b">theory</term></foreign>) to uproszczony obraz rzeczywistości. Celem teorii jest uchwycenie kluczowych zmiennych badanego zjawiska i ujawnienie charakteru zależności między tymi zmiennymi. Dobra teoria jest na tyle prosta, by można ją było zrozumieć, a jednocześnie wystarczająco złożona, aby uchwycić kluczowe cechy badanego obiektu lub zagadnienia.</para>
+    <para id="UUIDbd64fb37-c412-4e0e-4c06-de11460e9a82">Czasami ekonomiści używają terminu <term cmlnle:reference="model" id="UUIDc5dc3ecb-54a3-4eb9-6445-add7dc1d8342">model</term> (ang. <foreign xml:lang="en" id="UUID0588613b-69bc-402b-6d74-21d71f91f2df"><term cxlxt:index="foreign" id="UUID160e6b2e-a4f9-440e-6727-8a91413dfe94">model</term></foreign>) zamiast teoria. Mówiąc ściśle, teoria jest bardziej abstrakcyjną formą, podczas gdy model jest empirycznym narzędziem umożliwiającym testowanie teorii. Zazwyczaj wykorzystujemy modele do testowania teorii, ale w tym podręczniku będziemy używać tych terminów zamiennie.</para>
+    <para id="UUIDef66723a-799e-4c6d-5598-9d7771e056c5">Na przykład architekt, który projektuje duży budynek biurowy, często wykonuje fizyczny model – makietę – aby pokazać, jak cała dzielnica miasta będzie wyglądała po wzniesieniu nowego biurowca. Firmy często budują modele swoich nowych wyrobów, które są uproszczoną i niedopracowaną wersją produktu końcowego, ale mogą posłużyć jako ilustracja tego, jak będzie on funkcjonował.</para>
+    <para id="UUIDd641a1e6-d2cc-45fb-7d7e-22fb89dfce9a">Przykładem prostego modelu, który jednak ilustruje skomplikowane zależności ekonomiczne, jest krzywa możliwości produkcyjnych, która została omówiona w kolejnym rozdziale niniejszego podręcznika. Zawiera ona niezbędny element upraszczający (wybór pomiędzy dwoma produktami lub grupami produktów (edukacją i opieką zdrowotną) pozwala jednak na zilustrowanie i zrozumienie tak fundamentalnych zjawisk, jak koszt alternatywny, prawo malejących przychodów krańcowych czy przewaga komparatywna.</para>
+    <para id="UUIDa7dcc054-b0a3-4bc4-5aac-db9b4ccaaa30">Ekonomiści dysponują całym zestawem mniej lub bardziej skomplikowanych teorii, tak jak stolarz posiada zestaw narzędzi umożliwiających mu pracę. Kiedy dostrzegają interesujący problem ekonomiczny, do jego przeanalizowania próbują użyć jednej z dostępnych teorii. Wybór jest rzecz jasna konsekwencją całego dorobku tej dyscypliny, zgromadzonego i opisanego w książkach i artykułach naukowych. Oczywiście, czasami nie da się dokonać analizy za pomocą teorii już istniejących i należy stworzyć nową. Wbrew pozorom nie dzieje się tak zbyt często. Problemy ekonomiczne, w których kontekście nie da się wykorzystać choćby elementów dotychczasowych teorii, pojawiają się dość rzadko. Jest to o tyle ważne, że niekiedy analiza prostych zależności liczbowych pozwala snuć najbardziej fantastyczne przypuszczenia dotyczące relacji pomiędzy różnymi parametrami ekonomicznymi i nieekonomicznymi (np. występowanie plam na Słońcu i zmiany cen akacji na giełdzie).</para>
+    <para id="UUIDa81c86aa-7e9e-4f83-5941-bfa452c31d77">Jeśli jednak te zależności (ekonomiści nazywają je korelacjami, czyli współwystępowaniem) nie są zakorzenione w spójnej teorii, najczęściej są odrzucane. Warto zapamiętać w tym kontekście jedno z najważniejszych prawideł dotyczących zależności ekonomicznych. Współwystępowanie dwóch zjawisk nie zawsze oznacza, że istnieje pomiędzy nimi zależność przyczynowo-skutkowa. Istnienie takiej zależności musi zostać wykazane na podstawie spójnej teorii – istniejącej lub nowej.</para>
+    <para id="UUIDc68bd10f-02fb-447c-6b86-17fb65846a32">Ekonomiści lubią ilustrować swoje teorie różnego rodzaju diagramami (wykresami i równaniami matematycznymi), co pozwala na łatwiejsze zaprezentowanie opisywanych przez te teorie zależności. (Nie martw się. W tym podręczniku będziemy używać głównie wykresów). Nie jest tak, że ekonomiści najpierw wymyślają rozwiązanie problemu, a dopiero potem rysują wykres. Wykresy są dla nich narzędziami pozwalającymi szukać odpowiedzi. Niektóre problemy ekonomiczne można rozwiązywać bez odwoływania się do modeli i skomplikowanych teorii. Jeśli jednak będziesz dalej studiować ekonomię, szybko napotkasz problemy i zagadnienia, których analiza będzie wymagała wykorzystania nie tylko sformalizowanych teorii, lecz także wykresu, diagramu lub zestawu równań. Najbardziej znanymi teoriami ekonomicznymi są prawdopodobnie te dotyczące zależności między ceną a wielkością zapotrzebowania (popyt) oraz ceną a wielkością produkowaną i sprzedawaną przez przedsiębiorstwa (podaż).</para>
+    <section id="fs-idp14982192" class="summary">
+      <title id="UUID07e1d317-d4a2-4d19-5fe3-aa870c2cd19a">Key Concepts and Summary</title>
+      <para id="UUID1f43f963-41d9-4b1f-4aa2-fd392b20e824">Głównymi narzędziami używanymi przez ekonomistów są teorie lub modele ekonomiczne. Teoria nie jest ilustracją rozwiązania problemu. Teoria jest raczej narzędziem służącym znalezieniu właściwego rozwiązania.</para>
+    </section>
+    <section id="fs-idp63400096" class="self-check-questions">
+      <title id="UUIDf5fa7403-f1dd-458c-69d7-be1190262e54">Self-Check Question</title>
+      <exercise id="fs-idp29826816">
+        <problem id="fs-idp122119728">
+          <para id="UUIDf23c30f4-7d7b-4d23-560c-523fd701c7ae">Podaj przykład problemu występującego współcześnie, który ma wymiar ekonomiczny i nie został wskazany w tym rozdziale.</para>
+        </problem>
+        <solution id="fs-idm3034480">
+          <para id="UUIDc304f895-b759-4dd7-53c5-dde6e9b68e64">Takich problemów jest wiele. Rozważ epidemię AIDS. Dlaczego tak niewielu chorych w Afryce i Azji Południowo-Wschodniej jest leczonych lekami, które są wykorzystywane w skutecznej terapii w Stanach Zjednoczonych i Europie? Dzieje się tak dlatego, że ani ci pacjenci, ani ich kraje nie mają środków na zakup tych leków.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm39091952" class="review-questions">
+      <title id="UUID84d5a6e5-6217-4807-7aea-0f6ac86fd679">Review Questions</title>
+      <exercise id="fs-idp53380272">
+        <problem id="fs-idp142347344">
+          <para id="UUIDc75407c4-fd70-4655-4a98-e5b85bc0feb8">Jak John Maynard Keynes zdefiniował ekonomię?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp94934752" class="critical-thinking">
+      <title id="UUID40c0c75f-5dab-4feb-59da-f6dafd4aef2f">Critical Thinking Questions</title>
+      <exercise id="fs-idp31230736">
+        <problem id="fs-idp134019824">
+          <para id="UUID27518943-100d-4e2c-79eb-a23140f66efa">Dlaczego krytykowanie teorii jako „nierealistycznej” jest niesprawiedliwe lub pozbawione sensu?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm15969296">
+        <problem id="fs-idp66222912">
+          <para id="UUID6f17f9e3-53d5-4c17-7ae3-bc6ef8ac6310">Załóżmy, że jako ekonomista zostaniesz poproszony o przeanalizowanie problemu, z którym nigdy wcześniej się nie spotkałeś. Załóżmy również, że nie dysponujesz konkretnym modelem służącym do jego analizy. Co powinieneś zrobić? <emphasis effect="italics">Podpowiedź</emphasis>: Co w podobnej sytuacji zrobiłby stolarz?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDd60f0104-2dff-4aac-706e-94dd4d99ab37">
+    <definition id="UUIDbd470c45-fdd6-48b7-6917-bb26aa16b3b7">
+      <term id="UUIDdff68d77-3e55-4b98-55a3-e69888322c71">model (ang. <foreign xml:lang="en" id="UUID7c083066-74a9-4d42-4e0b-29be5a434e60">model</foreign>)</term>
+      <meaning id="fs-idp7551072">
+        <para id="UUID74c998a6-e2bd-4794-633b-90714ebed443">sposób przedstawienia problemu, który – jakkolwiek uproszczony – zawiera jednocześnie wystarczającą liczbę kluczowych cech pozwalających nam go zrozumieć</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm76299488">
+      <term id="UUID41627a74-5580-4d8b-4c25-603ab9cc548d">teoria (ang. <foreign xml:lang="en" id="UUID66ddd51a-06e3-40b9-7927-0999ef5b6177">theory</foreign>)</term>
+      <meaning id="fs-idm200052272">
+        <para id="UUID57ccabd8-2e68-481c-6a1e-3715ef11bc56">patrz: model</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

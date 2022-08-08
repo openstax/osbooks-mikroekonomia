@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<container xmlns="https://openstax.org/namespaces/book-container" version="1">
+    <book slug="col00001" collection-id="col00001" href="../collections/col00001.collection.xml" />
+</container>

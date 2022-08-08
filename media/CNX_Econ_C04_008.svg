@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64.25mm"
+   height="68.543999mm"
+   viewBox="0 0 64.25 68.543999"
+   version="1.1"
+   id="svg5797"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="CNX_Econ_C04_008.svg">
+  <defs
+     id="defs5791" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="181.49119"
+     inkscape:cy="181.29825"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1043"
+     inkscape:window-x="1438"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5794">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-228.456)">
+    <g
+       id="g86">
+      <text
+         y="284.92651"
+         x="34.314888"
+         id="text18-0"
+         style="font-variant:normal;font-weight:normal;font-size:2.82222223px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
+        <tspan
+           y="284.92651"
+           x="34.314888"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778"
+           id="tspan16-61"
+           sodipodi:role="line">Q</tspan>
+      </text>
+      <text
+         y="289.3356"
+         x="35.41732"
+         id="text26-7"
+         style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
+        <tspan
+           id="tspan1551"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.35277778"
+           y="289.3356"
+           x="35.41732"
+           sodipodi:role="line">Wielkość produkcji</tspan>
+        <tspan
+           id="tspan65"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.35277778"
+           y="292.86337"
+           x="35.41732"
+           sodipodi:role="line">dóbr lub usług, Ilość pracy,</tspan>
+        <tspan
+           id="tspan71"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.35277778"
+           y="296.39114"
+           x="35.41732"
+           sodipodi:role="line">Wartość środków finansowych</tspan>
+      </text>
+      <text
+         y="2.1440232"
+         x="-255.37361"
+         id="text30-5"
+         style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         transform="rotate(-90)">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.35277778"
+           y="2.1440232"
+           x="-255.37361"
+           id="tspan28-6"
+           sodipodi:role="line">Cena, Płaca,</tspan>
+        <tspan
+           id="tspan1553"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.35277778"
+           y="5.6718011"
+           x="-255.37361"
+           sodipodi:role="line">Stopa zwrotu</tspan>
+      </text>
+      <path
+         d="m 35.42559,280.03449 v 1.24104"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path34-7"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 10.52353,255.23305 h 1.30542"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path44-4"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 64.25021,280.03532 H 11.78814 v -51.57956"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.14506912;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path82-8"
+         inkscape:connector-curvature="0" />
+      <text
+         style="font-variant:normal;font-weight:normal;font-size:2.82222199px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+         id="text52-0-68"
+         x="7.6053829"
+         y="256.26175">
+        <tspan
+           y="256.26175"
+           x="7.6053829"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277775"
+           sodipodi:role="line"
+           id="tspan48-8-8">P<tspan
+   id="tspan118-4"
+   style="font-size:1.83444417px;baseline-shift:sub;stroke-width:0.35277775" />
+</tspan>
+      </text>
+      <path
+         d="m 11.8712,255.23455 h 23.57076 v 24.802"
+         style="fill:none;stroke:#b33aa3;stroke-width:0.14364846;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.86189081, 0.57459387;stroke-dashoffset:0;stroke-opacity:1"
+         id="path90-92"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(196.65755,284.83872)"
+         id="g708">
+        <path
+           inkscape:connector-curvature="0"
+           id="path86-3"
+           style="fill:none;stroke:#3f60b6;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -178.97684,-51.027627 c 0,0 7.94545,21.484709 42.48226,36.568969"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path88-1"
+           style="fill:none;stroke:#3f60b6;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -143.06481,-49.950893 c 0,0 -13.28704,20.368941 -37.2215,34.71175"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path100-4"
+           style="fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           d="m -160.83196,-30.010853 c 0.30621,0.238125 0.36223,0.683703 0.12445,0.989863 -0.23773,0.30651 -0.68365,0.362573 -0.98986,0.124448 -0.30651,-0.23773 -0.36253,-0.683309 -0.12445,-0.989862 0.23774,-0.306512 0.68365,-0.362575 0.98986,-0.124449" />
+      </g>
+      <text
+         y="256.15533"
+         x="37.565742"
+         id="text64-0"
+         style="font-variant:normal;font-weight:normal;font-size:2.82222223px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778"
+           id="tspan62-6"
+           y="256.15533"
+           x="37.565742">E</tspan>
+      </text>
+      <text
+         y="272.85968"
+         x="61.085457"
+         id="text64-8"
+         style="font-variant:normal;font-weight:normal;font-size:2.82222223px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778"
+           id="tspan62-92"
+           y="272.85968"
+           x="61.085457">D</tspan>
+      </text>
+      <text
+         y="233.23697"
+         x="54.537361"
+         id="text64-6"
+         style="font-variant:normal;font-weight:normal;font-size:2.82222223px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778"
+           id="tspan62-64"
+           y="233.23697"
+           x="54.537361">S</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

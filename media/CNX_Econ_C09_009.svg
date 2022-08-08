@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61.084mm"
+   height="67.568001mm"
+   viewBox="0 0 61.083999 67.568001"
+   version="1.1"
+   id="svg6519"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="CNX_Econ_C09_009.svg">
+  <defs
+     id="defs6513" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="101.61506"
+     inkscape:cy="-0.087815378"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g6491"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1043"
+     inkscape:window-x="1438"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6516">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-229.432)">
+    <g
+       id="g31">
+      <g
+         id="g6491"
+         transform="translate(-1038.8055,175.05028)">
+        <g
+           id="g63"
+           transform="translate(0.44097719,1.6613569e-6)">
+          <path
+             d="m 1095.0941,112.31501 h -56.0965 v -54.381"
+             style="fill:none;stroke:#3f60b6;stroke-width:0.21620429;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path16-31"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1038.9976,69.624176 26.7661,49.101644"
+             style="fill:none;stroke:#3f60b6;stroke-width:0.21620429;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path30-4"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1038.9976,69.624176 44.6817,42.690834"
+             style="fill:none;stroke:#3f60b6;stroke-width:0.21620429;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path32-12"
+             inkscape:connector-curvature="0" />
+          <text
+             y="56.438931"
+             x="1038.5286"
+             id="text46-5-36-6-92-6-1-0-8-49-04"
+             style="font-variant:normal;font-weight:normal;font-size:4.98053932px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.62256742">
+            <tspan
+               id="tspan5859-7"
+               y="56.438931"
+               x="1038.5286"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.62256742">P</tspan>
+          </text>
+          <text
+             y="107.82308"
+             x="1081.9"
+             id="text46-5-36-6-92-6-1-0-8-49-6"
+             style="font-variant:normal;font-weight:normal;font-size:4.98053932px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.62256742">
+            <tspan
+               id="tspan5859-8"
+               y="107.82308"
+               x="1081.9"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.62256742">Popyt (D)</tspan>
+          </text>
+          <text
+             y="113.49846"
+             x="1097.3856"
+             id="text46-5-36-6-92-6-1-0-8-49-9"
+             style="font-variant:normal;font-weight:normal;font-size:4.98053932px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.62256742">
+            <tspan
+               id="tspan5859-0"
+               y="113.49846"
+               x="1097.3856"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.62256742">Q</tspan>
+          </text>
+          <text
+             y="121.36288"
+             x="1068.1978"
+             id="text46-5-36-6-92-6-1-0-8-49-68"
+             style="font-variant:normal;font-weight:normal;font-size:4.98053932px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.62256742">
+            <tspan
+               id="tspan5859-79"
+               y="121.36288"
+               x="1068.1978"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.62256742">Utarg krańcowy (MR)</tspan>
+          </text>
+          <text
+             y="116.03827"
+             x="1038.1785"
+             id="text46-5-36-6-92-6-1-0-8-49-04-3"
+             style="font-variant:normal;font-weight:normal;font-size:4.98053932px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.62256742">
+            <tspan
+               id="tspan5859-7-6"
+               y="116.03827"
+               x="1038.1785"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.62256742">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

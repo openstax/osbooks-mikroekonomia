@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ube15da4a-0595-4051-b409-cb125e727a4b" id="Ube15da4a-0595-4051-b409-cb125e727a4b" xml:lang="en" cnxml-version="0.7">
+  <title>Publiczne sposoby rozwiązania problemu negatywnych efektów zewnętrznych</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00052</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Publiczne sposoby rozwiązania problemu negatywnych efektów zewnętrznych</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.461998751+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.461998751+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.461998751+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>be15da4a-0595-4051-b409-cb125e727a4b</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID02e0cece-c3c5-4c09-47bb-c1bceec85431" class="learning-objectives">
+      <para id="UUIDf5c50c7f-2fc3-42ad-43f1-8c8d72c061fb">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID8e33138e-50a1-4d77-6b7c-234f3c8e7fcd">
+        <item id="UUID5ae40c9a-854f-4d16-660d-a83317051cd5">
+          <para id="UUID1367898b-5aba-4852-67f3-84f5048cc606">Wskazać narzędzia, jakie wykorzystuje państwo, aby ograniczyć lub wyeliminować skutki negatywnych efektów zewnętrznych</para>
+        </item>
+        <item id="UUID42ed81e3-43dd-48f4-65bd-cbcca904e928">
+          <para id="UUID54524f7d-c982-44a1-4901-6d719c7df9dd">Ocenić efektywność publicznych sposobów rozwiązywania problemu negatywnych efektów zewnętrznych</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID563df41c-f77d-4faa-4906-541404eb5e3f">Na przełomie lat 60. i 70. XX w. Stany Zjednoczone i pozostałe kraje o gospodarkach rynkowych zaczęły uchwalać kompleksowe przepisy dotyczące ochrony środowiska. Regulacje koncentrowały się zazwyczaj na ustaleniu progów dozwolonych emisji zanieczyszczeń dla konkretnych przedsiębiorstw i zakładów produkcyjnych. Przekroczenie ustanowionych progów skutkowało nałożeniem na podmioty kar finansowych. Inne przepisy zobowiązywały producentów różnego rodzaju dóbr do instalowania odpowiednich urządzeń ograniczających emisję szkodliwych substancji, np. na fabrycznych kominach i w silnikach spalinowych samochodów. Tego typu przepisy, które ustanawiają dopuszczalne limity emisji zanieczyszczeń i mogą szczegółowo określać, jakie technologie kontroli zanieczyszczeń przedsiębiorstwa muszą stosować, mieszczą się w kategorii <term cmlnle:reference="regulacja nakazowo-kontrolna" id="UUIDfa15c770-0912-4a8a-7d91-7fe9eb9e5dee">systemu nakazowo-kontrolnego</term> (ang. <foreign xml:lang="en" id="UUID05198532-f162-4538-6bed-864159e64b99"><term cmlnle:reference="command-and-control regulation" id="UUID800665c9-0123-450f-651c-7c1383d16d30">command-and-control regulation</term></foreign>). W efekcie takich regulacji rosną koszty produkcji, a firmy są zmuszone do uwzględnienia społecznych kosztów zanieczyszczeń przy podejmowaniu decyzji o wielkości produkcji.</para>
+    <para id="fs-idp61219072">Systemy regulacji nakazowo-kontrolnej w dziedzinie ochrony środowiska wprowadzone w ostatnich dziesięcioleciach w krajach wysoko uprzemysłowionych przyniosły poprawę jakości powietrza i wody. Ekonomiści wskazują jednak na trzy wyzwania związane z tym sposobem regulacji.</para>
+    <para id="fs-idm33275216">Po pierwsze, system nakazowo-kontrolny nie zachęca prywatnych podmiotów do działań wykraczających poza standardy wyznaczone przez konkretną ustawę, nawet jeśli można byłoby je przeprowadzić stosunkowo niewielkim kosztem. Gdy przedsiębiorstwa spełnią określony standard, nie mają motywacji do dalszej redukcji zanieczyszczeń.</para>
+    <para id="fs-idp52279136">Po drugie, system nakazowo-kontrolny jest wysoce nieelastyczny. Zwykle wprowadza te same przepisy dla wszystkich emitentów, a często również obowiązek instalowania tej samej technologii kontroli zanieczyszczeń we wszystkich fabrykach. Zatem nie rozróżnia firm, dla których spełnienie norm lub nawet dalsze zmniejszenie emisji zanieczyszczeń byłoby łatwe i tanie, oraz tych, dla których może to być trudne i kosztowne. Przedsiębiorstwa nie mają bodźców, aby przeprowadzać ponowną analizę wykorzystywanych metod produkcji, dokonywać ewentualnych korekt i dzięki temu stosunkowo niewielkim kosztem jeszcze bardziej obniżać emisję zanieczyszczeń.</para>
+    <para id="fs-idp12514352">Po trzecie, przepisy systemu nakazowo-kontrolnego są tworzone w ramach skomplikowanego procesu uzgodnień politycznych, a więc wynikają z różnych kompromisów między partiami politycznymi, władzami różnych szczebli i innymi lobbies. Działające na rynku od lat przedsiębiorstwa często argumentują (i starają się do tego sposobu myślenia przekonać polityków), że surowsze normy środowiskowe powinny mieć zastosowania wyłącznie do firm dopiero rozpoczynających działalność, a nie tych zasiedziałych w danej branży. W rezultacie wchodzące w życie przepisy dotyczące ochrony środowiska są zawiłe, mają wiele luk i wyjątków.</para>
+    <para id="fs-idp124661136">Chociaż krytycy regulacji stosowanych w systemach nakazowo-kontrolnych akceptują ich cel, jakim jest zmniejszenie emisji zanieczyszczeń, nie uznają tego typu środków za najlepszy sposób na jego osiągnięcie. W następnym podrozdziale omówimy więc alternatywne podejście do ograniczania negatywnych efektów zewnętrznych w dziedzinie ochrony środowiska.</para>
+    <section id="fs-idp23338848" class="summary">
+      <title id="UUIDda560f35-6553-4493-59ef-4cb3d2ac5d7a">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idp49744720">Regulacje w systemie nakazowo-kontrolnym ustanawiają limity emisji zanieczyszczeń i/lub wymuszają stosowanie określonych technologii ich kontroli. Choć w wielu krajach w drugiej połowie XX w. poprawiły one stan środowiska, mają trzy podstawowe wady: nie zachęcają do dalszej redukcji emisji zanieczyszczeń, przekraczającej wyznaczone poziomy; oferują ograniczoną elastyczność co do tego, gdzie i jak zmniejszyć zanieczyszczenia; często zawierają też osłabiające ich skuteczność luki prawne które są konsekwencją negocjacyjnego trybu tworzenia tych rozwiązań.</para>
+    </section>
+    <section id="fs-idp95970016" class="self-check-questions">
+      <title id="UUID720dc298-04d2-497a-7d55-ed360e5729eb">Pytania Self-Check</title>
+      <exercise id="fs-idp49608800">
+        <problem id="fs-idp192831104">
+          <para id="fs-idp52907968">Rozważ dwa podejścia do zmniejszania emisji CO<sub>2</sub> przez przemysł przetwórczy w Polsce. Pierwsze zakłada politykę zmuszającą producentów do stosowania z góry określonych technologii. Drugie określa jedynie technologie uznawane przez państwo za lepsze i wdrażanie właśnie tych wspomaga subsydiami. Które podejście mieści się w ramach systemu regulacji nakazowo-kontrolnych?</para>
+        </problem>
+        <solution id="fs-idp94632944">
+          <para id="fs-idp169144960">Pierwsze rozwiązanie, ponieważ państwo wprowadza obowiązek dotyczący wszystkich producentów.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm130924816" class="review-questions">
+      <title id="UUID1b6820ac-4b47-4e58-6bc6-d9661289eef6">Pytania Review</title>
+      <exercise id="fs-idm199920736">
+        <problem id="fs-idm99759232">
+          <para id="fs-idm23199440">Czym jest system regulacji nakazowo-kontrolnych w dziedzinie ochrony środowiska?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm154974432">
+        <problem id="fs-idm142924352">
+          <para id="fs-idm13322592">Jakie są trzy zidentyfikowane przez ekonomistów wyzwania związane z systemem regulacji nakazowo-kontrolnych?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm37959280" class="critical-thinking">
+      <title id="UUID09218589-e466-4851-4d0c-0dca7cefb2ac">Pytania Critical Thinking</title>
+      <exercise id="fs-idp112321024">
+        <problem id="fs-idp10882736">
+          <para id="fs-idp16741184">Czy twoim zdaniem organizacje zajmujące się ochroną środowiska (np. <foreign xml:lang="en" id="UUIDde3a4dca-235d-454c-5386-edfbc6ea18ba">Greenpeace</foreign>) faworyzowałyby regulacje wykorzystujące system nakazowo-kontrolny jako najważniejszy sposób na zmniejszenie skali zanieczyszczeń? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp143190272">
+        <problem id="fs-idp10241616">
+          <para id="fs-idm48083184">Rozważ dwa sposoby ochrony słoni afrykańskich przed kłusownikami. W ramach pierwszego podejścia rządy tworzą ogromne parki narodowe, które mają wystarczające siedliska dla słoni i zabraniają mieszkańcom okolicznych terenów wstępu do parków, jak również szkodzenia słoniom lub ich siedliskom w jakikolwiek sposób. Zgodnie z drugim rządy tworzą mniejsze parki narodowe i wyznaczają 10 wiosek na obrzeżach każdego z takich obszarów jako oficjalne centra turystyczne – miejsca pobytu turystów i bazy wycieczek (których przewodnikami są przedstawiciele lokalnej ludności). Szczególną uwagę poświęć różnicom w sytuacji biednych mieszkańców terenów sąsiadujących z parkami narodowymi. Które podejście wydaje się skuteczniejsze, jeśli celem rządów jest odbudowa populacji słoni?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID8ef1fccd-55ee-4cbe-7be5-3040fde04319">
+    <definition id="fs-idm68885600">
+      <term id="UUIDbd01c22b-2e46-4cc6-74ab-d18817c5b1b4">system nakazowo-kontrolny (ang. <foreign xml:lang="en" id="UUID650da972-5879-4da1-508f-af6f8bbd8770">command-and-control regulation</foreign>)</term>
+      <meaning id="fs-idp84951232">
+        <para id="UUIDf288b907-6369-47db-4170-9ba6c9196514">przepisy wyznaczające dopuszczalne limity emisji zanieczyszczeń, a także określające szczegółowo, jakie technologie kontroli zanieczyszczeń należy stosować</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

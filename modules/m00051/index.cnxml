@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U26b5da04-6daf-4107-835d-ad4072dd5242" id="U26b5da04-6daf-4107-835d-ad4072dd5242" xml:lang="en" cnxml-version="0.7">
+  <title>Negatywne efekty zewnętrzne związane z problemem zanieczyszczenia środowiska</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00051</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Negatywne efekty zewnętrzne związane z problemem zanieczyszczenia środowiska</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.456282039+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.456282039+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.456282039+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>26b5da04-6daf-4107-835d-ad4072dd5242</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID31844fae-c905-4d66-6a0e-d46dfbf17a80" class="learning-objectives">
+      <para id="UUIDb789b9fb-e4d4-4129-5d9f-842eb623c1b3">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID42c020dc-aab9-46cf-7e02-5f6978cb4160">
+        <item id="UUID20bd4361-2908-4d5e-4786-99a46740e6ed">
+          <para id="UUIDd82503c0-2e53-4fb1-7230-8b0cc8efb5c4">Objaśnić pojęcie i wskazać przykłady pozytywnych i negatywnych efektów zewnętrznych</para>
+        </item>
+        <item id="UUID5732bd37-99b8-48f1-40d1-1bad2c22f201">
+          <para id="UUIDb89ef83c-4651-40fa-7e33-abbfabe702e8">Opisać sytuację, w której pojawia się zawodność rynku</para>
+        </item>
+        <item id="UUIDbb0e7572-aae3-404e-7d63-288e124a5426">
+          <para id="UUID0715de2c-2163-4609-63d0-ee41dab77be8">Wytłumaczyć, dlaczego zanieczyszczenie środowiska jest negatywnym efektem zewnętrznym</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp31526192">Rynki, np. rynek telefonii komórkowej, oferują efektywny sposób łączenia kupujących i sprzedających oraz określania, jakie dobra produkować, jak również dla kogo i w jaki sposób to robić. Fundamentem ekonomicznego sposobu myślenia jest zasada, że dobrowolne wymiany (transakcje rynkowe) przynoszą korzyści zarówno kupującym, jak i sprzedającym, dlatego w ogóle dochodzą one do skutku. Co się jednak dzieje, gdy zakupy dokonywane na rynku wpływają na podmioty trzecie, które nie są ani kupującymi, ani sprzedającymi?</para>
+    <para id="fs-idp3836448">Jako przykład rozważmy sytuację organizatora koncertów, który w odległości pół kilometra od twojego miejsca zamieszkania chce zbudować scenę na świeżym powietrzu mającą służyć występom wykonawców muzyki disco polo. Będziesz słyszeć ich popisy, siedząc w swoim przydomowym ogródku (lub na balkonie), a może nawet w jadalni. W tym przypadku zarówno organizator koncertu, jak i nabywcy biletów mogą być całkiem zadowoleni z ich dobrowolnej wymiany, zaś twoje zdanie nie ma wpływu na to, czy ich transakcja zostanie zawarta i jakie będą jej warunki. Wpływ konkretnej wymiany rynkowej na stronę trzecią, która w niej nie uczestniczy, a więc znajduje się „na zewnątrz”, nazywa się <term cmlnle:reference="efekt zewnętrzny" id="UUIDf3bd9cf1-aefa-45a1-6923-82f8bca9dc0f">efektem zewnętrznym</term> (ang. <foreign xml:lang="en" id="UUIDe39170bd-1dfd-4dd5-60e5-dad4a76282ca"><term cxlxt:index="foreign" id="UUIDc09e776d-3587-4be6-581b-e3ed74eae0a0">externality</term></foreign>). Ponieważ efekty zewnętrzne oddziałują na podmioty niezaangażowane w transakcję rynkową, są one czasami nazywane <term cmlnle:reference="efekt uboczny" id="UUID7de9ac1e-f1e2-405d-7c42-0f6d5f11e081">efektami ubocznymi</term> (ang. <foreign xml:lang="en" id="UUIDecc52fb4-492e-413e-7f2e-77b5ae3aec7b"><term cxlxt:index="foreign" cmlnle:reference="spillover effect" id="UUID69f0dea4-e069-42dd-78b2-cc942686edbb">spillovers</term></foreign>).</para>
+    <para id="fs-idp34279248">Efekty zewnętrzne mogą być negatywne (ujemne) lub pozytywne (dodatnie). Jeśli nienawidzisz muzyki disco polo, konieczność słuchania jej w każdy weekend jest <term cmlnle:reference="negatywny efekt zewnętrzny" id="UUIDe85efd42-8038-4c3d-6f87-7e5cc5c877a7">negatywnym efektem zewnętrznym</term> (ang. <foreign xml:lang="en" id="UUIDfe62a6ff-a768-4990-4de0-f2202b8a3123"><term cxlxt:index="foreign" id="UUID88ff1793-16db-48cc-43e4-2171ac9298c4">negative externality</term></foreign>). Jeśli zaś uwielbiasz ten gatunek, wówczas możliwość bezpłatnego słuchania tego typu utworów w domu będzie <term cmlnle:reference="pozytywny efekt zewnętrzny" id="UUID53289537-4696-40c2-4933-77f9317d54ee">pozytywnym efektem zewnętrznym</term> (ang. <foreign xml:lang="en" id="UUID03677038-ca7d-44e8-58fc-09cc56ab3628"><term cxlxt:index="foreign" id="UUID3dee125f-9e96-44d7-4dc1-7fbcf51d0282">positive externality</term></foreign>).</para>
+    <section id="fs-idm158889968">
+      <title id="UUIDcdeae27d-e764-4d80-4db6-ec00d9dfd3d5">Zanieczyszczenie środowiska jako negatywny efekt zewnętrzny</title>
+      <para id="fs-idm6243184">Zanieczyszczenie środowiska to negatywny efekt zewnętrzny. Ekonomiści ilustrują <term cmlnle:reference="koszt społeczny" id="UUIDcdfaf3a5-5dd2-475c-532b-25f2d638d63c">koszty społeczne</term> (ang. <foreign xml:lang="en" id="UUID6485c9ed-2cfd-4a04-7a60-a541893187e8"><term cxlxt:index="foreign" cmlnle:reference="social cost" id="UUID84906e34-f8cb-489a-4610-879edeea79d2">social costs</term></foreign>) produkcji, posługując się wykresem z krzywymi popytu i podaży. Koszty społeczne obejmują zarówno prywatne koszty produkcji, które ponosi firma, jak i koszty zanieczyszczeń, które przenoszone są na społeczeństwo. <link target-id="CNX_Econ_C12_001" id="UUID3c5d1319-62c0-47c3-441d-7cd0f1c6739d" /> przedstawia popyt i podaż lodówek. Krzywa popytu (D) ilustruje wielkość zapotrzebowania na lodówki przy każdym poziomie ceny rynkowej. Krzywa podaży (S<sub>pryw</sub>) wskazuje z kolei liczbę lodówek oferowaną do sprzedaży przez wszystkie przedsiębiorstwa w tej gałęzi przemysłu przy każdej cenie, zakładając, że przedsiębiorstwa biorą pod uwagę tylko swoje koszty prywatne i mogą całkowicie bezkosztowo emitować zanieczyszczenia. Równowaga rynkowa (E<sub>0</sub>), czyli punkt zrównania podaży z popytem, występuje przy cenie 650 zł za lodówkę i wolumenie produkcji równym 45 tys. lodówek. Informacje te są zawarte w pierwszych trzech kolumnach <link target-id="Table_12_02" cmlnle:case="genitive" id="UUIDb65a63be-24d5-4e28-7b72-9c715bcd765f" />.</para>
+      <figure id="CNX_Econ_C12_001">
+        <title id="UUIDe0e7c7c7-fea5-40ec-7fe4-1a096aeee4a5">Koszty społeczne a rachunek ekonomiczny: przesunięcie krzywej podaży</title>
+        <media alt="Wykres pokazuje, jak zmienia się równowaga rynkowa w zależności od tego, czy przedsiębiorstwa produkujące lodówki uwzględniają tylko koszty prywatne, czy również koszty społeczne (koszty emisji zanieczyszczeń). W tym drugim przypadku wielkość produkcji maleje, a cena równowagi rośnie." id="fs-idp140393472">
+          <image src="../../media//CNX_Econ_C12_001.svg" mime-type="image/svg+xml" id="UUIDc7df1a68-6fe0-4c82-6e13-7a03d5f7a572" />
+        </media>
+        <caption id="UUIDcba4bac4-a8b8-49e9-4c15-0e98be587819">Jeśli przedsiębiorstwa wezmą pod uwagę tylko prywatne koszty produkcji, krzywą podaży rynkowej będzie S<sub>pryw</sub>, a równowaga ukształtuje się w punkcie E<sub>0</sub>. Po uwzględnieniu dodatkowych kosztów zewnętrznych (kosztu emisji zanieczyszczeń), w wysokości 100 zł za każdą wyprodukowaną lodówkę, krzywą podaży rynkowej będzie S<sub>społ</sub>, a nowym punktem równowagi – E<sub>1</sub>.</caption>
+      </figure>
+      <table summary="The table has 7 rows and 4 columns of data. Column 1 is Price, Column 2 is Quantity Demanded, Column 3 is Quantity Supplied before Considering Pollution Cost and Column 4 is Quantity Supplied after Considering Pollution Cost. For a price of $600 the data is 50,000, 40,000, and 30,000. For $650 (45,000, 45,000,  30,000). For $700 (40,000, 50,000, 40,000). For $750 (35,000, 55,000, 45,000). For $800 (30,000, 60,000, 50,000). For $850 (25,000, 65,000, 55,000). For $900 (20,000, 70,000, 60,000)" id="Table_12_02"><title id="UUID704d5026-66d2-8913-d505b3ece14b4fe8">Zmiana podaży po uwzględnieniu kosztu zanieczyszczeń (kwoty w zł)</title><tgroup cols="4" id="UUID704d5026-9b12-3cc2-1665174194d758ca"><colspec colnum="1" colname="col1" id="UUID704d5026-3f78-7e1d-8a2251bd18d84663" /><colspec colnum="2" colname="col2" id="UUID704d5026-d362-bf3c-503d5bd36465ae30" /><colspec colnum="3" colname="col3" id="UUID704d5026-5fca-8288-1af8af809a7c2cf1" /><colspec colnum="4" colname="col4" id="UUID704d5026-ef59-f477-23701e71579189f1" /><thead id="UUID704d5026-abbf-ffa6-8baababccbbc3b50"><row id="UUID704d5026-40d8-5155-b3850ab88eedfed1"><entry id="UUID704d5026-18e8-ea36-c89c22f5347ec741">Cena</entry><entry id="UUID704d5026-7c83-a829-4dc5204350c7eba8">Wielkość zapotrzebowania </entry><entry id="UUID704d5026-9d7b-ba41-074591328bcf1273">Liczba lodówek oferowana przed uwzględnieniem kosztów zanieczyszczeń </entry><entry id="UUID704d5026-b21d-51cd-3c7b95c4e7a9fefb">Liczba lodówek oferowana po uwzględnieniu kosztów zanieczyszczeń</entry></row></thead><tbody id="UUID704d5026-66d9-f77a-f170a5e084a48aba"><row id="UUID704d5026-3ae0-1d71-d139dc2713c9d7a3"><entry id="UUID704d5026-bc17-a192-0901009cb8dcf2ba">600</entry><entry id="UUID704d5026-dd10-2cde-740b283a7f027e4f">50 000</entry><entry id="UUID704d5026-cfa8-a0b8-ef4ea7694a5128fe">40 000</entry><entry id="UUID704d5026-b976-be58-27c7350addeb3f4c">30 000</entry></row><row id="UUID704d5026-6445-16a5-44ccb0999c3432a1"><entry id="UUID704d5026-d9d8-c06d-e035d147ff01b25d">650</entry><entry id="UUID704d5026-1aad-ecae-709d1fd3a129d1e2">45 000</entry><entry id="UUID704d5026-68de-9ac0-11a04cd0c0b9ff93">45 000</entry><entry id="UUID704d5026-3a02-f991-a7b9cc8b222461f9">35 000</entry></row><row id="UUID704d5026-1340-afae-131388985913ad8b"><entry id="UUID704d5026-3aad-c136-a210f8842d69eb9f">700</entry><entry id="UUID704d5026-925d-cfd5-ca6b7fac12e8b55e">40 000</entry><entry id="UUID704d5026-b189-ffef-238fc5b53f65a4a5">50 000</entry><entry id="UUID704d5026-8a42-e40a-c8c051fa4c619f17">40 000</entry></row><row id="UUID704d5026-7131-37fa-5593ee27f26e08d7"><entry id="UUID704d5026-1d62-da42-d494b3b3dff0f1be">750</entry><entry id="UUID704d5026-39da-2c92-3c9f9cd2fef6f337">35 000</entry><entry id="UUID704d5026-d5e4-8905-ecf3ba0ef0285158">55 000</entry><entry id="UUID704d5026-34fc-0bb7-04ef58597613069e">45 000</entry></row><row id="UUID704d5026-4731-bb75-9db31df199789491"><entry id="UUID704d5026-4f41-0eb8-f338ed8fd3247285">800</entry><entry id="UUID704d5026-3a12-1cb5-89c507521b91146a">30 000</entry><entry id="UUID704d5026-06a6-5be4-9954c4af40f431fb">60 000</entry><entry id="UUID704d5026-3afd-c834-378f2957b062f86c">50 000</entry></row><row id="UUID704d5026-4422-c156-282058ba159ae93d"><entry id="UUID704d5026-4e7b-2ca7-53e011bbfed112c7">850</entry><entry id="UUID704d5026-1729-0d9d-75e6b471adda2680">25 000</entry><entry id="UUID704d5026-f2f7-520c-56bf9f4cece19583">65 000</entry><entry id="UUID704d5026-40d5-87a5-0672ded3a585babc">55 000</entry></row><row id="UUID704d5026-e696-39fa-b8413a17c8749b8f"><entry id="UUID704d5026-b47d-10f6-f61756172369cd22">900</entry><entry id="UUID704d5026-20c0-6a56-3f37070b3a493957">20 000</entry><entry id="UUID704d5026-9089-db23-4ebd3c8e13282e6a">70 000</entry><entry id="UUID704d5026-af7d-47e9-e94d83e0d7106ff7">60 000</entry></row></tbody></tgroup><caption id="UUID3e237bb1-5e5f-465e-5462-3d2c8bad690d" /></table>
+      <para id="fs-idp161275760">Producenci lodówek powodują zanieczyszczenie środowiska, co jest produktem ubocznym zastosowanej technologii, w ramach której zużywane są metale, tworzywa sztuczne, chemikalia i energia. Załóżmy, że koszt zanieczyszczeń powstałych przy produkcji jednej lodówki równy jest 100 zł. Koszty te są wynikiem niekorzystnego wpływu zanieczyszczeń na zdrowie ludzi, wartość nieruchomości, siedliska dzikiej przyrody, możliwości rekreacji lub z powodu innych negatywnych skutków, jakie ze sobą niosą. Na rynku, na którym nie ma ograniczeń dotyczących emisji zanieczyszczeń, przedsiębiorstwa mogą pozbywać się niektórych odpadów całkowicie za darmo. A teraz wyobraź sobie, że firmy produkujące lodówki muszą uwzględniać <term cmlnle:reference="koszt zewnętrzny" id="UUIDb9c61696-deff-4751-5d1a-627d9d8dfff1">koszty zewnętrzne</term> (ang. <foreign xml:lang="en" id="UUIDa75f5260-ed0f-47ce-78f3-c5ff411ec278"><term cxlxt:index="foreign" cmlnle:reference="external cost" id="UUIDc949fe0d-38a8-4504-5e97-eac3999a0c18">external costs</term></foreign>) zanieczyszczenia. Oznacza to, że firmy muszą brać pod uwagę nie tylko koszty pracy i materiałów, ale także koszty społeczne związane z wynikającymi z procesu produkcyjnego lodówek szkodami na zdrowiu i życiu ludzi oraz degradacją środowiska naturalnego. Jeśli przedsiębiorstwo musi zapłacić 100 zł za <term cmlnle:reference="dodatkowy koszt zewnętrzny" id="UUIDdb47436e-bd83-42c0-7c2f-de74fb2b09d2">dodatkowe koszty zewnętrzne</term> (ang. <foreign xml:lang="en" id="UUID49867c48-19ee-4c4e-668c-14677692274a"><term cxlxt:index="foreign" cmlnle:reference="additional external cost" id="UUIDff410d23-a700-4c92-469b-1ea360f4f8ae">additional external costs</term></foreign>) zanieczyszczeń za każdym razem, gdy wytworzy lodówkę, produkcja staje się droższa i krzywa podaży przesuwa się w górę o odcinek równy 100 zł.</para>
+      <para id="fs-idp181820784">Jak ilustrują <link target-id="Table_12_02" id="UUID076690e8-982e-49a8-476b-a12188f9e81f" /> i <link target-id="CNX_Econ_C12_001" id="UUIDc9e73f66-86ef-466d-6fb1-5d922f6f07f3" />, nowa równowaga wystąpi w punkcie E<sub>1</sub>. Przedsiębiorstwa uzyskają cenę równą 700 zł za każdą lodówkę i wyprodukują 40 tys. sztuk tego dobra, a nową krzywą podaży będzie S<sub>społ</sub>. Krótko mówiąc, uwzględnienie dodatkowych kosztów zewnętrznych zanieczyszczeń skutkuje wyższą ceną, niższą produkcją i mniejszą ilością zanieczyszczeń. Poniższa <link target-id="fs-idm41090992" id="UUID5a637c14-e393-4428-7478-ffc413e537cb" /> poprowadzi cię przez kolejny przykład negatywnych efektów zewnętrznych, tym razem związany z grą na trąbce.</para>
+      <note type="note" id="fs-idm41090992" class="economics workout">
+        <title id="UUID06c9062d-e6e7-4dd6-6cab-0f712b289d4e">Wyznaczanie ceny i wielkości produkcji równoważących rynek, na którym generowane są negatywne efekty zewnętrzne</title>
+        <para id="fs-idm112619840"><link target-id="Table_12_03" id="UUID3220ec5a-0867-4ec9-78c7-01f458c885d6" /> przedstawia podaż i popyt dla bardzo specyficznego podmiotu gospodarczego, który oferuje usługę na żądanie polegającą na grze na trąbce na ulicy. Produkcja jest mierzona średnią liczbą utworów wykonywanych w ciągu godziny.</para>
+        <table summary="The table has 7 rows and 4 columns. The header row (Row 1) is Price, Quantity Demanded, Quantity Supplied Without Paying the Costs of the Externality, and Quantity Supplied after Paying the Costs of the Externality. Row 2: $20, 0, 10, 8. Row 3: $18, 1, 9, 7. Row 4: $15, 2.5, 7.5, 5.5. Row 5: $12, 4, 6, 4, Row 6: $10, 5, 5, 3. Row 7: $5, 7.5, 2.5, 0.5" id="Table_12_03"><title id="UUID704d5026-9d69-cc45-d289f8130958cc4a">Popyt i podaż dla przedsiębiorstwa oferującego usługi grania na trąbce (cena w zł)</title><tgroup cols="4" id="UUID704d5026-aaf3-fcca-c4cdc17d5dccab3e"><colspec colnum="1" colname="col1" id="UUID704d5026-2bed-a7a5-d9896d0c04807b4f" /><colspec colnum="2" colname="col2" id="UUID704d5026-d534-58cc-3615e4d6b7cf2f11" /><colspec colnum="3" colname="col3" id="UUID704d5026-b523-86e6-b75c21dd6d9c5744" /><colspec colnum="4" colname="col4" id="UUID704d5026-12b7-eb6e-867f7de897f48c9d" /><thead id="UUID704d5026-027b-37d7-e7fa6480868ee1a0"><row id="UUID704d5026-f838-1520-0e8bd278314e48b3"><entry id="UUID704d5026-2da6-77cb-c106d7524a3a98c4">Cena </entry><entry id="UUID704d5026-7cb8-a2e3-e4feb4cbb6dc560f">Wielkość zapotrzebowania </entry><entry id="UUID704d5026-bec9-9a59-8c0ccf1cc3aadf5f">Liczba utworów oferowana bez uwzględnienia kosztów związanych z  efektami zewnętrznymi </entry><entry id="UUID704d5026-3263-16e8-8f7bdb8531157e18">Liczba utworów oferowana po uwzględnieniu kosztów związanych z efektami zewnętrznymi </entry></row></thead><tbody id="UUID704d5026-8122-4ef2-b35f0827eed9a3f0"><row id="UUID704d5026-d494-f89e-a917a88f7661800a"><entry id="UUID704d5026-7311-336d-c7f209afb5f74f41">20</entry><entry id="UUID704d5026-f941-7d7e-277d2bdc4a684f73">0</entry><entry id="UUID704d5026-41c9-3532-a4d20fdd7d3c68a3">10</entry><entry id="UUID704d5026-824f-1b36-3effc14c976b0568">8</entry></row><row id="UUID704d5026-481d-4980-884bab4e797c720c"><entry id="UUID704d5026-6ffa-c44f-a727615d65079c7a">18</entry><entry id="UUID704d5026-6553-bc12-16286c31d10939b5">1</entry><entry id="UUID704d5026-49f2-c1dd-1b6c692dbc5fd451">9</entry><entry id="UUID704d5026-bb8a-5178-ffbb939e6db7e864">7</entry></row><row id="UUID704d5026-8197-151d-d1e0614e7271d4cf"><entry id="UUID704d5026-1b05-8915-854057926e08f690">15</entry><entry id="UUID704d5026-e1ad-77f7-ce0d834c878ddcab">2,5</entry><entry id="UUID704d5026-2bf0-3414-c0f449ffdbc1dcfe">7,5</entry><entry id="UUID704d5026-dd69-0d3a-46ba35385e95b82f">5,5</entry></row><row id="UUID704d5026-9f2e-a903-d8ff050ef584014c"><entry id="UUID704d5026-fbea-e270-c4e33f13f72823b5">12</entry><entry id="UUID704d5026-6371-0a01-25501ee5c485ce0c">4</entry><entry id="UUID704d5026-9533-411d-11c088c734f08391">6</entry><entry id="UUID704d5026-bd0e-e4e5-0cc4fb712156adad">4</entry></row><row id="UUID704d5026-795a-47b1-949eee121802995d"><entry id="UUID704d5026-6a08-94e1-76fc271b2090c5ce">10</entry><entry id="UUID704d5026-12cd-dde8-3099dedf9b625302">5</entry><entry id="UUID704d5026-753e-e7db-b8cd640d0a0454d0">5</entry><entry id="UUID704d5026-e6fc-afd8-f45b8a309929e7ee">3</entry></row><row id="UUID704d5026-afd7-8f49-2020c7fbdc23d795"><entry id="UUID704d5026-a35d-2179-5c80dcb36af93f12">5</entry><entry id="UUID704d5026-617e-33a4-3236dabcc6d9cdb1">7,5</entry><entry id="UUID704d5026-ca7f-93b3-c3d8d0c8ee8891c1">2,5</entry><entry id="UUID704d5026-c830-83f4-567b089c6667ca31">0,5</entry></row></tbody></tgroup></table>
+        <para id="fs-idm214693552">Krok 1. Określ negatywne efekty zewnętrzne. Aby to zrobić, pomyśl o tej specyficznej sytuacji i uwzględnij wszystkie osoby, które nie wykupiły tej usługi, a na które wykonywany na trąbce utwór może mieć wpływ. Negatywnym efektem zewnętrznym może być np. zwiększenie hałasu na obszarze, na którym działa firma.</para>
+        <para id="UUID2799314a-e3c9-484b-7e52-2f180b89c7b5">Krok 2. Określ początkową cenę i ilość równowagi, biorąc pod uwagę tylko koszty prywatne. Następnie wyznacz nową równowagę, uwzględniając pełne koszty społeczne. Pamiętaj, że równowaga występuje wtedy, gdy wielkość popytu jest równa wielkości podaży.</para>
+        <para id="UUID92681905-a1b1-4c8d-671b-dfe1226ac0db">Krok 3. Znajdź wiersz, dla którego wielkość zapotrzebowania (druga kolumna) jest równa ilości oferowanej bez ponoszenia kosztów efektów zewnętrznych (trzecia kolumna). Następnie odczytaj cenę równowagi w pierwszej kolumnie. W tym przypadku, gdy uwzględniamy tylko koszty prywatne, równowaga występuje przy cenie równej 10 zł i 5 utworach zagranych w ciągu godziny.</para>
+        <para id="UUID25f37756-07d3-4ac4-54e4-6530f7fcea52">Krok 4. Wyznacz cenę i liczbę utworów równoważącą rynek w sytuacji, w której zostaną uwzględnione dodatkowe koszty zewnętrzne. Spójrz na kolumny: „wielkość zapotrzebowania” (druga kolumna) i „liczba utworów oferowana po uwzględnieniu kosztów związanych z efektami zewnętrznymi” (czwarta kolumna), a następnie odczytaj cenę równowagi w pierwszej kolumnie. W tym przypadku równowaga występuje przy cenie 12 zł i tylko 4 utworach zagranych w ciągu godziny.</para>
+        <para id="UUID8a3fbf2b-49e1-4131-6370-9c3a9a9a78cc">Krok 5. Zastanów się, jak uwzględnienie efektów zewnętrznych wpływa na cenę i ilość równowagi. Wykonaj ten krok, porównując dwa stany równowagi. Jeśli przedsiębiorstwo jest zmuszone do ponoszenia dodatkowych kosztów zewnętrznych, usługi gry na trąbce stają się droższe i krzywa podaży przesuwa się w górę.</para>
+      </note>
+      <para id="fs-idp75734848">Pamiętaj, że krzywa podaży reprezentuje decyzje produkcyjne przedsiębiorstw podejmowane na podstawie kosztów krańcowych, a krzywa popytu przedstawia korzyści uzyskiwane przez ludzi, którzy maksymalizują swoją prywatną użyteczność. Gdyby nie istniały żadne efekty zewnętrzne, koszty prywatne byłyby takie same jak koszty dla ogółu społeczeństwa, a korzyści prywatne byłyby takie same jak korzyści społeczne. A zatem przy braku efektów zewnętrznych równość popytu i podaży doprowadzi do zbilansowania się kosztów i korzyści społecznych.</para>
+      <para id="fs-idm69304624">Jeśli jednak istnieją efekty zewnętrzne związane z zanieczyszczeniem środowiska, krzywa podaży nie reprezentuje już wszystkich kosztów społecznych. Ponieważ w przypadku występowania efektów zewnętrznych rynki nie uwzględniają wszystkich kosztów społecznych, a tylko niektóre z nich (wyłącznie koszty prywatne), ekonomiści traktują efekty zewnętrzne jako przykład <term cmlnle:reference="zawodność rynku" id="UUID481a10b1-3557-4c4c-68b3-ffbbea744285">zawodności rynku</term> (ang. <foreign xml:lang="en" id="UUIDfe92b87a-bf63-4566-5437-5049d6981c5c"><term cxlxt:index="foreign" id="UUID3a9f61d1-646f-4dd6-5200-1c14ce15f977">market failure</term></foreign>). Gdy występuje zawodność rynku, niemożliwe jest osiągnięcie efektywnej wielkości produkcji, ponieważ firmy nie uwzględniają wszystkich kosztów produkcji i/lub konsumenci nie uwzględniają – w przypadku pozytywnych efektów zewnętrznych – wszystkich korzyści związanych z zakupem dóbr (dokładna analiza konsekwencji istnienia pozytywnych efektów zewnętrznych znajdzie się w kolejnych podrozdziałach). Gdy mamy do czynienia z zanieczyszczeniem środowiska, społeczne koszty produkcji przewyższają społeczne korzyści dla konsumentów i rynek produkuje zbyt dużo.</para>
+      <para id="fs-idm28479184">Możemy teraz sformułować pewien ogólny wniosek. Gdyby przedsiębiorstwa musiały ponosić społeczne koszty zanieczyszczeń, emitowałyby ich mniej, wytwarzałyby mniej produktów i pobierały wyższe ceny. W następnym podrozdziale przeanalizujemy, jak państwo może wymusić na przedsiębiorstwach uwzględnianie społecznych kosztów zanieczyszczeń.</para>
+    </section>
+    <section id="fs-idm80967744" class="summary">
+      <title id="UUID17351218-5561-412e-6e88-1532c6c3adaf">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idm74516848">Produkcja może powodować szkody środowiskowe niezależnie od tego, czy jest ulokowana w krajach wysoko uprzemysłowionych, czy rozwijających się.</para>
+      <para id="fs-idm58713200">Efekty zewnętrzne pojawiają się, gdy wymiana między kupującym a sprzedającym ma wpływ na podmioty trzecie, które nie uczestniczą w transakcji i nie otrzymują z tego tytułu rekompensaty lub nie płacą za powstałą korzyść. Efekt zewnętrzny, który jest również nazywany efektem ubocznym, może mieć negatywny lub pozytywny wpływ na stronę trzecią. Jeśli podmiot wywołujący negatywne efekty zewnętrzne musiałby uwzględnić koszty społeczne swoich działań, miałby bodźce do zmniejszenia produkcji niezależnie od tego, jaka jest przyczyna negatywnego efektu zewnętrznego. W przypadku pozytywnego efektu zewnętrznego strona trzecia uzyskuje korzyści dzięki transakcji między kupującym a sprzedającym, ale za owe korzyści nie płaci. W takim przypadku produkcja rynkowa jest zbyt mała, ponieważ sprzedawcy nie uwzględniają dodatkowych korzyści po stronie podmiotów trzecich. Jeśli strony transakcji, która generuje korzyści społeczne, otrzymywałyby jakąś rekompensatę, miałyby motywację do zwiększenia produkcji niezależnie od tego, jaka jest przyczyna pozytywnych efektów zewnętrznych.</para>
+    </section>
+    <section id="fs-idp29418144" class="self-check-questions">
+      <title id="UUID8a668597-df86-419f-54cd-c5123cf05405">Pytania Self-Check</title>
+      <exercise id="fs-idm9948688">
+        <problem id="fs-idm41887520">
+          <para id="fs-idm19985408">Określ, czy następujące sytuacje są przykładem negatywnego, czy pozytywnego efektu zewnętrznego:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm59966912">
+            <item id="UUID7ede55ff-c586-4baf-5a14-87b257bfc9f7">
+              <para id="UUID263909f0-34e6-4fe2-4265-73c484fe622e">Jesteś obserwatorem ptaków, a twój sąsiad postawił na podwórku kilka budek lęgowych, a także posadził drzewa i kwiaty, które przyciągają ptaki.</para>
+            </item>
+            <item id="UUIDc2465203-cdf5-4d99-72c8-0a2a92b52d9c">
+              <para id="UUID53109809-888f-4870-4be1-4130fe90bcfe">Twój sąsiad maluje fasadę swojego domu na ohydny kolor.</para>
+            </item>
+            <item id="UUID146e6004-aac4-4b55-5ef3-1153338c8bbe">
+              <para id="UUID28e81130-2c79-4881-435e-4c5de41a3f9a">Inwestycje w prywatną edukację podnoszą standard życia w twoim kraju.</para>
+            </item>
+            <item id="UUID4a9001ce-e043-4736-44ed-b9dbf9e1a544">
+              <para id="UUIDffec3360-b8b0-43e4-5598-8a8a9a8c46ca">Śmieci są wyrzucane w górnym biegu rzeki, nad którą – w jej dolnym biegu – stoi twój dom.</para>
+            </item>
+            <item id="UUIDd4c95d13-d78d-4a5f-6d51-36a9dd04e793">
+              <para id="UUID93eb0bbf-0ab7-4fe2-6a4f-85da98c9e99c">Twój współlokator jest palaczem, a ty nie palisz.</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm61218256">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp55210624">
+            <item id="UUID5c9e4068-c986-4e18-68e8-b1226e7dbf11">
+              <para id="UUID1fd20f23-4b99-4580-60a2-12664080f801">pozytywny efekt zewnętrzny</para>
+            </item>
+            <item id="UUIDd1584d9d-75a5-4676-6e94-a8e738c335dc">
+              <para id="UUIDd8ca91f8-f01c-40a0-73d7-86883b734e6c">negatywny efekt zewnętrzny</para>
+            </item>
+            <item id="UUIDe73b46d3-5ae3-482f-74e4-c39e9b308442">
+              <para id="UUID95faeeb5-5a66-461a-6114-b5f2dbf2977a">pozytywny efekt zewnętrzny</para>
+            </item>
+            <item id="UUID9bda4701-acfa-46f4-5afe-85b67fecbd2a">
+              <para id="UUID0c9fad5e-01e9-4c0b-7e4a-449ba4b3c2ca">negatywny efekt zewnętrzny</para>
+            </item>
+            <item id="UUID31a8143a-3813-451b-4320-7ecbcaf6f887">
+              <para id="UUIDd914ecec-639f-4366-7924-0187e9700cee">negatywny efekt zewnętrzny</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp37271888">
+        <problem id="fs-idm14630144">
+          <para id="fs-idm86358944">Określ, czy rynkowa krzywa podaży przesunie się w prawo, w lewo, czy też nie zmieni swojego położenia w następujących przypadkach:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm78031296">
+            <item id="UUIDd3f04c71-1501-4679-699c-3b602d343096">
+              <para id="UUIDba06dc1c-8e07-44a1-5bc0-e4a5f6d5d6e1">Przedsiębiorstwa działające w energochłonnej branży muszą zapłacić grzywnę za emisję dwutlenku węgla.</para>
+            </item>
+            <item id="UUID9989898e-b79f-4826-6db2-63665afe70ec">
+              <para id="UUIDdf745d78-273c-489c-7fb2-ce56a4b947bb">Przedsiębiorstwa są pozywane za zanieczyszczanie wody w rzece.</para>
+            </item>
+            <item id="UUIDa68b16c3-89f7-47a1-5af8-9ff5cb4e9077">
+              <para id="UUID154f0804-7aa6-403c-77bc-d349f5e774ee">Elektrownie w pewnym mieście nie muszą przejmować się wpływem emisji swoich zanieczyszczeń na jakość powietrza.</para>
+            </item>
+            <item id="UUIDd7c818ca-1cb8-480f-6168-23260a639682">
+              <para id="UUIDfc22cc38-85c8-4379-4805-ed2572326e5f">Przedsiębiorstwa, które stosują szczelinowanie do wydobywania ropy naftowej i gazu z łupków, są zobowiązane do usunięcia powstałych w czasie tej działalności szkód.</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm87261248">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm22014672">
+            <item id="UUID366cc71f-b4b7-4de5-4f6c-b2f059592b95">
+              <para id="UUIDd5a7582f-8d6a-4453-6652-0fdf9109ee96">krzywa podaży przesunie się w lewo</para>
+            </item>
+            <item id="UUID59a59174-5f44-43e0-7262-8ab85044ffa0">
+              <para id="UUID9b3c15cb-8a49-4d67-7691-26fd3fddb708">krzywa podaży przesunie się w lewo</para>
+            </item>
+            <item id="UUID6e31c5f7-f489-451f-51a6-438e29e18ddf">
+              <para id="UUID8b8ff1b6-bcfd-420a-65e3-07b6bf33d39c">krzywa podaży nie zmieni położenia</para>
+            </item>
+            <item id="UUID5697cd1e-c3e2-4021-43c5-153e6a2cfc5d">
+              <para id="UUIDb72b357c-e536-4703-49f3-fb94d648993c">krzywa podaży przesunie się w lewo</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm7564448">
+        <problem id="fs-idm47331392">
+          <para id="fs-idm75751296">Dla każdego z punktów w <link target-id="fs-idp37271888" cmlnle:case="locative" id="UUID74907d0e-9990-47b3-4d2d-9b04b4533371" /> określ, czy cena równowagi wzrośnie, spadnie, czy pozostanie taka sama.</para>
+        </problem>
+        <solution id="fs-idp13880384">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm48478272">
+            <item id="UUID6ee363cf-7d4f-4433-469e-fc93b095e26c">
+              <para id="UUID17c41939-2056-47de-7149-15345ad8e0f4">cena wzrośnie</para>
+            </item>
+            <item id="UUID949e3a06-15aa-488f-46b3-70b6473d2755">
+              <para id="UUIDb9aa237f-12b0-4781-5fd4-4ce7500f70ed">cena wzrośnie</para>
+            </item>
+            <item id="UUID6a4c2782-4e94-471f-635b-bd886e3db23f">
+              <para id="UUID374f440a-9670-4121-6945-67f568c9ebac">cena pozostanie taka sama</para>
+            </item>
+            <item id="UUID9daf5eff-7190-4d63-595a-2c9decacaeb7">
+              <para id="UUIDcd7270bc-1746-40dc-5a44-48e6f47f9cd9">cena wzrośnie</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm11018080">
+        <problem id="fs-idm66808288">
+          <para id="fs-idp36217616"><link target-id="Table_12_04" id="UUID941aaa9e-9b37-4a4c-45e4-4035ea4cd215" /> ilustruje podaż i popyt dla pewnego przedsiębiorstwa produkcyjnego (ceny w zł). Trzecia kolumna przedstawia krzywą podaży nie uwzględniającą społecznych kosztów zanieczyszczeń. Czwarta kolumna przedstawia krzywą podaży w sytuacji, gdy firma musi wziąć pod uwagę społeczny koszt zanieczyszczeń. Określ punkt równowagi przed uwzględnieniem społecznych kosztów produkcji i po ich wkalkulowaniu.</para>
+          <table summary="The table has 6 rows and 4 columns. The header row (Row 1) is Price, Quantity Demanded, Quantity Supplied Without Paying the Cost of the Pollution, and Quantity Supplied after Paying the Cost of the Pollution. Row 2: $10, 450, 400, 250. Row 3: $15, 440, 440, 290. Row 4: $20, 430, 480, 330. Row 5: $25, 420, 520, 370. Row 6: $30, 410, 560, 410" id="Table_12_04"><tgroup cols="4" id="UUID704d5026-5c79-4e86-698404886f168357"><colspec colnum="1" colname="col1" id="UUID704d5026-541b-b07a-81543cdbf32952d7" /><colspec colnum="2" colname="col2" id="UUID704d5026-f393-e408-7548a9546cb6b66d" /><colspec colnum="3" colname="col3" id="UUID704d5026-6d3d-d4be-c83688704a455ff5" /><colspec colnum="4" colname="col4" id="UUID704d5026-fc71-e5b6-022b1b59b7050a3b" /><thead id="UUID704d5026-19e2-2229-42f7ffd3418d3da2"><row id="UUID704d5026-1d44-3984-431d19fdffb7161f"><entry id="UUID704d5026-bec6-1c79-4717241c6aea36a6">Cena </entry><entry id="UUID704d5026-a936-1259-091cb580ff43abf7">Wielkość zapotrzebowania </entry><entry id="UUID704d5026-df7b-2641-d29acea970493d3f">Wielkość produkcji oferowana bez ponoszenia kosztów zanieczyszczeń </entry><entry id="UUID704d5026-e362-3c71-2efd8ba65aa124f1">Wielkość produkcji oferowana po uwzględnieniu kosztów zanieczyszczeń</entry></row></thead><tbody id="UUID704d5026-d342-0989-42f7ffd3418d3da2"><row id="UUID704d5026-5517-fa38-d08fae2b7298bb7e"><entry id="UUID704d5026-a5b3-abf7-f0dad151c689f942">10</entry><entry id="UUID704d5026-52dd-e28f-a54cdd9517e546ce">450</entry><entry id="UUID704d5026-a800-5845-9f8c1440d954acf2">400</entry><entry id="UUID704d5026-eae5-7b74-5b05db6724ff503d">250</entry></row><row id="UUID704d5026-58ab-bc8b-8de36dfb04925d00"><entry id="UUID704d5026-3842-2f60-07c5384e7072f4c1">15</entry><entry id="UUID704d5026-6d09-d864-8a269c755aa1789e">440</entry><entry id="UUID704d5026-c379-2cb3-22ab3d03b81038f4">440</entry><entry id="UUID704d5026-a4df-d0e5-d49128ce81b973f0">290</entry></row><row id="UUID704d5026-41f9-1d41-79dd9a16d772e80f"><entry id="UUID704d5026-9590-d19e-d1433da8ec635590">20</entry><entry id="UUID704d5026-393e-9ef9-6acae310963ca9b8">430</entry><entry id="UUID704d5026-00ea-82d3-ea28356b18c1966f">480</entry><entry id="UUID704d5026-31c8-bedd-d7e17e8773ff34b2">330</entry></row><row id="UUID704d5026-555c-e179-a8a73c0cc184ee79"><entry id="UUID704d5026-a2ea-e71b-b3d461568f777c8b">25</entry><entry id="UUID704d5026-b249-fe2b-269ad2d5381845d3">420</entry><entry id="UUID704d5026-ea36-6b85-ba47a2eb6ad2717c">520</entry><entry id="UUID704d5026-5ea4-1017-eda9bafe2497c0bb">370</entry></row><row id="UUID704d5026-c408-3e8a-e1d28f32c0b6e868"><entry id="UUID704d5026-96fb-69f7-83b659dfa43ae405">30</entry><entry id="UUID704d5026-b41b-3f8d-f5313d8bab6c0c10">410</entry><entry id="UUID704d5026-1f9b-b28f-aba1920f9339b2d0">560</entry><entry id="UUID704d5026-2281-8f9b-5de22e77cd6faa89">410</entry></row></tbody></tgroup></table>
+        </problem>
+        <solution id="fs-idm57204592">
+          <para id="fs-idm57204464">Początkowa równowaga (przed uwzględnieniem zewnętrznych kosztów zanieczyszczeń) występuje w punkcie, w którym prywatna krzywa podaży przecina krzywą popytu. A zatem początkowa równowaga ma miejsce przy cenie 15 zł i wielkości produkcji równej 440. Po uwzględnieniu dodatkowego zewnętrznego kosztu zanieczyszczeń produkcja staje się droższa, a krzywa podaży przesuwa się w górę. Nowa równowaga wystąpi przy cenie 30 zł i wielkości produkcji równej 410.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm189262016" class="review-questions">
+      <title id="UUID26cc946a-837c-412e-6700-348a0db7f04b">Pytania Review</title>
+      <exercise id="fs-idm141024960">
+        <problem id="fs-idm140924144">
+          <para id="fs-idm130423120">Czym jest efekt zewnętrzny?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm119224208">
+        <problem id="fs-idm107103664">
+          <para id="fs-idm191928768">Podaj przykład pozytywnego i negatywnego efektu zewnętrznego.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm119180320">
+        <problem id="fs-idm1204896">
+          <para id="fs-idm21093760">Jaka jest różnica między kosztami prywatnymi a kosztami społecznymi?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm209431392">
+        <problem id="fs-idm99797280">
+          <para id="fs-idm209450832">Czy na rynku, który nie jest w żaden sposób regulowany przez państwo, krzywa podaży przedsiębiorstw będzie uwzględniać koszty prywatne, koszty zewnętrzne, obydwa rodzaje kosztów, czy też żadne z nich? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+      <para id="UUIDd0d8435c-1510-4c87-6d20-55c0d27243fe" />
+    </section>
+    <section id="fs-idm293648" class="problems">
+      <title id="UUID2e36d594-d08b-4ef4-6e27-e5e1e1837d2f">Problemy</title>
+      <exercise id="fs-idm71014256">
+        <problem id="fs-idm56150208">
+          <para id="fs-idm105733888">Na wykresie wskaż równowagę na rynku papierosów, zakładając, że nie istnieją żadne przepisy zakazujące palenia w miejscach publicznych. Oznacz cenę i ilość równoważące rynek jako P<sub>m</sub> i Q<sub>m</sub>. Rozbuduj model, aby pokazać wpływ negatywnego efektu zewnętrznego wynikającego z biernego palenia. (Wskazówka: w tym przypadku konsumenci, a nie producenci, tworzą negatywne efekty zewnętrzne). Oznacz optymalną ze społecznego punktu widzenia wielkość produkcji i cenę jako Q<sub>e</sub> i P<sub>e</sub>. Zacieniuj czystą stratę społeczną w stanie równowagi rynkowej.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm82381072">
+        <problem id="fs-idp59242288">
+          <para id="fs-idm52224160">Spójrz na <link target-id="Table_12_02" cmlnle:case="accusative" id="UUID3b5acc6e-3072-404f-690a-07075ef2d076" />. Efekty zewnętrzne przy produkcji każdej lodówki były równe 100 zł. Jednak po uwzględnieniu zarówno kosztów prywatnych, jak i dodatkowych kosztów zewnętrznych cena rynkowa lodówki wzrosła tylko o 50 zł. Jeśli koszty zewnętrzne wynosiły 100 zł, to dlaczego po uwzględnieniu wszystkich kosztów cena wzrosła tylko o 50 zł?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp37025168">
+        <problem id="fs-idm59934048">
+          <para id="fs-idm127795072"><link target-id="Table_12_05" id="UUIDaabbe73e-ed3d-4593-4f4c-260379f94d7e" /> przedstawia podaż i popyt dla przedsiębiorstwa oferującego usługi grania na trąbce na ulicach miasta. Qs<sub>1</sub> to ilość oferowana bez uwzględnienia kosztów społecznych. Qs<sub>2</sub> to ilość oferowana po uwzględnieniu kosztów społecznych. Jakie są negatywne efekty zewnętrzne w tej sytuacji? Określ cenę i ilość w stanie równowagi, gdy bierzemy pod uwagę tylko koszty prywatne, a następnie po wkalkulowaniu pełnych kosztów społecznych. Jak uwzględnienie efektów zewnętrznych wpływa na cenę i wielkość produkcji równoważące rynek?</para>
+          <table summary="The table has 7 rows and 4 columns. Row 1 is the header row and consists of columns P, Qd, Qs(sub 1), and Qs(sub 2). Row 2: $20, 0, 10, 8. Row 3: $18, 1, 9, 7. Row 4: $15, 2.5, 7.5, 5.5. Row 5: $12, 4, 6, 4. Row 6: $10, 5, 5, 3. Row 7: $5, 7.5, 2.5, 0.5" id="Table_12_05"><tgroup cols="4" id="UUID704d5026-fb38-38b2-f29a3036fa3d87c7"><colspec colnum="1" colname="col1" id="UUID704d5026-012e-e6ce-5b76cbc1d3d682f8" /><colspec colnum="2" colname="col2" id="UUID704d5026-10a1-671a-15c29eaad6340a50" /><colspec colnum="3" colname="col3" id="UUID704d5026-11de-9cab-86d87819e35f2c16" /><colspec colnum="4" colname="col4" id="UUID704d5026-c378-c805-8ba54477a3d0e017" /><thead id="UUID704d5026-6943-c44a-0019dec0c2e153b4"><row id="UUID704d5026-765a-d1da-328ed4f97350514f"><entry id="UUID704d5026-d750-88f0-17427faff0e14c93">P</entry><entry id="UUID704d5026-019c-5ba2-a22035fbcd7e98ef">Qd</entry><entry id="UUID704d5026-2074-c39c-196b1c3c84fd15e1">Qs<sub>1</sub></entry><entry id="UUID704d5026-ac90-7500-71b0b243c6e0c63e">Qs<sub>2</sub></entry></row></thead><tbody id="UUID704d5026-ca6b-cad8-ce304788010ed9f1"><row id="UUID704d5026-e42d-b2d0-3b6b64137e369b99"><entry id="UUID704d5026-ea1a-9a57-1638a8e5c35c6d9d">20</entry><entry id="UUID704d5026-0f33-b133-42c0a8c87981492a">0</entry><entry id="UUID704d5026-8157-93a4-fb0b01f7403a0401">10</entry><entry id="UUID704d5026-0d1f-e4fa-c77416e0ce754e8a">8</entry></row><row id="UUID704d5026-d05c-59dc-48ab1a92aae40a55"><entry id="UUID704d5026-b9d0-75df-b00a2659f70ba69e">18</entry><entry id="UUID704d5026-c29b-dc2e-264f9ae1dc44ed00">1</entry><entry id="UUID704d5026-8016-ea9b-f810ab977ba0024c">9</entry><entry id="UUID704d5026-76c9-9f18-a0bcc04df68ca88f">7</entry></row><row id="UUID704d5026-d496-44a2-448ea6f0eeb75fc7"><entry id="UUID704d5026-5ee0-fe6c-1c00886624870031">15</entry><entry id="UUID704d5026-2314-24b6-3e68624b0871ffa9">2,5</entry><entry id="UUID704d5026-6833-338c-d1365007e83723ca">7,5</entry><entry id="UUID704d5026-643f-f41b-39cfebcb88284ccd">5,5</entry></row><row id="UUID704d5026-cc7e-3541-92c23cbc6586faa9"><entry id="UUID704d5026-3ca0-2e0a-c4d3d83a17d7f171">12</entry><entry id="UUID704d5026-3b26-62a9-a977b6cf4956b722">4</entry><entry id="UUID704d5026-b0d1-d2a6-0025896f13899d1c">6</entry><entry id="UUID704d5026-46b6-7832-44cfe63d83658996">4</entry></row><row id="UUID704d5026-6493-2c34-5b6df7c789fee1c8"><entry id="UUID704d5026-54d5-d211-02915554f0e66902">10</entry><entry id="UUID704d5026-3953-c3a8-ba0431fbbc824b74">5</entry><entry id="UUID704d5026-b70b-9c32-82757e412d49368b">5</entry><entry id="UUID704d5026-dfc0-010c-43da755152501f35">3</entry></row><row id="UUID704d5026-deca-6e7e-7d0003dd06abac8c"><entry id="UUID704d5026-a63b-7356-e58f18f14ca835bd">5</entry><entry id="UUID704d5026-83f5-24fb-8486cbdaa85fcb88">7,5</entry><entry id="UUID704d5026-8741-2d0f-885291f16f66e93c">2,5</entry><entry id="UUID704d5026-36ce-c9dc-83fbb387c7ec1d4d">0,5</entry></row></tbody></tgroup></table>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp45088736" class="references">
+      <title id="UUIDf686875b-fa78-45a1-5d64-9f65b7772445">Bibliografia</title>
+      <para id="fs-idp118844720">Johnson, Oscar William. “Back on Track: Earth Day Success Story; The Chattanooga Choo-Choo No Longer Spews Foul Air.” <emphasis effect="italics">Sports Illustrated</emphasis>. April 30, 1990. http://www.si.com/vault/1990/04/30/121923/back-on-track-earth-day-success-story-the-chattanooga-choo-choo-no-longer-spews-foul-air.</para>
+      <para id="fs-idp134423728">U.S. Energy Information Administration. “Total Energy: Monthly Energy Review.” <emphasis effect="italics">U.S. Department of Energy</emphasis>. Accessed December 19, 2013. http://www.eia.gov/totalenergy/data/monthly/.</para>
+    </section>
+  </content>
+  <glossary id="UUID430fe2b3-6826-473f-5f50-20d233899032">
+    <definition id="fs-idp106680320">
+      <term id="UUIDfad9a876-de67-49ed-6201-1d8b3d82101b">dodatkowy koszt zewnętrzny (ang. <foreign xml:lang="en" id="UUID325669ed-3cb8-4681-6a46-ad01b6bc1b03">additional external cost</foreign>)</term>
+      <meaning id="fs-idp46540768">
+        <para id="UUIDfaf3e423-460a-47fc-50bd-a6f008394207">dodatkowe koszty ponoszone przez podmioty, które nie są bezpośrednio zaangażowane w proces produkcji danego dobra</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm60744192">
+      <term id="UUIDa50b18cd-7ace-44aa-7ff1-37cc9d4c56ca">efekt zewnętrzny (ang. <foreign xml:lang="en" id="UUIDf67a825a-884a-48b5-5427-ca543d280515">externality</foreign>)</term>
+      <meaning id="fs-idm82605200">
+        <para id="UUID3e1d82d3-8fcf-4ec6-743a-f1290af7cec2">sytuacja, w której wymiana (transakcja) rynkowa lub jakiekolwiek inne działania wpływa na podmioty, które w nich nie uczestniczą (znajdują się „na zewnątrz”); czasami nazywany też efektem ubocznym</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm2033056">
+      <term id="UUID59380249-6117-489a-7595-77d6c26805bb">zawodność rynku (ang. <foreign xml:lang="en" id="UUID8d36541e-975d-4790-44cf-47f24a8cb255">market failure</foreign>)</term>
+      <meaning id="fs-idm45129520">
+        <para id="UUID3e5fe372-2414-4c4a-7362-5dbe70fb1382">sytuacja, gdy mechanizm rynkowy (rynek) sam z siebie nie prowadzi do efektywnej alokacji zasobów w sposób równoważący koszty i korzyści społeczne, produkcja jest zbyt duża lub zbyt mała ze społecznego punktu widzenia; efekty zewnętrzne są jednym z przykładów zawodności rynku</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm51489968">
+      <term id="UUID787d4c84-fd0a-4a42-69ee-7674959fd51f">negatywny efekt zewnętrzny (ang. <foreign xml:lang="en" id="UUID007c04b8-4ba3-46e5-6ca5-15a4986872cc">negative externality</foreign>)</term>
+      <meaning id="fs-idp105510896">
+        <para id="UUID16ea5343-466e-4d61-49ec-ea719a4c6e5c">sytuacja, w której podmiot, który nie uczestniczy w transakcji, ponosi jej koszty (obniża się jego użyteczność) bez jakiejkolwiek rekompensaty</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp42883968">
+      <term id="UUID33c296a2-aad1-4037-6631-6f5a5176a871">koszty społeczne (ang. <foreign xml:lang="en" id="UUIDcf8e2e10-2922-4f8d-7694-bfe41e67e0eb">social costs</foreign>)</term>
+      <meaning id="fs-idp17918144">
+        <para id="UUIDbf42e74f-d509-4d34-59f0-c2cd1bf38d32">koszty, które obejmują zarówno prywatne koszty ponoszone przez przedsiębiorstwa w trakcie procesu produkcyjnego, jak i dodatkowe koszty ponoszone przez podmioty, które nie są bezpośrednio zaangażowane w proces produkcyjny, np. koszty zanieczyszczenia środowiska</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp133236544">
+      <term id="UUIDc951cf6b-d564-4829-4ccb-afdd37bcf4e0">efekt uboczny (ang. <foreign xml:lang="en" id="UUID82754fa7-1cc7-4c4b-5f39-6ad8497664d6">spillover</foreign>)</term>
+      <meaning id="fs-idp3332176">
+        <para id="UUID4806ff27-1798-4cb0-5f0a-51cba3695d7f">zob. efekt zewnętrzny</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

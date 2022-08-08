@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uaf77dc8c-48c0-488d-8a71-623771a9ffbe" id="Uaf77dc8c-48c0-488d-8a71-623771a9ffbe" xml:lang="en" cnxml-version="0.7">
+  <title>Czym jest ekonomia i dlaczego jest ona ważna?</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00003</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Czym jest ekonomia i dlaczego jest ona ważna?</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:50.435202320+00:00</md:version>
+    <md:created>2022-08-08T07:43:50.435202320+00:00</md:created>
+    <md:revised>2022-08-08T07:43:50.435202320+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>af77dc8c-48c0-488d-8a71-623771a9ffbe</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID2ddbff3c-cc48-4c06-45ed-97f16ec98b11" class="learning-objectives">
+      <para id="UUIDfe5d3bc8-2099-4c6c-44d3-a371830cc943">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID9251aa45-ac27-4a62-4bbd-975c83ae475d">
+        <item id="UUID77fc47c6-c5c5-4496-7996-aeb0a4e3df22">
+          <para id="UUID538c45de-9dc1-4713-52f2-60fc628b8588">Wytłumaczyć, dlaczego warto studiować ekonomię</para>
+        </item>
+        <item id="UUID3a59cf29-a71b-4f17-76d4-cdca07b6a5c5">
+          <para id="UUID3dc33360-5be0-4b41-518a-95fd85faa7f3">Wyjaśnić relację pomiędzy produkcją a podziałem pracy</para>
+        </item>
+        <item id="UUID440bc5e3-9292-495f-485b-4832d548ce9e">
+          <para id="UUIDb8798c89-4cec-4ec0-5d66-8ddca155d794">Ocenić znaczenie zjawiska rzadkości (ograniczoności) zasobów</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID52cd7e20-32e4-422e-40d4-462418b0ba48"><term cmlnle:reference="ekonomia" id="UUIDdbdba402-1e6a-4a1e-982e-edddcfc63ee9">Ekonomia</term> (ang. <foreign xml:lang="en" id="UUIDd06b7f50-64d5-47b2-67cb-9e3849c8e4b5"><term cxlxt:index="foreign" id="UUID1fb3ceff-2642-4025-7555-6995b001cb2a">economics</term></foreign>) to nauka o tym, jak ludzie podejmują decyzje w obliczu rzadkości (ograniczoności) zasobów. Mogą to być decyzje indywidualne, decyzje rodzinne, decyzje biznesowe lub decyzje społeczne. Jeśli rozejrzysz się uważnie, zobaczysz, że rzadkość zasobów jest faktem. <term cmlnle:reference="rzadkość zasobów" id="UUIDebcf9fca-8d71-4d56-7d00-f6ba767fcd60">Rzadkość zasobów</term> (ang. <foreign xml:lang="en" id="UUIDa9b2325a-51e8-4cb1-64de-9082f050d2cb"><term cxlxt:index="foreign" id="UUID6727ea42-4ce6-4b9c-7ea6-eadb7c2d4dc0">scarcity</term></foreign>) oznacza, że potrzeby w zakresie towarów, usług i surowców przekraczają dostępne zasoby, jeśli koszt ich pozyskania jest pomijalny (ich cena jest równa zero). Zasoby takie jak: siła robocza, narzędzia, ziemia i surowce są niezbędne do wytworzenia pożądanych przez nas dóbr i usług, ale ich podaż jest ograniczona. Oczywiście rzadkim zasobem jest również czas – każdy człowiek, bogaty czy biedny, ma tylko 24 godziny w ciągu doby, które może wykorzystać, aby zarobić na zakup towarów i usług albo też poświęcić je na rekreację lub sen. W danym momencie dostępna jest tylko skończona ilość zasobów. Istnieją dobra, których zasoby wydają się nieograniczone, np. powietrze czy energia słoneczna. Nazywane są one dobrami wolnymi, ale kryzys klimatyczny uświadamia nam, że nawet obfitość takich dóbr ma charakter względny.</para>
+    <para id="UUIDda3ef62f-da58-4291-582d-5439df15209c">Pomyśl o tym w ten sposób: zgodnie z danymi Głównego Urzędu Statystycznego (GUS) w 2020 r. liczba osób aktywnych zawodowo w Polsce kształtowała się na poziomie bliskim 17 mln (w tym samym okresie osób biernych zawodowo było blisko 13,5 mln). Całkowita powierzchnia kraju wynosiła 312 679 km kw. Chociaż są to z pewnością liczby duże, nie są one nieskończone. Ponieważ zasoby te są ograniczone, podobnie rzecz się ma z ilością towarów i usług, które dzięki ich wykorzystaniu produkujemy (jakkolwiek, zgodnie z danymi GUS, produkcja dóbr i usług konsumpcyjnych w Polsce z roku na rok jest coraz większa). Jeśli dodamy do tego fakt, iż ludzkie potrzeby wprawdzie nie są nieograniczone (w końcu ile pączków w ciągu dnia jest w stanie zjeść człowiek), ale – również ze względu na to, że wciąż pojawiają się nowe produkty (przede wszystkim gadżety elektroniczne) – znacznie przekraczają dostępny zasób dóbr i usług, łatwo zauważyć, dlaczego rzadkość zasobów jest problemem. Rozwiązywanie tego problemu wymaga analizy nie tylko produkcji, ale także sposobu dzielenia dóbr (ich dostępności) między poszczególne jednostki i grupy. Dlatego przedmiot ekonomii – gospodarowanie rzadkimi zasobami – obejmuje produkcję i podział jej efektów w społeczeństwie.</para>
+    <para id="UUIDee4253cf-ec63-4215-5f8c-c64766debe18">Podział dóbr w społeczeństwie rodzi kontrowersje, które także są przedmiotem analiz ekonomistów. W tym miejscu należy podkreślić specyficzną cechę ekonomii jako nauki społecznej. W ekonomii występują twierdzenia pozytywne, które opisują, jak ludzie działają (tzw. ekonomia pozytywna), i twierdzenia normatywne, dotyczące tego, jak być powinno (ekonomia normatywna). Temat ten zostanie rozwinięty w kolejnym rozdziale.</para>
+    <section id="eip-826">
+      <title id="UUID8da1e64e-0aaf-4080-76bb-30538b073aa0">Wprowadzenie do bazy danych FRED</title>
+      <para id="UUID98275fb7-6c73-4387-799b-4368a6d29492">Dane liczbowe są bardzo ważne w ekonomii, ponieważ ilustrują problemy, które ekonomia stara się zrozumieć. Różne agencje rządowe publikują dane gospodarcze i społeczno-ekonomiczne. W tym podręczniku będziemy używać głównie danych z bazy FRED Banku Rezerwy Federalnej w St. Louis i danych dostępnych poprzez witrynę internetową Głównego Urzędu Statystycznego (GUS). Zarówno portal <link url="https://openstax.org/l/FRED/" id="UUID2ba06307-3f2f-4c5e-5b87-a408d0952a16">FRED</link>, jak i <link url="www.stat.gov.pl" id="UUIDa4730459-8b5f-4b41-5d33-564ee559e3a2">GUS</link> są bardzo przyjazne dla użytkownika. Umożliwiają wyświetlanie danych w tabelach lub na wykresach, a także łatwe pobieranie ich do postaci arkusza kalkulacyjnego, jeśli chcesz wykorzystać je do innych celów. Witryny FRED i GUS zawierają dane dotyczące kształtowania się w czasie prawie 400 tys. liczb obrazujących procesy gospodarcze w kraju i na świecie w szerokich kategoriach:</para>
+      <list id="eip-id1170568908658">
+        <item id="UUIDfc5a0b66-fde8-4c12-40fa-89b733a6be2b">
+          <para id="UUID9a52ef99-05aa-40de-7500-088ee2eacdf1">Pieniądz, bankowość i finanse</para>
+        </item>
+        <item id="UUIDaf86bceb-be70-479e-544a-0cf04a3589fb">
+          <para id="UUID389dbb65-162f-438d-7e02-9467fef15fd4">Demografia, zatrudnienie i rynek pracy (w tym rozkład dochodów)</para>
+        </item>
+        <item id="UUID45e3bb87-2a87-4813-5494-aa7b565b1fd3">
+          <para id="UUIDbe63808f-670e-418c-4f00-a8b75bbabfd8">Rachunki narodowe (produkt krajowy brutto i jego składowe)</para>
+        </item>
+        <item id="UUID1df487ed-fd24-4612-790f-353a6e3cdef8">
+          <para id="UUIDe9c5df21-234b-4a13-49a8-bbde60c73043">Produkcja i działalność gospodarcza (w tym cykle koniunkturalne)</para>
+        </item>
+        <item id="UUID5adddb54-bed8-48bb-58de-50c984300c91">
+          <para id="UUIDbc4973e2-d734-461e-6a92-9239fd61b5d6">Ceny i inflacja (w tym indeks cen towarów i usług konsumpcyjnych, indeks cen producentów oraz indeks kosztów zatrudnienia)</para>
+        </item>
+        <item id="UUID83f87fd2-246d-4ff0-6dde-80cdd57e117b">
+          <para id="UUID5626638a-6104-4b1f-683a-b155775bab7d">Dane regionalne z USA i Polski</para>
+        </item>
+        <item id="UUIDb39e5160-86a2-45a1-7c51-f952932ad0d9">
+          <para id="UUID611b7c3f-99a2-449b-5bdb-0d4e556bab28">Dodatkowo portal FRED zawiera również dane akademickie (w tym <foreign xml:lang="en" id="UUIDc4033546-0825-4fb3-5f39-7471893f8046">Penn World Tables</foreign> i bazę danych <foreign xml:lang="en" id="UUIDa95cd7e3-6c69-49a6-5939-927100ecf9bd">NBER Macrohistory</foreign>)</para>
+        </item>
+      </list>
+      <para id="UUID7b5d1317-b2ce-4e3e-57c7-7e3cb5739e30">Aby uzyskać więcej informacji o tym, jak korzystać z FRED, zobacz <link url="https://openstax.org/l/FRED_intro" id="UUID98c75f22-876e-4d77-4fcb-5ef518b39b6e">filmy</link> na YouTube, zaczynając od tego wprowadzenia.</para>
+      <figure id="CNX_Econ_C01_003">
+        <title id="UUID3c43b0bb-0f6b-4223-437c-2776d6754af9">Rzadkość zasobów</title>
+        <media alt="Obraz przedstawia bezdomną osobę śpiącą na ławce obok ulicznego kosza na śmieci." id="fs-idp189573">
+          <image src="../../media//CNX_Econ_C01_003.jpg" mime-type="image/jpeg" id="UUIDaf9f2ba8-bc43-4a41-5bcd-52d5b2cf0a82" />
+        </media>
+        <caption id="UUIDf43d534b-8195-4a2b-7955-f4e824650cee">Kryzys bezdomności pokazuje, jak realnym problemem jest rzadkość zasobów. (Źródło: „daveynin”/Flickr Creative Commons)</caption>
+      </figure>
+      <para id="UUID4aa0b38d-82ef-4d54-404b-5595a657f489">Jeśli nadal nie wierzysz, że rzadkość zasobów jest istotnym problemem, zastanów się nad następującymi kwestiami: Czy każdy potrzebuje jedzenia? Czy każdy potrzebuje przyzwoitego mieszkania? Czy każdy potrzebuje opieki zdrowotnej? W każdym kraju na świecie są ludzie głodni, dotknięci kryzysem bezdomności (którzy są zmuszeni nazywać ławki w parku swoimi łóżkami, jak pokazano na <link target-id="CNX_Econ_C01_003" cmlnle:case="genitive" id="UUID0e6b7790-064a-4c58-6e33-164d05ccc109" />), pozbawieni dostępu do usług medycznych. Z czego to wynika? Powodem jest rzadkość zasobów. Spróbujmy zgłębić kwestię rzadkości zasobów nieco dokładniej, ponieważ jest ona kluczowa dla zrozumienia tego, czym zajmuje się ekonomia.</para>
+    </section>
+    <section id="fs-idp6791984">
+      <title id="UUIDd123bce0-4e50-47d9-7a4a-8c71734cfd18">Problem rzadkości zasobów</title>
+      <para id="UUIDd1bdeba7-5068-474c-6cd5-f97a688eae57">Pomyśl o wszystkich rzeczach, które konsumujesz: jedzeniu, mieszkaniu, odzieży, transporcie, opiece zdrowotnej i rozrywce. Jak zdobywasz te dobra? Sam ich nie produkujesz. Nabywasz je. Dlaczego stać cię na kupowane rzeczy? Bo pracujesz i otrzymujesz za to wynagrodzenie. Jeśli sam tego nie robisz, robi to ktoś inny, kto kupuje ci wszystkie niezbędne produkty. Jednak większość z nas nigdy nie uzyskuje wystarczającego dochodu, aby móc nabyć wszystko, czego pragnie. Dzieje się tak właśnie z powodu rzadkości zasobów. Jak zatem rozwiązać ten problem?</para>
+      <note type="note" id="fs-idm61672672" class="economics linkup">
+        <para id="UUID461e36c1-5a57-43be-7a2f-01201cf277be">Odwiedź tę <link url="http://openstax.org/l/drought" id="UUIDd6c3118d-2ae3-4324-7019-e109d97dad76">stronę internetową</link>, aby przeczytać o tym, jak Stany Zjednoczone radzą sobie z problemem rzadkości zasobów.</para>
+      </note>
+      <para id="UUID35b0d20d-c7b8-4ced-50f1-c9c01a0d7ce5">Każde społeczeństwo, niezależnie od tego, jak zamożni są jego obywatele, musi dokonywać wyborów dotyczących sposobu wykorzystania swoich zasobów. Rodziny muszą zdecydować, czy wydadzą pieniądze na nowy samochód, czy na ekskluzywne wakacje. Jednostki samorządowe (gminy, powiaty i województwa) muszą określić, czy przeznaczyć większą część budżetu na policję i ochronę przeciwpożarową, czy na system oświaty. Państwa muszą dokonać wyboru, czy przeznaczyć więcej środków na obronę narodową, czy na ochronę środowiska. W większości przypadków w budżecie po prostu nie ma wystarczającej ilości pieniędzy, aby sfinansować wszystkie potrzeby. Jak najlepiej wykorzystać nasze ograniczone zasoby, aby uzyskać możliwie najwięcej towarów i usług? Istnieje kilka opcji. Po pierwsze, każdy z nas mógłby wyprodukować wszystko to, co sam konsumuje. Alternatywnie każdy mógłby wyprodukować część tego, co chciałby skonsumować, a resztę zapewnić sobie w drodze wymiany. Przyjrzyjmy się tym opcjom. Dlaczego sami nie wytwarzamy po prostu wszystkich rzeczy, które są nam niezbędne? Przypomnijmy sobie nieodległe przecież czasy, kiedy ludzie potrafili własnoręcznie zaspokoić znacznie więcej swoich potrzeb niż my dzisiaj, od budowania domów, przez uprawę roli i polowanie, po naprawę sprzętów domowych. Większość z nas nie wie, jak zrobić wszystkie – lub cokolwiek – z wymienionych wcześniej rzeczy, ale nie dlatego, że nie byliśmy w stanie się tego nauczyć. Raczej nie musimy tego robić, ponieważ żyjemy w społeczeństwie opartym na podziale i specjalizacji pracy. Na szczególne znaczenie podziału pracy zwrócił uwagę <term cxlxt:index="name" cxlxt:name="Smith, Adam" id="UUIDd3bc560b-d240-4014-72d2-a9efe31b0906">Adam Smith</term> (1723–1790) w swoim dziele <emphasis effect="italics">Bogactwo narodów</emphasis>.</para>
+      <figure id="CNX_Econ_C01_008">
+        <title id="UUID3ac2bae5-207d-4f93-7baf-99fb317adc59">Adam Smith</title>
+        <media alt="Obraz jest szkicem profilu Adama Smitha." id="fs-idm26634464">
+          <image src="../../media//CNX_Econ_C01_008.jpg" mime-type="image/jpeg" id="UUID29a2e86a-8f9c-416a-739e-4893c3f58844" />
+        </media>
+        <caption id="UUIDefd2532b-65e3-4593-5f90-5af08c234af0">Adam Smith opisał ideę podziału procesu produkcyjnego na proste czynności. (Źródło: Wikimedia Commons)</caption>
+      </figure>
+    </section>
+    <section id="fs-idm47017248">
+      <title id="UUID2e911d95-0df2-4ee5-7346-55b203dea23f">Podział i specjalizacja pracy</title>
+      <para id="UUID69a6f4fc-99f9-498c-72af-5be0236fc430">Wielu autorów pisało o ekonomii stulecia przed Smithem, ale on jako pierwszy zajął się problemami gospodarczymi w sposób kompleksowy. Dlatego opublikowanie w 1776 r. jego dzieła znanego pod skróconym tytułem <emphasis effect="italics">Bogactwo narodów</emphasis> uznane zostało za narodziny nowożytnej ekonomii. W pierwszym rozdziale Smith wprowadził pojęcie <term cmlnle:reference="podział pracy" id="UUIDc0af2df9-3318-4d3a-6d46-121e8af131f2">podziału pracy</term> (ang. <foreign xml:lang="en" id="UUIDe476a702-b333-48d4-55cf-829171948d47"><term cxlxt:index="foreign" cmlnle:reference="division of labor" id="UUIDe19db5d5-5116-4c48-4e65-1917f1353650">division of labor</term></foreign>), co oznaczało podział procesu wytwarzania danego produktu na szereg prostych cząstkowych czynności wykonywanych przez różnych pracowników, w miejsce sytuacji, w której jeden człowiek wykonuje wszystkie zadania związane z produkcją tego przedmiotu.</para>
+      <para id="UUID0cabca0c-717b-40f6-5c1a-4650a7a26b73">Aby zilustrować ideę podziału pracy, Smith policzył, ile czynności składało się na wykonanie szpilki: przycięcie kawałka drutu na odpowiednią długość, wyprostowanie go, umieszczenie główki na jednym końcu i zaostrzenie drugiego oraz pakowanie szpilek, żeby wymienić tylko kilka z nich. Wierzcie lub nie, ale Smith naliczył 18 różnych zadań, które wykonywali różni ludzie, w celu wyprodukowania gotowych do sprzedaży szpilek!</para>
+      <para id="UUID99da0d40-8c94-4d92-6f20-4e287f238bc6">Nowoczesne przedsiębiorstwa, niezależnie od ich rozmiarów, również dokonują podziału zadań. Nawet stosunkowo prosty rodzaj działalności, jakim jest restauracja, dzieli proces produkcyjny polegający na serwowaniu posiłków gościom na szereg czynności wykonywanych przez wiele osób – szefa kuchni, specjalistów zajmujących się sosami i innymi elementami dań, mniej wykwalifikowaną pomoc kuchenną wykonującą proste działania, pracownika witającego klientów i zajmującego się rezerwacjami, kelnerów, sprzątaczy oraz menedżera do obsługi wypłat i rachunków, nie wspominając o ludziach odpowiedzialnych za zakupy żywności, mebli, sprzętu kuchennego i kontakty z właścicielem budynku, w którym restauracja się znajduje. Bardziej złożona działalność, taka jak fabryka wytwarzająca obuwie (<link target-id="CNX_Econ_C01_009" id="UUID214ad8c1-84ac-41c3-6972-c0b935a5583b" />) lub szpital, może opierać się na pracy osób zatrudnionych na setkach różnych stanowisk.</para>
+      <figure id="CNX_Econ_C01_009">
+        <title id="UUIDe96131d1-310a-48aa-5c1b-861154da1a87">Podział pracy</title>
+        <media alt="Obraz jest fotografią pracowników fabryki obuwniczej pracujących niezależnie od siebie nad zindywidualizowanymi zadaniami." id="fs-idp158896">
+          <image src="../../media//CNX_Econ_C01_009.jpg" mime-type="image/jpeg" id="UUID552706b5-b601-45d9-7fc1-8f3900afc5e5" />
+        </media>
+        <caption id="UUIDd3e6c46e-cb0b-4643-7af4-4f4de8138d9e">Przykładem podziału pracy są pracownicy na linii montażowej. (Źródło: Nina Hale/Flickr Creative Commons)</caption>
+      </figure>
+    </section>
+    <section id="fs-idm44436912">
+      <title id="UUID93f150a4-9c42-4ab3-5684-c4ff94db31e1">Dlaczego podział pracy zwiększa produkcję</title>
+      <para id="UUID98175630-272d-45e5-4b19-c1796a581cc4">Kiedy już uda się podzielić proces produkcji dóbr lub usług na niezależne czynności wykonywane przez różne osoby, pracownicy i firmy mogą wytwarzać większą liczbę produktów. Analizując sposób funkcjonowania obserwowanych przez siebie wytwórców szpilek, Smith zauważył, że jeden pracownik wykonujący wszystkie 18 czynności może wyprodukować 20 szpilek dziennie, ale mała firma składająca się z 10 pracowników (niektórzy z nich musieliby wykonać dwa lub trzy zadania z grupy wszystkich związanych z wytwarzaniem szpilek) może wyprodukować 48 tys. szpilek dziennie. Dlaczego grupa robotników, z których każdy specjalizuje się w określonych zadaniach, może wytworzyć o wiele więcej niż ta sama liczba robotników, którzy próbują samodzielnie zrealizować cały proces produkcji określonego dobra lub usługi?</para>
+      <para id="UUID93a59b59-36bc-44bf-4fa7-1727e8eddecc">Po pierwsze, <term cmlnle:reference="specjalizacja" id="UUIDfff3fc7e-6006-48b3-7948-f2ef7816f952">specjalizacja</term> (ang. <foreign xml:lang="en" id="UUIDec1bf8d7-fb69-4489-5476-fd0fc7bc73f8"><term cxlxt:index="foreign" id="UUID9ca11985-b663-4f40-6dda-eb6e379097a4">specialization</term></foreign>) w konkretnym, cząstkowym obszarze pracy pozwala pracownikom skupić się na tych elementach procesu produkcyjnego, w których mają przewagę. (W kolejnych rozdziałach rozwiniemy tę ideę, wprowadzając i omawiając pojęcie <term cmlnle:reference="przewaga komparatywna" id="UUIDbb244f8c-3410-4519-58e8-533def6f424e">przewagi komparatywnej</term> (ang. <foreign xml:lang="en" id="UUID22a1ec18-d3aa-45f7-5105-539e6ffc7870"><term cxlxt:index="foreign" id="UUID8a5a1409-f072-4471-5c83-9df3ed7aba35">comparative advantage</term></foreign>). Ludzie mają różne umiejętności, talenty i zainteresowania, więc niektóre czynności będą wykonywać lepiej i szybciej niż inni. We współczesnym świecie specjalizacja w wykonywaniu określonych zadań najczęściej jest wynikiem wyboru konkretnej ścieżki edukacyjnej, która z kolei kształtowana jest przez zainteresowania i uzdolnienia. Na przykład tylko ci, którzy mają wykształcenie medyczne, posiadają niezbędne kwalifikacje do pracy lekarza. W przypadku niektórych dóbr główny wpływ na specjalizację w ich produkcji ma umiejscowienie geograficzne przedsięwzięcia. Zdecydowanie łatwiej być sadownikiem w okolicach Grójca lub Warki niż na Suwalszczyźnie, z kolei hotel turystyczny prościej jest prowadzić w Augustowie niż w Warce czy Grójcu. W dużym mieście lub w jego pobliżu łatwiej jest przyciągnąć liczbę klientów wystarczającą do dobrego prosperowania pralni chemicznej lub kina, co na słabo zaludnionym obszarze wiejskim z pewnością będzie problemem. Bez względu na powód, jeśli ludzie specjalizują się w wytwarzaniu tego, co robią najlepiej, będą bardziej efektywni, niż gdyby koncentrowali się na wykonywaniu kilku różnych czynności, robiąc zarówno to, co umieją najlepiej, jak i to, w czym nie są zbyt biegli.</para>
+      <para id="UUIDb0f77632-ff90-40fb-5dc4-5ce8f084531f">Po drugie, pracownicy, którzy specjalizują się w określonych zadaniach, najczęściej uczą się produkować szybciej i osiągać wyższą jakość wytwarzanych produktów. Ten schemat odnosi się do różnych profesji i stanowisk, w tym pracowników linii montażowych, którzy składają samochody, fryzjerów układających wymyślne fryzury i lekarzy, którzy wykonują operacje serca. Wyspecjalizowani pracownicy często znają swoje zadania na tyle dobrze, że mogą proponować innowacyjne, czyli szybsze i lepsze sposoby wykonywania tej pracy.</para>
+      <para id="UUID4a9260f3-67ff-45b7-711a-1c93f3965517">Podobny wzorzec występuje również w przedsiębiorstwach. W wielu przypadkach firma, która koncentruje się na jednym lub tylko kilku produktach (nazywanych czasami <term cmlnle:reference="kluczowe kompetencje" id="UUID0755bc02-5beb-4d0f-6e56-c9cd40146113">kluczowymi kompetencjami</term> (ang. <foreign xml:lang="en" id="UUID731a8d48-f8fc-44c2-4698-042a623dc459"><term cxlxt:index="foreign" id="UUIDd332c122-acb5-4c00-583f-57ce4da5fc12">core competency</term></foreign>), odnosi większe sukcesy niż podmioty, które próbują wytwarzać szeroką gamę produktów.</para>
+      <para id="UUIDc8c09193-dbda-411f-417e-1b4f8cd36657">Po trzecie, specjalizacja pozwala przedsiębiorstwom wykorzystywać <term cmlnle:reference="korzyści skali" id="UUID2a25286a-06f5-4293-690d-c36eed6c75e5">korzyści skali</term> (ang. <foreign xml:lang="en" id="UUID5b817ef2-8140-4a82-5925-de05f109cf1c"><term cxlxt:index="foreign" cmlnle:reference="korzyści skali" id="UUID72834e61-642e-4880-72df-e48a7ce069bb">economies of scale</term></foreign>), co oznacza, że w przypadku wielu rodzajów dóbr wraz ze wzrostem poziomu produkcji średni koszt wytworzenia każdej jednostki spada. Na przykład jeśli fabryka wytwarza tylko 100 samochodów rocznie, każdy samochód będzie przeciętnie dość drogi w produkcji, gdyż będzie się ona odbywać w sposób chałupniczy. Jeśli jednak zakład produkuje 50 tys. samochodów na rok, może stworzyć zautomatyzowaną linię montażową z ogromnymi maszynami i pracownikami wykonującymi specjalistyczne zadania, a przeciętny koszt produkcji jednego auta będzie niższy. Ostatecznie dzięki temu, że pracownicy mogą skupić się na swoich preferencjach i talentach, nauczyć się lepiej wykonywać wyspecjalizowane zadania i pracować w większych organizacjach, społeczeństwo jako całość może produkować i konsumować znacznie więcej niż w sytuacji, w której każda osoba próbowałaby sama wytwarzać wszystkie zużywane przez siebie towary i usługi. Podział i specjalizacja pracy są sposobem radzenia sobie z rzadkością zasobów.</para>
+    </section>
+    <section id="fs-idp36846976">
+      <title id="UUID2b142dd9-5750-41d1-56be-bbd723d2f648">Handel i rynki</title>
+      <para id="UUIDe138c74c-5d7f-4ad4-6423-0f0b4821fb0c">Aby zaspokoić różnorodne potrzeby w gospodarce opartej na podziale pracy, musimy za uzyskane wynagrodzenie kupować wszystkie potrzebne nam dobra. Innymi słowy, im bardziej zaawansowany podział pracy, tym większy zakres wymiany towarowej w ramach regionów, narodów i świata. Oznacza to, że pomyślność ekonomiczna zależy od umiejętności pokojowej współpracy.</para>
+      <para id="UUID72cb0efb-d89a-41e8-522a-8ea66d7b3240">Podział pracy to także podział wiedzy. Aby odtwarzać muzykę, nie musisz nic wiedzieć o elektronice czy sposobach kompresji dźwięku – po prostu kupujesz smartfon lub tablet, pobierasz muzykę (lub logujesz się do serwisów streamingowych) i słuchasz. Nie musisz nic wiedzieć o sztucznych włóknach czy budowie maszyn do szycia, jeśli potrzebujesz kurtki – zwyczajnie kupujesz ją i nosisz. Możesz nie mieć pojęcia o silnikach spalinowych, a mimo to prowadzić samochód – po prostu wsiadasz i jedziesz. Zamiast próbować zdobyć całą wiedzę i umiejętności związane z produkcją wszystkich dóbr i usług, które chcesz konsumować, rynek pozwala ci nauczyć się wyspecjalizowanego zestawu umiejętności, a następnie wykorzystać otrzymywane wynagrodzenie do zakupu towarów, których potrzebujesz. W ten sposób nowoczesne społeczeństwo wykształciło silną gospodarkę.</para>
+    </section>
+    <section id="fs-idp73648">
+      <title id="UUIDc0ec634f-b3ed-4b0b-42d2-ff59c98ef444">Korzyści ze studiowania ekonomii</title>
+      <para id="UUID590d6524-4775-4bf8-7bc2-52e3ac1cc461">Teraz, gdy masz już ogólny pogląd na to, czym zajmuje się ekonomia, szybko omówmy, dlaczego warto ją studiować. Ekonomia, wbrew pozorom, nie jest zbiorem faktów do zapamiętania, chociaż istnieje wiele ważnych pojęć, których należy się nauczyć. Zamiast tego myśl o ekonomii jako zbiorze pytań, na które należy odpowiedzieć, lub łamigłówkach do rozwiązania. Co najważniejsze, ekonomia dostarcza narzędzi i wskazuje sposoby rozwiązania tych zagadek. Jeśli jeszcze nie zaraziliście się pasją do ekonomii, oto inne ważne powody, dla których warto ją studiować:</para>
+      <list id="fs-idm173232">
+        <item id="UUIDdc9d3f1b-616a-41ad-6c3f-d91486c0e4bc">
+          <para id="UUIDae0b6ece-e323-4341-6ab4-6f19625f33e4">Praktycznie każdy istotny problem, przed którym stoi dziś świat, od globalnego ocieplenia, przez ubóstwo, po konflikty w Syrii, Afganistanie, Somalii i na Ukrainie, ma wymiar ekonomiczny. Jeśli chcesz uczestniczyć w rozwiązywaniu tych problemów, musisz być w stanie je zrozumieć. Rola ekonomii jest tu zatem kluczowa.</para>
+        </item>
+        <item id="UUID2e29ca76-a6cd-414d-60c0-21632f10ee3f">
+          <para id="UUIDda990035-ec02-4819-5d7e-83fb957d5707">Trudno przecenić znaczenie ekonomii dla zaangażowania w sprawy publiczne i świadomości obywatelskiej. Jeśli chcesz w racjonalny sposób dokonywać wyborów, musisz rozumieć konsekwencje uchwalanych w parlamencie ustaw i innych przepisów prawa. Czy wiesz, jakie są konstytucyjne limity długu publicznego, czy rozumiesz pojęcie reguły fiskalnej, czy znasz kompetencje Narodowego Banku Polskiego?</para>
+        </item>
+        <item id="UUID960d2db5-5497-45b0-4d73-9dd9546f65ec">
+          <para id="UUID2e6042e5-fbde-44a0-6c3c-dce170075bde">Podstawowa znajomość zasad rządzących światem ekonomii sprawia, że lepiej rozumiesz rzeczywistość wokół ciebie. Czytając artykuły o tematyce ekonomicznej, będziesz w stanie ocenić argumenty autora. Kiedy usłyszysz kolegów z grupy, współpracowników lub polityków mówiących o gospodarce i ekonomii, zdołasz odróżnić racjonalną argumentację od bzdur. Poznasz nowe sposoby myślenia o bieżących wydarzeniach, o decyzjach osobistych i biznesowych, a także o polityce.</para>
+        </item>
+      </list>
+      <para id="UUIDd7a5b00b-db4b-4e59-43a4-f7033a6e60e0">Nauka ekonomii nie wskaże zazwyczaj konkretnej odpowiedzi, ale pomoże naświetlić dostępne spektrum wyborów.</para>
+    </section>
+    <section id="fs-idm47378992" class="summary">
+      <title id="UUID6e2cc62f-37ca-493e-5024-fb847f7e76fc">Key Concepts and Summary</title>
+      <para id="UUID8a99d7e0-b1bf-4007-61e1-39d3b6c85a88">Ekonomia stara się rozwiązać problem rzadkości zasobów, który polega na tym, że ludzkie zapotrzebowanie na towary i usługi przekracza dostępną podaż przy cenie równej zero. Dla nowoczesnej gospodarki charakterystyczny jest podział pracy, w ramach którego ludzie zarabiają dzięki specjalizacji w produkcji konkretnych dóbr i usług, a następnie wykorzystują swój dochód do zakupu produktów, których potrzebują. Podział pracy pozwala jednostkom i przedsiębiorstwom specjalizować się i produkować więcej z kilku powodów: a) Umożliwia podmiotom ekonomicznym skoncentrowanie się na tych rodzajach działalności, w których posiadają przewagę ze względu na czynniki naturalne i poziom umiejętności; b) Zachęca je do uczenia się i innowacji; c) Pozwala im na wykorzystanie zjawiska korzyści skali. Podział i specjalizacja pracy działają tylko wtedy, gdy podmioty ekonomiczne mogą kupić na rynkach to, czego same nie produkują. Nauka ekonomii ułatwia zrozumienie głównych problemów, z jakimi boryka się dzisiejszy świat, przygotowuje do bycia świadomym obywatelem i pomaga stać się wszechstronnym obserwatorem rzeczywistości.</para>
+    </section>
+    <section id="fs-idp69137792" class="self-check-questions">
+      <title id="UUID074a22df-2d4d-47b8-5ad7-fc9f0baa3863">Self-Check Questions</title>
+      <exercise id="fs-idp29324864">
+        <problem id="fs-idm91372672">
+          <para id="UUID6e533f9c-a890-4c8b-7aed-f90da537d26a">Co to znaczy, że zasoby są rzadkie? Czy możesz podać dwie przyczyny tego zjawiska?</para>
+        </problem>
+        <solution id="fs-idp44451856">
+          <para id="UUIDfd923de1-9eab-4419-6483-1a6e586c3162">Rzadkość zasobów oznacza, że ludzkie zapotrzebowanie na towary i usługi przekracza dostępną podaż przy cenie równej zero. Podaż jest ograniczona, ponieważ zasoby służące do produkcji dóbr i usług są ograniczone czynnikami fizycznymi (dostępny areał gruntów rolnych, zasób surowców – ropy naftowej, rud metali). Popyt wprawdzie nie jest nieograniczony, ale biorąc pod uwagę dostępną podaż, suma ludzkich potrzeb niemal zawsze jest od niej większa.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp17722592">
+        <problem id="fs-idm9630048">
+          <para id="UUIDfae300d1-c867-4824-7e1d-6917a617e522">Mieszkańcy miasta Kowalewo lubią jeść szynkę, ale jej wytworzenie wymaga pracy 10 osób przez miesiąc. Jeśli w tej miejscowości mieszka 100 osób, jaka jest maksymalna liczba szynek, jaką mieszkańcy mogą zjeść w ciągu miesiąca?</para>
+        </problem>
+        <solution id="fs-idm49024864">
+          <para id="UUID50847d79-a02b-4be6-5b31-0e4114882fe0">100 osób / 10 osób na szynkę = maksymalnie 10 szynek miesięcznie, jeśli wszyscy mieszkańcy produkują szynkę. Ponieważ konsumpcja jest ograniczona tempem produkcji, maksymalna liczba szynek, które mieszkańcy mogą zjeść miesięcznie, wynosi 10.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm44213984">
+        <problem id="fs-idp7430416">
+          <para id="UUIDc1f81eab-1232-439e-406c-4509ce374f91">Pracownica firmy konsultingowej otrzymuje wynagrodzenie w kwocie 500 zł za godzinę. Lubi jeść warzywa, ale nie potrafi ich uprawiać. Dlaczego najbardziej opłacalne jest dla niej spędzanie czasu w pracy i kupowanie warzyw?</para>
+        </problem>
+        <solution id="fs-idm23076304">
+          <para id="UUID6cb20524-2d6b-4436-7098-2ee4b91befc9">Jej wynagrodzenie wskazuje, że jest bardzo produktywna jako konsultantka, ale jej wydajność w roli producenta warzyw jest bardzo niska. Czas spędzony w pracy przynosi jej znacznie większy dochód niż to, co mogłaby zaoszczędzić, gdyby zamiast kupować warzywa poświęcała czas na ich uprawę. Tak więc ze względów czysto ekonomicznych (pomijając choćby fakt, że uprawa warzyw może ją odprężać) powinna maksymalizować swój dochód z pracy (specjalizacja pracy) i kupować dzięki niemu ulubione warzywa.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm9204768">
+        <problem id="fs-idm24850336">
+          <para id="UUID29228f97-ec34-4d33-76f1-717f11b4f8de">Programista mógłby sam pomalować swój dom, ale bardziej sensowne wydaje mu się zatrudnienie malarza, który zrobi to za niego. Wyjaśnij dlaczego.</para>
+        </problem>
+        <solution id="fs-idm25733824">
+          <para id="UUID9e1cab3d-8fc4-4cfd-7534-2719c5ce64fa">Programista jest lepszy w pisaniu kodu niż w malowaniu. Wykonując swoją pracę, zarabia więcej pieniędzy, niż zaoszczędziłby, gdyby w tym samym czasie sam pomalował swój dom. Oczywiście zakładając, że nie robiłby tego dla relaksu.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp45619024" class="review-questions">
+      <title id="UUID386a20f5-3b96-4f41-70f3-433f6b38ba33">Review Questions</title>
+      <exercise id="fs-idp23607296">
+        <problem id="fs-idp31001168">
+          <para id="UUIDca81220c-99a1-422a-4461-4801a51631c4">Wskaż trzy czynniki, które sprawiają, że podział pracy zwiększa poziom produkcji w gospodarce.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp81376688">
+        <problem id="fs-idp38120480">
+          <para id="UUID82856b8c-94dc-47bb-48c6-1a7e2d136ffc">Wymień trzy powody uzasadniające sensowność studiowania ekonomii.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp37341024" class="critical-thinking">
+      <title id="UUID722bfe9c-dd16-4c6d-401a-ad2764112fa6">Critical Thinking Questions</title>
+      <exercise id="fs-idp26947328">
+        <problem id="fs-idp27115616">
+          <para id="UUIDdb0a716e-4d5c-4f17-68d9-6d9221958df1">Załóżmy, że masz zespół składający się z dwóch pracowników: jeden jest piekarzem, a drugi szefem kuchni. Wyjaśnij, dlaczego twoja restauracja może produkować więcej posiłków w określonym czasie, jeśli każdy pracownik specjalizuje się w tym, co robi najlepiej, w porównaniu do sytuacji, w której każdy pracownik stara się robić wszystko samodzielnie, od przystawki aż po deser.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp123257008">
+        <problem id="fs-idp81446288">
+          <para id="UUID30e23fe1-9796-4d2a-527a-e39ee865d753">Dlaczego podział pracy bez handlu nie działa?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp90548368">
+        <problem id="fs-idp26207392">
+          <para id="UUIDb299bdd0-8029-48c8-53d2-fac81745ed88">Czy możesz podać inne niż wymienione w tekście przykłady tzw. dóbr wolnych, czyli towarów lub usług, których nie brakuje, nawet jeśli ich cena wynosi zero?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp40000752" class="references">
+      <title id="UUID5f88b4ff-16df-4c56-6253-3f3c7298d297">References</title>
+      <para id="eip-693">Bureau of Labor Statistics, U.S. Department of Labor. 2015. "The Employment Situation—February 2015." Dostęp: 27 marca 2015. http://www.bls.gov/news.release/pdf/empsit.pdf.</para>
+      <para id="fs-idp45603328">Williamson, Lisa. “US Labor Market in 2012.” <emphasis effect="italics">Bureau of Labor Statistics</emphasis>. Dostęp 1 grudnia 2013. http://www.bls.gov/opub/mlr/2013/03/art1full.pdf.</para>
+    </section>
+  </content>
+  <glossary id="UUID48890207-bff7-438a-4d36-baaa9752ca45">
+    <definition id="fs-idp33057088">
+      <term id="UUID1b50fbdd-3d4a-402e-7616-2a38520e3cdd">podział pracy (ang. <foreign xml:lang="en" id="UUID1158fbd9-ae08-4487-4437-c56763a955bd">division of labor</foreign>)</term>
+      <meaning id="fs-idm71801968">
+        <para id="UUIDc3d54a0d-4d4d-49e2-706a-ff1395a556a8">organizacja procesu produkcji, której istota polega na podziale zadań w ramach procesu produkcyjnego niezbędnego do wytworzenia dobra lub usługi</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm61501040">
+      <term id="UUID0fe34d0e-2033-4e26-503e-317039e99add">ekonomia (ang. <foreign xml:lang="en" id="UUIDda1635b8-8df5-4d40-555d-b823f6f00c62">economics</foreign>)</term>
+      <meaning id="fs-idm18402048">
+        <para id="UUID56d18f71-5360-4ff3-7d83-547fcaf0c8c3">nauka badająca mechanizmy i uwarunkowania wyborów dokonywanych przez konsumentów i przedsiębiorców w warunkach rzadkości zasobów</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm805216">
+      <term id="UUIDffc58c50-4d6d-456d-54f8-31fcbb2d4dcc">korzyści skali (ang. <foreign xml:lang="en" id="UUID54d59a18-7514-4d96-63b8-54bcdb7a9ef4">economies of scale</foreign>)</term>
+      <meaning id="fs-idm27132048">
+        <para id="UUID7edce109-8669-400c-7ccf-8d9112b57138">sytuacja, w której średni koszt wytworzenia każdej jednostki spada wraz ze wzrostem całkowitej produkcji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp31475536">
+      <term id="UUID039d05c0-0bd1-4a19-4c21-eff4df20e48a">rzadkość zasobów (ang. <foreign xml:lang="en" id="UUID6a3e4549-e4a2-4aa8-6c6c-5912d60d017a">scarcity</foreign>)</term>
+      <meaning id="fs-idp87073488">
+        <para id="UUID8411a671-0bfb-4dbf-5a2c-91ce00ca48fb">sytuacja, w której ludzkie zapotrzebowanie na towary i usługi przekracza dostępną podaż przy cenie równej zero</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm1357776">
+      <term id="UUIDea85a731-1467-4137-498c-64a4b61a5198">specjalizacja (ang. <foreign xml:lang="en" id="UUID574938b2-0579-45f7-5097-a9012b59a2b2">specialization</foreign>)</term>
+      <meaning id="fs-idm31181584">
+        <para id="UUIDbe99ada5-2acf-4a84-7329-cdbb8a2f7933">sytuacja, w której pracownicy lub przedsiębiorstwa w ramach całego procesu produkcyjnego koncentrują się na konkretnych zadaniach, z którymi radzą sobie najlepiej</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

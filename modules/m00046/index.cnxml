@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uc2d4a3dd-1158-4d85-a29c-72a948b42045" id="Uc2d4a3dd-1158-4d85-a29c-72a948b42045" xml:lang="en" cnxml-version="0.7">
+  <title> Płace i zatrudnienie na niedoskonale konkurencyjnym rynku pracy</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00046</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title> Płace i zatrudnienie na niedoskonale konkurencyjnym rynku pracy</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.278661766+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.278661766+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.278661766+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>c2d4a3dd-1158-4d85-a29c-72a948b42045</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID928238cb-9f10-4ccc-6be7-c58e4c66a60a" class="learning-objectives">
+      <para id="UUID703c91db-c3ef-4fec-5c1f-d3380de59135">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID596a4518-a03a-4475-4fd4-de396ffbc56a">
+        <item id="UUIDd314bd46-96b8-43cf-6ca1-1a647060e38f">
+          <para id="UUID0414b36b-1c05-40d2-504d-6b435c3f7968">Zdefiniować siłę monopsonu</para>
+        </item>
+        <item id="UUID021c8412-c064-42e8-5c57-b51d20590097">
+          <para id="UUIDcc74e034-2333-4329-497d-595d22ba1126">Wyjaśnić, w jaki sposób na rynkach czynników produkcji, na których mamy do czynienia z konkurencją niedoskonałą, a siła przetargowa jest po stronie pracodawców, ustalane są wielkości zatrudnienia i poziom płac</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDc788164d-e371-49c6-7aa9-bdeef988239a">W rozdziałach poświęconych strukturom rynku zauważyliśmy, że chociaż ekonomiści często wykorzystują model konkurencji doskonałej, to w rzeczywistym świecie istnieje bardzo niewiele przykładów rynków doskonale konkurencyjnych. A co z rynkami pracy? Ile rynków pracy jest doskonale konkurencyjnych? Prawdopodobnie jest więcej przykładów doskonale konkurencyjnych rynków pracy niż takich rynków produktów, co jednak nie oznacza, że wszystkie rynki pracy są doskonale konkurencyjne.</para>
+    <para id="UUID715ac297-ea31-4ce7-664b-7bc0b82827f1">Kiedy osoba ubiegająca się o pracę negocjuje z pracodawcą warunki swojego zatrudnienia, często znajduje się w niekorzystnej sytuacji – potrzebuje pracy znacznie bardziej niż pracodawca tego konkretnego kandydata. John Bates Clark (1847–1938), nazywany pierwszym wielkim amerykańskim ekonomistą, napisał w 1907 r.: „Przy zawieraniu umowy o pracę pojedynczy robotnik jest zawsze w niekorzystnej sytuacji. Ma coś, co jest zmuszony sprzedać [aby przeżyć], a czego jego pracodawca nie ma obowiązku nabyć, ponieważ on [czyli pracodawca] może bez konsekwencji odrzucać konkretne kandydatury”.</para>
+    <para id="UUIDf9e3acea-1a12-4571-5015-7631c6ad97ec">Istnieją dwa źródła niedoskonałej konkurencji na rynkach pracy. Są to źródła leżące po stronie popytu (czyli znaczna siła pracodawców) oraz po stronie podaży (siła leżąca po stronie pracowników).</para>
+    <para id="UUID493ae9bf-a089-4f80-56e5-7ccdcef479e5">Konkurencyjny rynek pracy to taki, na którym istnieje wielu potencjalnych pracodawców chętnych do zatrudnienia ludzi posiadających określone umiejętności, powiedzmy sekretarek lub księgowych. Załóżmy jednak, że na rynku pracy jest tylko jeden pracodawca zainteresowany ludźmi konkretnej profesji. Ten pracodawca nie ma bezpośrednich konkurentów. Jeśli zaoferuje płace niższe niż te, które ukształtowałby się na doskonale konkurencyjnym rynku pracy, to potencjalni pracownicy nie będą mieli wielu innych opcji zatrudnienia. Jeśli będą chcieli podjąć tę konkretną pracę, muszą zaakceptować oferowaną stawkę płacy (choć oczywiście sekretarki wciąż mogą zatrudnić się w sklepie, a księgowi w magazynie). Przedsiębiorstwo wykorzystujące swoją siłę rynkową na rynku czynników produkcji nazywamy <term cmlnle:reference="monopson" id="UUIDb7010e2f-09e5-44c1-76d9-1cf54eb6551a">monopsonem</term> (ang. <foreign xml:lang="en" id="UUIDad6b4bd0-1520-4529-7ecb-6c25c780c8e6"><term cmlnle:reference="monopsony" id="UUID4b9cb1cb-7ed8-4af8-65e5-d1b7afe47728">monopsony</term></foreign>). Klasycznym przykładem monopsonu są miejskie zakłady komunikacyjne w średniej wielkości mieście. Jeśli kierowcy autobusów chcą pracować w swoim zawodzie, muszą zaakceptować stawkę, którą oferuje miejska spółka. To nie jedyny przykład monopsonu. Pomyśl o pielęgniarkach-instrumentariuszkach (czyli tych, które biorą udział w zabiegach chirurgicznych) w mieście mającym tylko jeden szpital. Pracodawcy, którzy mają pewną przewagę rynkową nad potencjalnymi pracownikami, nie są niczym niezwykłym. W końcu większość przedsiębiorstw zatrudnia wielu pracowników, nie uczestnicząc w grze konkurencyjnej.</para>
+    <para id="UUID68ad1499-f742-4af8-7e63-5b69b905ac0c">Jak siła rynkowa pracodawcy wpływa na rynek pracy? W pierwszym odruchu zapewne przyszła ci do głowy myśl, że w takiej sytuacji płace będą niższe niż na konkurencyjnym rynku. Sprawdźmy to. Wykorzystamy przykład monopsonu, czyli jedynego nabywcy pewnych umiejętności, ale wyniki będą zbliżone, choć mniej ekstremalne, dla każdego przedsiębiorstwa posiadającego pewną siłę monopolową na rynku pracy.</para>
+    <para id="UUID2ba51198-fcee-4af5-7ddc-a3c47d440971">Wróćmy do monopolu. Korzyść z bycia jedynym sprzedawcą polega na tym, że można zażądać za swoje produkty dowolnej ceny (monopolista jest w końcu „twórcą cen"). Jednak jeśli monopolista chce sprzedać więcej dóbr lub usług, musi cenę obniżyć. Monopsonista napotyka w swej działalności podobne ograniczenia. Ponieważ monopson jest jedynym pracodawcą na rynku, może zaoferować potencjalnym pracownikom dowolną płacę. Jednak musi się skonfrontować z krzywą podaży siły roboczej. Jeśli chce zatrudnić więcej pracowników, musi podnieść im wynagrodzenie. Stwarza to dylemat, który możemy zrozumieć, wprowadzając nowe pojęcie: <term cmlnle:reference="krańcowy koszt pracy" id="UUID6e8588bc-2d95-43da-619a-2f931f28e2e6">krańcowy koszt pracy</term> (ang. <foreign xml:lang="en" id="UUID28f58a88-8745-4112-49cd-b0b91e34e59a"><term cmlnle:reference="marginal cost of labor" id="UUIDc31ab866-fbfe-4f54-7602-a6c9cf3acde1">marginal cost of labor</term></foreign>). Krańcowy koszt pracy to dodatkowy koszt, jaki przedsiębiorstwo ponosi w związku z zatrudnieniem kolejnego pracownika. Zobaczmy, jak to wygląda na przykładzie w <link target-id="Table_14_15" cmlnle:case="locative" id="UUIDbad3031e-d3d8-47b5-77b9-9c67939abfa5" />.</para>
+    <table summary="..." id="Table_14_15"><title id="UUID704d5026-bc9e-990c-b0117557ae4338d3">Krańcowy koszt pracy (kwoty w zł)</title><tgroup cols="6" id="UUID704d5026-69df-ebbb-e89fb9ae158bb0cc"><colspec colnum="1" colname="col1" id="UUID704d5026-3df4-2ab3-e40ccbb9cb00e429" /><colspec colnum="2" colname="col2" id="UUID704d5026-40a3-4344-c2772d6fcbf5933e" /><colspec colnum="3" colname="col3" id="UUID704d5026-13c5-bf7b-d93baccf67f0dfcd" /><colspec colnum="4" colname="col4" id="UUID704d5026-1fc3-45c6-99571160fdab37e0" /><colspec colnum="5" colname="col5" id="UUID704d5026-bbd9-bfe9-74bda7eeb0bb1ebb" /><colspec colnum="6" colname="col6" id="UUID704d5026-4f53-8efa-a094bef6ee54ee0c" /><tbody id="UUID704d5026-ea4c-e4e0-65b755a7a2337c03"><row id="UUID704d5026-619f-de6d-fec22a0aecf87823"><entry id="UUID704d5026-7022-806c-0012da0cb1c094a2">Ilość pracy</entry><entry id="UUID704d5026-4461-6f00-81adddb068516940">1</entry><entry id="UUID704d5026-2007-1eb8-43784358c0399a1b">2</entry><entry id="UUID704d5026-57e0-2ccc-7fda7d279d06d1ba">3</entry><entry id="UUID704d5026-9419-a39c-bf62bc4164f591de">4</entry><entry id="UUID704d5026-021f-d1f5-a0575f06d74362bd">5</entry></row><row id="UUID704d5026-fa9b-afc4-7e26347bff9fa28c"><entry id="UUID704d5026-a275-8e70-2eaa11899b29e210">Stawka płac (za godz.)</entry><entry id="UUIDef15bd3b-7d10-45bb-51d4-86b633f9cd0a">10</entry><entry id="UUID704d5026-7c01-7474-4d545338325f0812">12 </entry><entry id="UUID704d5026-8732-722c-b8e926efde00a1a1">13</entry><entry id="UUID704d5026-8b0e-3c1c-0b2ffb3feacad302">14</entry><entry id="UUID704d5026-dade-e7cf-f9244ef7bd7491c0">15</entry></row><row id="UUID704d5026-0b6d-2c75-8a80530c005650b8"><entry id="UUID704d5026-0d5a-ed80-a3b043f40d296ed6">Całkowity koszt pracy</entry><entry id="UUID704d5026-c4e3-ff30-722649d148bd10fb">10</entry><entry id="UUID704d5026-2347-36e4-7688634528cde767">24</entry><entry id="UUID704d5026-0a8f-fe6d-f06f3061eb17288f">39</entry><entry id="UUID704d5026-238b-585c-e6d91091831649a8">56</entry><entry id="UUID704d5026-e1d6-36de-f73d83443ee0f3bf">75</entry></row><row id="UUID704d5026-e97e-c7f6-5fcd2b7c8b02d843"><entry id="UUID704d5026-46c8-539c-4bde9e6ea3ed5be6">Krańcowy koszt pracy (MC<sub>L</sub>)</entry><entry id="UUID0c874597-559b-41e6-58a0-3ae9d5f6b667">10</entry><entry id="UUID704d5026-43d3-c0b7-afa686d21a59140b">14</entry><entry id="UUID704d5026-fcc5-6876-cc028b91ad20f7e1">15</entry><entry id="UUID704d5026-c594-5b9c-ff57b65dec07c2b3">17</entry><entry id="UUID704d5026-5bca-3c10-5fc6c3c1d9e8649e">19</entry></row></tbody></tgroup></table>
+    <para id="eip-731">W kontekście danych zawartych w powyższej tabeli warto podkreślić kilka istotnych zależności. Po pierwsze, krańcowy koszt pracy rośnie szybciej niż stawka płacy. W rzeczywistości dla dowolnej liczby pracowników (więcej niż jednego) krańcowy koszt pracy jest wyższy niż płaca. Dzieje się tak dlatego, że zatrudnienie jeszcze jednego pracownika wymaga płacenia wyższej stawki wynagrodzenia nie tylko jemu, lecz również wszystkim dotychczas zatrudnionym. Ilustracja graficzna tej zależności jest zaprezentowana na poniższym wykresie.</para>
+    <figure id="CNX_Econ2e_C15_011">
+      <title id="UUID6e056c98-d522-4dc6-6ba7-905c6ea295ff">Krańcowy koszt pracy</title>
+      <media alt="Wykres ilustruje dane z Tabeli 14.5. Na osi X odłożona jest liczba pracowników, zaś na osi Y ich wynagrodzenie i krańcowy koszt pracy. Na wykresie są narysowane dwie krzywe. Zarówno krzywa reprezentująca typową rynkową podaż siły roboczej, jak i krzywa kosztu krańcowego pracy są nachylone dodatnio, ale ta druga jest bardziej stroma i znajduje się bliżej osi Y." id="fs-idp95379036">
+        <image src="../../media//CNX_Econ2e_C15_006.svg" mime-type="image/svg+xml" id="UUID25c605ce-4ffa-4882-76b3-7d8931d1ec6c" />
+      </media>
+      <caption id="UUID2ae3adba-313e-4d31-691f-458b9735ce4b">Ponieważ na rynku w warunkach monopsonu działa tylko jeden podmiot zgłaszający popyt na pracę, napotyka on rynkową krzywą podaży pracy. Aby zwiększyć zatrudnienie, musi podnieść płacę nie tylko nowym pracownikom, ale wszystkim zatrudnionym, którym dotychczas płacił mniej. W rezultacie krańcowy koszt dodatkowej jednostki pracy jest wyższy niż płaca, a zatem dla każdego poziomu zatrudnienia (powyżej pierwszego pracownika) MC<sub>L</sub> znajduje się powyżej rynkowej podaży pracy.</caption>
+    </figure>
+    <figure id="CNX_Econ2e_C15_012">
+      <title id="UUID69abe037-18d4-457e-6932-64d894da17e1">Rynek pracy w warunkach monopsonu</title>
+      <media alt="Na wykresie zaprezentowane są trzy krzywe, jedna o nachyleniu ujemnym (jest to popyt na pracę) i dwie o nachyleniu dodatnim, bardziej stroma krzywa krańcowego kosztu pracy i leżąca z jej prawej strony, bardziej płaska krzywa podaży pracy. Na osi X odłożona jest liczba zatrudnionych pracowników, zaś na osi Y wysokość płac i krańcowego kosztu pracy. Punkt przecięcia popytu na pracę i krzywej kosztu krańcowego pracy wyznacza optymalną wielkość zatrudnienia monopsonisty." id="fs-idp95336">
+        <image src="../../media//CNX_Econ2e_C15_007.svg" mime-type="image/svg+xml" id="UUID38b2da4d-2e12-43a3-6de9-1a9d1ae6327b" />
+      </media>
+      <caption id="UUIDcc13597b-d899-4a6c-6af9-44e0f5750607">Monopson będzie zatrudniał pracowników do momentu, w którym jego popyt na pracę zrówna się z krańcowym kosztem dodatkowej jednostki pracy. W konsekwencji wynagrodzenie ukształtuje się na poziomie W<sub>m</sub>, zaś wielkość zatrudnienia L<sub>m</sub>.</caption>
+    </figure>
+    <para id="UUIDdf0ddda5-df4e-4dc3-7942-da5d32b995c9">Jeśli przedsiębiorstwo chce maksymalizować zyski, zatrudni liczbę pracowników wyznaczoną przez punkt L<sub>m</sub>, w którym popyt na pracę (D<sub>L</sub>) zrówna się z wartością krańcowego produktu pracy lub krańcowym przychodem z pracy (MVP<sub>L</sub> lub MRP<sub>L</sub>), tak jak to widać na <link target-id="CNX_Econ2e_C15_012" cmlnle:case="locative" id="UUIDba717995-f860-42df-524e-ade6c739e5f7" />. Następnie krzywa podaży pracy wskaże wysokość wynagrodzenia, które przedsiębiorstwo będzie musiało zapłacić, aby przyciągnąć daną grupę pracowników. Wysokość wynagrodzenia w tym konkretnym przypadku kształtuje się na poziomie W<sub>m</sub>.</para>
+    <para id="UUIDed393d4b-0f5b-4233-5427-35edb8aec784">Jak ta sytuacja ma się do rynku doskonale konkurencyjnego? Rynek doskonale konkurencyjny odnalazłby równowagę tam, gdzie popyt na pracę zrówna się z podażą pracy (D<sub>L</sub> = S<sub>L</sub>). Innymi słowy, w warunkach monopsonu pracodawcy zatrudniają mniej pracowników i płacą im niższe wynagrodzenie. Chociaż czysty monopson może być zjawiskiem relatywnie rzadkim, to wielu pracodawców dysponuje pewną siłą monopolową. Rezultaty dla pracodawców będą podobne, choć nie tak ekstremalne jak na rynkach monopsonistycznych.</para>
+    <section id="fs-idm33072768" class="summary">
+      <title id="UUID64567ad6-2418-4a8e-7550-12da813288cc">Key Concepts and Summary</title>
+      <para id="UUIDeea50423-3664-4791-42a4-00c4a4d0bd2d">Monopson na rynku pracy to jedyny pracodawca, może więc oferować dowolną płacę, zależnie od rynkowej podaży siły roboczej. Oznacza to, że jeśli monopson proponuje zbyt niską płacę, może nie znaleźć wystarczającej liczby chętnych do pracy. Aby pozyskać więcej pracowników, musi ustalić wyższą płacę, a krańcowy koszt zatrudnienia dodatkowego pracownika jest wyższy niż płaca. Aby zmaksymalizować zyski, monopson będzie zatrudniał pracowników do momentu, w którym krańcowy koszt pracy zrówna się z jego popytem na pracę. Skutkuje to niższym poziomem zatrudnienia i wynagrodzeń niż zapewniałby doskonale konkurencyjny rynek pracy.</para>
+    </section>
+    <section id="fs-idp69418048" class="critical-thinking">
+      <title id="UUIDd26230b2-e548-4976-4387-8a4a67a949e1">Critical Thinking Questions</title>
+      <exercise id="fs-idm473926352">
+        <problem id="fs-idm483836752">
+          <para id="fs-idm243892864">Jaki jest krańcowy koszt pracy dla przedsiębiorstwa działającego na konkurencyjnym rynku pracy? Jak to wygląda w porównaniu z analogicznym parametrem (MC<sub>L</sub>) dla monopsonu?</para>
+        </problem>
+      </exercise>
+      <para id="fs-idm58464880" />
+      <para id="UUID7ea2eac4-a77f-4e9f-6623-45e5ca2b26eb">Clune, Michael S. “The Fiscal Impacts of Immigrants: A California Case Study.” In <emphasis effect="italics">The Immigration Debate: Studies on the Economic, Demographic, and Fiscal Effects of Immigration</emphasis>, edited by James P. Smith and Barry Edmonston. Washington, DC: National Academy Press, 1998, 120–182. http://www.nap.edu/openbook.php?record_id=5985&amp;page=120.</para>
+      <para id="fs-idm6634432">Smith, James P. “Immigration Reform.” <emphasis effect="italics">Rand Corporation: Rand Review</emphasis>. http://www.rand.org/pubs/periodicals/rand-review/issues/2012/fall/leadership/immigration-reform.html.</para>
+      <para id="fs-idp56292176">U.S. Department of Homeland Security: Office of Immigration Statistics. “ 2011 Yearbook of Immigration Statistics.” September 2012. http://www.dhs.gov/sites/default/files/publications/immigration-statistics/yearbook/2011/ois_yb_2011.pdf.</para>
+    </section>
+  </content>
+  <glossary id="UUID7413cd87-a3bb-4ae3-6b00-16f162f95fa4">
+    <definition id="fs-idm169046752">
+      <term id="UUIDdee6005f-c4c5-4484-78d0-998374e1511a">monopson (ang. <foreign xml:lang="en" id="UUIDecdf2201-8c21-4213-5cca-372fae533a62">monopsony</foreign>)</term>
+      <meaning id="fs-idm711669632">
+        <para id="UUID7b784f03-13fe-4292-4c43-42c4a6ae371f">rynek na którym występuje tylko jeden nabywca, na rynku pracy oznacza to występowanie tylko jednego pracodawcy</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

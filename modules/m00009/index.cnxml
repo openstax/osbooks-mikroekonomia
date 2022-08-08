@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub8e600ec-a1e0-4b3c-a589-03d827d3fdbe" id="Ub8e600ec-a1e0-4b3c-a589-03d827d3fdbe" xml:lang="en" cnxml-version="0.7">
+  <title>Krzywa możliwości produkcyjnych i wybory społeczne</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00009</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Krzywa możliwości produkcyjnych i wybory społeczne</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:52.042460040+00:00</md:version>
+    <md:created>2022-08-08T07:43:52.042460040+00:00</md:created>
+    <md:revised>2022-08-08T07:43:52.042460040+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>b8e600ec-a1e0-4b3c-a589-03d827d3fdbe</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID216adf4d-3c20-4c95-70e2-e69ed52dcf5d" class="learning-objectives">
+      <para id="UUIDfe5d3bc8-2099-4c6c-44d3-a371830cc943">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID9ec798f7-be61-4ff0-5fd2-ee7697263e5e">
+        <item id="UUID01e90863-2d75-477c-6419-6f627191e89c">
+          <para id="UUID538c45de-9dc1-4713-52f2-60fc628b8588">Zinterpretować wykres krzywej możliwości produkcyjnych (krzywej transformacji)</para>
+        </item>
+        <item id="UUIDbd0c784a-9a53-4145-7174-ad7723482570">
+          <para id="UUID3dc33360-5be0-4b41-518a-95fd85faa7f3">Odróżnić krzywą ograniczenia budżetowego (linię budżetu) i krzywą transformacji</para>
+        </item>
+        <item id="UUIDb3e1b4a0-b806-4a73-5816-107c178ca3de">
+          <para id="UUID5a786fe8-af8b-4421-614b-fe0a85e74307">Wyjaśnić związki pomiędzy kształtem krzywej możliwości produkcyjnych i prawem malejących przychodów krańcowych</para>
+        </item>
+        <item id="UUIDf5492d47-83fc-4b5d-5d5c-ed0b71e04242">
+          <para id="UUID3976bfac-4b16-4622-6352-7ed764943780">Porównać efektywność produkcyjną i alokacyjną</para>
+        </item>
+        <item id="UUID9a6db031-fc58-4899-7e3d-4509ce5b652d">
+          <para id="UUIDf99659e7-ba6f-4746-61ea-2fc444629727">Zdefiniować przewagę komparatywną</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID44fb1e55-f152-4a8a-6209-f18d964dd104">Tak jak jednostki nie mogą mieć wszystkiego, czego zapragną, ale muszą dokonywać wyborów, tak społeczeństwo jako całość nie może mieć wszystkiego, czego mogłoby chcieć. W tej części rozdziału zostaną wyjaśnione ograniczenia, z jakimi boryka się społeczeństwo, przy użyciu modelu zwanego <term cmlnle:reference="krzywa możliwości produkcyjnych" id="UUID0ba42bbc-8d2f-488c-5e0a-d07a20913733">krzywą możliwości produkcyjnych</term> lub inaczej <term cmlnle:reference="krzywa transformacji" id="UUIDdf4b5fc1-d139-452d-415c-331baefdc857">krzywą transformacji</term> (ang. <foreign xml:lang="en" id="UUIDcf68598d-bef0-4f2e-56b1-0b42cb8a9e12"><term cxlxt:index="foreign" id="UUIDddf4834f-f643-4ebc-7778-2a15accb1a8e">production possibilities frontier (PPF)</term></foreign>). Istnieje więcej podobieństw niż różnic między wyborem jednostki a wyborem społecznym. Czytając ten rozdział, skup się na podobieństwach.</para>
+    <para id="UUIDedfa61dc-d065-408f-5733-8d51cbcfd2c2">Ponieważ społeczeństwo ma w danym momencie ograniczone zasoby (np. pracy, ziemi, kapitału finansowego i surowców), istnieje ściśle określona ilość towarów i usług, które może wyprodukować. Załóżmy, że społeczeństwo pożąda dwóch rzeczy: opieki zdrowotnej i edukacji. Sytuację tę pokazuje krzywa możliwości produkcyjnych na <link target-id="CNX_Econ_C02_010" cmlnle:case="locative" id="UUIDf7b90995-35a6-4165-5e36-d9a6c5d2e441" />.</para>
+    <para id="UUIDfb2de75d-8af8-426a-7578-77126ba6c3f9" />
+    <figure id="CNX_Econ_C02_010">
+      <title id="UUID5982428e-cb75-44b2-5391-fc245109d0e3">Krzywa transformacji w zakresie opieki zdrowotnej i edukacji</title>
+      <media alt="Rysunek przedstawia nachyloną ujemnie i wklęsłą w stronę układu współrzędnych krzywą, która ilustruje wybór typu „coś za coś”, przed jakim stoi społeczeństwo decydujące, ile zasobów alokować na budowanie systemu edukacji, a ile na produkcję organizację opieki zdrowotnej." id="fs-idp1127725734">
+        <image src="../../media//CNX_Econ_C02_010.svg" mime-type="image/svg+xml" id="UUID06b470a3-c246-40ff-7c77-c2d4cb2f1dc0" />
+      </media>
+      <caption id="UUIDabd08b13-ec29-4d60-487f-fa5154ba634e">Ta krzywa możliwości produkcyjnych pokazuje wybór typu „coś za coś”, jeśli podejmowana jest decyzja o kierowaniu zasobów na opiekę zdrowotną lub edukację. W punkcie A wszystkie zasoby są przeznaczane na zapewnienie opieki zdrowotnej, zaś w punkcie B na ten cel kierowana jest większość środków. W punkcie D większość zasobów przydzielana jest systemowi edukacji, a w punkcie F temu celowi służą wszystkie środki.</caption>
+    </figure>
+    <para id="UUID3d7526bc-e7fa-4ee3-6ce2-c5a261e5620d"><link target-id="CNX_Econ_C02_010" id="UUID4b0ac70e-5af6-4da1-598d-750d78a018c5" /> przedstawia „wielkość produkcji” opieki zdrowotnej na osi pionowej, a „wielkość produkcji” edukacji na osi poziomej. Gdyby społeczeństwo przeznaczyło wszystkie swoje zasoby na opiekę zdrowotną, znalazłoby się w punkcie A. Nie miałoby jednak żadnych zasobów na utrzymanie edukacji. Gdyby społeczeństwo chciało przeznaczyć wszystkie swoje środki na edukację, znaleźlibyśmy się w punkcie F. Alternatywnie, społeczeństwo mogłoby wybrać dowolną kombinację opieki zdrowotnej i edukacji na krzywej możliwości produkcyjnych. W efekcie krzywa możliwości produkcyjnych odgrywa taką samą rolę dla społeczeństwa, jak linia ograniczenia budżetowego dla Tomka. Społeczeństwo może wybrać dowolną kombinację dwóch dóbr na krzywej lub poniżej krzywej możliwości produkcyjnych. Jednak nie ma wystarczających zasobów, aby móc produkować kombinację, którą obrazuje dowolny punkt ponad tą krzywą.</para>
+    <para id="UUID5195e6b7-84f2-4bda-769e-d0f6e9299a12">Co najważniejsze, krzywa możliwości produkcyjnych wyraźnie pokazuje kompromis między dostarczaniem opieki zdrowotnej i edukacji. Załóżmy, że społeczeństwo zdecydowało się na zapewnienie (wyprodukowanie) wolumenu obu dóbr, tak jak to ilustruje punkt B, i rozważa zwiększenie poziomu usług edukacyjnych. Ponieważ krzywa możliwości produkcyjnych jest nachylona ujemnie, jedynym sposobem, w jaki społeczeństwo może zapewnić sobie więcej edukacji, jest rezygnacja z części dostępnej opieki zdrowotnej. To jest wybór, którego trzeba dokonać. Załóżmy, że społeczność rozważa przejście z punktu B do punktu C. Jaki byłby koszt alternatywny dodatkowej jednostki edukacji? Koszt alternatywny to ilość opieki zdrowotnej, z której społeczeństwo musi zrezygnować. Podobnie jak w przypadku ograniczenia budżetowego Tomka, <term id="UUIDdee20434-e32e-4bbd-5ccb-932f454784ca">nachylenie</term> (ang. <foreign xml:lang="en" id="UUID06e37d2c-0be6-4d25-4d26-e89485bc1c65"><term cxlxt:index="foreign" id="UUID0b274069-9182-4287-7913-08a5c7c487a1">slope</term></foreign>) krzywej możliwości produkcyjnych pokazuje koszt alternatywny. Jeśli uważnie czytasz niniejszy podrozdział, możesz spokojnie powiedzieć: „Hej, ta krzywa możliwości produkcyjnych to nic innego jak linia ograniczenia budżetowego”. Jeśli tak uważasz, przeczytaj sekcję poniżej.</para>
+    <note type="note" id="fs-idm66189760" class="clearup economics">
+      <title id="UUIDd404501e-aea2-4e52-706a-457fb9092424">Jaka jest różnica między linią ograniczenia budżetowego a krzywą możliwości produkcyjnych?</title>
+      <para id="UUIDaaf604f8-41e4-4c56-56f2-2766658c1f4e">Istnieją dwie główne różnice między linią ograniczenia budżetowego a krzywą możliwości produkcyjnych. Pierwszą z nich jest to, że ograniczenie budżetowe jest linią prostą. Dzieje się tak dlatego, że jego nachylenie jest określone przez relację cen dwóch towarów, która to relacja z punktu widzenia indywidualnego konsumenta jest stała, więc nachylenie się nie zmienia. Krzywa możliwości produkcyjnych ma natomiast wypukły kształt ze względu na prawo malejących przychodów. W ten sposób nachylenie krzywej możliwości produkcyjnych jest różne w jej różnych punktach. Drugą istotną różnicę stanowi brak określonych liczb na osiach krzywej możliwości produkcyjnych. Nie ma konkretnych liczb, ponieważ nie znamy dokładnej ilości zasobów, jakimi dysponuje ta fikcyjna gospodarka, ani też nie wiemy, ile zasobów jest potrzebnych do wyprodukowania hipotetycznej jednostki opieki zdrowotnej, a ile do wytworzenia jednostki edukacji. Gdyby był to przykład ze świata rzeczywistego, dane byłyby dostępne.</para>
+      <para id="UUID47003f54-9427-471d-7d42-7c6ceb38001e">Niezależnie od tego, czy dysponujemy konkretnymi liczbami, czy nie, możemy zmierzyć koszt alternatywny dodatkowej edukacji, gdy społeczeństwo przechodzi z punktu B do punktu C na krzywej transformacji. Dodatkową ilość edukacji mierzymy odległością poziomą między B i C. Utracona ilość opieki zdrowotnej jest określona przez odległość pionową między punktami B i C. Nachylenie krzywej możliwości produkcyjnych między punktami B i C jest (w przybliżeniu) ilorazem wspomnianych odległości w pionie i odległości w poziomie. To jest koszt alternatywny wzrostu nakładów na edukację.</para>
+    </note>
+    <section id="fs-idm97675840">
+      <title id="UUID535889c3-652b-4e95-6ac6-27500563fe59">Krzywa możliwości produkcyjnych i prawo rosnących kosztów alternatywnych</title>
+      <para id="UUID7da86066-63b2-4c83-5f5c-911383e75f2c">Ograniczenia budżetowe, które przedstawiliśmy wcześniej w tym rozdziale, pokazując indywidualne wybory dotyczące ilości konsumowanych dóbr, były liniami prostymi. Linie te miały stałe nachylenie, gdyż względne ceny dwóch dóbr, które determinują nachylenie linii ograniczenia budżetowego, są dla wybierającego konsumenta stałe. Jednak krzywa możliwości produkcyjnych dla społeczeństwa wybierającego pomiędzy opieką zdrowotną i edukacją został wykreślona jako wypukła. Dlaczego linia ta ma inny kształt?</para>
+      <para id="UUID624b2fbb-273e-4744-4182-2daaebfd5a79">Aby to zrozumieć, zacznij rozważania od punktu A w lewym górnym rogu wykresu. W tym punkcie wszystkie dostępne zasoby są przeznaczane na opiekę zdrowotną i żadne nie trafiają na cele edukacyjne. Taki wybór byłby skrajny, a nawet zabawny. Na przykład dzieci codziennie odwiedzałyby lekarza, niezależnie od tego, czy byłyby chore, czy nie, ale nie chodziłyby do szkoły. Ludzie robiliby sobie niemal dowolne operacje plastyczne, ale nie mieliby żadnego wykształcenia (kto wówczas dokonywałby tych wszystkich operacji?). Teraz wyobraź sobie, że niektóre z tych zasobów zostają przekierowane z opieki zdrowotnej na edukację, tak że gospodarka znajduje się w punkcie B. Przekierowanie niektórych zasobów i przesunięcie gospodarki z punktu A do B powoduje stosunkowo niewielki spadek poziomu opieki zdrowotnej w społeczeństwie, ponieważ kilka dodatkowych (krańcowych) jednostek pieniężnych (złotych, dolarów) przeznaczanych na opiekę zdrowotną nie przynosi znaczących dodatkowych korzyści w tej dziedzinie. Jednak przeznaczenie tych pieniędzy na zorganizowanie edukacji, która jak dotychczas nie istniała, bo żadne zasoby nie były przeznaczone na zapewnienie tej usługi, może przynieść stosunkowo duże korzyści. Z tego powodu kształt krzywej możliwości produkcyjnych pomiędzy punktami A i B jest dosyć płaski, co oznacza relatywnie niewielki spadek poziomu zdrowia publicznego i duży progres w poziomie edukacji.</para>
+      <para id="UUIDc73893bd-843d-4666-644f-c2e83c27b89e">Przeanalizujmy teraz drugi koniec krzywej możliwości produkcyjnych (prawy dolny róg wykresu). Wyobraź sobie, że społeczeństwo zaczyna od wyboru D, w którym przeznacza się prawie wszystkie zasoby na system edukacji, a bardzo niewiele na opiekę zdrowotną, i przechodzi do punktu F, w którym przeznacza się wszystkie zasoby na edukację, a na opiekę zdrowotną żadnych. Aby lepiej to sobie wyobrazić, przyjmijmy, że za przesunięciem tej gospodarki z punktu D do F kryje się przekwalifikowanie kilku ostatnich lekarzy na nauczycieli przedmiotów ścisłych w liceum, kilku ostatnich pielęgniarek na szkolne bibliotekarki i przekształcenie dosłownie kilku ostatnich izb przyjęć w przedszkola. Korzyści dla edukacji wynikające z relokacji tych kilku ostatnich zasobów są bardzo małe. Jednak utracone korzyści dla ilości opieki zdrowotnej będą dość duże, zatem nachylenie krzywej między punktami D i F jest strome i pokazuje duży spadek dostępnego wolumenu opieki zdrowotnej przy niewielkim wzroście ilości edukacji.</para>
+      <para id="UUIDff9536e5-6791-4f11-73ff-fe1fed99fc0b">Lekcja, jaką można wyciągnąć z powyższego wywodu, jest raczej oczywista. Społeczeństwo bardzo rzadko (prawie nigdy) nie dokona skrajnego wyboru, oznaczającego przesunięcie wszystkich zasobów do produkcji wyłącznie edukacji (punkt F) lub opieki zdrowotnej (punkt A). Co więcej, korzyści z przeznaczenia dodatkowych środków na edukację zależą od tego, jak dużo środków jest już zaangażowanych w tę dziedzinę. Jeśli na edukację przeznacza się obecnie bardzo niewiele zasobów, to ich zwiększenie może przynieść stosunkowo duże korzyści. Z drugiej strony, jeśli na edukację przeznaczono już znaczną pulę zasobów, skierowanie na nią dodatkowych środków przyniesie relatywnie mniejsze korzyści.</para>
+      <para id="UUID28332868-b616-4d02-6db8-e7e60509ae36">Ten wzorzec jest na tyle powszechny, że ekonomiści nadali mu nazwę: <term id="UUID712af88a-694a-403f-6102-57f209d96cd5">prawo rosnącego kosztu alternatywnego</term> (ang. <foreign xml:lang="en" id="UUID8fabe1eb-a8a0-4ff5-5b5e-f0167cb94ca5"><term cxlxt:index="foreign" id="UUID1550fefc-5722-433f-7ee2-c12e9d05dbd0">law of increasing opportunity cost</term></foreign>). Zgodnie z nim wraz ze wzrostem produkcji dobra lub usługi wzrasta również koszt alternatywny produkcji dodatkowej jednostki danego dobra. Dzieje się tak, ponieważ niektóre zasoby są lepiej przystosowane do produkcji konkretnych produktów, a w kontekście innych sprawdzają się znacznie gorzej. Gdy władze publiczne różnego szczebla zwiększają wydatki na ograniczenie przestępczości, początkowy przyrost wielkości tego specyficznego dobra, jakim jest bezpieczeństwo publiczne, jest znaczny. Jeśli po ulicach miasta chodzi tylko jeden funkcjonariusz, to zatrudnienie drugiego znacznie zwiększy bezpieczeństwo mieszkańców. Koszt alternatywny, jaki społeczność tego miasta ponosi w związku z subiektywnym wzrostem poczucia bezpieczeństwa, jest stosunkowo niewielki (wynagrodzenie i wyposażenie jednego policjanta). Z pewnością dzięki drugiemu funkcjonariuszowi spadnie też liczba przestępstw i wykroczeń, do jakich będzie dochodzić. Oznacza to, że koszt alternatywny ograniczenia przestępczości może być stosunkowo niewielki. Aby jednak osiągnąć po raz kolejny ten sam procentowy spadek liczby przestępstw i taki sam wzrost poczucia bezpieczeństwa, nie wystarczy zatrudnić następnego policjanta. Teraz zapewne potrzebny byłby co najmniej nowy dwuosobowy patrol, a może nawet koordynator na komisariacie, który przyjmowałby zgłoszenia obywateli. Tym samym koszt alternatywny ograniczania przestępczości zdecydowanie rośnie. Gdyby jakiekolwiek miasto w jakimkolwiek kraju na świecie postanowiło całkowicie wyeliminować każdy przejaw przestępczości (łącznie z łamaniem przepisów drogowych), oznaczałoby to gigantyczny koszt, a może nawet byłoby niemożliwe.</para>
+      <para id="UUID710c11c2-2201-4996-4165-2b2a57bbca97">Nachylenie krzywej możliwości produkcyjnych pokazuje, że gdy przeznaczamy więcej zasobów na zapewnienie edukacji, przesuwając się od lewej do prawej wzdłuż osi poziomej, początkowy wzrost kosztu alternatywnego jest dość niewielki, ale stopniowo rośnie. Zatem nachylenie krzywej w pobliżu punktu przecięcia z osią pionową jest stosunkowo płaskie. I odwrotnie, gdy przeznaczamy więcej zasobów na opiekę zdrowotną, przesuwając się od dołu do góry na osi pionowej, początkowe spadki kosztów alternatywnych są dość duże, ale potem stopniowo maleją. Tak więc nachylenie krzywej możliwości produkcyjnych jest stosunkowo strome w pobliżu punktu przecięcia z osią poziomą. W ten sposób prawo rosnącego kosztu alternatywnego powoduje, że krzywa możliwości produkcyjnych ma wypukły kształt.</para>
+    </section>
+    <section id="fs-idp175845152">
+      <title id="UUID2ffeeafe-9026-4972-64fe-b46c36a4cc6f">Efektywność produkcji i alokacji</title>
+      <para id="UUID44b4056b-945d-4f86-4389-288507649ad0">Ekonomiści nie roszczą sobie prawa do wskazywania społeczeństwu, jakiego wyboru powinno dokonać na krzywej możliwości produkcyjnych. W gospodarce rynkowej, z demokratycznym sposobem wyłaniania władz na różnych szczeblach, taki wybór będzie wiązał się z kombinacją decyzji podejmowanych przez jednostki, przedsiębiorstwa i państwo. Ekonomiści, korzystając ze swojej wiedzy, mogą jednak pokazywać, że niektóre wybory są jednoznacznie lepsze od innych. Ta obserwacja opiera się na koncepcji efektywności. W potocznym rozumieniu efektywność odnosi się do braku marnotrawstwa. Nieefektywna maszyna pracuje przy wysokich kosztach, zaś efektywna działa przy kosztach niższych, ponieważ nie marnuje energii ani materiałów. Nieefektywna organizacja nie potrafi niczego wytworzyć na czas i charakteryzuje się wysokimi i przekraczającymi założony limit kosztami działalności, podczas gdy ta efektywna realizuje określone plany, jest skoncentrowana na założonym celu i funkcjonuje w ramach budżetu.</para>
+      <para id="UUIDb0d6cdd0-3660-4570-7c19-18286732b7ef">Krzywa możliwości produkcyjnych może obrazować dwa rodzaje efektywności: efektywność produkcji i efektywność alokacji. <link target-id="CNX_Econ_C02_011" id="UUID2e8d2242-3366-415b-7391-fab251ef3132" /> pokazuje te koncepcje, wykorzystując krzywą transformacji przedstawiającą wybór społeczeństwa między opieką zdrowotną i edukacją.</para>
+      <figure id="CNX_Econ_C02_011">
+        <title id="UUIDee5542a7-ce28-436a-4517-23f89d5e2b7b">Efektywność produkcji i alokacji</title>
+        <media alt="Wykres pokazuje, że gdy wzrośnie produkcja jednego dobra (edukacji), zmniejszy się wolumen produkcji innych dóbr (opieki zdrowotnej)." id="fs-idp112798384">
+          <image src="../../media//CNX_Econ_C02_011.svg" mime-type="image/svg+xml" id="UUID8c178a6d-6c5b-422d-4346-5b3975f0dd2b" />
+        </media>
+        <caption id="UUID92184acb-dc2d-4fc6-463d-5e67539e460b">Efektywność produkcji oznacza, że niemożliwe jest wyprodukowanie większej ilości jednego dobra bez zmniejszenia produkcji innego (innych). Zatem wszystkie wybory (koszyki dóbr) leżące na danej krzywej możliwości produkcyjnych (krzywej transformacji), takie jak B, C i D, charakteryzują się efektywnością produkcji, ale kombinacja R, która znajduje się pod krzywą transformacji, już nie. Natomiast efektywność alokacji oznacza, że konkretna kombinacja wytwarzanych dóbr – czyli konkretny wybór na krzywej możliwości produkcyjnych – przedstawia koszyk, którego społeczeństwo najbardziej pragnie.</caption>
+      </figure>
+      <para id="UUIDda2615d1-5d1e-4a2c-7f96-c9a4f84ef5ff"><term cmlnle:reference="efektywność produkcji" id="UUID46c32ea3-854d-4331-5911-cbbd7e941744">Efektywność produkcji</term> (ang. <foreign xml:lang="en" id="UUID75775bb3-79f8-47bc-4437-f7d9da715d11"><term cxlxt:index="foreign" id="UUID285ee720-012c-4b0f-76b0-67c49fdef696">productive efficiency</term></foreign>) oznacza, że biorąc pod uwagę dostępne zasoby i technologię, niemożliwe jest wyprodukowanie większej ilości jednego dobra bez zmniejszenia produkcji innego (innych). Wszystkie koszyki dóbr reprezentowane przez punkty leżące na krzywej transformacji (A, B, C, D i F) na <link target-id="CNX_Econ_C02_011" cmlnle:case="genitive" id="UUID2624a543-176e-46cc-4a5f-d980083a3e6a" /> charakteryzują się efektywnością produkcji. Gdy przesuwamy się pomiędzy tymi kombinacjami, albo zwiększa się ilość dostarczonej opieki zdrowotnej i spada ilość edukacji, albo odwrotnie, zwiększa się zasób edukacji i spada ilość wytworzonej opieki zdrowotnej. Jednak każda kombinacja zilustrowana punktem leżącym poniżej krzywej możliwości produkcyjnych jest nieefektywna i wiąże się z marnotrawstwem, ponieważ jej wybór oznacza, że można wyprodukować więcej jednego dobra bez zmniejszania produkcji drugiego lub zwiększyć równocześnie produkcję obu tych dóbr.</para>
+      <para id="UUIDb66a5a73-88eb-4267-6c47-ca8ef6e4b981">Na przykład punkt R przedstawia nieefektywną kombinację produkcji edukacji i opieki zdrowotnej, ponieważ przy wyborze koszyka C możliwe jest zwiększenie produkcji obu dóbr: ilość edukacji oznaczona na osi poziomej jest większa w punkcie C niż w punkcie R (E<sub>2</sub> jest większe niż E<sub>1</sub>), a ilość opieki zdrowotnej oznaczona na osi pionowej jest również większa w punkcie C niż w punkcie R (H<sub>2</sub> jest większe niż H<sub>1</sub>).</para>
+      <para id="UUID7fec1066-8862-43c6-4f3f-e81f5a7ad022"><term cmlnle:reference="efektywność alokacji" id="UUIDe3dc608a-745c-4589-55b0-c8ca6c1d6e5f">Efektywność alokacji</term> (ang. <foreign xml:lang="en" id="UUIDa091d6dd-c5cc-4b38-6b82-3b7b47c83973"><term cxlxt:index="foreign" id="UUIDe192f128-97b9-46b0-6cd2-da09373127c1">allocative efficiency</term></foreign>) oznacza, że konkretna kombinacja ilości dóbr i usług na krzywej możliwości produkcyjnych, na którą zdecydowało się społeczeństwo, reprezentuje najbardziej pożądany przez to społeczeństwo wybór. Kwestia określenia, czego w istocie społeczeństwo pragnie najbardziej, jest przedmiotem rozważań na zajęciach z politologii, socjologii, filozofii, a także ekonomii. Najbardziej podstawowa definicja efektywności alokacji oznacza, że producenci dostarczają taką ilość (liczbę) każdego produktu, jakiej żądają konsumenci. Tylko jeden z wyborów efektywnych produkcyjnie będzie spełniał definicję efektywności alokacyjnej dla całego społeczeństwa.</para>
+    </section>
+    <section id="fs-idp23449568">
+      <title id="UUIDa75b8243-ddb2-4aca-627b-80864d91f141">Dlaczego społeczeństwo musi wybierać?</title>
+      <para id="UUIDa85f65f4-2b11-4682-7bc3-351ea5c979e2">W rozdziale dowiedzieliśmy się, że każde społeczeństwo boryka się z problemem rzadkości zasobów, czyli konfliktem pomiędzy ograniczonymi zasobami i potrzebami, których nie da się za ich pomocą zaspokoić. Krzywa możliwości produkcyjnych ilustruje wybory związane z tym dylematem.</para>
+      <para id="UUIDe3a07f40-7278-459b-52c3-10907ecf29c3">Każda gospodarka może wykorzystać dwie drogi, aby zwiększyć produkcję wszystkich dóbr. Pierwszą jest odkrycie, że dotychczasowy sposób wykorzystywania zasobów był nieefektywny, zatem zmieniając go na bardziej efektywny, może wytwarzać większą ilość (liczbę) wszystkich produktów albo przynajmniej części z nich, nie obniżając jednocześnie poziomu produkcji pozostałych. W modelu możliwość ta zostanie zilustrowana przesunięciem punktu symbolizującego wybraną kombinację dóbr na krzywą możliwości produkcyjnych. Druga droga to wzrost – na przestrzeni lat – wolumenu zasobów, którymi dana gospodarka dysponuje (np. zwiększanie się dostępnej ilości pracy i kapitału). Gdy tak się dzieje, krzywa możliwości produkcyjnych będzie przesuwała się na zewnątrz układu współrzędnych i społeczeństwo będzie w stanie wyprodukować większą ilość wszystkich dóbr.</para>
+      <para id="UUIDa2990977-f52e-497d-7b8c-542d6ebea38d">Jednak odkrycie i wdrożenie nowych, bardziej efektywnych metod produkcji wymaga czasu, podobnie zresztą jak przyrost zasobu dóbr, które wykorzystujemy do wytwarzania innych towarów. A to oznacza, że wzrost gospodarczy ma charakter stopniowy. Dlatego społeczeństwo musi nieustannie dokonywać wyborów typu „coś za coś”. Dla rządzących proces ten często wiąże się z próbą określenia, w jakich obszarach dodatkowe wydatki mogą przynieść najwięcej korzyści, a w których ich redukcja wywoła najmniej szkód. Na poziomie przedsiębiorstw <term id="UUIDbfb523be-45cc-4f45-515d-049a433e5bce">mechanizm rynkowy</term> zapewnia koordynację procesu, w ramach którego firmy starają się wytwarzać dobra i usługi w ilości, jakości i cenie, jakich pożądają potencjalni klienci. Jednak zarówno w przypadku decyzji podejmowanych na szczeblu rządowym, jak i wywołanej mechanizmem rynkowym reakcji przedsiębiorstw, w krótkim okresie wzrost produkcji jednego dobra zazwyczaj powoduje kompensujący go spadek produkcji w innym segmencie gospodarki.</para>
+    </section>
+    <section id="eip-924">
+      <title id="UUID69405a64-eea8-47df-664f-ee8a9dc25473">Krzywa możliwości produkcyjnych i przewaga komparatywna</title>
+      <para id="UUIDfd20fe61-3694-40ec-7984-09dd7b6b3ba9">Chociaż każde społeczeństwo musi wybrać, jaką ilość lub liczbę każdego dobra lub usługi chce skonsumować, nie musi samodzielnie wytwarzać każdego dobra, którego potrzebuje. Dość często ilość towaru, który dany kraj zdecyduje się wyprodukować lub też decyzja o tym, żeby w ogóle produkować dany towar, zależy od tego, jak drogie jest jego wytworzenie w porównaniu z zakupem za granicą. Jak to już wskazaliśmy wcześniej, kształt krzywej możliwości produkcyjnych danego kraju dostarcza nam informacji o wyborze dokonywanym pomiędzy poświęceniem zasobów na produkcję jednego lub drugiego towaru. W szczególności jej nachylenie informuje nas o koszcie alternatywnym wytworzenia jeszcze jednej jednostki dobra reprezentowanego na osi poziomej w stosunku do drugiego dobra, przedstawionego na osi pionowej. Kraje mają zwykle różne koszty alternatywne produkcji określonego dobra, m.in. z powodu różnic klimatycznych, położenia geograficznego, posiadanych technologii lub umiejętności obywateli.</para>
+      <para id="UUID2d3cc440-a47e-46e4-666a-cada9256b5db">Załóżmy, że dwa kraje, Polska i Brazylia, muszą podjąć decyzję o areale dwóch upraw: trzciny cukrowej i pszenicy. Ze względu na swoje warunki klimatyczne Brazylia może osiągnąć całkiem spore plony trzciny cukrowej z hektara, ale pszenicy relatywnie niewielkie. I odwrotnie, Polska może produkować duże ilości pszenicy z każdego hektara, ale bardzo niewiele (o ile w ogóle) trzciny cukrowej. Tym samym Brazylia ma niższy koszt alternatywny produkcji trzciny cukrowej (wyrażony w utraconej produkcji pszenicy) niż Polska. I odwrotnie: Polska ma niższy koszt alternatywny produkcji pszenicy niż Brazylia. Obie konstatacje można przedstawić za pomocą krzywych możliwości produkcyjnych wykreślonych dla tych dwóch krajów na <link target-id="CNX_Econ_C02_012" cmlnle:case="genitive" id="UUID4f725d42-e5c7-41fa-79a5-d843424389ec" />.</para>
+      <para id="UUID02d5ee02-5e10-4c52-5ed8-1c0a4f719a7b">Krzywa możliwości produkcyjnych pszenicy i trzciny cukrowej dla Polski i Brazylii</para>
+      <figure id="CNX_Econ_C02_012">
+        <media alt="Ten wykres przedstawia dwie krzywe możliwości produkcyjnych, na lewym panelu dla Brazylii, na prawym dla Polski. Kształt i położenie krzywych na obu panelach wskazują, że Brazylia może produkować dwukrotnie więcej trzciny niż pszenicy, zaś dla Polski relacja ta jest odwrotna." id="eip-id1168231239092">
+          <image src="../../media//CNX_Econ_C02_016.svg" mime-type="image/svg+xml" id="UUID9969e84e-a8ba-4a23-7abf-d5eb79418fa5" />
+        </media>
+        <caption id="UUIDb80fc36e-2a01-431a-65c2-5097660c0fe6">Krzywa możliwości produkcyjnych Polski jest bardziej płaska niż w przypadku Brazylii, co oznacza, że koszt alternatywny wytworzenia pszenicy (wyrażony jako utracona produkcja trzciny cukrowej) jest niższy w Polsce niż w Brazylii. I odwrotnie, koszt alternatywny wytworzenia trzciny cukrowej jest niższy w Brazylii. Polska ma przewagę komparatywną w przypadku pszenicy, a Brazylia w przypadku trzciny cukrowej.</caption>
+      </figure>
+      <para id="UUID0dc60c9a-ade8-4ab6-76fc-2dd7edced507">Gdy jakiś kraj może wyprodukować dobro przy niższym koszcie alternatywnym niż inny kraj, mówimy, że ma <term cmlnle:reference="przewaga komparatywna" id="UUID8a27cffb-8596-43aa-6a05-a09a8bef56b3">przewagę komparatywną</term> (ang. <foreign xml:lang="en" id="UUIDbfe8c0ba-b291-43bb-4361-f12c941e9030"><term cxlxt:index="foreign" id="UUID2f1e7f87-5d25-4765-6a25-670821606796">comparative advantage</term></foreign>) w zakresie produkcji tego dobra. Przewaga komparatywna to nie to samo co przewaga absolutna, kiedy kraj może po prostu wyprodukować więcej danego dobra. W naszym przykładzie Brazylia ma absolutną przewagę pod względem produkcji trzciny cukrowej, a Polska ma absolutną przewagę pod względem produkcji pszenicy. Można to łatwo zauważyć, analizując skrajne punkty produkcji na krzywych możliwości produkcyjnych obu krajów. Gdyby Brazylia przeznaczyła wszystkie swoje zasoby na produkcję pszenicy, produkowałaby w punkcie A. Gdyby jednak zamiast tego przeznaczyła wszystkie swoje zasoby na produkcję trzciny cukrowej, produkowałaby znacznie więcej niż Polska w punkcie B.</para>
+      <para id="UUIDd7a2d389-1cff-4c9b-4438-16faf3017323">Nachylenie krzywej możliwości produkcyjnych informuje nas o koszcie alternatywnym wytworzenia dodatkowej jednostki pszenicy. Chociaż nachylenie nie jest stałe we wszystkich punktach na krzywej, jest całkiem oczywiste, że krzywa dla Brazylii jest znacznie bardziej stroma niż w przypadku Polski, a zatem koszt alternatywny wyprodukowania jednostki pszenicy jest ogólnie wyższy w Brazylii. Kiedy kraje angażują się w handel, specjalizują się w produkcji towarów, w których mają przewagę komparatywną, a część tej produkcji wymieniają na towary, w których przewagi komparatywnej nie mają. Dzięki wymianie handlowej producenci wytwarzają te towary, których koszt alternatywny jest najniższy, więc całkowita produkcja wzrasta, z korzyścią dla obu stron.</para>
+    </section>
+    <section id="fs-idm78431728" class="summary">
+      <title id="UUID61b219e3-850f-423e-5610-5d138516aaea">Key Concepts and Summary</title>
+      <para id="UUIDd9a84f7e-b34c-4e55-51b5-724e73fa60f1">Krzywa możliwości produkcyjnych określa zbiór wyborów, przed jakimi staje społeczeństwo, w odniesieniu do kombinacji dóbr i usług, które może wytworzyć, biorąc pod uwagę dostępne zasoby. Krzywa przybiera zazwyczaj postać linii wypukłej, a nie prostej. Wybory zilustrowane punktami leżącymi powyżej krzywej są nieosiągalne, a te leżące poniżej niej – nieefektywne. Z biegiem czasu rozwijająca się gospodarka będzie miała tendencję do przesuwania krzywej możliwości produkcyjnych coraz dalej na zewnątrz.</para>
+      <para id="UUIDa1665048-ccf5-4c46-4617-7a6eb336fbd3">Zgodnie z <term cmlnle:reference="prawo malejących przychodów" id="UUID3dcf5169-155e-4425-6735-c07bbecce8b7">prawem malejących przychodów</term> (ang. <foreign xml:lang="en" id="UUIDd4c4d541-e034-46d2-78fd-a75486fc582c"><term cxlxt:index="foreign" id="UUIDebb2a47b-7064-4c25-5516-f42840d4ef43">law of diminishing returns</term></foreign>), w miarę jak krańcowe przyrosty zasobów są przeznaczane na produkcję, krańcowy wzrost produkcji będzie coraz mniejszy. Wszystkie wybory na krzywej możliwości produkcyjnych charakteryzują się efektywnością produkcji: oznacza to, że niemożliwe jest wykorzystanie zasobów społeczeństwa do produkcji większej ilości jednego dobra bez zmniejszania produkcji drugiego. Konkretny wybór wzdłuż krzywej możliwości produkcyjnych, który odzwierciedla kombinację towarów preferowaną przez społeczeństwo, jest wyborem charakteryzującym się efektywnością alokacji. Kształt krzywej możliwości produkcyjnych może się różnić w zależności od kraju, bo różne państwa mają przewagi komparatywne w zakresie produkcji różnych towarów. Całkowita produkcja może wzrosnąć, jeśli kraje specjalizują się w produkcji towarów, w przypadku których mają przewagę komparatywną, i wymieniają część swojej produkcji na inne dobra.</para>
+    </section>
+    <section id="fs-idp87812304" class="self-check-questions">
+      <title id="UUID03f41e87-8cd3-48bb-48b2-0576eed56e0f">Self-Check Questions</title>
+      <exercise id="fs-idp42902064">
+        <problem id="fs-idp157748336">
+          <para id="fs-idp25075072">Wróć do przykładu z <link target-id="CNX_Econ_C02_010" cmlnle:case="genitive" id="UUIDcf340dcc-29bb-4e2b-7698-682cf589e5fb" />. Załóżmy, że nastąpiła poprawa technologii, która umożliwia poprawę standardu opieki zdrowotnej przy tej samej ilości użytych zasobów. Jak wpłynęłoby to na krzywą możliwości produkcyjnych, a w szczególności na koszt alternatywny zapewnienia edukacji?</para>
+        </problem>
+        <solution id="fs-idm8249744">
+          <para id="UUIDffdfcd0e-b1a7-4086-5f6e-5d357a2944ad">Ze względu na poprawę technologii punkt przecięcia krzywej z osią pionową znajdowałby się wyżej (przy większej ilości zapewnianej opieki zdrowotnej). Innymi słowy, krzywa możliwości produkcyjnych obróciłaby się zgodnie z ruchem wskazówek zegara wokół punktu przecięcia krzywej z osią poziomą. Sprawiłoby to, że krzywa byłaby bardziej stroma, co odpowiadałoby wzrostowi kosztu alternatywnego zapewnienia edukacji, ponieważ środki przeznaczone na zapewnienie edukacji oznaczałyby teraz rezygnację z większej ilości opieki zdrowotnej.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm8667296">
+        <problem id="fs-idp89051696">
+          <para id="UUIDb7256398-57f3-4c1a-4090-f839cbdbd0c4">Czy jakiś kraj może produkować w sposób, który stanowi alokację efektywną, ale jest nieefektywny pod względem produkcji?</para>
+        </problem>
+        <solution id="fs-idm119090960">
+          <para id="UUIDc2fc4b7d-8077-4e8e-4296-826b86a2ef09">Nie. Efektywność alokacyjna wymaga efektywności produkcyjnej, ponieważ dotyczy wyborów na krzywej możliwości produkcyjnych.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp46127904">
+        <problem id="fs-idp22849472">
+          <para id="UUIDde8dc902-fee3-4348-690f-e15549619fea">Jakie są podobieństwa między linią ograniczenia budżetowego konsumenta a krzywą możliwości produkcyjnych społeczeństwa, nie tylko te widoczne na wykresie, ale i interpretacyjne?</para>
+        </problem>
+        <solution id="fs-idm113555104">
+          <para id="UUIDd9bceaae-09b6-4b71-6898-b0871436eea0">Zarówno linia ograniczenia budżetowego, jak i krzywa możliwości produkcyjnych pokazują ograniczenia, w ramach których działamy. Obie ilustrują kompromis między posiadaniem większej ilości jednego dobra a mniejszej drugiego. Obie przedstawiają koszt alternatywny graficznie, jako nachylenie danej linii.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp45183584" class="review-questions">
+      <title id="UUIDd32eb8ec-12c1-4365-404b-e6c37ed48e0b">Review Questions</title>
+      <exercise id="eip-125">
+        <problem id="eip-135">
+          <para id="UUIDc40a749e-8956-426b-5c5c-712b4d0057c1">Czym jest przewaga komparatywna?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm229710064">
+        <problem id="fs-idm144166544">
+          <para id="UUID4c71abc0-2cfc-4729-5453-3299e2dec623">Co ilustruje krzywa możliwości produkcyjnych?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm79150304">
+        <problem id="fs-idm42000704">
+          <para id="UUIDd4ae970c-0b87-432a-62b4-8780f623cb0b">Dlaczego krzywa możliwości produkcyjnych jest zwykle rysowana jako linia wypukła, a nie prosta?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm85154704">
+        <problem id="fs-idm40656160">
+          <para id="UUID07faaeaa-7654-4f35-4b0a-28ded95a5c7d">Wyjaśnij, dlaczego społeczeństwa nie mogą dokonać wyboru powyżej swojej krzywej możliwości produkcyjnych i nie powinny dokonywać wyboru poniżej tej krzywej.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm81310272">
+        <problem id="fs-idm58090240">
+          <para id="UUIDc9423e51-aada-4864-4348-e5f3f180e933">Co to są malejące przychody krańcowe?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm90845872">
+        <problem id="fs-idp34370928">
+          <para id="UUIDe039ffed-bf0b-4b0f-5713-89c96cad5dd4">Czym jest efektywność produkcji, a czym efektywność alokacji?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp101890848" class="critical-thinking">
+      <title id="UUIDbe3182e3-2ec6-479d-4d7b-df5f673228f2">Critical Thinking Questions</title>
+      <exercise id="fs-idp118010704">
+        <problem id="fs-idp56082256">
+          <para id="UUID64e4817d-8a22-4fb0-4379-7c4db04d2daa">W czasie II wojny światowej niemieckie fabryki zostały zniszczone. Niemcy poniosły również wiele ofiar w ludziach, zarówno wśród żołnierzy, jak i cywilów. Jak wojna wpłynęła na krzywą możliwości produkcyjnych Niemiec?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm31312512">
+        <problem id="fs-idp18727904">
+          <para id="UUIDece3b06d-9311-4dd0-7853-7531354278a1">Oczywiste jest, że nieefektywność produkcyjna jest marnotrawstwem, ponieważ zasoby są wykorzystywane w sposób, który prowadzi do wytworzenia mniejszej ilości dóbr i usług, niż byłoby to możliwe. Dlaczego marnotrawstwem jest również nieefektywność alokacji?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDaf93618f-bde9-4aa6-4efa-e3f5cbaf54d8">
+    <definition id="fs-idp36842992">
+      <term id="UUID7c915532-018f-49c1-6f3c-7e173ec690a3">efektywność alokacji (ang. <foreign xml:lang="en" id="UUIDb8a3168a-2793-4941-5203-bece2406acca">allocative efficiency</foreign>)</term>
+      <meaning id="fs-idp19619376">
+        <para id="UUIDec0e5d4c-8f72-4d89-6cd4-c15a99062d60">sytuacja, w której koszyk produkowanych towarów reprezentuje kombinację, której społeczeństwo pragnie najbardziej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id1166931932929">
+      <term id="UUID5e2c5955-0621-4db1-50e7-7be481b80678">przewaga komparatywna ( ang. <foreign xml:lang="en" id="UUID8a536788-d732-4047-4ad0-bcdf366d4296">comparative advantage</foreign>)</term>
+      <meaning id="fs-id8773128">
+        <para id="UUID98c415c0-8b91-49e9-4959-33a826aa72e8">sytuacja, w której kraj może wyprodukować dobro po niższych kosztach (wyrażonych za pomocą utraconej produkcji innych dóbr); gdy kraj ma niższy koszt alternatywny produkcji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp75697120">
+      <term id="UUIDfabdc0c2-c342-49d1-4b5c-e342ec08425d">prawo malejących przychodów (ang. <foreign xml:lang="en" id="UUID68dc576d-d17d-4450-54e5-fd94e57fd46f">law of diminishing returns</foreign>)</term>
+      <meaning id="fs-idm10827520">
+        <para id="UUIDa2ffd370-9f62-4d5a-4cc6-1224698a2be6">dodatkowe zasoby przeznaczone na produkcję towaru lub usługi przekładają się na malejącą, krańcowa korzyść z tego dodatkowego wzrostu</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp107951680">
+      <term id="UUID76eab76d-ab4e-415d-544c-7c64e260c9a6">krzywa możliwości produkcyjnych (ang. <foreign xml:lang="en" id="UUIDab9a648e-4764-43cd-6213-caddbeb7e1df">production possibilities frontier</foreign>)</term>
+      <meaning id="fs-idp185853264">
+        <para id="UUIDcf3c9b86-905e-40fd-7b13-e314e3bc9331">diagram pokazujący efektywne kombinacje produkcji dwóch dóbr, które gospodarka może wytworzyć, biorąc pod uwagę dostępne zasoby</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp88985040">
+      <term id="UUIDd3189d59-ff8e-45ed-4ed6-dc8377dd7898">efektywność produkcji (ang. <foreign xml:lang="en" id="UUID196f25ad-2bdc-40f4-716b-7e7171f974f6">productive efficiency</foreign>)</term>
+      <meaning id="fs-idp114696640">
+        <para id="UUID9b9f6375-23f2-4800-4dcd-62d5eea29a14">sytuacja, w której niemożliwe jest wyprodukowanie większej ilości jednego dobra (lub usługi) bez zmniejszenia ilości produkcji innego dobra (lub usługi)</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6d717c85-b1f7-4985-8b44-dc9cd6a0cf12" id="U6d717c85-b1f7-4985-8b44-dc9cd6a0cf12" xml:lang="en" cnxml-version="0.7">
+  <title>Jak zmiany dochodów wpływają na wybory konsumentów</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00024</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Jak zmiany dochodów wpływają na wybory konsumentów</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:54.880615606+00:00</md:version>
+    <md:created>2022-08-08T07:43:54.880615606+00:00</md:created>
+    <md:revised>2022-08-08T07:43:54.880615606+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>6d717c85-b1f7-4985-8b44-dc9cd6a0cf12</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID1b2d6ad3-3f55-4882-6bd6-4abf189293bb" class="learning-objectives">
+      <para id="fs-idp2105488">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID69f9e058-c702-403c-609e-2aea8af09534">
+        <item id="UUID6b1011fd-7f12-41bf-6da9-39f4083c6e53">
+          <para id="UUID75b0f66e-56f5-4f8b-7e18-39d4d01f1eee">Objaśnić, w jaki sposób zmiana dochodu i cen wpływa na dokonywane przez konsumentów wybory</para>
+        </item>
+        <item id="UUID54c14d06-da69-422c-6fbe-f5fb0be3e733">
+          <para id="UUIDcb0aeb8a-bb18-45b3-7b9b-4d5eca27f850">Odróżnić efekt substytucyjny od dochodowego</para>
+        </item>
+        <item id="UUID021d7e40-bbfd-49ec-685d-a04d30b997a2">
+          <para id="UUIDc7ed360f-70a0-4e18-69d0-388a20b2419c">Wykorzystać zależności opisane prawem popytu do analizy wyborów konsumentów</para>
+        </item>
+        <item id="UUID7b8366fc-680e-4cf8-5050-2209de115c4f">
+          <para id="UUIDdd2a754e-5e4d-4dfd-7dd0-8b603de42cd7">Zastosować instrumentarium służące opisowi maksymalizujących użyteczność wyborów do problemów, z jakimi konfrontują się przedsiębiorstwa i państwa</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDc71d7b3b-d8a0-4f27-7735-ddcd5c929416">Koncepcje użyteczności całkowitej i krańcowej, używane przez nas dotąd do omawiania wyborów konsumenckich dokonywanych przy ograniczeniu budżetowym, możemy wykorzystać również do rozpatrzenia, jak zmieniają się wybory konsumenta, gdy ograniczenie budżetowe przesuwa się w odpowiedzi na zmiany dochodu lub cen. Ponieważ możemy użyć ograniczenia budżetowego do analizy tego, jak zmienia się wielkość zapotrzebowania pod wpływem zmian cen, model ograniczenia budżetowego może zilustrować logikę leżącą u podstaw tworzenia krzywych popytu.</para>
+    <section id="fs-idm33755472">
+      <title id="UUID10ed36d8-8d25-49da-4ce0-9a1a7abe9776">Wpływ zmiany dochodów na wybory konsumentów</title>
+      <para id="fs-idm51369664">Zacznijmy od konkretnego przykładu ilustrującego, jak zmiany poziomu dochodów wpływają na wybory konsumentów. <link target-id="CNX_Econ_C06_002" id="UUID2a292f01-ea56-4001-7bc0-21e7933ca6d8" /> pokazuje <term cmlnle:reference="ograniczenie budżetowe" id="UUIDed186368-add6-487f-6b74-4faa638a2829">ograniczenie budżetowe</term> (ang. <foreign xml:lang="en" id="UUID17719b71-0b9c-4d83-5d77-b7b4a47a8ee5"><term cmlnle:reference="budget constraint" id="UUID3f6b0d7b-e57b-4ee7-5e87-d68baebbd3cc">budget constraint</term></foreign>), które reprezentuje wybór Karoliny między biletami na koncert w cenie 50 zł za sztukę a noclegami w hotelu po 200 zł za noc. Karolina ma 1000 zł rocznie do wydania na te dwie przyjemności. Po przeanalizowaniu jej użyteczności całkowitej i krańcowej oraz zastosowaniu reguły decyzyjnej, zgodnie z którą stosunek użyteczności krańcowych do cen powinien być taki sam dla obu dóbr, Karolina wybiera punkt M z ośmioma koncertami i trzema noclegami jako kombinacją maksymalizującą jej użyteczność.</para>
+      <figure id="CNX_Econ_C06_002">
+        <title id="UUIDc3af1dee-d86c-4c65-6dd0-6b7b8af59455">Zmiana dochodów a wybory konsumenta</title>
+        <media alt="Poszczególne punkty wykresu wskazują, które z dwóch dóbr, między którymi konsument dokonuje wyboru, jest postrzegane jako normalne, a które jako niższego rzędu." id="fs-idp3721440">
+          <image src="../../media//CNX_Econ_C06_002.svg" mime-type="image/svg+xml" id="UUID9a2dbb6e-8dd9-48e7-6124-6f2e1e721a7d" />
+        </media>
+        <caption id="UUID3eb6cbcc-595f-4a63-44a4-64056baa9f64">Punkt maksymalizujący użyteczność przy początkowym ograniczeniu budżetowym to M. Przerywane linie poziome i pionowe przechodzące przez punkt M pozwalają od razu zobaczyć, czy ilość konsumowanych dóbr przy nowym ograniczeniu budżetowym jest większa, czy mniejsza. Przy nowym ograniczeniu budżetowym Karolina dokona wyboru takiego jak N, jeśli oba dobra są dobrami normalnymi. Jeśli noclegi są dobrem niższego rzędu, Karolina dokona wyboru takiego jak P. Jeśli bilety na koncert są dobrem niższego rzędu, Karolina wybierze kombinację bliską Q.</caption>
+      </figure>
+      <para id="UUID4b6e7df1-8089-401e-5b33-52249780f06a">Załóżmy teraz, że dochód Karoliny do wydania na te dwa dobra wzrasta do 2000 zł rocznie, powodując przesunięcie jej ograniczenia budżetowego w prawo. Jak wzrost dochodów zmienia jej wybór maksymalizujący użyteczność? Karolina ponownie weźmie pod uwagę użyteczność całkowitą i krańcową, jaką uzyskuje z biletów na koncert i noclegów, i poszuka swojego <term cmlnle:reference="wyboru maksymalizującego użyteczność" id="UUIDf6130e21-0e5a-421d-7d80-bea729b4e9ca">wyboru maksymalizującego użyteczność</term> (ang. <foreign xml:lang="en" id="UUID6d5a18d5-510d-46bd-66a4-82aad48a28f5"><term cmlnle:reference="utility-maximizing choice" id="UUID32d4c4cf-b3ab-4629-6c16-78c6fad46dbc">utility-maximizing choice</term></foreign>) na nowej linii budżetowej. Ale jaka będzie relacja jej nowego wyboru do poprzedniego?</para>
+      <para id="fs-idm64055104">Możemy podzielić możliwe wybory wzdłuż nowego ograniczenia budżetowego na trzy grupy, których granice wskazują przerywane linie poziome i pionowe, przechodzące przez początkowy punkt równowagi (M). Wszystkie koszyki w lewym górnym rogu nowego ograniczenia budżetowego, znajdujące się na lewo od pionowej linii przerywanej, takie jak punkt P z dwoma noclegami i 32 biletami na koncert, uwzględniają mniej jednostek dobra z osi poziomej, ale znacznie więcej jednostek dobra z osi pionowej. Wszystkie koszyki na prawo od pionowej linii przerywanej i powyżej poziomej linii przerywanej – takie jak punkt N z pięcioma noclegami i 20 biletami na koncert – charakteryzują się większą konsumpcją obu dóbr. Wreszcie, wszystkie koszyki znajdujące się na prawo od pionowej linii przerywanej, ale poniżej poziomej linii przerywanej, takie jak punkt Q z czterema koncertami i dziewięcioma noclegami, uwzględniają mniej dobra z osi pionowej, ale znacznie więcej dobra z osi poziomej.</para>
+      <para id="fs-idm20650848">Wszystkie te wybory są teoretycznie możliwe w zależności od osobistych preferencji Karoliny wyrażonych przez całkowitą i krańcową użyteczność, jaką otrzymałaby z konsumpcji obu dóbr. Gdy dochód rośnie, najczęstszą reakcją jest zakup większej ilości obu dóbr, np. punkt N, który znajduje się w prawym górnym rogu w stosunku do pierwotnego wyboru M, chociaż skala przyrostu konsumpcji danego dobra będzie się różnić w zależności od osobistych upodobań. I odwrotnie, gdy dochód maleje, najbardziej typową reakcją jest kupowanie mniejszej ilości obu dóbr. Jak zdefiniowaliśmy w rozdziale <link document="m00011" id="UUID3ac369db-cfc9-46e5-7611-9b0996ecd22d">Introduction to Demand and Supply</link> oraz ponownie w rozdziale <link document="m00017" id="UUIDf367f278-da0e-4cd6-61ca-c94ef8f7e45c">Introduction to Elasticity</link>, dobra i usługi nazywamy <term cmlnle:reference="dobra normalne" id="UUID1d5481a2-24a8-496e-6c3b-769d37345e0c">dobrami normalnymi</term> (ang. <foreign xml:lang="en" id="UUID026e354b-2d02-4634-4194-4f2c66fe716e"><term cmlnle:reference="normal good" id="UUIDea9587ba-2702-464e-5411-234222447d58">normal goods</term></foreign>), gdy wzrost dochodu prowadzi do wzrostu ilości konsumowanego dobra, a spadek dochodu prowadzi do spadku konsumowanej ilości.</para>
+      <para id="fs-idp24498848">Jednak, w zależności od preferencji Karoliny, wzrost dochodu może powodować wzrost konsumpcji jednego dobra, a spadek konsumpcji drugiego. Wybór taki jak P oznacza, że wzrost dochodu spowodował spadek liczby noclegów, podczas gdy w punkcie Q wzrost dochodu powoduje zmniejszenie liczby koncertów. Tak jak to już wskazaliśmy w rozdziale <link document="m00011" id="UUID6843f08f-02df-4052-7346-2e7456206db5">Introduction to Demand and Supply</link> dobra, na które popyt maleje wraz ze wzrostem dochodu (lub odwrotnie – popyt rośnie wraz ze spadkiem dochodu), nazywane są dobrami niższego rzędu. Przypomnijmy, że <term cmlnle:reference="dobra niższego rzędu" id="UUID46d95250-a7f3-4440-5451-7725bed85f87">dobra niższego rzędu</term> (ang. <foreign xml:lang="en" id="UUID9a3c1832-54fd-46f3-4ff4-d84d18ab8527"><term cmlnle:reference="inferior good" id="UUIDdfc4addf-9b1b-49c0-57c4-cc98e5f0133b">inferior good</term></foreign>) to takie, których konsumpcję ludzie zmniejszają wraz ze wzrostem dochodów, gdy już mogą sobie pozwolić na preferowane produkty droższe i lepsze. Na przykład gospodarstwo domowe o wyższych dochodach może zmniejszyć konsumpcję hamburgerów lub mniej chętnie kupować używane samochody, a zamiast tego jeść więcej steków i nabyć nowe auto.</para>
+    </section>
+    <section id="fs-idp143368864">
+      <title id="UUID0a8afb5b-f1e3-4c9c-4c07-6a4e2d90ebfd">Jak zmiany cen wpływają na wybory konsumentów</title>
+      <para id="fs-idp82595968">Aby przeanalizować możliwy wpływ zmiany ceny na konsumpcję, ponownie posłużmy się konkretnym przykładem. <link target-id="CNX_Econ_C06_003" id="UUID1f1ad5c1-732f-4dba-5de4-fadcad1e738a" /> przedstawia Sebastiana, który dokonuje wyboru między zakupem kijów bejsbolowych bejsbolowych a zakupem aparatów fotograficznych. Podwyżka cen kijów bejsbolowych nie ma wpływu na możliwości zakupu aparatów, ale zmniejsza liczbę kijów, na które Sebastian może sobie pozwolić. Tak więc wzrost ceny kijów bejsbolowych, tj. dobra na osi poziomej, powoduje, że linia ograniczenia budżetowego obraca się do wewnątrz, czyli wokół punktu przecięcia z osią pionową. Podobnie jak w poprzedniej części, punkt M reprezentuje pierwotnie preferowany koszyk na początkowym ograniczeniu budżetowym, wybrany przez Sebastiana na podstawie jego użyteczności całkowitej i krańcowej oraz limitów wynikających z wysokości dochodu. W niniejszym przykładzie na osi poziomej i pionowej nie są zaznaczone jednostki liczbowe, więc dyskusja musi koncentrować się na ogólnym stwierdzeniu, czy Sebastian będzie konsumował mniej, czy więcej danego dobra, a nie na wartościach liczbowych.</para>
+      <figure id="CNX_Econ_C06_003">
+        <title id="UUIDfb4d764f-5c30-4f0b-7707-91ad45cf9308">Jak zmiana ceny wpływa na wybory konsumenta</title>
+        <media alt="Wykres pokazuje, jak zmiany cen wpływają na decyzje dotyczące wydatków." id="fs-idp46036416">
+          <image src="../../media//CNX_Econ_C06_003.svg" mime-type="image/svg+xml" id="UUIDa371d8c2-7a52-4d4b-488c-e9748da78d48" />
+        </media>
+        <caption id="UUIDbc2e6b3b-024c-40ce-6e24-123c3495ca00">Początkowym punktem maksymalizującym użyteczność jest M. Gdy cena kijów bejsbolowych rośnie, ograniczenie budżetowe obraca się zgodnie z ruchem wskazówek zegara. Linie przerywane pozwalają od razu zobaczyć, czy nowy koszyk zawiera mniej obu dóbr, czy też mniej jednego dobra, a więcej drugiego. Nowe możliwe wybory to mniej kijów bejsbolowych i więcej aparatów fotograficznych, tak jak w punkcie H, lub mniej obu dóbr, jak w punkcie J. Wybór K oznaczałby, że wyższa cena kijów nie zmieniła wielkości konsumpcji kijów, ale zmniejszyła liczbę nabywanych aparatów. Teoretycznie możliwe, ale mało prawdopodobne w prawdziwym świecie, są wybory takie jak L, gdzie wyższa cena kijów bejsbolowych oznacza ich większą konsumpcję.</caption>
+      </figure>
+      <para id="UUID3b737faf-29ff-4a96-4680-ff2a63fc61d8">Po wzroście ceny Sebastian dokonuje wyboru zgodnie z nowym ograniczeniem budżetowym. Ponownie możemy podzielić jego wybory na trzy segmenty, wyznaczone przerywanymi liniami pionowymi i poziomymi. W górnej lewej części nowego ograniczenia budżetowego, w punkcie H, Sebastian kupuje więcej aparatów fotograficznych i mniej kijów bejsbolowych. W centralnej części nowego ograniczenia budżetowego, przy wyborze J, konsumuje mniejsze ilości obu dóbr. Na prawym końcu, przy koszyku L, kupuje więcej kijów, ale mniej aparatów.</para>
+      <para id="fs-idp2339568">Typową odpowiedzią na wzrost ceny jest zmniejszenie konsumpcji dobra, które zdrożało. Dzieje się tak z dwóch powodów i oba mogą zachodzić jednocześnie. <term cmlnle:reference="efekt substytucyjny" id="UUID9b7b2f67-91f5-4aee-71e9-a9baeca40c81">Efekt substytucyjny</term> (ang. <foreign xml:lang="en" id="UUID3f47a872-87cb-42a3-70d8-d795dbcdca8c"><term cmlnle:reference="substitution effect" id="UUIDcc371c44-184a-43b9-53e6-0c2abfff2eca">substitution effect</term></foreign>) występuje, gdy cena się zmienia i konsumenci mają motywację do konsumowania mniejszej ilości dobra o relatywnie wyższej cenie, a większej ilości dobra o relatywnie niższej cenie. <term cmlnle:reference="efekt dochodowy" id="UUID928a505d-675f-40af-7837-e0349ec7e7fa">Efekt dochodowy</term> (ang. <foreign xml:lang="en" id="UUID371d1808-6b73-41f5-7827-8be2949f0bba"><term cmlnle:reference="income effect" id="UUIDa5a5001a-b99f-41ed-6c17-6fb2cc1865a3">income efffect</term></foreign>) polega na tym, że wyższa cena oznacza w efekcie zmniejszoną siłę nabywczą dochodu (chociaż nominalny dochód się nie zmienia), co prowadzi do zakupu mniejszej ilości dobra (w przypadku dobra normalnego). W naszym przykładzie wyższa cena kijów bejsbolowych sprawia, że Sebastian kupuje mniej kijów z obu powodów. Jak silnie wzrost ceny kijów zmniejszy ich konsumpcję? <link target-id="CNX_Econ_C06_003" id="UUIDc0c66a24-25bd-4367-5770-4a197a1b10b3" /> sugeruje szereg możliwości. Sebastian może zareagować na wyższą cenę kijów bejsbolowych, kupując taką samą liczbę kijów, a mniejszą – aparatów fotograficznych. Wówczas nowym wyborem będzie punkt K na nowym ograniczeniu budżetowym, tuż poniżej pierwotnego punktu M. Alternatywnie Sebastian może zareagować, radykalnie ograniczając zakupy kijów i zamiast tego kupować więcej aparatów.</para>
+      <para id="fs-idp38476880">Istotą analizy jest to, że nieroztropnie byłoby zakładać, iż zmiana ceny jednego dobra wpłynie WYŁĄCZNIE na jego konsumpcję. W naszym przykładzie, ponieważ Sebastian kupuje wszystkie produkty z tego samego budżetu, zmiana ceny kijów bejsbolowych może również wywołać efekt – pozytywny lub negatywny – zmiany jego zapotrzebowania na aparaty fotograficzne. A zatem zmiana ceny jednego dobra może wpłynąć, pozytywnie lub negatywnie, na wielkość konsumpcji wszystkich wybieranych dóbr.</para>
+      <para id="fs-idp44585360">Krótko mówiąc, wyższa cena zazwyczaj powoduje zmniejszenie konsumpcji danego dobra, ale może również wpływać na konsumpcję innych dóbr.</para>
+      <note type="note" id="fs-idp39883392" class="economics linkup">
+        <para id="fs-idp101926272">Przeczytaj <link url="http://openstax.org/l/vending" id="UUIDb00e2639-a407-4372-7a19-7caf1fdece6d">artykuł</link> o zmiennych cenach w automatach do sprzedaży (automatach vendingowych).</para>
+      </note>
+    </section>
+    <section id="fs-idm98713008">
+      <title id="UUIDb1fd71c3-b6ad-409b-6989-54a709674b78">Podstawy krzywych popytu</title>
+      <para id="fs-idm68850896">Zmiana ceny dobra prowadzi do obrócenia się linii ograniczenia budżetowego. Obrót linii budżetu oznacza, że konsument chcąc osiągnąć najwyższą użyteczność, zmieni wielkość zapotrzebowania na dane dobro. W ten sposób logiczne podstawy prawa popytu – odzwierciedlające związek między cenami a wielkością zapotrzebowania – opierają się na działaniu jednostek dążących do maksymalizacji swojej użyteczności. <link target-id="CNX_Econ_C06_004" id="UUID2e9481af-5f68-44ff-7d2e-ccdab6d37de2" /> (a) pokazuje ograniczenie budżetowe z wyborem między mieszkaniami a pozostałymi dobrami i usługami. (Umieszczenie pozostałych dóbr i usług na osi pionowej może być przydatnym podejściem w niektórych przypadkach, zwłaszcza gdy analiza koncentruje się na jednym konkretnym dobru). Preferowany wybór, który zapewnia najwyższą możliwą użyteczność na początkowej linii ograniczenia budżetowego, oznaczamy przez M<sub>0</sub>. Pozostałe trzy ograniczenia budżetowe reprezentują sukcesywnie wyższe ceny mieszkań – odpowiednio P<sub>1</sub>, P<sub>2</sub> i P<sub>3</sub>. W miarę jak linia ograniczenia budżetowego obraca się w kierunku osi pionowej, wybory maksymalizujące użyteczność oznaczamy jako M<sub>1</sub>, M<sub>2</sub> i M<sub>3</sub>, a wielkość zapotrzebowania na mieszkania spada z Q<sub>0</sub> do Q<sub>1</sub>, Q<sub>2</sub> i Q<sub>3</sub>.</para>
+      <figure id="CNX_Econ_C06_004">
+        <title id="UUID43a61f00-8494-42ff-4e14-bb00cb956be2">Podstawy tworzenia krzywej popytu: przykład mieszkań</title>
+        <media alt="Dwa panele na wykresie ilustrują, jak ograniczenie budżetowe konsumenta, wpływa na jego krzywą popytu." id="fs-idm70009136">
+          <image src="../../media//CNX_Econ_C06_004.svg" mime-type="image/svg+xml" id="UUID21eac4a0-2148-4a7f-6130-c074d98463c3" />
+        </media>
+        <caption id="UUID58456a91-0401-44fe-748c-c57dd3392659">Panel (a) przedstawia wykres ograniczenia budżetowego. Gdy cena wzrasta z P<sub>0</sub> do P<sub>1</sub>, P<sub>2</sub> i P<sub>3</sub>, linia ograniczenia budżetowego obraca się zgodnie z ruchem wskazówek zegara. Wybór maksymalizujący użyteczność zmienia się z M<sub>0</sub> na M<sub>1</sub>, M<sub>2</sub> i M<sub>3</sub>. W efekcie wielkość zapotrzebowania na mieszkania zmienia się z Q<sub>0</sub> na Q<sub>1</sub>, Q<sub>2</sub> i Q<sub>3</sub>, <emphasis effect="italics">ceteris paribus</emphasis>. Panel (b) pokazuje wyprowadzenie krzywej popytu. Krzywa popytu przedstawia każdą kombinację ceny mieszkań i wielkości zapotrzebowania na mieszkania, <emphasis effect="italics">ceteris paribus</emphasis>. Liczba mieszkań jest taka sama w poszczególnych punktach paneli (a) i (b) wykresu. A zatem początkowa cena mieszkań (P<sub>0</sub>) i początkowa liczba mieszkań (Q<sub>0</sub>) pojawiają się na krzywej popytu jako punkt E<sub>0</sub>. Wyższa cena mieszkań (P<sub>1</sub>) i odpowiadająca jej mniejsza wielkość zapotrzebowania na mieszkania (Q<sub>1</sub>) pojawiają się na krzywej popytu jako punkt E<sub>1</sub>.</caption>
+      </figure>
+      <para id="UUID83d86f9c-97d9-4394-503b-75f3807bb862">Tak więc gdy cena mieszkań rośnie, linia ograniczenia budżetowego obraca się zgodnie z ruchem wskazówek zegara, a wielkość konsumpcji mieszkań spada, <emphasis effect="italics">ceteris paribus</emphasis>. Zależność ta – spadek wielkości zapotrzebowania na mieszkania z Q<sub>0</sub> do Q<sub>1</sub>, Q<sub>2</sub> i Q<sub>3</sub> przy wzroście ceny mieszkań z P<sub>0</sub> do P<sub>1</sub>, P<sub>2</sub> i P<sub>3</sub> – jest przedstawiona na krzywej popytu na <link target-id="CNX_Econ_C06_004" cmlnle:case="locative" id="UUID60dd65d0-c307-4e8e-6e14-3455581b3383" /> (b). Pionowe linie przerywane ciągnące się między górnym i dolnym panelem <link target-id="CNX_Econ_C06_004" cmlnle:case="genitive" id="UUID33217174-57b8-4c09-66b3-8dd125d2c00d" /> pokazują, że wielkość zapotrzebowania na mieszkania w poszczególnych punktach jest taka sama. Ostatecznie określamy kształt krzywej popytu na podstawie wyborów maksymalizujących użyteczność przy ograniczeniu budżetowym. Chociaż ekonomiści mogą nie być w stanie zmierzyć <emphasis effect="italics">utyli</emphasis>, z pewnością mogą zmierzyć cenę i wielkość popytu.</para>
+    </section>
+    <section id="fs-idm36125376">
+      <title id="UUIDb702c779-8845-4a56-6bef-7886802ac73e">Zastosowania w polityce państwa i biznesie</title>
+      <para id="fs-idm76005008">Koncepcja ograniczenia budżetowego służąca do dokonywania wyborów maksymalizujących użyteczność pokazuje, że ludzie mogą reagować na zmianę ceny lub dochodu na wiele różnych sposobów. Na przykład w IV kwartale 2021 r. i pierwszym kwartale roku 2022 ceny energii elektrycznej i gazu w Polsce znacznie wzrosły. Niektórzy ludzie zareagowali na tę sytuację zmniejszeniem zapotrzebowania na energię, np. przykręcając termostaty w swoich domach o kilka stopni i zakładając grubszy dres. Mimo to wiele rachunków za ogrzewanie domów wzrosło, więc ludzie dostosowali swoją konsumpcję również w inny sposób. Jak wiemy z rozdziału „Elastyczność”, krótkookresowy popyt na ogrzewanie domu jest generalnie nieelastyczny. A zatem wiele gospodarstw domowych ograniczyło również wydatki na inne produkty, z których najłatwiej było im zrezygnować. Dla części z nich mógł to być obiad zjedzony poza domem, dla innych wakacje albo odłożenie w czasie zakupu nowej lodówki czy samochodu. Znacznie wyższe ceny gazu i prądu mogą mieć skutki wykraczające poza rynek energii, prowadząc do powszechnego zmniejszenia zakupów w pozostałych gałęziach gospodarki.</para>
+      <para id="fs-idm47322576">Podobny problem pojawia się, gdy rząd nakłada podatki na niektóre produkty, takie jak benzyna, papierosy i alkohol. Powiedzmy, że podatek od alkoholu prowadzi do wyższej ceny w sklepie monopolowym. Wyższa cena alkoholu powoduje, że ograniczenie budżetowe obraca się w lewo, a spożycie napojów alkoholowych prawdopodobnie spadnie. Jednak ludzie mogą również zareagować na wyższą cenę napojów alkoholowych, ograniczając inne zakupy. Mogą np. zmniejszyć konsumpcję przekąsek w restauracjach, takich jak skrzydełka z kurczaka i frytki. Nierozsądne byłoby zakładanie, że podatek od napojów alkoholowych wpłynie wyłącznie na przemysł alkoholowy.</para>
+      <note type="note" id="UUID4eb8da64-2f49-4446-419c-7a3ac0794511" class="clearup economics">
+        <title id="UUIDfcef8c43-6152-424d-6ade-7e7d2d8823e8">Czy ma znaczenie, kto kontroluje dochody gospodarstwa domowego?</title>
+        <para id="UUIDdc7cb92b-82ed-4d6c-56e3-70573ff032aa">W połowie lat 70. XX w. w Wielkiej Brytanii dokonano interesującej zmiany w polityce socjalnej. Wprowadzono program, który, podobnie jak jego polski odpowiednik Rodzina 500 Plus, obecnie zapewnia stałą kwotę wsparcia na każde dziecko, niezależnie od dochodu rodziny. Wcześniej jednak zasiłek na dziecko był alokowany poprzez ulgę podatkową, możliwą do wykorzystania przez głównego żywiciela rodziny – w tamtym czasie zwykle ojca. Nowe prawo przewidywało zasiłek na dziecko jako płatność gotówkową, zazwyczaj na rzecz matki. W wyniku tej zmiany gospodarstwa domowe uzyskiwały ten sam poziom dodatkowych dochodów i napotykały na te same ceny rynkowe, ale pieniądze częściej znajdowały się w portfelu matki niż ojca.</para>
+        <para id="UUID6b009fe0-e77d-4183-7af3-22f27066f923">Czy ta zmiana polityki wpłynęła twoim zdaniem na wzorce konsumpcji gospodarstw domowych? Podstawowe modele decyzji konsumpcyjnych, takie jak te, które badaliśmy w niniejszym rozdziale, zakładają, że nie ma znaczenia, które z rodziców – matka czy ojciec – otrzymuje pieniądze, ponieważ oboje dążą do maksymalizacji użyteczności rodziny jako całości. W efekcie model zakłada, że wszyscy w rodzinie mają te same preferencje.</para>
+        <para id="UUIDacee2f34-a13a-47c3-60ce-f3c967234d82">W rzeczywistości to, czy dochody są kontrolowane przez ojca, czy matkę, ma wpływ na konsumpcję w gospodarstwie domowym. Wiele badań przeprowadzonych w Wielkiej Brytanii i innych krajach wykazało, że kiedy matka kontroluje większą część dochodów, rodzina wydaje więcej na posiłki w restauracji, opiekę nad dziećmi i odzież damską, a mniej na alkohol i tytoń. Wyniki te sugerują, że przy udzielaniu pomocy rodzinom ubogim, zarówno w krajach o wysokich, jak i niskich dochodach, znaczenie ma nie tylko kwota wsparcia. Liczy się również to, który członek rodziny faktycznie otrzymuje środki.</para>
+      </note>
+    </section>
+    <section id="eip-113">
+      <title id="UUID104f29aa-0f2c-469e-5042-fa93c65eca5b">Model maksymalizacji użyteczności przy ograniczeniu budżetowym i jego zdolność do objaśniania rzeczywistości</title>
+      <para id="eip-idm272442720">Interakcje między cenami, ograniczeniem budżetowym i osobistymi preferencjami determinują wybory gospodarstwa domowego. Elastyczna i użyteczna terminologia maksymalizacji użyteczności daje ekonomistom słownictwo umożliwiające połączenie tych elementów. Jednak nawet ekonomiści nie zakładają, że ludzie chodzą w kółko przed sklepem, bankiem lub siedzibą pracodawcy, myśląc o swoich użytecznościach krańcowych, zanim wejdą do środka, podejmą pracę lub złożą depozyt na koncie oszczędnościowym. Ekonomiści są przekonani, że ludzie szukają satysfakcji lub użyteczności i często decydują się na niewielkie ograniczenie konsumpcji jednych dóbr, by zwiększyć nieznacznie konsumpcję innych. Jeśli akceptujemy te założenia, wówczas idea maksymalizujących użyteczność gospodarstw domowych stojących w obliczu ograniczeń budżetowych staje się bardzo bliska rzeczywistości.</para>
+      <para id="fs-idm47418064">Koncepcja ograniczenia budżetowego przypomina nam o wielu możliwych konsekwencjach zmian dochodów lub cen, a nie tylko o tych, które determinują zapotrzebowanie na jeden, konkretny produkt, co może wydawać się najbardziej oczywistym rodzajem oddziaływania.</para>
+    </section>
+    <section id="fs-idp98202976" class="summary">
+      <title id="UUID2bfc39c7-aa92-4227-64fa-dd5967377d3c">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idm111212224">Koncepcja ograniczenia budżetowego sugeruje, że w przypadku zmiany dochodu lub cen możliwe są różne reakcje. Gdy dochód rośnie, jednostki będą zgłaszać zapotrzebowanie na większą ilość dóbr normalnych, ale mniejszą ilość dóbr niższego rzędu. Gdy cena dobra rośnie, gospodarstwa domowe zazwyczaj będą zgłaszać zapotrzebowanie na mniejszą ilość tego dobra – ale to, czy zechcą znacznie mniejszej, czy tylko nieco mniejszej ilości, zależy od osobistych preferencji. Ponadto wyższa cena jednego dobra może prowadzić do wzrostu lub spadku popytu na inne dobro.</para>
+    </section>
+    <section id="fs-idp10924160" class="self-check-questions">
+      <title id="UUID0716a0e2-2596-4617-6ce5-6744a2526719">Pytania Self–Check</title>
+      <exercise id="fs-idm101555216">
+        <problem id="fs-idp54774032">
+          <para id="fs-idp68925904">Wskaż możliwe przyczyny, dla których spadek ceny danego dobra może prowadzić do wzrostu popytu na nie.</para>
+        </problem>
+        <solution id="fs-idp69830432">
+          <para id="fs-idm68110960">Jest to przeciwieństwo przykładu wyjaśnionego w tekście. Spadek ceny wywołuje efekt substytucyjny i efekt dochodowy. Zgodnie z efektem substytucyjnym, gdy dane dobro jest tańsze w stosunku do innych towarów kupowanych przez konsumenta, będzie on skłonny zwiększyć jego konsumpcję (i zmniejszyć konsumpcję innych). Z kolei zgodnie z efektem dochodowym po spadku ceny konsument może kupić te same dobra, co wcześniej i nadal mieć pieniądze na zakup kolejnych dóbr. Z obu powodów spadek ceny powoduje wzrost popytu.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp49918640">
+        <problem id="fs-idm32330624">
+          <para id="fs-idm38335520">Jako student pracujesz w niepełnym wymiarze godzin, ale twoi rodzice wysyłają ci również miesięczne kieszonkowe. Załóżmy, że w pewnym miesiącu zapomnieli przekazać ci pieniądze. Przedstaw na wykresie, jak wpłynie to na twoje ograniczenie budżetowe. Zakładając, że nabywasz tylko dobra normalne, co stanie się z zakupami, których dokonujesz?</para>
+        </problem>
+        <solution id="fs-idp9060944">
+          <para id="fs-idp59742224">Jest to negatywny efekt dochodowy. Ponieważ kieszonkowe od rodziców nie dotarło, twoje miesięczne dochody są mniejsze niż zwykle, a ograniczenie budżetowe przesuwa się w kierunku początku układu współrzędnych. Jeśli kupujesz tylko dobra normalne, spadek dochodów oznacza, że będziesz kupować mniej każdego dobra.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm37367504" class="review-questions">
+      <title id="UUID0d99fb5c-a751-473f-60ee-ad4714ef2657">Pytania Review</title>
+      <exercise id="fs-idm112385440">
+        <problem id="fs-idm44555152">
+          <para id="fs-idm7421680">Czy można co do zasady bezpiecznie założyć, że zmiana ceny dobra zawsze będzie miała największy wpływ na wielkość popytu na dane dobro, a nie na wielkość popytu na inne dobra? Uzasadnij odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm58019088">
+        <problem id="fs-idm97844400">
+          <para id="fs-idm93777520">Dlaczego zmiana dochodów powoduje równoległe przesunięcie ograniczenia budżetowego?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp12664992" class="critical-thinking">
+      <title id="UUID996bb743-df68-481a-5dcc-d3799955b0de">Pytania Critical Thinking</title>
+      <exercise id="fs-idp78811936">
+        <problem id="fs-idp71557392">
+          <para id="fs-idp70993216">Efekt dochodowy zależy od elastyczności dochodowej popytu na każde kupowane dobro. Jeśli jedno z nabywanych dóbr ma ujemną elastyczność dochodową, czyli jest dobrem niższego rzędu, co można powiedzieć o elastyczności dochodowej drugiego kupowanego dobra?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm33462560" class="problems">
+      <title id="UUID7dac5392-f897-4055-4647-d719fe4a53dd">Zadania</title>
+      <exercise id="fs-idp84292928">
+        <problem id="fs-idp70353792">
+          <para id="fs-idm12566640">Jeśli spadek ceny jednego kupowanego dobra o 10% powoduje zwiększenie popytu na to dobro o 8%, to czy dalszy spadek ceny o 10% spowoduje wzrost wielkości popytu o kolejne 8%?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDd85aacf0-5c5b-49c4-7b94-b5b3cac77b0f">
+    <definition id="fs-idm1632464">
+      <term id="UUID355c159d-81f0-4809-5574-ee16df4deb33">efekt dochodowy (ang. <foreign xml:lang="en" id="UUID586fae73-64d4-4283-41d6-a2fd93e547fe">income effect</foreign>)</term>
+      <meaning id="fs-idp63295472">
+        <para id="UUID05b7c342-1a28-4954-6968-c754d2927ebc">wyższa cena oznacza, że siła nabywcza dochodu zmalała, mimo że nominalny dochód się nie zmienił, może zmniejszać lub zwiększać zakupy danego dobra w zależności od tego, czy konsument postrzega je jako dobro niższego rzędu czy normalne</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp64677088">
+      <term id="UUIDc71335d7-0dac-4476-5f5e-cbea3e59d8b5">efekt substytucyjny (ang. <foreign xml:lang="en" id="UUIDf8b4ae3a-727f-44d0-51ee-574e97b14540">substitution effect</foreign>)</term>
+      <meaning id="fs-idp125927680">
+        <para id="UUID020841cd-c2c2-449b-5ecd-bfd8ce64250a">gdy cena się zmienia, konsumenci mają motywację, aby konsumować mniej dobra o stosunkowo wyższej cenie, a więcej dobra o stosunkowo niższej cenie</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U98933bb5-67a2-46cb-9b48-009c3473b484" id="U98933bb5-67a2-46cb-9b48-009c3473b484" xml:lang="en" cnxml-version="0.7">
+  <title>Elastyczność cenowa popytu i podaży</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00018</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Elastyczność cenowa popytu i podaży</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:53.712528832+00:00</md:version>
+    <md:created>2022-08-08T07:43:53.712528832+00:00</md:created>
+    <md:revised>2022-08-08T07:43:53.712528832+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>98933bb5-67a2-46cb-9b48-009c3473b484</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDce09892b-9f7f-445e-47ad-80ebda474485" class="learning-objectives">
+      <para id="delete_me">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID8ea7b4a9-a30e-4e79-5a21-7470a13f99d0">
+        <item id="UUID878e9ffe-9fe0-4f85-6083-36d415746707">
+          <para id="UUIDe49372d6-9f60-455e-5e89-6641d25bed95">Obliczyć cenową elastyczność popytu</para>
+        </item>
+        <item id="UUID56f04901-fc35-4bc1-6202-c4da0951768a">
+          <para id="UUID104c30a4-a105-458d-6d68-76b19ae5695b">Obliczyć cenową elastyczność podaży</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID86d03c57-dcd3-4dc6-57dc-6008870cd9b2">Zarówno krzywa popytu, jak i krzywa podaży pokazują zależność pomiędzy ceną rynkową a liczbą jednostek, na którą jest zapotrzebowanie lub która jest oferowana przez sprzedawców, <foreign xml:lang="la" id="UUIDb8a22242-4cc7-4160-745b-b215525cafef">ceteris paribus</foreign>.. <term cmlnle:reference="elastyczność cenowa" id="UUIDb0cc5415-b218-480e-692d-f7f222c46e29">Elastyczność cenowa</term> (ang. <foreign xml:lang="en" id="UUIDf48f1dfc-7e6f-4a4d-5b6e-f9cdc56674c3"><term cmlnle:reference="price elasticity" id="UUIDa4742f54-e30c-44c4-4fdb-03085324dab3">price elasticity</term></foreign>) to stosunek procentowej zmiany wielkości popytu (Q<sub>d</sub>) lub podaży (Q<sub>s</sub>) do wywołującej je procentowej zmiany ceny. <term cmlnle:reference="elastyczność cenowa popytu" id="UUID2f057413-9bb3-427b-6d05-1d777ea6195e">Elastyczność cenowa popytu</term> (ang. <foreign xml:lang="en" id="UUID346385c5-a186-4240-618f-3ebfed32eb5a"><term cmlnle:reference="price elasticity of demand" id="UUID877ecabb-8336-490a-7b3b-0863655fd0e1">price elasticity of demand</term></foreign>) to procentowa zmiana wielkości <emphasis effect="italics">zapotrzebowania</emphasis> na dane dobro lub usługę podzielona przez procentową zmianę ceny. <term cmlnle:reference="elastyczność cenowa podaży" id="UUIDa4ceeaa7-8351-462f-4f03-877a02a6d5c6">Elastyczność cenowa podaży</term> (ang. <foreign xml:lang="en" id="UUID1f1439d1-cd10-4674-7160-cc3a8bca35e2"><term cmlnle:reference="price elasticity of supply" id="UUIDe20d9289-fd87-4f10-402b-2542fa4254af">price elasticity of supply</term></foreign>) to procentowa zmiana <emphasis effect="italics">ilości oferowanej</emphasis> podzielona przez procentową zmianę ceny.</para>
+    <para id="UUID5958629d-80f8-4d96-7379-c9edabae644e">Aby w łatwy sposób wykorzystać kategorie elastyczności, możemy podzielić wartości, jakie przyjmuje ta zmienna, na trzy przedziały, klasyfikujące popyt lub podaż, dla których jest ona liczona, na elastyczne, nieelastyczne lub o elastyczności jednostkowej. Ponieważ w odniesieniu do większości dóbr i usług działa prawo popytu, tzn. że cena i wielkość zapotrzebowania zmieniają się w przeciwnych kierunkach, współczynnik elastyczności cenowej popytu jest zazwyczaj liczbą ujemną.</para>
+    <para id="UUIDa68e506a-ad64-4819-62ee-46662bdf3da2">Dlatego wartość współczynnika elastyczności cenowej popytu podaje się zwykle jako wartość bezwzględną, bez znaku ujemnego. W zestawieniu zawartym w <link target-id="Table_05_02" cmlnle:case="locative" id="UUID11bd5daa-01f7-4b07-4468-cec1d70ee2be" /> znajdują się wartości bezwzględne współczynnika elastyczności cenowej popytu. <term cmlnle:reference="popyt elastyczny" id="UUIDad1e9ce7-304a-445f-45f6-466f5ffa39dd">Elastyczny popyt</term> (ang. <foreign xml:lang="en" id="UUID64fe344b-ae9b-4aa9-4709-f9b4a12f4457"><term cmlnle:reference="elastic demand" id="UUIDfa90810b-e73f-4752-460f-fdeb84534060">elastic demand</term></foreign>) lub <term cmlnle:reference="podaż elastyczna" id="UUID138de742-ac4d-42a8-47c8-91d71147943b">elastyczna podaż</term> (ang. <foreign xml:lang="en" id="UUIDe8b67994-4d43-4038-6f5d-644ca66b5f3a"><term cmlnle:reference="elastic supply" id="UUID8b29b700-585d-4f29-7eca-c08329c19f99">elastic supply</term></foreign>) występują, gdy wartość współczynnika elastyczności cenowej popytu lub podaży jest większa niż 1, co oznacza, że reakcja zapotrzebowania lub ilości oferowanej na zmianę ceny jest silniejsza niż sama zmiana ceny. Elastyczności mniejsze niż 1 wskazują, że procentowa zmiana zapotrzebowania lub ilości oferowanej jest mniejsza niż wywołująca je zmiana ceny, co oznacza <term cmlnle:reference="popyt nieelastyczny" id="UUID4d572b06-a83e-4b53-614c-9dd1238a2d7e">nieelastyczny popyt</term> (ang. <foreign xml:lang="en" id="UUIDc905899b-d9ec-4159-5a27-e07501dba551"><term cmlnle:reference="inelastic demand" id="UUID3068fea4-8120-432a-7bf8-e6f2c9931598">inelastic demand</term></foreign>) lub <term cmlnle:reference="podaż nieelastyczna" id="UUIDc0a35d5b-1e54-4e24-7e6d-9df08b238c7a">nieelastyczną podaż</term> (ang. <foreign xml:lang="en" id="UUID06e11171-0a66-4246-61a3-0f5c746b8a0d"><term cmlnle:reference="inelastic supply" id="UUID48249d40-0186-4506-4706-f5eed93e0677">inelastic supply</term></foreign>). <term cmlnle:reference="elastyczność jednostkowa" id="UUID73a1c4ae-b7c6-4d15-59b9-03f3fbd5798e">Elastyczności jednostkowe</term> (ang. <foreign xml:lang="en" id="UUIDff59c709-d3c2-45dd-7156-4dd745037610"><term cmlnle:reference="unitary elasticity" id="UUID9c55d2a5-a129-4e93-400d-5ff209cd9f56">unitary elasticities</term></foreign>) wskazują na proporcjonalną (taką samą) zmianę zapotrzebowania lub ilości oferowanej w stosunku do wywołującej je zmiany ceny. Powyższe stwierdzenia podsumowuje <link target-id="Table_05_02" id="UUID47a53f90-16f1-410b-700f-40402defae0e" />.</para>
+    <table summary="If percentage change in quantity is greater than percentage change in price then percentage change in quantity divided by percentage change in price is greater than 1, and it is called “Elastic.” If percentage change in quantity is equal to percentage change in price then percentage change in quantity divided by percentage change in price is equal to 1, and it is called “Unitary.” If percentage change in quantity is less than percentage change in price then percentage change in quantity divided by percentage change in price is less than 1, and it is called “Inelastic.”" id="Table_05_01"><title id="UUID704d5026-hy65-88uy-913f3a176c4a58c1">Trzy przypadki elastyczności</title><tgroup cols="3" id="UUID704d5026-juyy-r6ee-0848d37aa8732aa3"><colspec colnum="1" colname="col1" id="UUID704d5026-554e-sdds-5e62f77fe64d170a" /><colspec colnum="2" colname="col2" id="UUID704d5026-6556-gfss-76e6cdec036cf078" /><colspec colnum="3" colname="col3" id="UUID704d5026-rgse-aasd-4a3ceab046875663" /><thead id="UUID704d5026-ggrd-ddew-913f3a176c4a58c1"><row id="UUID704d5026-ggff-yyrr-66f041d7ec59d7a7"><entry id="UUID704d5026-hhet-xf54-9bcce02ebaefdd2d">Jeżeli...</entry><entry id="UUID704d5026-3476-8788-67ac9998aeefc79b">To...</entry><entry id="UUID704d5026-9908-4464-1c36ab2fbffe4d21">Zmienna jest klasyfikowana jako...</entry></row></thead><tbody id="UUID704d5026-ttr5-4aa9-269f4081fddbca8c"><row id="UUID704d5026-4634-35c2-30055ebba138270e"><entry id="UUID704d5026-8895-20ab-e7cf068dc19cfb43"><equation id="UUID9adc61ea-b83f-4715-43f5-2828a24a41d7" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% zmiana ilości</mtext><mo>></mo><mtext>% zmiana ceny</mtext></math></equation></entry><entry id="UUID704d5026-77ht-33rw-f2304e8340735181"><equation id="UUID5f22f505-464f-4fb3-6e91-4641dab0874f" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% zmiana ilości</mtext></mrow><mrow><mtext>% zmiana ceny</mtext></mrow></mfrac><mo>></mo><mn>1</mn></math></equation></entry><entry id="UUID704d5026-2234-66hg-f2304e8340735181">elastyczna</entry></row><row id="UUID704d5026-g545-8856-30055ebba138270e"><entry id="UUID704d5026-gtrf-7f4r-e7cf068dc19cfb43"><equation id="UUID56c2675f-1718-4227-4c9b-88879531b915" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% zmiana ilości</mtext><mo> = </mo><mtext>% zmiana ceny</mtext></math></equation></entry><entry id="UUID704d5026-6yw3-9ngf-f2304e8340735181"><equation id="UUID4a488f34-3738-4a2e-40ba-acf0e74d6b6b" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% zmiana ilości</mtext></mrow><mrow><mtext>% zmiana ceny</mtext></mrow></mfrac><mo> = </mo><mn>1</mn></math></equation></entry><entry id="UUID704d5026-d523-niuu-f2304e8340735181">o elastyczności jednostkowej</entry></row><row id="UUID704d5026-nf55-88qw-30055ebba138270e"><entry id="UUID704d5026-fuck-64te-e7cf068dc19cfb43"><equation id="UUID3ab86f23-389e-4fd3-6471-2fa8f0d34cc8" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% zmiana ilości</mtext><mo>&lt;</mo><mtext>% zmiana ceny</mtext></math></equation></entry><entry id="UUID704d5026-btdd-uuuu-f2304e8340735181"><equation id="UUID343a8e33-639b-4048-49b4-75db29cbcc04" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% zmiana ilości</mtext></mrow><mrow><mtext>% zmiana ceny</mtext></mrow></mfrac><mo>&lt;</mo><mn>1</mn></math></equation></entry><entry id="UUID704d5026-se43-cccd-f2304e8340735181">nieelastyczna</entry></row></tbody></tgroup><caption id="UUID8396d45f-4356-bgtr-8zxb77y58m5ehfvg" /></table>
+    <note type="note" id="fs-idm4388720" class="economics linkup">
+      <para id="fs-idm132352">Zanim przeanalizujemy bardziej szczegółowo kwestie elastyczności, zapoznaj się z poniższym <link url="http://openstax.org/l/Super_Bowl" id="UUIDed3728b5-c8cb-45d9-7019-10d37ceff7f8">artykułem</link> dotyczącym elastyczności popytu i cen biletów na finał rozgrywek futbolu amerykańskiego Super Bowl.</para>
+    </note>
+    <para id="fs-idm47543904">Aby obliczyć elastyczność wzdłuż krzywej popytu lub podaży, ekonomiści używają średniej procentowej zmiany zarówno ilości, jak i ceny. Nazywa się to elastycznością łukową i jest reprezentowane następującymi równaniami:</para>
+    <equation id="UUID00b85cf1-d312-4b3e-56ca-7ea26b610653" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>% zmiana ilości</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><msub><mi mathvariant="normal">Q</mi><mn>2</mn></msub><mo> – </mo><mo /><msub><mi mathvariant="normal">Q</mi><mn>1</mn></msub></mrow><mrow><mfenced><mrow><msub><mi mathvariant="normal">Q</mi><mn>2</mn></msub><mo> + </mo><mo /><msub><mi mathvariant="normal">Q</mi><mn>1</mn></msub></mrow></mfenced><mn>/2</mn></mrow></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd><mtext>% zmiana ceny</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><msub><mi mathvariant="normal">P</mi><mn>2</mn></msub><mo> – </mo><mo /><msub><mi mathvariant="normal">P</mi><mn>1</mn></msub></mrow><mrow><mfenced><mrow><msub><mi mathvariant="normal">P</mi><mn>2</mn></msub><mo> + </mo><mo /><msub><mi mathvariant="normal">P</mi><mn>1</mn></msub></mrow></mfenced><mn>/2</mn></mrow></mfrac><mn> × 100</mn></mtd></mtr></mtable><mo /></math></equation>
+    <para id="fs-idm24209232">Zaletą <term cmlnle:reference="metoda łukowa pomiaru elastyczności" id="UUIDe692ff4c-17a5-46db-42df-a3ccf2b5870d">metody łukowej pomiaru elastyczności</term> (ang. <foreign xml:lang="en" id="UUID07ca8b98-a8e2-4cdf-412a-125df85a00b4"><term cmlnle:reference="midpoint method" id="UUIDd65a6071-9126-4631-4ece-ad80d305404f">midpoint method</term></foreign>) jest to, że uzyskuje się taką samą wartość elastyczności między dwoma punktami, niezależnie od tego, czy cena wzrasta, czy spada. Dzieje się tak, ponieważ do wzoru wchodzi w obu przypadkach ta sama podstawa (średnia ilość i średnia cena). Oczywiście, niekiedy liczy się również elastyczność punktową, wówczas zmiana wielkości zapotrzebowania (ilości oferowanej) jest odniesiona do wartości początkowej, a nie średniej z wartości początkowej i końcowej, tak jak w przypadku elastyczności łukowej.</para>
+    <section id="fs-idm7067040">
+      <title id="UUID5286505a-1951-4fe4-59f5-844bfe488bce">Obliczanie elastyczności cenowej popytu</title>
+      <para id="fs-idm52866832">Obliczmy elastyczność cenową popytu między punktami A i B oraz między punktami G i H jak na <link target-id="CNX_Econ_C05_003" cmlnle:case="locative" id="UUID2b1ce2da-06ad-4d5d-6cad-f405ccba575b" />.</para>
+      <figure id="CNX_Econ_C05_003">
+        <title id="UUID1de8544c-828f-4df5-436d-0b000e80c38c">Obliczanie elastyczności cenowej popytu</title>
+        <media alt="Wykres przedstawia opadającą linię, która jest graficzną ilustracją wyobrażonego popytu, dla którego można obliczyć elastyczność cenową." id="fs-idm48677648">
+          <image src="../../media//CNX_Econ_C05_003.svg" mime-type="image/svg+xml" id="UUIDadde5d88-d9ee-4e8c-4cd1-df7b04c2d2e7" />
+        </media>
+        <caption id="UUID6e760aab-faa8-42ca-7dd4-9ad65b7f50be">Elastyczność cenową popytu obliczamy jako procentową zmianę ilości podzieloną przez procentową zmianę ceny.</caption>
+      </figure>
+      <para id="UUID1b8cdf57-9eb7-4ece-544c-3f2300c0b802" class="unnumbered">Najpierw stosujemy wzór do obliczenia elastyczności, gdy cena spada z 70 jednostek pieniężnych w punkcie B do 60 w punkcie A:</para>
+      <equation id="UUIDd8df7be5-2da5-426a-7444-164b844df408" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnalign="right center left"><mtr><mtd><mtext>% zmiana ilości</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>3000</mn><mo> – </mo><mn>2800</mn></mrow><mrow><mo>(</mo><mn>3000</mn><mo> + </mo><mn>2800</mn><mo>)</mo><mo>/2</mo></mrow></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mfrac><mn>200</mn><mn>2900</mn></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>6,9</mn></mtd></mtr><mtr><mtd><mtext>% zmiana ceny</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>60</mn><mo> – </mo><mn>70</mn></mrow><mrow><mo>(</mo><mn>60</mn><mo> + </mo><mn>70</mn><mo>)</mo><mn>/2</mn></mrow></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>–10</mn></mrow><mn>65</mn></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>–15,4</mn></mtd></mtr><mtr><mtd><mtext>elastyczność cenowa popytu</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>6,9%</mn></mrow><mrow><mn>–15,4%</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>–0,45</mn></mtd></mtr></mtable></math></equation>
+      <para id="fs-idm46835880">A zatem wartość bezwzględna elastyczności popytu między tymi dwoma punktami wynosi 0,45. Jest to wartość mniejsza od jedności, co oznacza, że popyt w tym przedziale jest nieelastyczny. Przypomnijmy, że elastyczność cenowa popytu jest <emphasis effect="italics">zazwyczaj</emphasis> ujemna, ponieważ cena i wielkość zapotrzebowania z reguły zmieniają się w przeciwnych kierunkach (na krzywej popytu). Niemniej, zgodnie z konwencją przyjętą w tym podręczniku, będziemy traktować elastyczność jako wartość dodatnią. Z matematycznego punktu widzenia będziemy wykorzystywać wartość bezwzględną obliczonego wyniku. Od tej chwili ignorujemy ten szczegół, pamiętając o interpretowaniu elastyczności w kategoriach liczb dodatnich.</para>
+      <para id="fs-idm10131488">Oznacza to, że wzdłuż krzywej popytu między punktem B i A zmiana ceny o 1% wywołuje zmianę zapotrzebowania o 0,45% (czyli o mniej niż 1%). Jednoprocentowa zmiana ceny wywołuje procentowo mniejszą zmianę zapotrzebowania. Na przykład <emphasis effect="italics">wzrost</emphasis> ceny o 10% spowoduje <emphasis effect="italics">spadek</emphasis> wielkości zapotrzebowania jedynie o 4,5%. <emphasis effect="italics">Obniżenie</emphasis> ceny o 10% spowoduje <emphasis effect="italics">wzrost</emphasis> wielkości zapotrzebowania jedynie o 4,5%. Poniższa <link target-id="fs-idp486080" id="UUID0a6b2370-15f7-405a-4643-131cbe9091a7" /> przeprowadzi cię krok po kroku przez proces obliczania elastyczności cenowej popytu.</para>
+      <note type="note" id="fs-idp486080" class="economics workout">
+        <title id="UUID1acc0426-d0ac-4d6d-5b9c-344b5d2eb4cd">Obliczanie elastyczności cenowej popytu</title>
+        <para id="eip-977">Oblicz elastyczność cenową popytu na podstawie danych z <link target-id="CNX_Econ_C05_003" cmlnle:case="locative" id="UUID1f203e2c-d2f6-4bed-4a7b-797b263234ac" /> dla wzrostu ceny z punktu G do H. Czy elastyczność wzrosła, czy spadła?</para>
+        <para id="eip-430">Krok 1. Wiemy, że:</para>
+        <equation id="UUID38509936-6de1-4d83-50c3-a9c6a12e9bf7" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>elastyczność cenowa popytu</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mtext>% zmiana ilości</mtext></mrow><mrow><mtext>% zmiana ceny</mtext></mrow></mfrac></mtd></mtr></mtable></math></equation>
+        <para id="eip-223">Krok 2. Na podstawie wzoru na <term cmlnle:reference="elastyczność łukowa" id="term-00010" class="no-emphasis">elastyczność łukową</term> wiemy, że:</para>
+        <equation id="UUIDbaa52923-86b3-4348-5f98-d402b94a1ce5" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mo>% </mo><mtext>zmiana ilości</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><msub><mtext>Q</mtext><mn>2</mn></msub><mo> – </mo><msub><mtext>Q</mtext><mn>1</mn></msub></mrow><mrow><mo>(</mo><mrow><msub><mtext>Q</mtext><mn>2</mn></msub><mo> + </mo><msub><mtext>Q</mtext><mn>1</mn></msub></mrow><mo>)/2</mo></mrow></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd><mo>% </mo><mtext>zmiana ceny</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><msub><mtext>P</mtext><mn>2</mn></msub><mo> – </mo><msub><mtext>P</mtext><mn>1</mn></msub></mrow><mrow><mo>(</mo><mrow><msub><mtext>P</mtext><mn>2</mn></msub><mo> + </mo><msub><mtext>P</mtext><mn>1</mn></msub></mrow><mo>)/2</mo></mrow></mfrac><mo /><mn> × 100</mn></mtd></mtr></mtable></math></equation>
+        <para id="eip-110">Krok 3. Możemy więc użyć wartości podanych na wykresie w obu równaniach:</para>
+        <equation id="UUID108d8ed6-c7f4-4184-59e4-4ab330c25b8f" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>% zmiana ilości</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>1600</mn><mo> – </mo><mn>1800</mn></mrow><mrow><mo>(</mo><mrow><mn>1600</mn><mo> + </mo><mn>1800</mn></mrow><mo>)/2</mo></mrow></mfrac><mo> × </mo><mn>100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>–200</mn></mrow><mn>1700</mn></mfrac><mo> × </mo><mn>100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>–11,76</mn></mtd></mtr><mtr><mtd><mtext>% zmiana ceny</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>130</mn><mo> – </mo><mn>120</mn></mrow><mrow><mo>(</mo><mrow><mn>130</mn><mo> + </mo><mn>120</mn></mrow><mo>)/2</mo></mrow></mfrac><mo> × </mo><mn>100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mfrac><mn>10</mn><mn>125</mn></mfrac><mo> × </mo><mn>100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>8,0</mn></mtd></mtr></mtable></math></equation>
+        <para id="eip-843">Krok 4. Następnie możemy wykorzystać te wartości do obliczenia elastyczności cenowej popytu:</para>
+        <equation id="UUIDa30ad369-d350-4ca6-5d9e-447a8a2502a2" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>elastyczność cenowa popytu</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mtext>% zmiana ilości</mtext></mrow><mrow><mtext>% zmiana ceny</mtext></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>–11,76</mn></mrow><mn>8</mn></mfrac></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>–1,47</mn></mtd></mtr></mtable></math></equation>
+        <para id="fs-idm43676240">Wartość bezwzględna elastyczności popytu na odcinku między punktami G i H wynosi 1,47. Wartość elastyczności wyrażona w liczbach bezwzględnych wzrosła w miarę przesuwania się w górę wzdłuż <term cmlnle:reference="krzywa popytu" id="UUIDef6d02a9-fff0-4889-50b3-e76400bd8917">krzywej popytu</term> (ang. <foreign xml:lang="en" id="UUID8120bc93-a3e4-4770-5604-edbdc5c48b62"><term cmlnle:reference="demand curve" id="UUID5b82b728-e0c4-45b6-6a6c-73cba6486957">demand curve</term></foreign>) od punktów A i B do punktów G i H. Przypomnijmy, że elastyczność między punktami A i B wynosi 0,45. Popyt jest nieelastyczny między punktami A i B, a elastyczny między punktami G i H. To pokazuje nam, że elastyczność cenowa popytu zmienia się wzdłuż liniowej krzywej popytu.</para>
+      </note>
+    </section>
+    <section id="fs-idp9020112">
+      <title id="UUID1f91cc24-2a37-4b88-7784-284beebf035a">Obliczanie elastyczności cenowej podaży</title>
+      <para id="fs-idp11618672">Załóżmy, że typowe mieszkanie jest wynajmowane za 2600 zł miesięcznie i po tej cenie właściciele wynajmują 10 tys. lokali, jak pokazano na <link target-id="CNX_Econ_C05_023" cmlnle:case="locative" id="UUID2c6b87b0-90a9-4653-4911-0a111fffecdb" />. Kiedy cena wzrasta do 2800 zł miesięcznie, właściciele oferują na rynku 13 tys. lokali. O ile procent wzrasta liczba mieszkań oferowana na rynku? Jaka jest wrażliwość podaży na zmianę ceny?</para>
+      <figure id="CNX_Econ_C05_023">
+        <title id="UUIDd5ac6ab7-4378-4977-43c5-36d644e1bac7">Elastyczność cenowa podaży</title>
+        <media alt="Wykres przedstawia linię o nachyleniu dodatnim, która jest graficzną ilustracją podaży mieszkań na wynajem." id="fs-idp8354960">
+          <image src="../../media//CNX_Econ_C05_023.svg" mime-type="image/svg+xml" id="UUIDda0f60ef-ca85-426c-5ec0-d2c4a37da686" />
+        </media>
+        <caption id="UUIDf8be2fbe-7b15-48a2-4e7f-11cea00d9787">Obliczamy elastyczność cenową podaży jako procentową zmianę ilości oferowanej na rynku przez sprzedawców podzieloną przez procentową zmianę ceny.</caption>
+      </figure>
+      <para id="UUIDa57a5b77-d259-469f-669a-ddd0f0960e9d" />
+      <para id="UUID16b47972-7ca8-437c-4e6a-6b4761591284">Wykorzystując wzór na <term cmlnle:reference="metoda łukowa pomiaru elastyczności" id="UUID39341c57-37fc-4d78-5ef8-de1c52a3d48f">metodę łukową pomiaru elastyczności</term> (ang. <foreign xml:lang="en" id="UUID26ddae8f-3218-4203-797a-0af9e07e8824"><term cmlnle:reference="midpoint method" id="UUIDe22413c8-f563-413f-672c-a73214226eed">midpoint method</term></foreign>), mamy:</para>
+      <equation id="UUID3a09e6a9-be04-4ace-73b2-8297d000519e" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnalign="right center left"><mtr><mtd><mtext>% zmiana ilości</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>13000</mn><mo> – </mo><mn>10000</mn></mrow><mrow><mo>(</mo><mn>13000</mn><mo> + </mo><mn>10000</mn><mo>)/2</mo></mrow></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mfrac><mn>3000</mn><mn>11500</mn></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>26,1</mn></mtd></mtr><mtr><mtd><mtext>% zmiana ceny</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>700</mn><mo> – </mo><mn>650</mn></mrow><mrow><mo>(</mo><mn>700</mn><mo> + </mo><mn>650</mn><mo>)/2</mo></mrow></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mfrac><mn>50</mn><mn>675</mn></mfrac><mn> × 100</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>7,4</mn></mtd></mtr><mtr><mtd><mtext>elastyczność cenowa podaży</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>26,1%</mn></mrow><mrow><mn>7,4%</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>3,53</mn></mtd></mtr></mtable></math></equation>
+      <para id="fs-idm28012240">Podobnie jak elastyczność popytu, elastyczność podaży nie jest mierzona w żadnych jednostkach. Elastyczność to stosunek jednej zmiany procentowej do innej zmiany procentowej - nic więcej - i odczytujemy ją jako wartość bezwzględną. W tym przypadku wzrost ceny o 1% powoduje wzrost ilości oferowanej o 3,5%. Wartość współczynnika elastyczności cenowej podaży większa niż 1 oznacza, że procentowa zmiana ilości oferowanej jest większa niż procentowa zmiana ceny. Jeśli zaczynasz się zastanawiać, czy te obliczenia uwzględniają nachylenie krzywej, przeczytaj poniższą <link target-id="fs-idm35334384" cmlnle:case="accusative" id="UUID84c40827-4b76-4565-7b83-1aaf3113c312" />.</para>
+      <note type="note" id="fs-idm35334384" class="clearup economics">
+        <title id="UUID1e29e8b8-55a2-4e76-795f-aff5a0ac1a75">Czy elastyczność jest nachyleniem krzywej?</title>
+        <para id="fs-idm9625696">Częstym błędem jest mylenie nachylenia krzywej podaży lub popytu z jej elastycznością. Nachylenie to zmiana mierzona w jednostkach wzdłuż danej krzywej (zmiana y względem zmiany x). Na przykładna <link target-id="CNX_Econ_C05_003" cmlnle:case="locative" id="UUIDf428bd05-ecc8-404f-6938-de08e63dffac" /> w każdym punkcie na krzywej popytu spadek ceny o 10 jednostek pieniężnych powoduje wzrost zapotrzebowania o 200 w porównaniu z punktem po lewej stronie. Nachylenie wynosi –10/200 wzdłuż całej krzywej popytu i nie zmienia się. Elastyczność cenowa zmienia się jednak wzdłuż krzywej. Elastyczność między punktami A i B wynosiła 0,45 i wzrosła do 1,47 między punktami G i H. Elastyczność to zmiana <emphasis effect="italics">procentowa</emphasis>, która różni się sposobem obliczenia od nachylenia i ma inną interpretację.</para>
+        <para id="eip-88">Kiedy znajdujemy się na górnym końcu krzywej popytu, gdzie cena jest wysoka, a wielkość zapotrzebowania – niska, niewielka zmiana wielkości zapotrzebowania (nawet o jednostkę) jest dość duża w ujęciu procentowym. Z kolei zmiana ceny (np. o 1 zł) będzie o wiele mniej istotna w ujęciu procentowym, niż byłaby na dolnym odcinku krzywej popytu. Natomiast na dolnej części krzywej popytu, gdzie wielkość zapotrzebowania jest wysoka, jej zmiana o jednostkę będzie niewielka w ujęciu procentowym.</para>
+        <para id="eip-927">Tak więc na jednym końcu krzywej popytu, gdzie obserwujemy duże procentowe zmiany wielkości zapotrzebowania przy niewielkich procentowych zmianach ceny, wartość współczynnika elastyczności będzie wysoka, innymi słowy – popyt będzie względnie elastyczny. Natomiast na drugim krańcu krzywej popytu, nawet jeśli zmiana ceny jest analogiczna (czyli cena zmienia się o tyle samo jednostek pieniężnych) i wywołuje taką samą zmianę wielkości zapotrzebowania, to z uwagi na fakt, iż wartości zapotrzebowania są tu znacznie większe, a poziom cen niższy, procentowa zmiana wielkości zapotrzebowania jest mniejsza, a procentowa zmiana ceny – o wiele większa. Oznacza to, że na dole krzywej licznik ułamka będzie mały, a mianownik – duży, więc wartość współczynnika elastyczności będzie o wiele niższa, innymi słowy – popyt będzie nieelastyczny.</para>
+        <para id="eip-326">Gdy poruszamy się wzdłuż krzywej popytu, ilość i cena rosną lub maleją w zależności od tego, czy przesuwamy się w górę, czy w dół. A zatem wartości procentowe np. dla zmiany ceny o jedną jednostkę pieniężną lub zmiany ilości o jednostkę będą się także zmieniać, co oznacza, że stosunek tych zmian procentowych, a co za tym idzie elastyczność, ulegną zmianie.</para>
+      </note>
+    </section>
+    <section id="fs-idp17381808" class="summary">
+      <title id="UUID9357f09f-26ef-42ba-4e21-c1807ddedc5e">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idp10316160">Elastyczność cenowa mierzy reakcję zapotrzebowania lub ilości danego dobra oferowanej na rynku na zmianę jego ceny. Obliczamy ją jako względną (procentową) zmianę zapotrzebowania (lub ilości oferowanej na rynku) podzieloną przez względną (procentową) zmianę ceny. Popyt lub podaż mogą być elastyczne (bardzo wrażliwe), o elastyczności jednostkowej lub nieelastyczne (mało wrażliwe). Elastyczny popyt lub podaż wskazują, że zapotrzebowanie lub ilość oferowana reagują na zmiany cen w sposób bardziej niż proporcjonalny. Nieelastyczne popyt lub podaży to takie, w wypadku których dana względna zmiana ceny powoduje mniejszą co do skali względną zmianę wielkości zapotrzebowania i ilości oferowanej. Elastyczność jednostkowa oznacza, że dana procentowa zmiana ceny prowadzi do takiej samej procentowej zmiany zapotrzebowania lub ilości oferowanej.</para>
+    </section>
+    <section id="fs-idp16124064" class="self-check-questions">
+      <title id="UUID8e75eb50-a307-4941-60c2-94a50ea692a5">Pytania Self-Check</title>
+      <exercise id="fs-idp16086976">
+        <problem id="fs-idp13810096">
+          <para id="fs-idp20371552">Na podstawie danych z <link target-id="Table_05_02" cmlnle:case="genitive" id="UUID8bbd259d-5cef-4235-45bf-8155bb514652" />, dotyczących zapotrzebowania na używane smartfony, oblicz elastyczność cenową popytu przy wzroście ceny: na obszarze pomiędzy punktami B i C, D i E oraz G i H. Za każdym razem oceń, czy popyt jest elastyczny, nieelastyczny, czy może ma elastyczność jednostkową.</para>
+          <table summary="For A, P = 60 and Q = 3,000. For B, P = 70 and Q = 2,800. For C, P = 80 and Q = 2,600. For D, P = 90 and Q = 2,400. For E, P = 100 and Q = 2,200. For F, P = 110 and Q = 2,000. For G, P = 120 and Q = 1,800. For H, P = 130 and Q = 1,600." id="Table_05_02" class="narrow-table"><title id="UUID704d5026-mkkj-4343-913f3a176c4a58c1" /><tgroup cols="3" id="UUID704d5026-40cd-f69a-0848d37aa8732aa3"><colspec colnum="1" colname="col1" id="UUID704d5026-183d-37ff-5e62f77fe64d170a" /><colspec colnum="2" colname="col2" id="UUID704d5026-27d8-75b1-76e6cdec036cf078" /><colspec colnum="3" colname="col3" id="UUID704d5026-4fe9-68c7-4a3ceab046875663" /><thead id="UUID704d5026-2266-319b-913f3a176c4a58c1"><row id="UUID704d5026-6ec0-2d0d-66f041d7ec59d7a7"><entry id="UUID704d5026-4c6d-860c-9bcce02ebaefdd2d">Punkt</entry><entry id="UUID704d5026-3390-960a-67ac9998aeefc79b">P</entry><entry id="UUID704d5026-87f4-3a34-1c36ab2fbffe4d21">Q</entry></row></thead><tbody id="UUID704d5026-051f-4aa9-269f4081fddbca8c"><row id="UUID704d5026-8445-35c2-30055ebba138270e"><entry id="UUID704d5026-3286-4a89-ca06669facc79c86">A</entry><entry id="UUID704d5026-16c8-20ab-e7cf068dc19cfb43">60</entry><entry id="UUID704d5026-68a1-2771-284ab55a37280012">3000</entry></row><row id="UUID704d5026-eb50-28a0-d36511f7aea237ee"><entry id="UUID704d5026-bbfa-97ec-f2304e8340735181">B</entry><entry id="UUID704d5026-f984-6d0f-97160d8727fc3ed3">70</entry><entry id="UUID704d5026-62fa-30ee-59472bd15d08a874">2 800</entry></row><row id="UUID704d5026-503c-ed2d-23aa6f0449baf0ce"><entry id="UUID704d5026-a4ee-c693-9ea7e74d460d120c">C</entry><entry id="UUID704d5026-f1a4-e65f-836f64e53663ae7f">80</entry><entry id="UUID704d5026-616f-9181-ff10026852aa502a">2600</entry></row><row id="UUID704d5026-2d7e-5431-ca2b6079ddacb0fa"><entry id="UUID704d5026-2470-285a-da9b8a62ab44564e">D</entry><entry id="UUID704d5026-7491-f9f7-276af7de9bea70e3">90</entry><entry id="UUID704d5026-5329-0578-f907f8afb15fe2da">2400</entry></row><row id="UUID704d5026-6707-6df3-cb90c1e56f7a46a7"><entry id="UUID704d5026-8ad4-0bd9-e9d03900b7ce4489">E</entry><entry id="UUID704d5026-4839-5cb8-f75b510ccf96afbb">100</entry><entry id="UUID704d5026-876b-dedf-e18fff7793674d43">2200</entry></row><row id="UUID704d5026-2c06-337d-a1a7cc75a7bcab58"><entry id="UUID704d5026-28d3-6aff-390ecc87f7cae0b0">F</entry><entry id="UUID704d5026-aa98-f272-3ad5838a292e5a59">110</entry><entry id="UUID704d5026-6028-d72a-6a4de8f6964c5a46">2000</entry></row><row id="UUID704d5026-fbff-f0d2-d92d44dc4fcecfd1"><entry id="UUID704d5026-8772-b545-3822548286ff306c">G</entry><entry id="UUID704d5026-6fba-5da2-ac11c49edfa10da0">120</entry><entry id="UUID704d5026-0e18-77ed-d4f89f8b9eb88849">1800</entry></row><row id="UUID704d5026-7a87-9121-fcf6b87fcb60c3c0"><entry id="UUID704d5026-0379-8f2f-9b43dc3716eead1d">H</entry><entry id="UUID704d5026-2919-e63c-630d65657dbff05c">130</entry><entry id="UUID704d5026-8bd5-f01e-57392383a6beed0a">1600</entry></row></tbody></tgroup><caption id="UUID8396d45f-frre-loop-8zxb77y58m5ehfvg" /></table>
+        </problem>
+        <solution id="fs-idp8787376">
+          <para id="fs-idp19486576">Przesuwając się z punktu B do punktu C, cena wzrasta z 70 do 80 jednostek pieniężnych, a zapotrzebowanie spada z 2800 do 2600. A zatem popyt jest nieelastyczny, gdyż wartość współczynnika elastyczności cenowej popytu jest mniejsza niż 1.</para>
+          <para id="UUIDd3ed99df-d5a7-4b5e-6b9c-8e30019e7828">Przesuwając się z punktu D do punktu E - popyt jest nieelastyczny, gdyż wartość współczynnika elastyczności cenowej popytu jest mniejsza niż 1.</para>
+          <para id="UUID42c21b7a-e164-4712-7f0f-c03bd438b304">Przesuwając się z punktu G do punktu H - popyt jest elastyczny, gdyż wartość współczynnika elastyczności cenowej popytu jest większa niż 1.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm14629328">
+        <problem id="fs-idm19516752">
+          <para id="fs-idm9504672">Na podstawie danych z <link target-id="Table_05_03" cmlnle:case="dative" id="UUIDadc94eae-fc2b-45e3-4da4-7044b5ab34e3" />, odnoszących się do liczby budzików oferowanej na rynku, oblicz elastyczność cenową podaży przy wzroście ceny: na obszarze pomiędzy punktami J i K, L i M oraz N i P. Za każdym razem oceń, czy podaż jest elastyczna, nieelastyczna, czy może ma elastyczność jednostkową.</para>
+          <table summary="For J, Price = $8 and Quantity Supplied = 50. For K, Price = $9 and Quantity supplied = 70. For L, Price = $10 and Quantity supplied = 80. For M, Price = $11 and Quantity supplied = 88. For N, Price = $12 and Quantity supplied = 95. For P, Price = $13 and Quantity supplied = 100." id="Table_05_03" class="narrow-table"><title id="UUID704d5026-nyte-ad35-913f3a176c4a58c1" /><tgroup cols="3" id="UUID704d5026-ef3a-e5be-dddcec0380d98723"><colspec colnum="1" colname="col1" id="UUID704d5026-7748-6d19-09e0c5edd58eff23" /><colspec colnum="2" colname="col2" id="UUID704d5026-ee6a-5fc2-7ff2b3dcda833cb2" /><colspec colnum="3" colname="col3" id="UUID704d5026-2d35-41d2-2dc79cdf32ee4c14" /><thead id="UUID704d5026-cec0-6c11-204902257cb56129"><row id="UUID704d5026-9c58-07f8-0de2bfc39eb73245"><entry id="UUID704d5026-f998-9ab0-cd43e1386e7ab2c0">Punkt</entry><entry id="UUID704d5026-6bc6-ed5a-58021056e5a06651">P</entry><entry id="UUID66c8b937-0eda-4831-5a37-d39363c7f7ac">Q</entry></row></thead><tbody id="UUID704d5026-61f0-6f55-026eb915524012d4"><row id="UUID704d5026-0650-1ef6-f05e9060c152018a"><entry id="UUID704d5026-479f-26dd-d338a4d9b4de7ed0">J</entry><entry id="UUID704d5026-09b6-287a-cda25d25ea4147fe"> 8</entry><entry id="UUID704d5026-1468-5a49-88523e7a71dccece">50</entry></row><row id="UUID704d5026-4021-b384-6e1e336cc1b02fc2"><entry id="UUID704d5026-585c-812b-aad9109a87f8a272">K</entry><entry id="UUID704d5026-7862-9099-949b97226d259197">9</entry><entry id="UUID704d5026-2b85-24fc-3a2afd06b9801d5e">70</entry></row><row id="UUID704d5026-4962-035f-b05df689486cd006"><entry id="UUID704d5026-6d1c-909b-5c1b4ed4ea12b51e">L</entry><entry id="UUID704d5026-46f7-46f9-f5b049216d28da32">10</entry><entry id="UUID704d5026-c746-4ee8-93537c7877bac617">80</entry></row><row id="UUID704d5026-71eb-b99f-b29ae87442c9ab9d"><entry id="UUID704d5026-38a3-b1a6-76a7c2de7c9210a5">M</entry><entry id="UUID704d5026-2212-b65d-30e3466143f624e6">11</entry><entry id="UUID704d5026-d8cc-7f09-2bafa8e42cda77d2">88</entry></row><row id="UUID704d5026-43bf-92e5-7796ba36e5c5776e"><entry id="UUID704d5026-1134-774f-8bd46651f4cfd697">N</entry><entry id="UUID704d5026-c2bc-39f6-67518407369df3cf">12</entry><entry id="UUID704d5026-ffbf-cb75-86fd55d958642bb6">95</entry></row><row id="UUID704d5026-7e35-84b0-2c72fff8f18e2897"><entry id="UUID704d5026-9fa6-6c5d-c0fc2e433525c373">P</entry><entry id="UUID704d5026-01dd-7fdf-27be9102b0496be3">13</entry><entry id="UUID704d5026-d496-8b09-b7e959621d6b20b0">100</entry></row></tbody></tgroup><caption id="UUID8396d45f-9iu7-lool-8zxb77y58m5ehfvg" /></table>
+        </problem>
+        <solution id="fs-idp17112768">
+          <para id="fs-idp14357824">Przesuwając się z punktu J do punktu K, cena wzrasta z 8 do 9 jednostek pieniężnych, a ilość rośnie z 50 do 70. Czyli podaż jest elastyczna, tzn. jej elastyczność jest większa niż 1.</para>
+          <para id="UUIDe6929fa1-45f7-45da-6419-9ecfb404cb49">Przesuwając się z punktu L do punktu M, cena wzrasta z 10 do 11 jednostek, podczas gdy liczba budzików oferowana na rynku rośnie z 80 do 88, co oznacza, że podaż ma elastyczność jednostkową.</para>
+          <para id="UUIDe606e622-64dc-469b-4392-94754e4b0942">Przesuwając się z punktu N do punktu P, cena wzrasta z 12 do 13 jednostek, zaś liczba budzików oferowana na rynku rośnie z 95 do 100, podaż jest więc nieelastyczna - jej wartość jest mniejsza niż 1.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm18385184" class="review-questions">
+      <title id="UUIDf2c83f1c-521f-4136-5b1d-30041e16dd10">Pytania Review</title>
+      <exercise id="fs-idp18359552">
+        <problem id="fs-idp7772192">
+          <para id="fs-idm16908240">Jaki jest wzór na elastyczność cenową popytu?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp21393520">
+        <problem id="fs-idp6305984">
+          <para id="fs-idm75959392">Czym jest elastyczność cenowa popytu? Spróbuj to wyjaśnić własnymi słowami.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp19511776">
+        <problem id="fs-idp10293392">
+          <para id="fs-idm25657376">Czym jest elastyczność cenowa podaży? Czy możesz to wyjaśnić własnymi słowami?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm22494896" class="critical-thinking">
+      <title id="UUID3f365f7e-8a2c-4628-4681-8914f2982295">Pytania Critical Thinking</title>
+      <exercise id="fs-idp21036976">
+        <problem id="fs-idm21582096">
+          <para id="fs-idp15550176">Transatlantyckie podróże lotnicze w klasie biznes mają szacunkową wartość współczynnika elastyczności cenowej popytu na poziomie 0,62, podczas gdy transatlantyckie podróże lotnicze w klasie ekonomicznej mają szacowaną wartość współczynnika elastyczności cenowej popytu na poziomie 0,12. Jak myślisz, dlaczego tak jest?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp22382384">
+        <problem id="fs-idp20937904">
+          <para id="fs-idp17479632">Jaka jest zależność między wartością współczynnika elastyczności cenowej popytu a punktem na krzywej popytu? Na przykład gdy przesuwasz się w górę krzywej popytu, do wyższych cen i mniejszych ilości, co się dzieje z wartością współczynnika elastyczności cenowej popytu? Jak można to wytłumaczyć?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm10272" class="problems">
+      <title id="UUID6b4f36ab-d30a-4aa5-474f-7d0756453b1f">Zadania</title>
+      <exercise id="fs-idm24878656">
+        <problem id="fs-idm16398528">
+          <para id="fs-idm5772720">Równanie krzywej popytu to P = 48 – 3Q. Ile wynosi wartość współczynnika elastyczności cenowej popytu przy zmianie zapotrzebowania z 5 do 6?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp17107200">
+        <problem id="fs-idp18185280">
+          <para id="fs-idp21392496">Równanie krzywej popytu to P = 2/Q. Jaka jest wartość współczynnika elastyczności cenowej popytu, gdy cena spada z 5 do 4? Jaka jest wartość współczynnika elastyczności cenowej popytu, gdy cena spada z 9 do 8? Czy można by oczekiwać, że te odpowiedzi będą takie same?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp27862512">
+        <problem id="fs-idp16671904">
+          <para id="fs-idp14162688">Równanie krzywej podaży to 4P = Q. Jaka jest wartość współczynnika elastyczności cenowej podaży przy wzroście ceny z 3 do 4? Jaka jest wartość współczynnika elastyczności cenowej podaży przy wzroście ceny z 7 do 8? Czy można by oczekiwać, że te odpowiedzi będą takie same?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp21171984">
+        <problem id="fs-idm10349376">
+          <para id="fs-idp504864">Równanie krzywej podaży to P = 3Q – 8. Ile wynosi wartość współczynnika elastyczności cenowej podaży przy zmianie ceny z 4 do 7?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID475a5f5c-24f0-4b94-4b65-cc359a5f470f">
+    <definition id="fs-idm61561936">
+      <term id="UUID805ad77c-78ea-47e6-7999-08a7fefd2975">popyt elastyczny (ang. <foreign xml:lang="en" id="UUIDcfe73591-d088-49f8-44ed-3a715b16e3e0">elastic demand</foreign>)</term>
+      <meaning id="fs-idm96710288">
+        <para id="UUIDd06d912e-4f4a-4b18-44f2-6c86c2bd0d1d">wartość współczynnika elastyczności cenowej popytu jest większa niż 1, co wskazuje na wysoką wrażliwość zapotrzebowania na zmiany cen rynkowych</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm24173824">
+      <term id="UUID281636cc-a0aa-44a1-424d-f474ebde7c7d">podaż elastyczna (ang. <foreign xml:lang="en" id="UUIDd7af694d-1b9e-4905-4581-ad8b83fb6b5a">elastic supply</foreign>)</term>
+      <meaning id="fs-idm25832416">
+        <para id="UUID8ca40727-c68c-4eba-570d-18f020b8e760">wartość współczynnika elastyczności cenowej podaży jest większa niż 1, co wskazuje na wysoką wrażliwość ilości oferowanej na rynku na zmiany cen rynkowych</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm33564032">
+      <term id="UUID6131dee8-c047-469b-5cd4-d95dddb0a033">elastyczność (ang. <foreign xml:lang="en" id="UUID1363c8be-49c3-4bb8-55c4-d58446854864">elasticity</foreign>)</term>
+      <meaning id="fs-idm30931216">
+        <para id="UUID264ea6f6-176f-457a-65f5-ebe3c984ef52">koncepcja ekonomiczna, która mierzy wrażliwość jednej zmiennej na zmiany innej zmiennej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp7341184">
+      <term id="UUID308f3a31-0d6e-4182-4f11-b0050ee4426a">popyt nieelastyczny (ang. <foreign xml:lang="en" id="UUID8b62a225-0d98-445f-7cb8-a63b244b5092">inelastic demand</foreign>)</term>
+      <meaning id="fs-idm56193856">
+        <para id="UUID9bddb850-c923-4d53-5726-429faa986a2b">wartość współczynnika elastyczności cenowej popytu jest mniejsza niż 1, co oznacza, że wzrost ceny rynkowej o 1 % prowadzi do zmiany zapotrzebowania o mniej niż 1 % (i odwrotnie); wskazuje to na słabą reakcję konsumentów na zmiany cen rynkowych</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm43731456">
+      <term id="UUIDf32faef6-a220-42d2-4f8a-55b7a796fce1">podaż nieelastyczna (ang. <foreign xml:lang="en" id="UUIDcfca5daf-6869-4aa6-4f3d-3427e4f11b43">inelastic supply</foreign>)</term>
+      <meaning id="fs-idm47192112">
+        <para id="UUID617e5192-0261-4c5f-7a0e-3f25dce8a53a">wartość współczynnika elastyczności cenowej podaży jest mniejsza niż 1, co oznacza, że wzrost ceny rynkowej o 1% powoduje wzrost ilości oferowanej na rynku o mniej niż 1%; wskazuje to na słabą reakcję przedsiębiorstwa na wzrost cen rynkowych (i analogicznie na spadek cen)</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm13676144">
+      <term id="UUID19923536-92f0-4f18-7d01-8c561e0006d0">elastyczność cenowa (ang. <foreign xml:lang="en" id="UUIDbc307b4a-5e92-4bb6-4850-ae72e08fced4">price elasticity</foreign>)</term>
+      <meaning id="fs-idm41290704">
+        <para id="UUID08e9526c-52a7-4e2c-608d-389bb9c2b5bb">zależność między względną zmianą ceny rynkowej a wynikającą z niej odpowiednią względną zmianą wielkości popytu lub podaży</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm116073520">
+      <term id="UUIDf03de37c-a929-481f-4f4b-0cf8f341b2d9">elastyczność cenowa popytu (ang. <foreign xml:lang="en" id="UUIDacae2d9b-c945-4b53-4b6c-60128067e384">price elasticity of demand</foreign>)</term>
+      <meaning id="fs-idm37427392">
+        <para id="UUID0f098268-be82-498f-5c6d-76358d107c46">względna zmiana wielkości <emphasis effect="italics">zapotrzebowania</emphasis> na dobro lub usługę podzielona przez względną zmianę ceny rynkowej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm43138848">
+      <term id="UUID711290dd-c05b-4020-73f0-8badda477431">elastyczność cenowa podaży (ang. <foreign xml:lang="en" id="UUID5a91b1c5-8a67-4296-5181-a012c84dc238">price elasticity of supply</foreign>)</term>
+      <meaning id="fs-idm8551152">
+        <para id="UUIDa79d934b-c21c-4c8b-7fb6-2b20b567ea67">względna zmiana ilości <emphasis effect="italics">oferowanej</emphasis> podzielona przez względną zmianę ceny rynkowej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm23185328">
+      <term id="UUID2b2011b5-fb67-4ae2-609c-b47c6bce1a48">elastyczność jednostkowa (ang. <foreign xml:lang="en" id="UUID0e858ae9-7334-4f74-7437-a9f3ba553291">unitary elasticity</foreign>)</term>
+      <meaning id="fs-idm6079792">
+        <para id="UUIDc11c6aa2-4c36-4e5e-78d7-8fde0fadceb8">sytuacja, w której zmiana ceny rynkowej dobra lub usługi powoduje jednakowo proporcjonalną zmianę wielkości zapotrzebowania lub ilości oferowanej na rynku; w przypadku elastyczności jednostkowej wartość współczynnika elastyczności cenowej jest równa 1</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

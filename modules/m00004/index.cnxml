@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U5283dea7-389d-4dfb-a16b-50fb2edf0181" id="U5283dea7-389d-4dfb-a16b-50fb2edf0181" xml:lang="en" cnxml-version="0.7" class="">
+  <title>Mikroekonomia i Makroekonomia</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00004</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Mikroekonomia i Makroekonomia</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:50.965381168+00:00</md:version>
+    <md:created>2022-08-08T07:43:50.965381168+00:00</md:created>
+    <md:revised>2022-08-08T07:43:50.965381168+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>5283dea7-389d-4dfb-a16b-50fb2edf0181</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDdf771d07-d194-4966-4b88-a9dca8a650e1" class="learning-objectives">
+      <para id="UUIDcd6ec393-953b-4d18-40cd-b1704efe637d">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID9251aa45-ac27-4a62-4bbd-975c83ae475d">
+        <item id="UUID77fc47c6-c5c5-4496-7996-aeb0a4e3df22">
+          <para id="UUID538c45de-9dc1-4713-52f2-60fc628b8588">Opisać, czym zajmuje się mikroekonomia</para>
+        </item>
+        <item id="UUID3a59cf29-a71b-4f17-76d4-cdca07b6a5c5">
+          <para id="UUID3dc33360-5be0-4b41-518a-95fd85faa7f3">Określić zakres zainteresowań makroekonomii</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID45d63204-662e-4f44-69ec-ebab98ba2969">Ekonomia zajmuje się dobrem <emphasis effect="italics">wszystkich</emphasis> ludzi, zarówno pracujących, jak i pozostających bez pracy, tych o wysokich i tych o niskich dochodach. Dla ekonomistów konstatacja, iż produkcja użytecznych dóbr i usług może stwarzać problemy związane z zanieczyszczeniem środowiska, jest oczywista. Ekonomiści analizują, jak inwestycje w edukację pomagają rozwijać umiejętności pracowników. Ludzie zajmujący się zawodowo ekonomią opracowują metody pozwalające stwierdzić, kiedy duże przedsiębiorstwa lub największe związki zawodowe działają w sposób korzystny dla całego społeczeństwa, a kiedy ich posunięcia przynoszą korzyść wyłącznie ich właścicielom lub członkom organizacji. Ekonomiści zastanawiają się również, jak wydatki rządowe, podatki i regulacje wpływają na decyzje dotyczące produkcji i konsumpcji.</para>
+    <para id="UUIDcab70a30-23a8-4236-5259-662cb6e67f92">Powinno być już jasne, że ekonomia obejmuje znaczną liczbę zagadnień. Możemy podzielić ten obszar zainteresowań na dwie części. <term cmlnle:reference="mikroekonomia" id="UUIDfed08410-98ee-442d-47a7-86286e8291fb">Mikroekonomia</term> (ang. <foreign xml:lang="en" id="UUID05a6157d-5f64-4d2f-60d7-bbcc41dc9fc1"><term cxlxt:index="foreign" id="UUID8ec459b4-7a28-4213-5e74-7be3c2bbaded">microeconomics</term></foreign>) skupia się na działaniach poszczególnych podmiotów w gospodarce, takich jak gospodarstwa domowe, pracownicy i przedsiębiorstwa. <term cmlnle:reference="makroekonomia" id="UUIDca9cc5c3-dc00-4e20-6b28-4ef83c3677c8">Makroekonomia</term> (ang. <foreign xml:lang="en" id="UUIDeedbf3a5-d4dd-4040-5279-74c97d3c93aa"><term cxlxt:index="foreign" id="UUIDe6855611-658e-48cc-7a73-04cb8d1fe94d">macroeconomics</term></foreign>) natomiast koncentruje się na całościowym spojrzeniu na gospodarkę. Obszar jej zainteresowań tworzą zagadnienia takie, jak wzrost produkcji, liczba bezrobotnych, wzrost cen, saldo budżetu i szerzej – sektora finansów publicznych oraz poziom eksportu i importu. Mikroekonomia i makroekonomia nie są odrębnymi dyscyplinami naukowymi, ale raczej komplementarnymi sposobami analizowania tego, co dzieje się w gospodarce. W dalszej części tego rozdziału wrócimy jeszcze do kwestii rozróżnienia pomiędzy mikro- i makroekonomią i pokażemy, w jaki sposób metoda pracy ekonomistów wpływa na obszar zainteresowań obu sposobów analizy.</para>
+    <para id="UUIDc5ed4cdf-2947-4522-633c-beb2569c0a59">Aby zrozumieć, dlaczego obie perspektywy – mikro- i makroekonomiczna – są przydatne, rozważ problem badania ekosystemu biologicznego, jakim jest jezioro. Jedna z osób badających akwen może skupić się na konkretnych zagadnieniach: pewnych rodzajach glonów lub roślin; cechach poszczególnych ryb lub ślimaków; albo drzew porastających brzegi. Inna może potraktować obiekt badań całościowo: przeanalizować łańcuchy pokarmowe, zastanowić się, dzięki czemu ekosystem pozostaje w ogólnej równowadze i w jaki sposób zmiany w środowisku wpływają na tę równowagę. Oba podejścia są przydatne, przedmiotem obu jest to samo jezioro, ale punkty widzenia są różne. W podobny sposób mikro- i makroekonomia biorą pod lupę tę samą gospodarkę, ale każda z nich ma inną perspektywę.</para>
+    <para id="UUID17d759de-376d-43fb-4a5a-6d2cf3225b8f">Niezależnie od tego, czy zajmujesz się zbiornikami wodnymi, czy ekonomią, spostrzeżenia mikro i makro powinny się ze sobą łączyć. Podczas badania jeziora mikrospostrzeżenia na temat poszczególnych gatunków ułatwiają zrozumienie zależności w ramach łańcucha pokarmowego, podczas gdy makrospostrzeżenia dotyczące zależności pomiędzy biocenozą i biotopem pomagają wyjaśnić dostosowania anatomiczne i fizjologiczne poszczególnych roślin i zwierząt zamieszkujących ten ekosystem.</para>
+    <para id="UUIDec3a518e-065e-44e2-6ad0-fcb6fdc99522">W ekonomii na decyzje poszczególnych przedsiębiorstw wpływa to, czy gospodarka w skali makro działa sprawnie. Na przykład przedsiębiorstwa będą bardziej skłonne do zatrudniania pracowników, jeśli cała gospodarka będzie się dobrze rozwijać. Z kolei efekty makro ostatecznie zależą od decyzji mikroekonomicznych podejmowanych przez poszczególne gospodarstwa domowe i przedsiębiorstwa.</para>
+    <section id="fs-idp49079232">
+      <title id="UUID6175055c-f8d3-42b1-7701-e65befc8f8ce">Mikroekonomia</title>
+      <para id="UUIDf72d978e-21a9-4838-6441-3d424d4fc137">Od czego zależy sposób wydatkowania przez gospodarstwa domowe i pojedyncze osoby ich budżetów? Jaka kombinacja towarów i usług będzie najlepiej odpowiadać ich potrzebom i pragnieniom, a przy tym uwzględniać ograniczenia budżetowe, w ramach których muszą funkcjonować? W jaki sposób ludzie decydują, czy chcą pracować, a jeśli tak, to czy zamierzają pracować w pełnym, czy niepełnym wymiarze godzin? Jak podejmowane są decyzje dotyczące tego, ile zaoszczędzić na przyszłość lub czy bezpiecznie jest pożyczać, aby wydawać więcej, niż się aktualnie zarabia?</para>
+      <para id="UUIDbb395eef-d34b-4b7f-4157-fac5ed0a6e1b">Jakie czynniki decydują o tym, co jest produkowane w danym przedsiębiorstwie i jaki będzie wolumen produkcji w konkretnym okresie? Co determinuje poziom cen, po jakich przedsiębiorstwo sprzedaje swoje towary? Co decyduje o tym, w jaki sposób przedsiębiorstwo będzie wytwarzać swoje produkty? Od czego zależy, ilu pracowników zatrudni? Jak firma będzie finansować własną działalność? W jakiej sytuacji zdecyduje się ją rozszerzyć, zawęzić, a nawet zakończyć? Ten podręcznik pozwoli na zapoznanie się z teorią zachowań konsumentów, sposobami i zasadami funkcjonowania przedsiębiorstw, pokaże sposób działania rynków pracy i rynków innych czynników produkcji. Umożliwi także odpowiedź na pytanie, dlaczego rynki czasami nie funkcjonują prawidłowo.</para>
+    </section>
+    <section id="fs-idm89833200">
+      <title id="UUIDd3f6d636-c477-494f-76ea-bcc3048c8ba0">Makroekonomia</title>
+      <para id="UUID016efbf5-478e-496e-715b-2f89c262d0a5">Od czego zależy poziom aktywności ekonomicznej w społeczeństwie? Innymi słowy, co decyduje o tym, ile dóbr i usług faktycznie produkuje dany kraj? Jakie czynniki determinują liczbę dostępnych w gospodarce miejsc pracy? Co wyznacza standard życia społeczeństwa? Co powoduje, że gospodarka przyspiesza lub zwalnia, notując wzrost lub spadek zatrudnienia? I wreszcie co sprawia, że gospodarka rozwija się w długim okresie? To tylko niektóre z zagadnień stanowiących przedmiot rozważań makroekonomistów, które są omawiane w każdym podręczniku do makroekonomii. Przekraczają one jednak obszar zainteresowania uwzględniony w niniejszej publikacji.</para>
+    </section>
+    <section id="fs-idm58708496" class="summary">
+      <title id="UUID329465fc-b834-4068-7c73-8f422ecd25b6">Key Concepts and Summary</title>
+      <para id="UUID2f3dbdee-c113-4e24-67f8-e6c76567c9bd"><term id="UUID3b8cd11e-6f26-44fd-720a-bb55ae9329e6">Mikroekonomia</term> i <term id="UUID9f903575-449f-43d7-707d-93105a635227">makroekonomia</term> to dwa różne spojrzenia na gospodarkę. Perspektywa mikroekonomiczna skupia się na jej częściach składowych: jednostkach, firmach i gałęziach przemysłu. Perspektywa makroekonomiczna postrzega gospodarkę jako całość, koncentrując się na celach takich, jak ograniczanie bezrobocia czy inflacji i wzrost poziomu życia.</para>
+    </section>
+    <section id="fs-idp169343440" class="self-check-questions">
+      <title id="UUID24b5c56a-cda2-41c9-6926-2e5843031f32">Self-Check Questions</title>
+      <exercise id="fs-idp114519664">
+        <problem id="fs-idp162714720">
+          <para id="UUID7705af6e-b12b-4937-5481-08e14b1300a4">Podaj przykład systemu istniejącego w realnym świecie innego niż ten przywołany w podręczniku, który mógłby posłużyć jako metafora mikro- i makroekonomii.</para>
+        </problem>
+        <solution id="fs-idp78918624">
+          <para id="UUID4a697b61-95cb-414c-5bc8-397d0be65788">Istnieje wiele systemów, które odpowiadałyby takiemu podziałowi, na przykład badanie planet (mikro) w Układzie Słonecznym (makro) lub układów słonecznych (mikro) w galaktyce (makro).</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp10736112" class="review-questions">
+      <title id="UUIDf75d24ea-df18-4c71-7b9d-75de596b7a3c">Review Questions</title>
+      <exercise id="fs-idp37748336">
+        <problem id="fs-idp29652144">
+          <para id="UUID0eab2673-e1d5-46bc-7879-d1bcfbdb49b6">Jaka jest różnica między mikroekonomią a makroekonomią?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp30257744">
+        <problem id="fs-idp78276768">
+          <para id="UUID18d2c77e-193a-47ea-65b1-3c1e25bd416a">Wskaż przykłady podmiotów gospodarczych.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp15806048">
+        <problem id="fs-idp78129696">
+          <para id="UUID3ef69900-4a61-4aca-5e6e-6e832b14cc2b">Jakie są główne cele makroekonomii?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp3478192" class="critical-thinking">
+      <title id="UUIDbc0d9750-e346-463b-4bb4-1b949d2bd562">Critical Thinking Questions</title>
+      <exercise id="fs-idm106255872">
+        <problem id="fs-idp23266352">
+          <para id="UUIDc75f7a8f-3c0f-4e05-4089-3043d689651c">Makroekonomia jest sposobem analizy systemu, którego sposób działania jest wypadkową decyzji i postępowania bardzo wielu podmiotów mikroekonomicznych. Czy jest możliwe, aby zależności obserwowane na poziomie makroekonomicznym w zasadniczy sposób różniły się od reakcji podmiotów gospodarczych na jakiś bodziec na poziomie mikro? <emphasis effect="italics">Podpowiedź</emphasis>: Pomyśl o zachowaniu tłumu.</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID3cfe5cd5-5aea-49c4-72f6-f071d706f77b">
+    <definition id="fs-idm98758448">
+      <term id="UUID88842d86-8527-4242-5ddf-32089896926c">makroekonomia (ang. <foreign xml:lang="en" id="UUID337cdc41-7d52-4f80-6984-b7725f2656b6">macroeconomics</foreign>)</term>
+      <meaning id="fs-idm78515248">
+        <para id="UUIDd7df3237-c4f4-4ec2-55e9-a8b4c906feb7">gałąź ekonomii, która koncentruje się na zagadnieniach dotyczących całej gospodarki, takich jak wzrost gospodarczy, bezrobocie, inflacja i bilans handlowy</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm23766176">
+      <term id="UUID31b90922-503c-4911-60ff-a7662fe95375">mikroekonomia (ang. <foreign xml:lang="en" id="UUID83b3e6e1-bcf1-43db-6a4f-0a361aba7dad">microeconomics</foreign>)</term>
+      <meaning id="fs-idm4782288">
+        <para id="UUID61d457bf-b26d-4bd7-6c1a-bf345ec185d7">gałąź ekonomii, która koncentruje się na działaniach poszczególnych podmiotów w gospodarce, takich jak gospodarstwa domowe, pracownicy i przedsiębiorstwa</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

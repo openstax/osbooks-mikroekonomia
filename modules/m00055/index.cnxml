@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U2e046126-5e52-433d-ba27-ee67821ad8bb" id="U2e046126-5e52-433d-ba27-ee67821ad8bb" xml:lang="en" cnxml-version="0.7">
+  <title>Dobra publiczne </title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00055</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Dobra publiczne </md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.574815682+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.574815682+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.574815682+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>2e046126-5e52-433d-ba27-ee67821ad8bb</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDc7ed5eb0-f002-4b42-46ee-bd64b09d61c8" class="learning-objectives">
+      <para id="fs-idp15065808">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID35fe95bd-fc27-4212-4022-8e0d9ff7fad8">
+        <item id="UUIDe5a73b03-a2c1-4657-7641-ce747a29a49f">
+          <para id="UUID03aabd9f-fe4e-4139-4167-2716e0c2d935">Zidentyfikować dobra publiczne w oparciu o brak możliwości wykluczenia z ich konsumpcji i jej nierywalizacyjny charakter</para>
+        </item>
+        <item id="UUIDe4d3123d-9793-43da-581a-a4ffbe9f37b9">
+          <para id="UUIDa02d3895-2a2a-4931-4207-4cd870fb05c0">Wyjaśnić „problem gapowicza”</para>
+        </item>
+        <item id="UUID16ae23f6-485a-4bd1-5219-3f6d2c5c4186">
+          <para id="UUIDbf1ca230-6187-4126-5165-5108a5fa78b1">Wskazać na źródła finansowania produkcji dóbr publicznych</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID071c5e92-8189-4103-4312-509c4f20e68e">Chociaż nowe technologie tworzą pozytywne efekty zewnętrzne, dzięki którym nawet połowa korzyści społecznych związanych z powstającymi wynalazkami przenosi się na podmioty inne niż ich twórcy, wynalazcy i przedsiębiorcy zamieniający je w możliwe do sprzedaży dobra lub usługi nadal otrzymują pewien zwrot z swoich inwestycji. Może się jednak zdarzyć i tak, że pozytywne efekty zewnętrzne związane z konkretnym produktem są tak rozległe, że prywatne przedsiębiorstwa nie mogą oczekiwać przejęcia na wyłączność jakichkolwiek korzyści społecznych. Takie dobra lub usługi nazywamy <term cmlnle:reference="dobro publiczne" id="UUIDf27243ef-97e2-4963-533e-71a85dd4b404">dobrami publicznymi</term> (ang. <foreign xml:lang="en" id="UUIDc5375052-f163-4f1f-73e0-f8d2f5b8c7ff"><term cmlnle:reference="public good" id="UUIDfc239099-5eda-4189-6068-769019d0ca00">public goods</term></foreign>). Najczęściej przywoływanym w podręcznikach przykładem dobra publicznego są wydatki na obronę narodową. Jednak podobnymi cechami charakteryzować się będzie również latarnia morska i pokaz fajerwerków organizowany przez lokalne władze z okazji dni miasta. Zacznijmy od zdefiniowania cech dobra publicznego i omówienia, dlaczego te własności utrudniają lub wręcz uniemożliwiają prywatnym firmom dostarczanie dóbr publicznych. W kolejnym kroku zaś wyjaśnimy, jak państwo może rozwiązać ten problem.</para>
+    <section id="ch13mod03_01">
+      <title id="UUIDdc3f237f-8ebd-49b7-7794-95733794d951">Definicja dobra publicznego</title>
+      <para id="fs-idm660784">Ekonomiści mają ściśle określoną definicję dobra publicznego i – co warto podkreślić szczególnie mocno – nie wszystkie dobra i usługi finansowane ze środków publicznych spełniają tę definicję. Aby zrozumieć cechy dobra publicznego, najpierw rozważmy zwykłe dobro prywatne, takie jak kawałek pizzy. Kawałek pizzy charakteryzuje się tym, że może go zjeść tylko jedna osoba. Jeśli zje go Lucyna, nie może tego zrobić Ludwik. I na odwrót. Oczywiście mogą się tym kawałkiem pizzy podzielić, ale jeśli konkretny kęs zostanie połknięty przez Ludwika, Lucyna nie będzie go już w stanie włożyć do ust. Dodatkowo, kawałek pizzy to produkt łatwy do zidentyfikowania i wyodrębnienia. Kupując kawałek pizzy, łatwo stwierdzić, co w istocie nabywamy i nikt, kto nie zapłaci za pizzę, nie może wejść w jej posiadanie (chyba że dostanie ją od innej osoby, ale ona przecież wcześniej musiała za placek zapłacić).</para>
+      <para id="fs-idp78309232">Dobra publiczne natomiast charakteryzują się dwiema cechami, które sprawiają, że ich konsumpcja ma charakter całkowicie odmienny od zjedzenia kawałka pizzy. Ekonomiści mówią, że w kontekście dóbr publicznych nie ma możliwości wykluczenia kogokolwiek z ich konsumpcji, zaś sama konsumpcja ma nierywalizacyjny charakter. <term cmlnle:reference="niewykluczalny" id="UUID1a908cd9-f39e-4a53-5b04-496e7eda2f1e">Brak możliwości wykluczenia z konsumpcji</term> (ang. <foreign xml:lang="en" id="UUID4ab4853a-968f-4fe2-7806-294513c95bef"><term cmlnle:reference="nonexcludable" id="UUID2d7c9d13-a232-48dc-55c7-473315270aa5">nonexcludable</term></foreign>), oznacza, że nie da się (lub jest to tak kosztowne, że aż nieracjonalne) zabronić komukolwiek korzystania z danego dobra lub usługi. Jeśli Ludwik kupi dobro prywatne, takie jak ostatni kawałek pizzy w uczelnianej stołówce, może wykluczyć innych, np. Lucynę, z jedzenia tej pizzy. Po prostu zje ten konkretny kawałek. Jeżeli jednak państwo zapewnia obronę narodową, to obejmuje ona wszystkich. Nawet jeśli zdecydowanie nie zgadzasz się z polityką obronną swojego kraju lub z wielkością wydatków na obronę, siły zbrojne twojej ojczyzny nadal cię chronią. Nie możesz w żaden sposób zrezygnować z tej ochrony, a armia i flota nie mogą chronić wszystkich innych obywateli, poza tobą.</para>
+      <para id="fs-idp58245504">Drugą cechą dobra publicznego jest <term cmlnle:reference="nierywalizacyjny" id="UUID39e2e6d2-77bb-4e2b-6ce3-22e4f5d8eb21">nierywalizacyjny charakter konsumpcji</term> (ang. <foreign xml:lang="en" id="UUID1456d0b8-2cd6-4223-4cf9-e2ac8fbb6d4c"><term cmlnle:reference="non-rival" id="UUID389aa928-c6b3-479e-7685-8e0f7ecbf3c6">non-rival</term></foreign>). Oznacza to, że gdy jedna osoba korzysta z dobra publicznego, inne również mogą z niego korzystać i nie ma to żadnego negatywnego wpływu na użyteczność któregokolwiek z konsumentów. W przypadku dobra prywatnego, np. pizzy, tak nie jest. Jeśli Ludwik zje pizzę, Lucyna zjeść jej nie może, czyli te dwie osoby są rywalami w konsumpcji. W przypadku dobra publicznego, np. obrony narodowej, konsumpcja obrony narodowej przez Ludwika nie zmniejsza ilości dobra pozostawionej Lucynie, więc w kontekście tego dobra publicznego rywalizacja się nie pojawia.</para>
+      <para id="UUIDfb22a03c-aefa-449f-49db-b0ba1b073ca3">Warto zwrócić uwagę, że istnieją dobra charakteryzujące się tylko jedną cechą dobra publicznego. Ekonomiści nazywają je mieszanymi dobrami publicznymi. Pomyśl o płatnych kanałach telewizyjnych. Przecież charakteryzują się one nierywalizacyjną konsumpcją. Jeśli Ludwik ogląda mecz lub odcinek serialu na takim kanale, bez żadnego uszczerbku może to zrobić również Lucyna. Niemniej w wypadku płatnego kanału telewizyjnego istnieje stosunkowo łatwy sposób wykluczenia potencjalnych użytkowników z ich konsumpcji. Tylko ci, którzy opłacili abonament, mogą się cieszyć filmami i relacjami sportowymi. Z drugiej strony istnieją też dobra, których konsumpcja ma charakter rywalizacyjny, ale nie ma możliwości technicznych pozwalających kogokolwiek z ich konsumpcji wykluczyć. Pomyśl o usługach oferowanych przez straż pożarną. Jeśli w mieście wybuchnie więcej niż jeden pożar, strażacy nie będą mogli od razu pojawić się przy każdym. Będą musieli wybrać, który zaczną gasić jako pierwszy. Nie ma natomiast możliwości, aby nie gasić pożaru w mieszkaniu kogoś, kto nie uiścił opłaty za usługi strażaków. Przecież ogień natychmiast przeniósłby się na mieszkania tych właścicieli, którzy stosowny abonament sobie wykupili. Aby temu zapobiec, strażacy będą gasili każdy pożar.</para>
+      <para id="fs-idp16038144">Specyficzne cechy dóbr publicznych oznaczają, że większość z nich musi być dostarczana (lub przynajmniej finansowana) przez państwo. Tak jak to już zostało wskazane powyżej, usługi oferowane przez straż pożarną i policję muszą być finansowane przez państwo (władze lokalne), gdyż nie ma możliwości, aby niektórzy ludzie w sąsiedztwie mieli ochronę przed pożarami i włamaniami do ich domów, podczas gdy inni nie byliby chronieni w ogóle. Ochrona niektórych osób oznacza również ochronę innych.</para>
+      <para id="fs-idp74507568">Pozytywne efekty zewnętrzne i dobra publiczne to pojęcia ściśle powiązane. Dobra finansowane przez państwo, takie jak ochrona policyjna lub szczepienia, wywołują pozytywne efekty zewnętrzne. Jednak nie wszystkie dobra i usługi, które generują silne efekty zewnętrzne, są dobrami publicznymi. Zarówno edukacja, jak i ochrona zdrowia to dobra prywatne, w ich kontekście – co w Polsce szczególnie łatwo zrozumieć – występuje zarówno konsumpcja rywalizacyjna, jak i łatwość wykluczenia z konsumpcji tych, którzy za dane dobro lub usługę nie zapłacą (dzięki temu działają prywatne szkoły podstawowe i uczelnie wyższe). Niemniej w ich wypadku pozytywne efekty zewnętrze są tak silne, że społeczeństwo decyduje się na ich finansowanie ze środków publicznych. Prywatne firmy mogą inwestować w nowe wynalazki, takie jak <foreign xml:lang="en" id="UUID2a50f6f3-5c47-4af0-4fb2-22810228cd22">iPhone</foreign> firmy <foreign xml:lang="en" id="UUID3933b398-27f9-4e23-6e06-778927632550">Apple</foreign>, i czerpać z nich zyski, jakkolwiek w dalszym ciągu ich powstanie będzie generować korzyści społeczne (w końcu wymyślenie przez <foreign xml:lang="en" id="UUIDd1983300-00fe-4b62-7e23-0ba5f749bbc5">Apple</foreign> smartfona umożliwiło jego produkcję innym firmom technologicznym, co zwiększyło dostępność tego urządzenia). Patenty są próbą przekształcenia nowych wynalazków w dobra prywatne, z konsumpcją o charakterze rywalizacyjnym i możliwością wykluczenia z korzystania z tych dóbr. Dzięki temu w czasie ochrony patentowej nikt, poza wynalazcą, nie będzie mógł czerpać korzyści z ich produkcji i sprzedaży.</para>
+    </section>
+    <section id="ch13mod03_02">
+      <title id="UUID7714467a-9148-4179-4a57-ca8ef300cdc9">Problem gapowicza w przypadku dóbr publicznych</title>
+      <para id="fs-idp5415376">Prywatnym firmom trudno jest wytwarzać dobra publiczne i zarabiać na ich sprzedaży. Jeśli w przypadku danego dobra lub usługi nie ma możliwości wykluczenia kogokolwiek z jego konsumpcji (lub generuje to gigantyczne koszty), jak np. w przypadku obrony narodowej, to w jaki sposób przedsiębiorstwo może obciążyć ludzi opłatą za dostarczony produkt?</para>
+      <note type="note" id="ch13mod03_link01" class="economics linkup">
+        <para id="fs-idp131590544">Odwiedź niniejszą <link url="http://openstax.org/l/freerider" id="UUIDab4d3f29-9000-47a4-531f-4bd0497e9c5b">stronę internetową</link>, aby przeczytać o związku między problemem gapowicza a „złą muzyką”.</para>
+      </note>
+      <para id="fs-idp69829808">Kiedy ludzie podejmują decyzje o zakupie dobra publicznego, może pojawić się <term cmlnle:reference="problem gapowicza" id="UUID169fed92-3162-4249-780c-c1b0d74caf5f">problem gapowicza</term> (ang. <foreign xml:lang="en" id="UUIDbe3afbec-6bad-4a1c-7f5b-2cf686f9dde0"><term cmlnle:reference="free rider problem" id="UUID67286507-f22b-4e0c-4627-bc3b681abf48">free rider problem</term></foreign>). Potencjalni konsumenci mają bowiem silną motywację, aby pozwolić innym płacić za dobro publiczne, a następnie korzystać z tego dobra „na gapę”, czyli nie wnosząc za nie stosownej opłaty (tak jak gapowicze nie płacą za korzystanie z komunikacji miejskiej, która jest w części lub w całości finansowana wpływami z biletów). Problem gapowicza możemy wyrazić w kategoriach gry w „dylemat więźnia”, którą omawialiśmy w rozdziale „Konkurencja monopolistyczna i oligopol”.</para>
+      <para id="fs-idp97337920">Należy jednak zwrócić uwagę, że strategie graczy w przypadku płacenia za dobra publiczne będą nieco inne niż podejście uczestników kartelu. Zobacz poniższą <link target-id="ch13mod03_workout01" cmlnle:case="accusative" id="UUID04335109-c472-45ce-7ce6-657d0a35a518" />.</para>
+      <note type="note" id="ch13mod03_workout01" class="economics workout">
+        <title id="UUID648f5822-c0da-44d4-5247-5b5d228629c4">Dylemat więźnia a dobro publiczne</title>
+        <para id="fs-idp93322000">Załóżmy, że dwie osoby, Renata i Sebastian, rozważają zakup dobra publicznego. Każda z nich musi się zmierzyć z pewnym dylematem.</para>
+        <para id="UUIDa419c67f-cd49-471e-556b-b35dcf986262">Krok 1. Renata rozumuje w ten sposób: Jeśli Sebastian nie zapłaci za dobro, byłabym głupia, gdybym ja za nie zapłaciła. Jeśli jednak Sebastian za nie zapłaci, ja już mogę nie płacić.</para>
+        <para id="UUID8e6f6f4b-8692-47cf-4ddb-59a221781534">Krok 2. A zatem niezależnie od decyzji podjętej przez Sebastiana, powinnam zdecydować się na niepłacenie (strategię egoistyczną) i mieć nadzieję na to, że zostanę gapowiczem, który skorzysta z dobra publicznego opłaconego przez Sebastiana.</para>
+        <para id="UUID1dd6f10b-a0bb-49fd-5193-51ce8475090b">Krok 3. Sebastian dochodzi do tych samych wniosków.</para>
+        <para id="UUID1223715e-31c2-4577-47ca-4b1270f566ec">Krok 4. W konsekwencji dobro publiczne nigdy nie zostanie wytworzone i nie ma szans na przejście od strategii egoistycznych do strategii współpracy, co byłoby w rzeczywistości najlepsze dla Renaty i Sebastiana.</para>
+      </note>
+    </section>
+    <section id="ch13mod03_03">
+      <title id="UUID99094936-6db2-4e69-4f9c-653d54915839">Rola państwa w finansowaniu dóbr publicznych</title>
+      <para id="fs-idm30655152">Kluczowym elementem w zapewnieniu finansowaniu dóbr publicznych jest znalezienie sposobu na wymuszenie wniesienia opłaty przez wszystkich beneficjentów, co zapobiegnie pojawieniu się problemu gapowicza. Jednym z takich sposobów może być finansowanie dóbr publicznych poprzez system podatkowy. Opłacanie podatków ma charakter przymusowy, w związku z czym – jeśli społeczeństwo zdecyduje się na finansowanie jakiegoś dobra publicznego z podatków – może wyeliminować problem gapowicza, nakładając na wszystkich swoich członków prawny obowiązek wnoszenia opłat.</para>
+      <para id="fs-idm26191232">Jednak podatki i wymuszane przez państwo składki nie są jedynym sposobem finansowania dóbr publicznych. W niektórych przypadkach wytwarzanie dobra publicznego może odbywać się dzięki mechanizmowi rynkowemu. Pomyśl na przykład o programie radiowym lub telewizyjnym. Jest to dobro, z konsumpcji którego nie da się nikogo wykluczyć, ponieważ gdy sygnał jest nadawany, każdy posiadacz radia czy telewizora (lub też ich technologicznych ekwiwalentów, np. telefonu komórkowego lub komputera) może go odebrać. Konsumpcja programu radiowego i telewizyjnego ma również nierywalizacyjny charakter, ponieważ słuchacze nie przeszkadzają sobie wzajemnie w odbiorze konkretnych audycji. Ze względu na te cechy praktycznie niemożliwe jest bezpośrednie obciążenie konsumentów opłatami za słuchanie i oglądanie konwencjonalnych programów radiowych i telewizyjnych. Niemniej takie stacje i audycje wciąż istnieją.</para>
+      <para id="fs-idp64061696">Radio i telewizja znalazły inny sposób na uzyskiwanie przychodów. Dzieje się to poprzez sprzedaż reklam, co jest pośrednim obciążaniem opłatą słuchaczy i widzów, w postaci zabierania im czasu. Ostatecznie konsumenci, którzy kupują reklamowane towary, płacą również za programy radiowe i telewizyjne, ponieważ przedsiębiorstwa wytwarzające reklamowane produkty wliczają opłaty za emisję reklam w koszty produkcji. Oczywiście w dalszym ciągu niektóre stacje telewizyjne, takie jak działające w Polsce Canal+ i HBO, pobierają regularną opłatę abonamentową za emisję programu bez reklam.</para>
+      <para id="UUID41a1163f-9001-439e-6ed7-ea4c61bd9502">Innym sposobem prywatnego finansowania dóbr publicznych jest działalność podmiotów, które korzystają na pojawieniu się konkretnego dobra lub usługi w tak istotny sposób, że opłaca się im je sfinansować, dzięki czemu inni potencjalni użytkownicy nie będą musieli wnosić żadnej opłaty. Rozważmy przykład dużego armatora, którego statki przepływają przez szczególnie niebezpieczny akwen, w związku z czym ponosi on wysokie koszty ubezpieczenia jego floty. Jeśli wybudowanie i opłacanie funkcjonowania radiolatarni na tym akwenie poprawi bezpieczeństwo w znaczący sposób, koszt ubezpieczenia zmniejszy się o wartość większą niż wydatki poniesione na budowę i eksploatację latarni morskiej, Armator zapewne zainwestuje środki w poprawę bezpieczeństwa, bo mu się to opłaci. Wszyscy inni użytkownicy tego akwenu będą natomiast cieszyć się poprawą bezpieczeństwa całkowicie za darmo.</para>
+      <para id="fs-idm23910976">Niektóre dobra publiczne mają częściowo charakter świadczenia oferowanego bez konieczności wniesienia opłaty za użytkowanie, a częściowo wymagają uiszczenia takiej opłaty. Przykładem niech będzie publiczny park miejski, z którego można korzystać bezpłatnie, ale państwo (władze lokalne) pobiera opłatę za parkowanie samochodu, rezerwację niektórych terenów piknikowych lub możliwość sprzedaży żywności i napojów na przenośnym stoisku.</para>
+      <note type="note" id="ch13mod03_link02" class="economics linkup">
+        <para id="fs-idp59098016">Przeczytaj niniejszy <link url="http://openstax.org/l/governmentpay" id="UUIDa94edd6c-52df-459d-5ac8-80dfc4bf88ce">artykuł</link>, aby dowiedzieć się, za co według ekonomistów państwo powinno płacić.</para>
+      </note>
+      <para id="fs-idm35625312">W innych przypadkach można użyć nacisków społecznych i osobistych apeli, a nie siły prawa, aby zmniejszyć liczbę gapowiczów i zebrać środki na sfinansowanie dobra publicznego. Na przykład sąsiedzi czasami tworzą stowarzyszenia, aby realizować projekty upiększające okolicę lub patrolować teren po zmroku w celu zmniejszenia przestępczości. W krajach o niskich dochodach, gdzie presja społeczna silnie zachęca osoby utrzymujące się z pracy na roli do udziału we wspólnych inicjatywach, okoliczni rolnicy mogą razem pracować nad dużym projektem nawadniania terenu, na czym zyskują wszyscy. Możemy postrzegać wiele działań związanych ze zbieraniem funduszy, w tym zbiórkę pieniędzy na lokalne organizacje charytatywne oraz na szkoły i uniwersytety, jako próbę wykorzystania presji społecznej do ograniczenia efektu gapowicza i uzyskania rezultatu, który przyniesie korzyści ogółowi.</para>
+    </section>
+    <section id="ch13mod03_04">
+      <title id="UUID19c1eb60-11d6-4fc6-5724-f994957942aa">Wspólne zasoby i „tragedia wspólnego pastwiska”</title>
+      <para id="fs-idp17369824">Tak jak to już zaznaczyliśmy wcześniej, poza czystymi dobrami publicznymi (miejski park) i dobrami prywatnymi (kawałek pizzy) możemy również mówić o mieszanych dobrach publicznych. Charakteryzują się one rywalizacyjnym charakterem konsumpcji, ale nie istnieją sposoby pozwalające wykluczyć kogokolwiek z konsumpcji takiego dobra, jeśli jest ona w jego kontekście w ogóle dopuszczalna. Przykładem niech będą ławice ryb (np. dorsza) na atlantyckich wodach międzynarodowych. Ponieważ każdy trawler rybacki ma prawo poławiać dorsza na wodach międzynarodowych, rybę tę możemy traktować jako dobro, z konsumpcji którego nikogo nie da się wykluczyć. Jednocześnie połowy mają charakter rywalizacyjny. Każda ryba wyłowiona np. przez statek portugalski nie zostanie złapana przez rybaków z Francji lub Kanady.</para>
+      <para id="fs-idm84309808">Dobra charakteryzujące się rywalizacyjną konsumpcją i brakiem efektywnych sposobów wykluczania z niej ekonomiści nazywają <term cmlnle:reference="zasób wspólny" id="UUIDd5192684-8422-4c17-5c0f-a59333c2f74a">wspólnymi zasobami</term> (ang. <foreign xml:lang="en" id="UUID930b7a0b-5e94-43c2-7345-9448145a06f8"><term cmlnle:reference="common resource" id="UUID431e1fac-76bc-4411-6d36-e7b28961efa5">common resources</term></foreign>). Ponieważ wody międzynarodowe na Oceanie Atlantyckim są dostępne dla wszystkich rybaków, a każdy złowiony dorsz nie może być jednocześnie pozyskany przez kogoś innego, mają oni skłonność do nadmiernego wykorzystywania wspólnych zasobów, takich jak populacja tej smakowitej ryby.</para>
+      <para id="fs-idp76353648">Problem nadmiernego wykorzystywania wspólnych zasobów nie jest nowy. Ekolog Garret Hardin w artykule z 1968 r. opublikowanym w czasopiśmie <foreign xml:lang="en" id="UUID2c99a887-a2fd-4160-6229-45a26778cf84">Science</foreign> nazwał go „tragedią wspólnego pastwiska” (ang. :<foreign xml:lang="en" id="UUIDb6e4243d-921a-4dcb-5080-b4cc7612ef8e">Tragedy of the Commons</foreign>). Ekonomiści postrzegają to jako problem praw własności. Ponieważ nikt nie jest właścicielem oceanu ani ryb, które przemieszczają się swobodnie w jego wodach, nikt nie ma motywacji, aby chronić te zasoby i odpowiedzialnie je pozyskiwać. W celu rozwiązania problemu nadmiernych połowów morskich ekonomiści zazwyczaj opowiadają się za prostymi metodami, takimi jak licencje, limity połowów i skracanie ich sezonów. Kiedy populacja jakiegoś gatunku spada do krytycznie małych rozmiarów, rządy nawet zakazują połowów, dopóki biolodzy nie stwierdzą, że powróciła ona do poziomu gwarantującego przeżywalność.</para>
+    </section>
+    <section id="ch13mod03_summ" class="summary">
+      <title id="UUID07af9f90-e1d8-4619-4fb5-cdd20599ea9d">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idp8095056">Dobro publiczne ma dwie kluczowe cechy: jego konsumpcja ma charakter nierywalizacyjny, a ponadto nikogo nie da się z niej wykluczyć, jako że jest to fizycznie niemożliwe lub tak kosztowne, że nieopłacalne (taniej jest pozwolić wszystkim chętnym na konsumpcję, niż tworzyć mechanizmy ograniczające dostęp dla tych, którzy nie wniosą opłaty). Natomiast nierywalizacyjny charakter konsumpcji oznacza, że gdy jedna osoba korzysta z danego dobra, nie ogranicza to jego użyteczności dla innych konsumentów. Rynki prywatne zazwyczaj nie dostarczają dóbr publicznych, ponieważ gapowicze będą próbowali konsumować dobro publiczne bez wnoszenia stosownej opłaty. Problem gapowicza można przezwyciężyć, wymuszając na wszystkich konsumentach zapłatę za użytkowanie dobra, np. poprzez przymus podatkowy wprowadzany przez państwo lub presję społeczną ze strony sąsiadów lub innej grupy odniesienia (koledzy z pracy, rodzina, znajomi). W pewnych sytuacjach również prywatne przedsiębiorstwa mogą dostarczać dobra publiczne (ogólnodostępne audycje telewizyjne i radiowe), tworząc alternatywne sposoby płacenia za wytwarzane dobra.</para>
+    </section>
+    <section id="ch13mod03_sques" class="self-check-questions">
+      <title id="UUIDe135f956-ed09-4e4a-5ae1-840b75987c07">Pytania Self-Check</title>
+      <exercise id="ch13mod03_sques01">
+        <problem id="ch13mod03_sques01p">
+          <para id="fs-idp123654736">Z konsumpcji których z poniższych dóbr i usług nie da się nikogo wykluczyć?</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp106881312">
+            <item id="UUID4aa8b24d-0390-44ec-5cd5-fe1dd1636c55">
+              <para id="UUIDb1eea319-800d-492b-6c2d-5444b476f585">ochrona policyjna</para>
+            </item>
+            <item id="UUID678dce4a-9b6f-4225-5de5-189d99de7c3c">
+              <para id="UUID9091229f-5880-4137-6c27-cc226eeafd1f">usługi streamingowe</para>
+            </item>
+            <item id="UUIDfc4c9b3a-765d-4ea1-6b7a-efd06a61f1c0">
+              <para id="UUID8dfeacb9-e78b-497a-509f-a7618eefe420">drogi</para>
+            </item>
+            <item id="UUIDc1317727-8028-4ff0-7ef2-472580ae12e2">
+              <para id="UUID1b037ebe-de51-4936-6cb5-59efaddbda40">szkolnictwo podstawowe</para>
+            </item>
+            <item id="UUID03da738b-e779-46b5-60f6-e6a6ed7b1533">
+              <para id="UUID24eab846-227c-4a98-6dda-02319336d0e0">usługi telefonii komórkowej</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="ch13mod03_sques01s">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp88050992">
+            <item id="UUIDa7323de5-4f72-4197-668f-0a0aacbce99b">
+              <para id="UUID68145d1e-0559-4f8f-59b6-5ffe274a2f46">Gdy obywatele są chronieni przed przestępcami dzięki patrolom policji pilnującym konkretnej okolicy, trudno jest kogoś wyłączyć z tej ochrony.</para>
+            </item>
+            <item id="UUIDdb513699-6cc4-489d-6d59-9bca6d8f427b">
+              <para id="UUIDc1cf8b80-e15a-4ca8-5372-50c21f676f83">Usługi streamingowe są – co do zasady – sprzedawane w płatnym abonamencie, więc tutaj wykluczyć z konsumpcji nie tylko się da, ale jest to relatywnie tanie.</para>
+            </item>
+            <item id="UUID61da4719-2db7-42b4-6546-a6addf06fb04">
+              <para id="UUID6c36b668-1214-4f4c-583e-d55131d1f2b5">Po wybudowaniu drogi trudno jest wykluczyć ludzi z jej użytkowania (nie dotyczy to jednak dróg płatnych).</para>
+            </item>
+            <item id="UUID00499ae1-f9dd-47da-7477-0fe88bbdde10">
+              <para id="UUIDee2c00fb-a919-49bf-5123-78fa00d93a68">Szkolnictwo pozostawia bardzo wiele możliwości wykluczania z konsumpcji (wstęp do budynku tylko po opłaceniu czesnego).</para>
+            </item>
+            <item id="UUIDd40b7160-c8c6-474a-6690-a3f11a1b19dc">
+              <para id="UUID526c8c81-973a-470b-4ca6-f537b58488c5">Firmy sprzedające usługi telefonii komórkowej wykluczają z użytkowania tych, którzy nie płacą.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="ch13mod03_sques02">
+        <problem id="ch13mod03_sques02p">
+          <para id="fs-idm27921312">Czy w wypadku poniższych dóbr pojawia się konsumpcja nierywalizacyjna?</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm35731568">
+            <item id="UUID95d5722f-09c5-4acd-7c58-460a6148fb11">
+              <para id="UUID3d69a89b-13d3-4744-784b-73881d36a329">kawałek pizzy</para>
+            </item>
+            <item id="UUIDfaeb45ae-a8e7-4e2b-55c0-42563608164d">
+              <para id="UUID79870240-fa27-45ff-6ca8-e73fd7069f8d">laptop</para>
+            </item>
+            <item id="UUID28b3fa0a-e4c1-4338-460d-8dc385aafaad">
+              <para id="UUID4bba6cd1-031e-413a-7021-d8f3ce0e1e7d">radio publiczne</para>
+            </item>
+            <item id="UUID2a81e9e6-d022-464a-4909-3d5e9d27734f">
+              <para id="UUID6f08ba5b-4309-4a7e-46c5-1734cc5760a3">lód w waflu</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="ch13mod03_sques02s">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp44954816">
+            <item id="UUIDb204fb93-11d6-4198-43f1-42ead5feed1f">
+              <para id="UUID29e739b7-4a8e-4793-5118-8fd58e2fd567">Dwie osoby nie mogą jednocześnie zjeść tego samego kawałka pizzy – konsumpcja rywalizacyjna.</para>
+            </item>
+            <item id="UUID3cba22d0-20fe-4935-7ea9-0aaaf0d7b2e2">
+              <para id="UUID0ae08fa5-6b47-4683-5bc1-fe26717b87a8">Dwie osoby nie mogą jednocześnie korzystać z jednego laptopa – j. w.</para>
+            </item>
+            <item id="UUID7646bb48-8e67-46c0-5e34-ede319bb17ab">
+              <para id="UUID14562f1d-ea3f-42c2-6159-9a8ef1113db8">Każdy człowiek z odbiornikiem radiowym może słuchać radia publicznego, więc wiele osób może to robić w tym samym czasie – konsumpcja ma charakter nierywalizacyjny.</para>
+            </item>
+            <item id="UUID616e93d7-cdc3-4e19-7ab9-b4b92dd2aa82">
+              <para id="UUIDe904319d-104e-4bbe-4b85-441fcb783afe">Tak ja w przypadku pizzy lód może zjeść tylko jedna osoba, więc jest to dobro charakteryzujące się konsumpcją rywalizacyjną. // Moim zdaniem przykład do usunięcia – co do istoty identyczny z pierwszym.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+    </section>
+    <section id="ch13mod03_rques" class="review-questions">
+      <title id="UUID5207aa73-dae9-4cca-74e1-53907c9117ad">Pytania Review</title>
+      <exercise id="ch13mod03_rques01">
+        <problem id="ch13mod03_rques01p">
+          <para id="fs-idm25485664">Jakie są dwie kluczowe cechy dóbr publicznych?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch13mod03_rques02">
+        <problem id="ch13mod03_rques02p">
+          <para id="fs-idp21106640">Wymień dwa przykłady dóbr publicznych i wyjaśnij, dlaczego za takie je uważasz.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch13mod03_rques03">
+        <problem id="ch13mod03_rques03p">
+          <para id="fs-idm20421088">Wyjaśnij, na czym polega problem gapowicza.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch13mod03_rques04">
+        <problem id="ch13mod03_rques04p">
+          <para id="fs-idp58677552">Uzasadnij konieczność finansowania przez państwo obrony narodowej.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch13mod03_ctques" class="critical-thinking">
+      <title id="UUID38e75cba-3f87-484c-437f-94835230a336">Pytania Critical Thinking</title>
+      <exercise id="ch13mod03_ctques01">
+        <problem id="ch13mod03_ctques01p">
+          <para id="fs-idm4807248">W jaki sposób stacje telewizji publicznej, takie jak TVP Info, próbują przezwyciężyć problem gapowicza?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch13mod03_ctques02">
+        <problem id="ch13mod03_ctques02p">
+          <para id="fs-idp65301328">Dlaczego mecz ekstraklasy transmitowany przez stację Canal+ jest mieszanym dobrem publicznym, a mecz transmitowany przez TVP Sport lub Polsat jest dobrem publicznym?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch13mod03_ctques03">
+        <problem id="ch13mod03_ctques03p">
+          <para id="fs-idp16128688">Podaj dwa przykłady dóbr/usług klasyfikowanych jako i prywatne, mimo że są finansowane ze środków publicznych (z podatków).</para>
+        </problem>
+      </exercise>
+      <exercise id="ch13mod03_ctques04">
+        <problem id="ch13mod03_ctques04p">
+          <para id="fs-idp124256784">Programy radiowe, system syren alarmowych, latarnie morskie i uliczne są dobrami publicznymi, ponieważ spełniają oba kryteria charakterystyczne dla tej grupy dóbr. Dlaczego zatem państwo finansuje syreny ostrzegające przed zagrożeniami, latarnie uliczne i morskie, a RMF Fm i Radia Zet już nie?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch13mod03_prob" class="problems">
+      <title id="UUID4bd8a5e4-1d7d-476e-7b6e-500e47cfdb8a">Zadania</title>
+      <exercise id="ch13mod03_prob01">
+        <problem id="ch13mod03_prob01p">
+          <para id="fs-idp16235456">Basia i Sylwia to siostry, które dzielą wspólną sypialnię. W ich pokoju dość łatwo powstaje bałagan, a rodzice zawsze każą im zrobić tam porządek. Jeśli Basia i Sylwia sprzątają sypialnię razem, zajmuje im to 2 godziny, po których ponownie cieszą się czystym pokojem. Jeśli Basia nie sprząta, a Sylwia robi to sama, poświęca na to 5 godzin, po których czuje się wykończona. Gdy sprząta tylko Basia, jej także zajmuje to 5 godzin i fizycznie ją wyczerpuje. Jeśli obie dziewczyny nie sprzątają, mają brudną sypialnię.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm119431488">
+            <item id="UUID2d2e7614-074b-4088-7b58-a1abc3f7976a">
+              <para id="UUIDeb8f0569-39ab-4b52-730e-363709f30070">Która sytuacja jest najkorzystniejsza z punktu widzenia Basi i Sylwii? Jaka jest najgorsza? (Tabela przedstawiająca wyniki gry w dylemat więźnia pomoże ci sformułować odpowiedź).</para>
+            </item>
+            <item id="UUIDb07faaf5-26a8-45ad-4ad8-04936c10fec3">
+              <para id="UUIDe2371419-f7a1-46a1-420b-7dc75e692c39">Wiadomo skądinąd, że najkorzystniejsza – z punktu widzenia dziewczynek – sytuacja jest również najmniej prawdopodobna, a siostry wybiorą najpewniej najgorsze dla siebie rozwiązanie. Wyjaśnij, co w rozumowaniu Basi i Sylwii doprowadzi je do takiego właśnie wyboru.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch13mod03_ref" class="references">
+      <title id="UUIDe94640cc-cd58-4fd0-626e-74160d827786">Bibliografia</title>
+      <para id="ch13mod03_ref01">Cowen, Tyler. <emphasis effect="italics">Average Is Over: Powering America Beyond the Age of the Great Stagnation</emphasis>. Dutton Adult, 2013.</para>
+      <para id="ch13mod03_ref02">Hardin, Garret. “The Tragedy of the Commons.” <emphasis effect="italics">Science</emphasis> 162 (3859): 1243–48 (1968).</para>
+    </section>
+  </content>
+  <glossary id="UUIDa79b9dd2-755d-4398-543b-e9851e5d89db">
+    <definition id="ch13mod03_gl01">
+      <term id="UUID42c1cb83-2139-43cb-5f5d-0be592e8fc1a">problem gapowicza (ang. <foreign xml:lang="en" id="UUIDea46ba06-6285-4f74-65b9-beba42ef41bb">free rider</foreign>)</term>
+      <meaning id="ch13mod03_gl01m">
+        <para id="UUIDbbcf445b-287b-4a26-5027-012449a4bbf3">sytuacja, w której pojawiają się osoby zamierzające skorzystać z dobra publicznego bez wnoszenia stosownej opłaty; jeśli takich gapowiczów będzie zbyt wielu, dobro publiczne może nigdy nie zostać wytworzone</para>
+      </meaning>
+    </definition>
+    <definition id="ch13mod03_gl02">
+      <term id="UUID3a58b514-07ae-4740-4b94-ada77aa66bfd">brak możliwości wykluczenia z konsumpcji (ang. <foreign xml:lang="en" id="UUIDce271a87-509d-446f-5059-b7ce6a1503c6">nonexcludable</foreign>)</term>
+      <meaning id="ch13mod03_gl02m">
+        <para id="UUID6c3075b1-0d2e-4dcf-579d-fafad7b89fe5">sytuacja, gdy wykluczenie kogoś z korzystania z danego dobra lub usługi jest niemożliwe lub na tyle kosztowne, że nie opłaca się wprowadzać takich rozwiązań; jedna z najważniejszych przyczyn problemu gapowicza</para>
+      </meaning>
+    </definition>
+    <definition id="ch13mod03_gl03">
+      <term id="UUID08dd5b67-67e6-4d1e-7653-f7be8d31b10b">nierywalizacyjny charakter konsumpcji (ang. <foreign xml:lang="en" id="UUID57c992b0-b735-446b-54b9-296a4e55d668">nonrivalrous</foreign>)</term>
+      <meaning id="ch13mod03_gl03m">
+        <para id="UUID7b999ebd-1c23-4201-5393-3e6e942fe252">sytuacja, w której konsumpcja danego dobra lub usługi przez jedną osobę nie ogranicza możliwości wykorzystania go przez inne osoby (nie zmniejsza jego użyteczności)</para>
+      </meaning>
+    </definition>
+    <definition id="ch13mod03_gl04">
+      <term id="UUID40f155c9-29a0-4848-4280-096a3ec4143e">dobro publiczne (ang. <foreign xml:lang="en" id="UUIDcfd52810-8967-4dfd-7de3-48279b6abfd4">public good</foreign>)</term>
+      <meaning id="ch13mod03_gl04m">
+        <para id="UUIDce39ef67-0035-4af6-4c2e-20a0dff40de5">dobro (lub usługa) cechujące się konsumpcją nierywalizacyjną i jednocześnie brakiem możliwości wykluczenia z niej kogokolwiek; z tego powodu produkcja takiego dobra zazwyczaj nie jest finansowana przez przedsiębiorstwa prywatne</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

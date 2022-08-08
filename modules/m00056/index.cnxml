@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U9de30b35-d9c5-45ca-b7f8-7ef2a636ece1" id="U9de30b35-d9c5-45ca-b7f8-7ef2a636ece1" xml:lang="en" cnxml-version="0.7">
+  <title>Fuzje przedsiębiorstw</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00056</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Fuzje przedsiębiorstw</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.596283704+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.596283704+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.596283704+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>9de30b35-d9c5-45ca-b7f8-7ef2a636ece1</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID447d2279-51cf-45d9-52f6-2168b06bde69" class="learning-objectives">
+      <para id="fs-idp159356208">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUIDdb3b30a3-6b5b-4cbb-5142-b3f2ed22c1f3">
+        <item id="UUID6d7ec607-a491-4fb7-6100-d9cf9513f23b">
+          <para id="UUID9643992d-d537-4f44-4d96-4d20bbffa4ed">Obliczać współczynniki koncentracji</para>
+        </item>
+        <item id="UUIDc42ec6cc-2f00-4673-4d7a-15bf2361fcf7">
+          <para id="UUIDf2424261-a5d2-4c64-5575-a9663f7fd2e9">Policzyć Indeks Herfindahla-Hirschmana (HHI)</para>
+        </item>
+        <item id="UUID2d30e113-aee8-417a-7c52-29ee730dd7f0">
+          <para id="UUID1f3d8454-2d02-4754-5d2c-a6701b4db67c">Ocenić skuteczność regulacji antymonopolowych</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDcf7fdfe0-1058-41db-7f31-f0f6a4277840">W poprzednich rozdziałach dotyczących teorii przedsiębiorstwa doszliśmy do trzech ważnych wniosków. Po pierwsze – konkurencja zapewniająca konsumentom niższe ceny i szeroką gamę innowacyjnych produktów jest korzystna dla konsumentów i społeczeństwa. Po drugie – produkcja na dużą skalę może znacznie obniżyć koszty przeciętne. I wreszcie po trzecie – rynki w świecie rzeczywistym rzadko są doskonale konkurencyjne. W rezultacie politycy gospodarczy muszą określić, jak bardzo należy interweniować, aby zrównoważyć potencjalne korzyści wynikające z dużej skali produkcji z potencjalną utratą konkurencji, która może wystąpić przy zwiększaniu się rozmiarów przedsiębiorstw, zwłaszcza poprzez fuzje.</para>
+    <para id="UUID0982688f-b738-46f8-7516-fc818145184c"><term cmlnle:reference="fuzja" id="UUID962b33bd-1552-4c76-5e7e-d67602e88ed1">Fuzja</term> (ang. <foreign xml:lang="en" id="UUIDfbbd4e9a-dee4-4c59-652f-062c6b91ba0b"><term cmlnle:reference="merger" id="UUID47bcc688-a7b0-45ed-52a9-328f123a0b45">merger</term></foreign>) przedsiębiorstw ma miejsce wtedy, gdy dwa dotychczas odrębne podmioty łączą się w jeden. Kiedy jedna firma kupuje inną, jest to <term cmlnle:reference="przejęcie" id="UUIDb330c2be-769b-4306-6348-86cce70f2927">przejęcie</term> (ang. <foreign xml:lang="en" id="UUIDca5e1be0-4afc-42df-6407-8354ad40139a"><term cmlnle:reference="acquisition" id="UUID25a4ebf8-9dd3-41c1-6440-07e1f441eb19">acquisition</term></foreign>). Przejęcie nie zawsze prowadzi do likwidacji wykupionego podmiotu – przejęte przedsiębiorstwo może kontynuować działalność pod dotychczasową nazwą. Zarówno fuzje, jak i przejęcia skutkują tym, że dwa, dotychczas odrębne przedsiębiorstwa uzyskują tych samych właścicieli, a zatem fuzje i przejęcia najczęściej analizuje się łącznie.</para>
+    <para id="fs-idp73390176">Wyspecjalizowane urzędy działające na poziomie państw narodowych (w Polsce funkcję tę pełni Urząd Ochrony Konkurencji i Konsumentów) i organizacji międzynarodowych (dla całej UE jest to Komisja Europejska) rezerwują sobie prawo do zatwierdzania fuzji i przejęć, co oznacza, że mogą zgłosić wobec nich veto. Oczywiście, w gospodarce rynkowej przedsiębiorstwa mają swobodę dokonywania wyborów. Prywatne firmy generalnie mogą w sposób dowolny:</para>
+    <list id="fs-idp129637296">
+      <item id="UUID2c216017-32cd-4daa-4a6e-d8324c59c251">
+        <para id="UUIDe4384125-fa0b-4089-5d92-2c8e4e30cdd1">zwiększać lub zmniejszać produkcję</para>
+      </item>
+      <item id="UUID0ee0e151-e269-4518-6126-675e38fc4434">
+        <para id="UUID21b296df-b201-4322-71d9-e2daaf169a32">ustalać ceny</para>
+      </item>
+      <item id="UUIDa9306a33-3fcf-40ae-4914-bc34df56d16c">
+        <para id="UUID5e162f42-327f-4a60-5d2e-514b12c02362">otwierać, sprzedawać i zamykać zakłady produkcyjne lub punkty działalności</para>
+      </item>
+      <item id="UUIDd205f310-f150-40d5-5197-3f80ca3b9c90">
+        <para id="UUIDe864c7bb-14c5-430f-7d84-2caabf2cf458">zatrudniać i zwalniać pracowników</para>
+      </item>
+      <item id="UUID78c1b6d2-b34d-4202-6275-93afe8d05bc1">
+        <para id="UUID0a2afd22-25cc-4b3c-56d5-c25b6b03a6ad">rozpoczynać lub kończyć sprzedaż konkretnych produktów</para>
+      </item>
+    </list>
+    <para id="fs-idp26735392">Jeśli właściciele przedsiębiorstwa chcą nabyć inną firmę, sprzedać swoją własność obcemu podmiotowi lub połączyć się z innym przedsiębiorstwem, posunięcia te wchodzą w zakres przywołanej wcześniej swobody w dokonywaniu wyborów ekonomicznych. Oczywiście właściciele i kadra kierownicza przedsiębiorstw prywatnych, podobnie jak wszyscy ludzie, czasami popełniają błędy. Mogą zdecydować się na zamkniecie rentownej fabryki. Mogą zacząć sprzedawać produkt, który doprowadzi ich przedsiębiorstwo do bankructwa lub narazi na poważne straty. Fuzja dwóch firm może czasami prowadzić do starcia osób o różnych charakterach, co pogarsza sytuację nowego podmiotu w stosunku do <emphasis effect="italics">status quo ante</emphasis>. Nie zmienia to jednak faktu, iż gospodarka rynkowa opiera się na przekonaniu, że to właśnie właściciele przedsiębiorstw i wynajęci przez nich menedżerowie, a nie państwo, są w stanie najlepiej ocenić, czy ich działania doprowadzą do przyciągnięcia nowych klientów lub osiągnięcia wyższego zysku.</para>
+    <section id="fs-idm18214208">
+      <title id="UUIDa7544bd8-7388-4c4a-40aa-0ebd5a5e3775">Współczynnik koncentracji</title>
+      <para id="fs-idm13646640">Urzędy regulacyjne od dziesięcioleci zmagały się z problemem pomiaru stopnia siły monopolowej przedsiębiorstw działających w danej gałęzi gospodarki. Początkowo stosowano <term cmlnle:reference="współczynnik koncentracji" id="UUIDbf779161-3e38-47d4-4894-7319d3811aa9">współczynniki koncentracji</term> (ang. <foreign xml:lang="en" id="UUIDef72d4e2-4623-46c5-557d-08744be4caa9"><term cmlnle:reference="concentration ratio" id="UUIDa325693b-d35f-4dd3-7652-6734900a0825">concentration ratio</term></foreign>), które mierzą łączny udział w rynku (lub procent całkowitej sprzedaży gałęzi) największych przedsiębiorstw na nim działających (zwykle od czterech do ośmiu). Aby dowiedzieć się, w jaki sposób rosnąca koncentracja rynku może przekładać się na nieefektywność gospodarowania, zapoznaj się z rozdziałem dotyczącym monopolu.</para>
+      <para id="fs-idm171474096">Załóżmy, że w pewnym mieście funkcjonuje 18 firm naprawiających szyby samochodowe, z udziałami w rynku przedstawionymi w <link target-id="Table_11_01" cmlnle:case="locative" id="UUID1699edf8-8dac-4df4-708a-e37c3e037b05" />. <term cmlnle:reference="udział w rynku" id="UUID6b512382-bbe0-4020-46e7-65940a903705">Udział w rynku</term> (ang. <foreign xml:lang="en" id="UUID4d2f8e64-0611-42c3-51a1-8e9596836d93"><term cmlnle:reference="market share" id="UUIDab143bf4-ffad-4f35-52d6-c3919e2970e3">market share</term></foreign>) to wielkość sprzedaży danego przedsiębiorstwa odniesiona do całkowitej sprzedaży gałęzi. Współczynnik koncentracji czterech przedsiębiorstw obliczamy, dodając udziały w rynku czterech największych firm: w tym przypadku 16 + 10 + 8 + 6 = 40. Powyższy współczynnik koncentracji nie jest szczególnie wysoki, ponieważ cztery największe firmy dają łącznie mniej niż połowę produkcji gałęzi.</para>
+      <table summary="This table shows the market shares in the market for replacing automobile windshields. The first column lists the various companies that make up the market: Smooth as Glass Repair Company (16% of the market), The Auto Glass Doctor Company (10% of the market), Your Car Shield Company (8% of the market), seven firms that each have 6% of the market (42% of the market combined), and eight firms that each have 3% of the market (24% of the market, combined). The four-firm concentration ratio is 16 plus 10 plus 8 plus 6, which equals 40." id="Table_11_01"><title id="UUID704d5026-1a87-8bee-5f6c2b5d163d7d08">Obliczanie współczynnika koncentracji na podstawie udziałów w rynku</title><tgroup cols="2" id="UUID704d5026-fb4b-d916-84d42581af891f18"><colspec colnum="1" colname="col1" id="UUID704d5026-ba81-02aa-f790d9d64aa44caf" /><colspec colnum="2" colname="col2" id="UUID704d5026-f728-cd7b-94ac0a0c5f06c18a" /><thead id="UUID704d5026-6299-0538-32290a86f5731f54"><row id="UUID704d5026-78cd-4862-e71d001d57b5f4b6"><entry namest="col1" nameend="col2" align="left" id="UUID704d5026-99bb-f49a-540a9ce8804cfe42">Jeżeli udziały w rynku usług naprawy szyb samochodowych wynoszą:</entry></row></thead><tbody id="UUID704d5026-df9f-7305-887109020a77aa62"><row id="UUID704d5026-98f2-3b46-938b921cff8520da"><entry id="UUID704d5026-97c0-982a-787fc6202af8bad6">Przedsiębiorstwo Naprawa Gładka Jak Po Szkle</entry><entry id="UUID704d5026-cb26-f41c-3af2e8e1b3d2d55c">16%</entry></row><row id="UUID704d5026-0e87-9f3b-67d494a8e54bebd6"><entry id="UUID704d5026-8253-766c-0f8ae9930f9f558f">Przedsiębiorstwo Doktor Szyba</entry><entry id="UUID704d5026-8e6a-390b-bb6a9122b7bb97ed">10%</entry></row><row id="UUID704d5026-cc04-23a5-9a7a5de851aafa00"><entry id="UUID704d5026-5eaa-8dbe-5de5f5cb1de4fc44">Przedsiębiorstwo Twoja Szyba</entry><entry id="UUID704d5026-5edc-acb0-15c338a9ff742407">8%</entry></row><row id="UUID704d5026-da5a-9f5a-86280656f7218d67"><entry id="UUID704d5026-64b6-968d-39fb8db901b6662f">7 przedsiębiorstw, z których każde ma 6% udziału w rynku</entry><entry id="UUID704d5026-1d0c-0ca9-91ad332addff77d6">42%</entry></row><row id="UUID704d5026-e351-1da8-b54b41bee840688b"><entry id="UUID704d5026-6ade-05f9-8247b02f5288189d">8 przedsiębiorstw, z których każde ma 3% udziału w rynku</entry><entry id="UUID704d5026-3373-95f7-9a47f2675f69d92a">24%</entry></row><row id="UUID704d5026-d634-d596-06c112ad9e09e9a4"><entry namest="col1" nameend="col2" align="left" id="UUID704d5026-aa25-0837-14760cb858151c48">to współczynnik koncentracji 4 przedsiębiorstw wynosi 16 + 10 + 8 + 6 = 40.</entry></row></tbody></tgroup></table>
+      <para id="fs-idm165500768">Wykorzystanie współczynnika koncentracji pozwala ocenić to, na ile ewentualne decyzje podejmowane przez urzędy antymonopolowe są oparte na racjonalnych przesłankach. Na przykład gdyby doszło do połączenia dwóch najmniejszych firm na rynku usług naprawy szyb samochodowych w naszym hipotetycznym mieście, współczynnik koncentracji czterech przedsiębiorstw nie zmieniłby się. Oznacza to, że nie powinno być większych obaw, że intensywność konkurencji na rynku znacznie się zmniejszy. Trudno byłoby zatem obronić ewentualną negatywną decyzję dotyczącą tej fuzji. W przypadku fuzji dwóch największych firm (Naprawa Gładka Jak Po Szkle i Doktor Szyba) współczynnik koncentracji czterech przedsiębiorstw zwiększyłby się do poziomu 46 (tj. 26 + 8 + 6 + 6). Chociaż współczynnik koncentracji jest nieco wyższy, cztery największe firmy dostarczają nadal mniej niż połowę produkcji gałęzi, więc także ta fuzja nie powinna budzić niepokoju organów antymonopolowych.</para>
+      <note type="note" id="fs-idm820784" class="economics linkup">
+        <para id="fs-idp132851696">Odwiedź niniejszą <link url="http://openstax.org/l/Google_FTC" id="UUIDbfb5d9a8-7b95-42dd-4853-1db4e2a3941a">stronę internetową</link>, aby przeczytać artykuł o starciu Google z FTC.</para>
+      </note>
+    </section>
+    <section id="fs-idm38372336">
+      <title id="UUIDed736e9f-baca-4903-6f4f-83bc5c5d5bde">Indeks Herfindahla-Hirschmana (HHI)</title>
+      <para id="fs-idm40389776">Współczynnik koncentracji to stosunkowo proste narzędzie, pokazujące tylko niektóre aspekty stopnia koncentracji produkcji lub sprzedaży w analizowanej gałęzi. Rozważmy teraz przykład dwóch branż, w których współczynnik koncentracji czterech przedsiębiorstw wynosi 80. Jednak w pierwszej gałęzi każda z pięciu firm kontroluje po 20% rynku, podczas gdy w drugiej największe przedsiębiorstwo kontroluje aż 77% rynku, a wszystkie pozostałe – po 1%. Chociaż współczynniki koncentracji czterech przedsiębiorstw są identyczne w obu branżach, znacznie większe zainteresowanie urzędu antymonopolowego powinna budzić ta druga, gdyż pomimo pozornej konkurencji, największe przedsiębiorstwo jest w niej faktycznym monopolistą (ma swobodę ustalania cen).</para>
+      <para id="fs-idp5100384">Aby poradzić sobie z tymi ograniczeniami i uzyskać obraz koncentracji produkcji lub sprzedaży całej gałęzi, można wykorzystać <term cmlnle:reference="indeks Herfindahla-Hirschmana" id="UUIDde776d73-7f56-4b68-60f5-5754f0292804">indeks Herfindahla-Hirschmana (HHI)</term> (ang. <foreign xml:lang="en" id="UUIDd2543d22-52b7-487d-6475-31cd53038144"><term cmlnle:reference="Herfindahl-Hirschman Index" id="UUID63d9a47f-794d-4156-49ab-467b81f48b9a">Herfindahl-Hirschman Index (HHI)</term></foreign>). Parametr ten obliczamy, sumując kwadraty udziałów w rynku wszystkich przedsiębiorstw działających w danej branży, jak to ilustruje poniższa <link target-id="fs-idm91522912" id="UUID12663155-a2db-4480-508d-abc17a1f995a" /></para>
+      <note type="note" id="fs-idm91522912" class="economics workout">
+        <title id="UUIDa3ac5c00-668e-47e1-4f50-46bcce67a489">Obliczanie HHI</title>
+        <para id="fs-idm78016736">Krok 1. Obliczmy Indeks Herfindahla-Hirschmana dla monopolu ze 100-procentowym udziałem w rynku. Ponieważ w gałęzi jest tylko jedno przedsiębiorstwo, jego udział w rynku wynosi 100%. HHI jest równy 100<sup>2</sup> = 10 000.</para>
+        <para id="UUIDfecf0d5e-9202-4869-5cd5-94fed7cf39c3">Krok 2. W przypadku gałęzi o strukturze zbliżonej do konkurencji doskonałej, z dziesiątkami lub setkami bardzo małych przedsiębiorstw, wartość HHI może spaść do 100 lub nawet wartości dwucyfrowych. Dla przykładu obliczmy indeks dla gałęzi obejmującej 100 przedsiębiorstw, z których każde ma 1% udział rynku. W tym przypadku HHI wynosi 100 × (1<sup>2</sup>) = 100.</para>
+        <para id="UUID3372cb8a-ce18-47b7-7c37-78393ec889e5">Krok 3. Obliczmy Indeks Herfindahla-Hirschmana dla gałęzi z <link target-id="Table_11_01" cmlnle:case="genitive" id="UUID2b0b19b0-436c-4509-72c3-9004fb890826" />. Wynosi on: 16<sup>2</sup> + 10<sup>2</sup> + 8<sup>2</sup> + 7 × (6<sup>2</sup>) + 8 × (3<sup>2</sup>) = 744.</para>
+        <para id="UUIDf5818b79-9fcf-4fd5-5b10-8b825b77459f">Krok 4. Zauważ, że duże firmy mają większy wpływ na wartość indeksu niż przedsiębiorstwa małe i bardzo małe.</para>
+        <para id="UUIDab2a6de6-106c-4ae3-487f-68939b4d993c">Krok 5. Wróćmy do wcześniejszego przykładu i porównajmy branżę, w której działa pięć przedsiębiorstw mających 20% udziału w rynku, z taką, w której jedna firma ma udział sięgający 77%, a pozostałe 23 firmy po 1%. Obie gałęzie mają ten sam współczynnik koncentracji czterech przedsiębiorstw równy 80. Jednak HHI dla pierwszej gałęzi wynosi 5 × (20<sup>2</sup>) = 2000, podczas gdy dla drugiej jest on znacznie wyższy: 77<sup>2</sup> + 23 × (1<sup>2</sup>) = 5952.</para>
+        <para id="UUID4cb2dbea-c5c7-4d74-4c2b-412be11ba9ce">Krok 6. Zauważ, że działające w drugiej gałęzi przedsiębiorstwo, będące faktycznym monopolistą, znacznie zwiększa wartość Indeksu Herfindahla-Hirschmana mierzącego koncentrację produkcji.</para>
+      </note>
+    </section>
+    <section id="fs-idm138371376">
+      <title id="UUIDa85678d2-4427-4b7c-73ea-37ded00ef021">Nowe kierunki polityki antymonopolowej</title>
+      <para id="fs-idm210801184">Zarówno współczynnik koncentracji, jak i Indeks Herfindahla-Hirschmana mają pewne wady. Po pierwsze, opierają się na założeniu, że analizowana gałąź jest dobrze zdefiniowana, a jedyne pytanie dotyczy podziału produkcji pomiędzy działające w jej ramach podmioty. Po drugie, wykorzystują domniemanie, iż warunki konkurencji w różnych gałęziach są do siebie na tyle podobne, że do podjęcia decyzji o zgodzie na ewentualną fuzję lub przejęcie (czyli do oceny wpływu tego typu transakcji na intensywność konkurencji w danej branży) wystarczy znajomość jednej z dwóch miar koncentracji produkcji rynkowej. Jednak te założenia nie zawsze (a szczerze mówiąc, raczej rzadko) są prawdziwe. W odpowiedzi na te problemy urzędy antymonopolowe w ciągu dwóch ostatnich dziesięcioleci zmieniły swój sposób postępowania.</para>
+      <para id="fs-idm2721344">Sporną kwestią jest często definicja <term cmlnle:reference="rynek" id="UUID7a4e69b5-d314-4c6e-69a6-10a6500efa21">rynku</term> (ang. <foreign xml:lang="en" id="UUID64a47c57-0838-47bd-5662-ae3f455dc1f9"><term cmlnle:reference="market" id="UUID204b56d0-51f6-4869-52aa-34d50af3c0be">market</term></foreign>). Na przykład firma Microsoft na początku XXI w. miała dominujący udział w rynku komputerowych systemów operacyjnych. Jednak na całym rynku oprogramowania i usług komputerowych, od gier aż po programy naukowe, udział Microsoftu wyniósł w 2014 r. tylko ok. 14%. Wąsko zdefiniowany rynek będzie sprawiał wrażenie bardziej skoncentrowanego, podczas gdy rynek szeroko zdefiniowany będzie wyglądał na bardziej konkurencyjny, co oczywiście wpłynie na posunięcia urzędów antymonopolowych. Podobna sytuacja wystąpiła w Polsce w 2007 r. w czasie fuzji dwóch banków – Pekao SA i BPH. Definiując rynek, na którym podmioty te działały po prostu jako usługi bankowe, nowe przedsiębiorstwo nie zyskiwało dominującej pozycji. Jednak w momencie, w którym UOKiK dokonał rozróżnienia pomiędzy działalnością depozytową i kredytową i zdefiniował rynek w kategoria konkretnych rodzajów kredytów i pożyczek, okazało się, że nowy bank, który wyłoniłby się z fuzji Pekao SA i BPH, zyskałby dominującą pozycję na niektórych z tak wąsko zdefiniowanych rynków. W konsekwencji UOKiK wymusił na banku BPH sprzedaż części ze swoich oddziałów przed połączeniem z Pekao SA.</para>
+      <para id="fs-idm222544">W ciągu ostatnich kilkudziesięciu lat miały miejsce dwie szczególnie istotne zmiany, wpływające na sposób definiowania rynków: jedna koncentruje się na technologii, a druga na <term cmlnle:reference="globalizacja" id="UUID8ea975fd-d5c1-4207-424f-2bafed67a5d5">procesach globalizacyjnych</term> (ang. <foreign xml:lang="en" id="UUID20bf1b50-f8c8-484e-6035-7b3ad96e5cb0"><term cmlnle:reference="globalization" id="UUIDfe27d0bf-9ff3-4242-5361-946cb2718150">globalization</term></foreign>). Obie zmiany są zresztą ze sobą powiązane. Wraz z ogromnym rozwojem technologii komunikacyjnych, przede wszystkim internetu, konsument może zamawiać książki lub artykuły dla zwierząt (a więc produkty, które zazwyczaj kupowane były na niewielkich lokalnych rynkach) w podmiotach operujących w skali całego kraju lub nawet całego światowego rynku. W rezultacie wiele lokalnych przedsiębiorstw handlu detalicznego ma do czynienia z coraz większą konkurencją. Efekt ten może być jeszcze silniejszy przy zakupach dóbr inwestycyjnych dokonywanych przez przedsiębiorstwa. Specjalne witryny internetowe przeznaczone dla transakcji B2B (ang. <emphasis effect="italics" /><foreign xml:lang="en" id="UUIDa22d757f-697d-4d60-4074-e1edb256b3c9"><emphasis effect="italics">business-to-business</emphasis></foreign>) umożliwiają kontakt nabywcom i dostawcom z dowolnego miejsca na świecie.</para>
+      <para id="fs-idp12426960">Globalizacja zmieniła rozumienie granic rynków. Jeszcze w latach 70. XX w. powszechne było obliczanie współczynników koncentracji i indeksów HHI wyłącznie dla rynków krajowych. Obecnie w wielu gałęziach konkurenci działają przede wszystkim na rynkach globalnych. Kilkadziesiąt lat temu na amerykańskim rynku motoryzacyjnym dominowały trzy firmy: General Motors, Ford i Chrysler. Jednak w 2014 r. ich łączna produkcja stanowiła już mniej niż połowę sprzedaży samochodów w USA i firmy te musiały zmierzyć się z konkurencją ze strony zagranicznych producentów samochodów, takich jak Toyota, Honda, Nissan, Volkswagen, Mitsubishi i Mazda. Indeksy HHI wskazują, że większość głównych gałęzi gospodarki, w tym branża samochodowa, charakteryzuje się niższą koncentracją w skali globalnej niż w skali krajowej.</para>
+      <para id="fs-idp46673968">Nowe podejście do polityki antymonopolowej polega na szczegółowej analizie sytuacji na konkretnych rynkach, w kontekście podmiotów zmieniających swoją strukturę własnościową, w miejsce prostego obliczania udziałów w sprzedaży całej branży. Punktem wyjścia jest wykorzystanie narzędzi statystycznych i danych rzeczywistych do oszacowania <term cmlnle:reference="krzywa popytu" id="UUID1860bead-9bd0-45e5-4d19-1fcf5aa32a50">krzywych popytu</term> (ang. <foreign xml:lang="en" id="UUID4d604cb3-4105-4239-57b6-142a1b218174"><term cmlnle:reference="demand curve" id="UUID83113a35-f9ac-43d7-503e-cabe24a60131">demand curves</term></foreign>) i <term cmlnle:reference="krzywa podaży" id="UUIDcfd1eb06-6b7e-47cd-5ecf-3f822a0791c3">krzywych podaży</term> (ang. <foreign xml:lang="en" id="UUID4d3849b6-a3d7-4f72-7c39-8663ccf5ce21"><term cmlnle:reference="supply curve" id="UUID49f127dc-f645-47cb-6273-9fc14bbc395a">supply curves</term></foreign>) przedsiębiorstw planujących fuzję lub przejęcie. Drugim krokiem jest określenie, jaki rodzaj konkurencji występuje w tej konkretnej branży. Może to być np. konkurowanie w celu obniżenia cen, zwiększenia produkcji, budowania marki za pomocą reklamy albo budowania reputacji opartej na standardach obsługi klienta lub jakości i niezawodności produktu. Dysponując wszystkimi elementami układanki, możliwe jest zbudowanie modelu statystycznego, na podstawie którego zostaną oszacowane prawdopodobne korzyści i koszty konkretnej fuzji lub przejęcia. Modele te opierają się oczywiście na subiektywnej ocenie ekspertów zatrudnianych przez urzędy antymonopolowe, tak więc mogą być przedmiotem sporów prawnych między nimi a chcącymi się połączyć przedsiębiorstwami.</para>
+    </section>
+    <section id="fs-idm14024064" class="summary">
+      <title id="UUIDde427474-78f2-4667-7ec1-bee73a852af0">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idp9540480">Fuzja polega na połączeniu się dwóch prywatnych przedsiębiorstw. Przejęcie polega na wykupieniu jednej firmy przez drugą. W obu przypadkach dwie wcześniej niezależne firmy stają się jednym podmiotem. Przepisy antymonopolowe mają na celu zapewnienie konkurencji na rynkach poprzez m.in. uniemożliwianie tworzenia się dużych przedsiębiorstw w wyniku fuzji i przejęć, regulowanie działań mogących ograniczać konkurencję lub dzielenie dużych przedsiębiorstw na mniejsze.</para>
+      <para id="fs-idm73531440">Współczynnik koncentracji jest jednym ze sposobów pomiaru stopnia konkurencji na rynku. Współczynnik koncentracji czterech przedsiębiorstw obliczamy, dodając udziały w rynku – czyli odsetek całkowitej sprzedaży – czterech największych firm w gałęzi. Inną metodą pomiaru stopnia konkurencji na rynku jest indeks Herfindahla-Hirschmana (HHI). Obliczamy go jako sumę kwadratów udziałów rynkowych wszystkich przedsiębiorstw w danej gałęzi gospodarki.</para>
+      <para id="fs-idm100813184">Globalizacja oraz rozwój nowych technologii komunikacyjnych i informacyjnych podniosły poziom konkurencji w wielu branżach poprzez wchodzenie na rynki lokalne przedsiębiorstw działających w skali globalnej.</para>
+    </section>
+    <section id="fs-idp187935344" class="self-check-questions">
+      <title id="UUIDe15f94ce-5044-443c-6fe9-65d1c14e0866">Pytania Self-Check</title>
+      <exercise id="fs-idp20050208">
+        <problem id="fs-idp21656944">
+          <para id="fs-idp23192784">Czy twoim zdaniem fuzja dwóch firm, które nie znajdują się w pierwszej czwórce pod względem wielkości sprzedaży w danej gałęzi, może wpłynąć zarówno na współczynnik koncentracji czterech przedsiębiorstw, jak i na Indeks Herfindahla-Hirschmana? Krótko uzasadnij swoją odpowiedź.</para>
+        </problem>
+        <solution id="fs-idp63972016">
+          <para id="fs-idp177332656">Owszem, może. Zmiana indeksu HHI jest dość łatwa do wytłumaczenia, ponieważ parametr ten uwzględnia udziały w rynku wszystkich przedsiębiorstw. Fuzja jakichkolwiek dwóch firm działających w danej branży z pewnością zmieni jego wartość. W przypadku współczynnika koncentracji możliwe jest połączenie, powiedzmy, piątej i szóstej co do wielkości firmy na rynku, w wyniku czego powstanie nowe przedsiębiorstwo, które następnie znajdzie się w pierwszej czwórce pod względem wielkości. W takim przypadku fuzja dwóch przedsiębiorstw, które nie znajdują się w pierwszej czwórce, zmieni wartość współczynnika koncentracji czterech przedsiębiorstw.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm32347520">
+        <problem id="fs-idp134608432">
+          <para id="fs-idp116423056">Czy to prawda, że na współczynnik koncentracji czterech przedsiębiorstw większy wpływ mają jedna lub dwie bardzo duże firmy, podczas gdy na wartość indeksu Herfindahla-Hirschmana jednakowy wpływ mają wszystkie firmy działające w gałęzi? Odpowiedź uzasadnij.</para>
+        </problem>
+        <solution id="fs-idp72756480">
+          <para id="fs-idp131157856">Nieprawda, jest to rozumowanie błędne. Indeks HHI uwzględnia co prawda udziały w rynku wszystkich firm, ale podniesienie tych udziałów do kwadratu powoduje, że wpływ dużych przedsiębiorstw jest stosunkowo większy niż w przypadku współczynnika koncentracji.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp133328928">
+        <problem id="fs-idp69019520">
+          <para id="fs-idp43785824">Kilka lat temu dwóch dalekobieżnych przewoźników autobusowych w USA: Greyhound Lines, Inc. i Trailways Transportation System chciało się połączyć. Jedną z możliwych definicji rynku w tym przypadku był „rynek międzymiastowych przewozów autobusowych”. Inną – „rynek transportu międzymiastowego”, uwzględniający też transport prywatnymi autami, wypożyczonymi samochodami, pociągami i samolotami. Jak myślisz, którą definicję preferowali przewoźnicy autobusowi i dlaczego?</para>
+        </problem>
+        <solution id="fs-idp113314656">
+          <para id="fs-idp69662192">Przewoźnicy autobusowi preferowali szerszą definicję rynku (czyli drugą). Gdyby zastosowano wąską definicję, połączone przedsiębiorstwa autobusowe uzyskałyby niemal monopol na rynku „międzymiastowych przewozów autobusowych”. Jednocześnie jednak nowy podmiot kontrolował tylko niewielką część całego rynku transportu międzymiastowego, obejmującego wszystkie środki transportu. Na fuzję zatem zezwolono.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp62461936">
+        <problem id="fs-idp69923648">
+          <para id="fs-idm58155168">Czy można oczekiwać, że w wyniku globalizacji i rozwoju nowych technologii informacyjno-komunikacyjnych definicje rynków stosowane przez urzędy antymonopolowe będą raczej szersze, czy węższe?</para>
+        </problem>
+        <solution id="fs-idp100542976">
+          <para id="fs-idp3154112">Powszechnie oczekuje się, że definicje rynków zostaną poszerzone z powodu większej konkurencji ze strony firm działających w skali globalnej. Jednak poszerzenie tej definicji niekoniecznie oznacza, że urzędy antymonopolowe będą miały mniej pracy. Istnieje również obawa, że przedsiębiorstwa będące lokalnymi lub krajowymi monopolistami mogą wykorzystać nowe możliwości, aby rozszerzyć swój zasięg poza granice państwa, a władzom krajowym trudno będzie na to zareagować. Stąd zresztą powierzenie Komisji Europejskiej funkcji urzędu antymonopolowego działającego w skali całej UE.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp192517632" class="review-questions">
+      <title id="UUID83c1b051-b9eb-427a-5d59-b8e84b572ebc">Pytania Review</title>
+      <exercise id="fs-idp19370640">
+        <problem id="fs-idp123645600">
+          <para id="fs-idp11387056">Czym jest fuzja przedsiębiorstw? Co to jest przejęcie?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp71773616">
+        <problem id="fs-idp71295456">
+          <para id="fs-idp198998640">Jaki jest cel polityki antymonopolowej?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp37993488">
+        <problem id="fs-idp33248304">
+          <para id="fs-idp123349792">Jak mierzymy współczynnik koncentracji czterech przedsiębiorstw? Co jego wysoka wartość oznacza dla intensywności konkurencji?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp199103952">
+        <problem id="fs-idp93822528">
+          <para id="fs-idp69182608">Jak mierzymy Indeks Herfindahla-Hirschmana? Co dla intensywności konkurencji oznacza jego niska wartość?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp100481136">
+        <problem id="fs-idp195616624">
+          <para id="fs-idp72401376">Dlaczego trudno jest zdefiniować rynek na użytek wyliczeń współczynników koncentracji i HHI?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp58740704" class="critical-thinking">
+      <title id="UUID4a99f420-c0c7-48d4-5d9d-ae4cc7db69be">Pytania Critical Thinking</title>
+      <exercise id="fs-idp43153488">
+        <problem id="fs-idp31143632">
+          <para id="fs-idp170276720">Czy współczynnik koncentracji czterech przedsiębiorstw lub indeks HHI bezpośrednio mierzą intensywność konkurencji w gałęzi? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp62136400">
+        <problem id="fs-idp126807088">
+          <para id="fs-idm12770560">Co świadczyłoby o silnej konkurencji między przedsiębiorstwami w gałęzi? Czy potrafisz wymienić dwie branże wysoce konkurencyjne?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDa68e4e32-6016-45db-432a-40da6570723e">
+    <definition id="fs-idm144174096">
+      <term id="UUID7f9fe4f8-eb95-4f87-44c0-59db049d0b55">przejęcie (ang. <foreign xml:lang="en" id="UUIDc15262ff-1968-458c-4696-46178798a9db">acquisition</foreign>)</term>
+      <meaning id="fs-idm136684896">
+        <para id="UUID5e5265ac-6f00-42da-43f3-1fb0d44b4ecb">zakup jednej firmy przez drugą</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm210310672">
+      <term id="UUID44a34bf9-668c-4363-4c05-7aea4161bc02">przepisy antymonopolowe (ang. <foreign xml:lang="en" id="UUIDc26f1d8b-d57b-4693-750b-0ff90965a72b">antitrust laws</foreign>)</term>
+      <meaning id="fs-idm172220544">
+        <para id="UUIDd9d3a613-a3fb-4898-4008-bcd49008e896">przepisy dające państwu prawo do blokowania pewnych fuzji i przejęć, a w niektórych przypadkach nawet do podziału dużych przedsiębiorstw na mniejsze</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm142543200">
+      <term id="UUID43a45f76-57f2-4b3a-4e93-0220fe8f7f31">współczynnik koncentracji (ang. <foreign xml:lang="en" id="UUID4fcf3050-a3fd-4b7c-5bd3-f4d3c50cf99d">concentration ratio</foreign>)</term>
+      <meaning id="fs-idm213544672">
+        <para id="UUID5fb07634-4f19-457b-6d87-4e4289c7e2af">narzędzie służące do pomiaru stopnia siły monopolowej największych przedsiębiorstw w gałęzi; mierzy, jaki jest udział w całkowitej sprzedaży branży największych firm, zazwyczaj od czterech do ośmiu głównych przedsiębiorstw</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm131484208">
+      <term id="UUID70ef128d-cbfb-45e6-591c-6abe9f8bbbd9">współczynnik koncentracji czterech przedsiębiorstw (ang. <foreign xml:lang="en" id="UUIDb0e18b6f-0519-4f84-4a8b-0caedbe6188d">four-firm concentration ratio</foreign>)</term>
+      <meaning id="fs-idm172428080">
+        <para id="UUID20d6354d-13d6-45da-7aca-5025a245eddc">udział czterech największych przedsiębiorstw w całkowitej sprzedaży danej gałęzi</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm141020096">
+      <term id="UUID88bb85e9-63dc-429a-6213-9100410d6e52">Indeks Herfindahla-Hirschmana (HHI) (ang. <foreign xml:lang="en" id="UUIDd555028b-f3fb-42b1-4b60-94a1590365e2">Herfindahl-Hirschman Index (HHI)</foreign>)</term>
+      <meaning id="fs-idm134245696">
+        <para id="UUID2b321496-1c6d-46b4-6a9b-7816018e42cf">parametr służący do pomiaru stopnia koncentracji danej branży, obliczany jako suma kwadratów udziałów w sprzedaży wszystkich działających w niej przedsiębiorstw</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm134742176">
+      <term id="UUID3c7e3814-e730-4320-4e71-8bdde752ce2b">udział w rynku (ang. <foreign xml:lang="en" id="UUID8772cfa7-cb4d-422d-54fd-8f6b25e55ad9">market share</foreign>)</term>
+      <meaning id="fs-idm144003376">
+        <para id="UUIDc7b27bee-8958-4552-4187-6e7c1acecfdc">relacja wielkości lub wartości sprzedaży danego przedsiębiorstwa i łącznej wielkości lub wartości sprzedaży całej gałęzi</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm1235712">
+      <term id="UUID01bcedaa-003d-44c5-4260-ca466b0938ea">fuzja (ang. <foreign xml:lang="en" id="UUID9f980480-c791-43dd-6a37-e36255573ff0">merger</foreign>)</term>
+      <meaning id="fs-idm96192720">
+        <para id="UUID2520ed29-151f-4e81-56e6-f45797f8a0ed">sytuacja, w której dwa niezależne przedsiębiorstwa łączą się w jeden podmiot</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

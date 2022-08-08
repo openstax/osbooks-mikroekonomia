@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub4d18d54-8447-4cfd-b983-0af909607999" id="Ub4d18d54-8447-4cfd-b983-0af909607999" xml:lang="en" cnxml-version="0.7">
+  <title>Popyt i podaż na rynku finansowym</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00048</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Popyt i podaż na rynku finansowym</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.355686359+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.355686359+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.355686359+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>b4d18d54-8447-4cfd-b983-0af909607999</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID6c65e63a-ecfd-4884-5a9c-d4d433a4d8a1" class="learning-objectives">
+      <para id="UUID462274d8-b7f2-4ade-7096-009ba6eb93ee">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUIDbbfbb4d9-a0dd-4b6d-7e24-e920a31f29c9">
+        <item id="UUIDdd435eb0-249a-45b4-7c0b-6783a2cda4c1">
+          <para id="UUID9a3321c1-9a51-48ce-774c-757ae6033936">Zidentyfikować sprzedawców i nabywców na rynku kapitału</para>
+        </item>
+        <item id="UUIDcdd4eede-c415-417f-5722-9818ab07c256">
+          <para id="UUID9bcecc43-6362-41ee-5f6b-ba161d88649a">Wyjaśnić, jak stopy procentowe wpływają na popyt i podaż na rynku finansowym</para>
+        </item>
+        <item id="UUID85356207-d44f-4e8e-5f70-7e06afa9a9ca">
+          <para id="UUID178475cb-ae05-4cf9-519a-e90f133546ff">Omówić znaczenie przepisów antylichwiarskich</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDaba284c0-e465-44e3-4438-b5bd05020cef">Gospodarstwa domowe, organizacje <foreign xml:lang="en" id="UUID9bd353f1-0c60-484a-6acd-c42a2e299f9d"><term id="UUIDf1891c20-6262-43c4-522a-28816079200a">non-profit</term></foreign> i przedsiębiorstwa w Stanach Zjednoczonych zaoszczędziły w 2015 r. prawie 1,3 bln dol. (z kolei w Polsce we wrześniu 2021 r. oszczędności gospodarstw domowych szacowano na 1,94 bln zł i była to kwota o blisko 13% wyższa niż na koniec września poprzedniego roku). Gdzie te oszczędności trafiają i jak są wykorzystywane? Część zostaje przekazana do banków, które z kolei pożyczają te pieniądze gospodarstwom domowym lub podmiotom gospodarczym w formie pożyczek lub kredytów. (Zgodnie z polskim prawem pożyczka to środki pieniężne, które pożyczkobiorca może wykorzystać w dowolny sposób. Kredyt natomiast zawsze zaciągany jest na konkretny cel, np. zakup nieruchomości – domu lub mieszkania, ale też samochodu, sprzętu RTV i AGD itd.). Inna część zostaje zainwestowana w prywatne przedsiębiorstwa lub pożyczona instytucjom sektora finansów publicznych (państwu lub samorządom), zbierającym fundusze na takie cele jak budowa dróg lub finansowanie komunikacji zbiorowej. Niektóre przedsiębiorstwa reinwestują swoje oszczędności, kupując nowe maszyny, środki transportu, sprzęt komputerowy lub opłacając swoim pracownikom szkolenia.</para>
+    <para id="UUIDdf7a2b8c-b066-4a1a-6489-5978c87ce919">W tym podrozdziale omówimy, jak model popytu i podaży łączy podmioty, które mają do zaoferowania <term cmlnle:reference="kapitał finansowy" id="UUID44e2132d-6785-44d5-61ee-be06da388555">kapitał finansowy</term> (ang. <foreign xml:lang="en" id="UUID71dfd584-0ef7-4680-72f4-1790bafe0597"><term cmlnle:reference="financial capital" id="UUID52a0eed7-cfa7-4209-43f1-87aaca8fc9fa">financial capital</term></foreign>) (tj. oszczędności) z jednostkami i organizacjami zgłaszającymi zapotrzebowanie na ten środek produkcji (tj. pożyczki i kredyty). Ci, którzy oszczędzają pieniądze (lub dokonują inwestycji finansowych, co <foreign xml:lang="la" id="UUID0219715b-414a-4daa-6604-78a5b504a9b7">de facto</foreign> oznacza to samo), zarówno osoby fizyczne, jak i przedsiębiorstwa, stoją po stronie podaży na rynku finansowym. Natomiast ci, którzy zaciągają pożyczki lub biorą kredyty, znajdują się na tym rynku po stronie popytu.</para>
+    <section id="fs-idm46984928">
+      <title id="UUIDbeb94064-ed34-4125-555d-7005a85d7758">Kto tworzy popyt i podaż na rynku finansowym?</title>
+      <para id="UUID7e4f4386-d079-4fc3-5e64-069b7fd8010e">Na każdym rynku dostawcy otrzymują określoną, uiszczaną przez nabywców cenę za sprzedane dobro. Na rynku finansowym dostawcy środków finansowych (pochodzących z oszczędności) oczekują założonej stopy zwrotu (wynagrodzenia za udostępniony kapitał), podczas gdy ci, którzy te środki pożyczają od innych (otrzymują fundusze) rozumieją, że muszą za to zapłacić. Ta zapłata może przybierać różne formy, w zależności od rodzaju inwestycji.</para>
+      <para id="UUID6f8550ab-4d83-48fd-73e1-0cb546ce6676">Najprostszym przykładem stopy zwrotu jest <term cmlnle:reference="stopa procentowa" id="UUID275972c5-e2ce-4c92-617b-b731debaa859">stopa procentowa</term> (ang. <foreign xml:lang="en" id="UUID7aca09f0-33c1-4a69-77d7-f594cd9568eb"><term cmlnle:reference="interest rate" id="UUID77315307-efd6-4caa-5f7f-8bb02dc26620">interest rate</term></foreign>). Na przykład, kiedy wpłacasz pieniądze na konto oszczędnościowe w banku, otrzymujesz odsetki od swojego depozytu. Odsetki, które bank ci wypłaca, są naliczane zgodnie z obowiązującą stopą procentową. Podobnie jeśli zaciągniesz kredyt na zakup samochodu lub pożyczkę na świąteczne zakupy, musisz zapłacić odsetki od pożyczonych pieniędzy.</para>
+      <para id="UUID61038be6-cb2d-4321-4365-365e6f920cd9">Spójrzmy na rynek pożyczek udzielanych za pomocą kart kredytowych. W 2015 r. prawie 200 mln Amerykanów posiadało takie karty (na koniec 2020 r. liczba kart kredytowych w portfelach Polaków szacowana była na 5,5 mln). Karty kredytowe pozwalają pożyczyć pieniądze od wystawcy karty i spłacić pożyczoną kwotę wraz z odsetkami. Większość z nich pozwala na spłatę pożyczki bez płacenia odsetek, jeśli nastąpi to w określonym czasie (tzw. okresie bezodsetkowym). Typowe oprocentowanie kredytu zaciągniętego za pomocą karty kredytowej w Polsce wynosi czterokrotność stopy lombardowej NBP (w kwietniu 2022 r. było to 20%). Na początku 2018 r. wysokość zadłużenia Polaków na kartach kredytowych była szacowana na blisko 700 mln zł.</para>
+      <para id="UUIDde815bd1-f00a-4713-5ac1-35306320f279">Na <link target-id="CNX_Econ_C04_005" document="" cmlnle:case="locative" id="UUIDf05ca7fb-e261-428e-52f0-2d0e65951aba" /> zilustrowany jest popyt i podaż na rynku pożyczek udzielanych za pośrednictwem kart kredytowych. Na osi poziomej przedstawiona jest ilość środków finansowych pożyczonych na tym rynku. Oś pionowa, czyli oś ceny, pokazuje stopę oprocentowania takich pożyczek. <link target-id="Table_04_05" document="" id="UUID9dc29c95-4989-4537-566c-952fd1407f68" /> pokazuje ilość pieniędzy, których konsumenci potrzebują przy różnych poziomach stóp procentowych, oraz ilość pieniędzy, jaką przedsiębiorstwa obsługujące karty kredytowe (najczęściej banki) są skłonne dostarczyć.</para>
+      <figure id="CNX_Econ_C04_005">
+        <title id="UUIDcdf264c5-2c23-4d51-64b3-02dab59050bb">Popyt i podaż na rynku pożyczek na kartach kredytowych</title>
+        <media alt="Na wykresie zilustrowane są konsekwencje sytuacji, w której cena na rynku pożyczek zaciąganych dzięki kartom kredytowym (stopa procentowa) odchyla się od poziomu równowagi." id="fs-idp189527024">
+          <image src="../../media//CNX_Econ_C04_005.svg" mime-type="image/svg+xml" id="UUID47dfc6f3-2461-4127-7f88-4766590fea8c" />
+        </media>
+        <caption id="UUIDc72fa90b-3bd6-476f-4e98-a1bc4c81b5ab">Na rynku pożyczek udzielanych poprzez karty kredytowe krzywa popytu (D) na środki finansowe przecina krzywą podaży (S) w punkcie równowagi (E). W równowadze stopa procentowa (czyli cena na tym rynku) wynosi 15%, a wartość pożyczonych środków pieniężnych to 600 mld zł. Cena równowagi wyznaczona jest przez zrównanie popytu i podaży. Przy stopie procentowej powyżej poziomu równowagi, np. 21%, ilość oferowanych na pożyczki środków finansowych wzrosłaby do 750 mld zł, ale zapotrzebowanie spadłoby do 480 mld zł (pojawiłaby się nadwyżka podaży). Przy stopie procentowej niższej od ceny równowagi, np. 13%, zapotrzebowanie na pożyczki wzrosłoby do 700 mld zł, ale ilość oferowanych środków zmniejszyłaby się do 510 mld zł (wystąpiłaby nadwyżka popytu).</caption>
+      </figure>
+      <table summary="This table has three columns and six rows. The columns are labeled, &apos;Interest Rate (%),&apos; &apos;Quantity of Financial Capital Demanded (Borrowing) ($ billions),&apos; and &apos;Quantity of Financial Capital Supplied (Lending) ($ billions).&apos; Under the column &apos;Interest Rate (%)&apos; are the values: 11, 13, 15, 17, 19, and 21. Under the column &apos;Quantity of Financial Capital Demanded (Borrowing) ($ billions)&apos; are the values: $800; $700; $600; $550; $500; and $480. Under the column &apos;Quantity of Financial Capital Supplied (Lending) ($ billions)&apos; are the values: $420; $510; $600; $660; $720; and $750." id="Table_04_05"><title id="UUID704d5026-648c-ac8e-c839f92031992288">Popyt i podaż na rynku pożyczek z kart kredytowych</title><tgroup cols="3" id="UUID704d5026-796a-e496-fd90211219f32667"><colspec colnum="1" colname="col1" id="UUID704d5026-6194-96be-d57b131abd26a8db" /><colspec colnum="2" colname="col2" id="UUID704d5026-9d76-911c-9aa43117a8721396" /><colspec colnum="3" colname="col3" id="UUID704d5026-5925-e3d1-8ed7df58c8f8ea05" /><thead id="UUID704d5026-69ac-15af-246ffe34e509c4bb"><row id="UUID704d5026-6f5d-1526-71b9939620eaf5d6"><entry id="UUID704d5026-18ab-c404-b379302b10c59487">Stopa procentowa (%)</entry><entry id="UUID704d5026-87ee-ce18-2894e00a08f10f43">Zapotrzebowanie na pożyczki (mld zł)</entry><entry id="UUID704d5026-fc5b-7d78-e9f50bb473ead818">Ilość środków finansowych oferowanych  na pożyczki (mld zł)</entry></row></thead><tbody id="UUID704d5026-6f07-0f8c-b47d334d00fec434"><row id="UUID704d5026-3642-e3fc-2ec5647b25da148e"><entry id="UUID704d5026-4775-e66b-4ae39a7198643e42">11</entry><entry id="UUID704d5026-f850-e9bd-b8e25f260c387da2">800</entry><entry id="UUID704d5026-f1e0-4322-80fe6e0fd9d2eb81">420</entry></row><row id="UUID704d5026-71dc-7591-2b3c2d5ddece230c"><entry id="UUID704d5026-f4cb-2a0c-61364b40c12a5832">13</entry><entry id="UUID704d5026-c238-be38-90b8b000faab7193">700</entry><entry id="UUID704d5026-9199-af87-4d8bb34cd55cb4cf">510</entry></row><row id="UUID704d5026-41b8-3807-442b8adcb40dd6be"><entry id="UUID704d5026-cda2-47c3-560e2d553443f72d">15</entry><entry id="UUID704d5026-88a7-6750-642af2855ad860a8">600</entry><entry id="UUID704d5026-5448-43df-76db1b7f17c3440b">600</entry></row><row id="UUID704d5026-852a-febc-6c79db843437c12f"><entry id="UUID704d5026-8242-231e-e4826326ad648456">17</entry><entry id="UUID704d5026-0358-3aa4-0f2de10042469311">550</entry><entry id="UUID704d5026-0f65-e969-9a00f5b2cb73c1a9">660</entry></row><row id="UUID704d5026-1923-88c3-a2d440affdef22fa"><entry id="UUID704d5026-7617-48b9-c57500ea05aded3d">19</entry><entry id="UUID704d5026-580f-7b05-0afb6151e4264d9d">500</entry><entry id="UUID704d5026-ec12-9dcf-60b80e206a350298">720</entry></row><row id="UUID704d5026-b145-34f0-af06e23fd296c885"><entry id="UUID704d5026-95b8-2235-e29624ef0268f134">21</entry><entry id="UUID704d5026-e892-4e9c-42f9cff7a1b39777">480</entry><entry id="UUID704d5026-00bf-4242-db0ea015a23b9a69">750</entry></row></tbody></tgroup><caption id="UUID2c505745-f4cc-4b73-5d0b-dfa63e5a4d79" /></table>
+      <para id="UUIDe8a51ca2-b0ce-4650-5034-84664e902ea7">Na rynku finansowym nadal obowiązują prawa popytu i podaży. Zgodnie z <term cmlnle:reference="prawo popytu" id="UUID432ab69a-5e85-4e06-57b7-07c72de42fa8">prawem popytu</term> (ang. <foreign xml:lang="en" id="UUIDa7891d7f-2a45-4c90-57d0-2fb3cdfd6559"><term cmlnle:reference="law of demand" id="UUID49acb9a4-e6c6-442c-6ecc-003ae757dad5">law of demand</term></foreign>) wyższa stopa zwrotu (czyli wyższa cena) zmniejszy zapotrzebowanie. A więc wraz ze wzrostem stopy procentowej konsumenci zmniejszą wielkość zaciąganych pożyczek. Zgodnie z <term cmlnle:reference="prawo podaży" id="UUIDdfd3adf1-fe1c-4346-5edd-e0056d55602a">prawem podaży</term> (ang. <foreign xml:lang="en" id="UUID55be097d-e4c3-43b0-7f41-5997dd829397"><term cmlnle:reference="law of supply" id="UUIDb857b030-3ffc-4d81-437e-240148cf2fa2">law of supply</term></foreign>) wyższa cena powoduje wzrost ilości oferowanej (<foreign xml:lang="la" id="UUID300ec90d-bdbd-4a6b-7723-ecd8b84382d1">ceteris paribus</foreign>). W konsekwencji wraz ze wzrostem oprocentowania pożyczek na kartach kredytowych coraz więcej przedsiębiorstw będzie skłonnych je wydawać i zachęcać klientów do ich używania. I odwrotnie, jeśli oprocentowanie kart kredytowych spadnie, ilość środków pieniężnych dostarczonych na rynek kart kredytowych się zmniejszy, a zapotrzebowanie wzrośnie.</para>
+    </section>
+    <section id="fs-idp21425296">
+      <title id="UUIDd64c1e99-b5e3-4b50-7590-09ed335a6ead">Równowaga na rynku finansowym</title>
+      <para id="UUID9fd1d470-94b3-4c99-57e6-82ddbd13ee6f">Na rynku pożyczek z kart kredytowych przedstawionym na <link target-id="CNX_Econ_C04_005" document="" cmlnle:case="locative" id="UUIDa2858494-100a-4a21-7941-2310d5641cc0" /> krzywa podaży (S) i krzywa popytu (D) przecinają się w punkcie równowagi (E). Równowaga występuje przy stopie procentowej równej 15%, gdzie zapotrzebowanie na pożyczki i oferowana wielkość środków finansowych są sobie równe i wynoszą 600 mld zł.</para>
+      <para id="UUIDf900a67a-1d1e-437c-7f58-5ef99aa5c48f">Jeśli stopa procentowa (pamiętajmy, że jest to cena na rynku finansowym) jest wyższa od poziomu równowagi, pojawi się nadwyżka oferowanej ilości pożyczek. Na przykład przy stopie procentowej 21% ilość dostarczonych na rynek środków wzrasta do 750 mld zł, podczas gdy zapotrzebowanie spada do 480 mld. Przy takiej stopie procentowej wystawcy kart chętnie udzielają pożyczek ich posiadaczom, ale stosunkowo niewiele osób lub podmiotów gospodarczych chce brać te pożyczki (przeciąga spłatę poza okres bezodsetkowy). W rezultacie niektóre firmy obsługujące karty kredytowe obniżą pobierane oprocentowanie (lub inne opłaty), aby przyciągnąć więcej klientów. Ta strategia zepchnie stopę procentową w dół, do poziomu równowagi.</para>
+      <para id="UUIDb258c1a4-6da4-4301-7c6c-b6b86157e446">Jeżeli stopa procentowa jest poniżej poziomu równowagi, wówczas na tym rynku występuje nadwyżka popytu. Przy stopie procentowej równej 13% zapotrzebowanie na pożyczki na kartach kredytowych wzrasta do 700 mld zł, ale firmy obsługujące karty kredytowe są w stanie dostarczyć tylko 510 mld (w praktyce będą znacznie mniej chętne do oferowania kart kredytowych klientom i będą zmniejszać limity wydatków przypisane do konkretnych osób). W takiej sytuacji firmy zauważą, że mają wielu chętnych do wyrobienia karty kredytowej i zaciągnięcia pożyczki, co przełoży się na podniesienie oprocentowania, opłat i prowizji. Stopa procentowa będzie poddawana presji ekonomicznej pchającej ją w górę, w kierunku poziomu równowagi.</para>
+      <para id="UUID463bcaf8-713e-4070-4ddc-ec2e09871103">W bazie danych FRED dostępne są informacje dotyczące ok. 20 różnych stóp procentowych w USA, w tym oprocentowania kart kredytowych, kredytów samochodowych, pożyczek osobistych, kredytów hipotecznych i innych. Możesz je znaleźć na tej <link url="https://openstax.org/l/FRED_stlouis" id="UUID7b34801f-4a84-472f-615c-deba533f9da9">stronie</link>.</para>
+    </section>
+    <section id="fs-idp14067728">
+      <title id="UUID0b8a3718-8d99-4af6-6a1a-88e9511feaf3">Przesunięcia krzywych popytu i podaży na rynku finansowym</title>
+      <para id="UUIDee75869c-76ff-4677-7c24-4f9c52d0b57f">Dostawcy środków finansowych na rynek kapitałowy stoją przed dwiema ważnymi decyzjami: ile zaoszczędzić i w jaki sposób alokować swoje oszczędności między różne rodzaje inwestycji finansowych. Omówimy kolejno każdą z nich.</para>
+      <para id="UUID29e9a7da-469e-41cc-58cb-7d89b8eff5a2">Uczestnicy rynku finansowego muszą zdecydować, kiedy wolą realizować swoją konsumpcję: teraz czy w przyszłości? Ekonomiści nazywają to <term cmlnle:reference="podejmowanie decyzji międzyokresowych" id="UUIDd825d017-9e07-4b87-639d-51546b3954e4">podejmowaniem decyzji międzyokresowych</term> (ang. <foreign xml:lang="en" id="UUID1c740c76-8edb-45ef-7135-76c24f6c9f5a"><term cmlnle:reference="intertemporal decision making" id="UUID518d7f1a-3761-47d0-7746-59db1049f857">intertemporal decision making</term></foreign>), ponieważ dotyczy spraw rozłożonych w czasie. W przeciwieństwie do decyzji o zakupach w sklepie spożywczym, te inwestycyjne lub dotyczące oszczędności podejmowane są w dłuższym horyzoncie czasowym i podmioty gospodarcze niechętnie je zmieniają.</para>
+      <para id="UUID02097d39-86ac-4b53-569e-a26daab7eb8c">Większość pracowników oszczędza na emeryturę, ponieważ przyszłe dochody mogą okazać się niewystarczające, aby zaspokoić ich potrzeby. Z tego powodu zmniejszają bieżącą konsumpcję i zasilają rynki finansowe. A jeśli ich dochody rosną, to oszczędzają więcej. Zmiana postrzegania ich przyszłej sytuacji (np. rosnąca obawa przed popadnięciem w biedę po ustaniu aktywności zawodowej) powoduje zmianę wysokości ich dzisiejszych oszczędności.</para>
+      <para id="UUID5ed6485a-1e77-479d-462b-c73b39ce3884">W przeciwieństwie do osób w sile wieku wielu studentów potrzebuje pieniędzy dzisiaj, gdy ich dochody są niskie (lub w ogóle ich nie mają), aby opłacić czesne za studia i koszty utrzymania po założeniu samodzielnego gospodarstwa domowego (wyprowadzce od rodziców). W rezultacie zaciągają pożyczki, zwiększając bieżącą konsumpcję, a więc zgłaszają zapotrzebowanie na kapitał na rynku finansowym. Po ukończeniu studiów i podjęciu pracy spłacają zaciągnięte pożyczki i wtedy maleją ich środki na bieżącą konsumpcję. Osoby fizyczne pożyczają także pieniądze na zakup domów lub samochodów. Przedsiębiorstwa z kolei poszukują środków finansowych, aby mieć kapitał niezbędny do sfinansowania budowy fabryk lub realizacji projektów badawczo-rozwojowych, których horyzont inwestycyjny może wynosić nawet kilka–kilkanaście lat. Tak więc gdy konsumenci i przedsiębiorstwa oceniają jako wysoce prawdopodobne, że będą w stanie spłacić zadłużenie w przyszłości, dzisiejszy popyt na pożyczki i kredyty przesunie się w prawo.</para>
+      <para id="UUID583968ef-7918-4bf7-41fc-0cfde571d92f">Na przykład w czasie boomu technologicznego pod koniec lat 90. XX w. (tzw. bańki dotcomowej) wiele przedsiębiorstw nabrało pewności, że inwestycje w nową technologię przyniosą wysoką stopę zwrotu. Ich popyt na kredyty i pożyczki przesunął się w prawo. I odwrotnie, podczas kryzysu finansowego, który rozpoczął się w 2008 r., zapotrzebowanie na kredyty i pożyczki przy dowolnej stopie procentowej przesunęło się w lewo.</para>
+      <para id="UUIDc82e49a0-a939-4ca7-75f2-cc56f52f88ca">Do tej pory szukaliśmy oszczędności, aby zapewnić dopływ kapitału na rynek. Zastanówmy się teraz, co wpływa na wybór instrumentów finansowych umożliwiających oszczędzanie/inwestowanie. Decydując się na konkretny produkt finansowy (lokatę, obligacje, akcje itd.), dostawcy kapitału będą musieli wziąć pod uwagę zarówno stopy zwrotu, jak i związane z nimi ryzyko. Jeśli inwestycja A stanie się bardziej ryzykowna lub stopa zwrotu związana z tą formą lokowania kapitału się zmniejszy, oszczędzający przesuną swoje środki finansowe do inwestycji B. Krzywa podaży środków finansowych dla inwestycji A przesunie się więc w lewo, podczas gdy krzywa podaży środków finansowych dla inwestycji B powędruje w prawo.</para>
+    </section>
+    <section id="fs-idm168437632">
+      <title id="UUID4b3325ad-3412-41ed-758d-76469997e24d">Pułapy cenowe na rynku finansowym: przepisy dotyczące lichwy</title>
+      <para id="UUID32e62b72-1fce-4b8b-784f-d36c2f33498f">Jak zauważyliśmy wcześniej, miliony Amerykanów i Polaków posiadają karty kredytowe. Odsetki i opłaty za ich użytkowanie wynoszą rocznie dziesiątki miliardów dolarów i złotych. Nic więc dziwnego, że czasami pojawiają się naciski polityczne na ustalanie maksymalnego poziomu stóp procentowych lub opłat pobieranych przez firmy obsługujące karty kredytowe i udzielające pożyczek i kredytów. Przedsiębiorstwa te, a także banki, koncerny paliwowe, firmy telekomunikacyjne i sklepy detaliczne, odpowiadają, że wyższe stopy procentowe są konieczne, aby pokryć straty poniesione w związku z tymi klientami, którzy nie spłacają swoich zobowiązań w terminie. Zwracają również uwagę, że posiadacze kart mogą uniknąć płacenia odsetek, jeśli na czas spłacają zobowiązania z tytułu pożyczek z kart kredytowych.</para>
+      <para id="UUIDbd580217-27d1-4c34-7fe6-f6fc2846eb94">Pierwsza ustawa antylichwiarska w Polsce została wprowadzona 20 lutego 2006 r. Uchwalono ją z myślą o kredytobiorcach, którzy często zmuszani byli zwrócić bankowi nawet dwukrotność pożyczonej kwoty. Ustawa ta określała jasno, że odsetki od zobowiązań nie mogą być wyższe niż czterokrotność stopy lombardowej NBP (i tyle, jak to już zostało wskazane powyżej, zazwyczaj wynosi oprocentowanie pożyczek z kart kredytowych w Polsce). Zmiany w ustawie wprowadzono w roku 2015, a następnie w 2019 r., kiedy to pojawił się w niej zapis dotyczący ograniczenia pozaodsetkowych kosztów pożyczki do maksymalnie 10% jej wartości.</para>
+      <para id="UUIDe672d8b4-6344-44b1-7769-dfc1d6676776">Spójrz na rynek kart kredytowych zaprezentowany na <link target-id="CNX_Econ_C04_007" document="" cmlnle:case="locative" id="UUIDaee32956-d7a3-401c-754f-993611796ed1" />. Oś pionowa pokazuje stopę procentową (która jest ceną na rynku finansowym). Popyt na rynku kart kredytowych generują gospodarstwa domowe i przedsiębiorstwa. Dostawcami tworzącymi podaż są firmy wydające karty kredytowe. Ten wykres nie zawiera konkretnych danych, ale skupia się na podstawowych relacjach ekonomicznych. Wyobraźmy sobie, że prawo nakłada pułap cenowy, który utrzymuje oprocentowanie pożyczek z kart kredytowych na poziomie R<sub>c</sub>, niższym od stopy procentowej równej R<sub>0</sub>, która ukształtowałaby się na rynku wolnym od ustawowej ingerencji. Zależności wbudowane w model popytu i podaży przewidują, że przy stopie procentowej niższej od stopy równowagi zapotrzebowanie na pożyczki z kart kredytowych wzrośnie z poziomu Q<sub>0</sub> do Q<sub>d</sub>; jednak ilość oferowanych pożyczek z tych kart zmniejszy się z pierwotnego Q<sub>0</sub> do Q<sub>s</sub>. Przy cenie maksymalnej (R<sub>c</sub>) zapotrzebowanie przewyższy ofertę. W efekcie wiele osób, które chcą otrzymać karty kredytowe i płacić obowiązujące oprocentowanie, spotka się z odmową. W konsekwencji liczba udzielonych pożyczek i ich wartość spadną.</para>
+      <figure id="CNX_Econ_C04_007">
+        <title id="UUID97f3af76-e497-49f5-5361-a49a3c4d14e1">Stopy procentowe na rynku kart kredytowych: kolejny przykład pułapu cenowego</title>
+        <media alt="Wykres pokazuje, że rezultatem nałożenia limitu na wysokość stóp procentowych, jakich mogą zażądać kredytodawcy, może być nadwyżka popytu na środki finansowe." id="fs-idm124840240">
+          <image src="../../media//CNX_Econ_C04_007.svg" mime-type="image/svg+xml" id="UUID1be52e2c-fa56-4bb6-5530-e489af7a84c9" />
+        </media>
+        <caption id="UUIDef225d1d-9e1c-4e28-6f11-cff3a5d340e5">Pierwotnie przecięcie popytu D i podaży S następuje w stanie równowagi w punkcie E<sub>0</sub>. Jednak maksymalny poziom odsetek, jakich kredytodawcy mogą zażądać, jest zgodnie z wprowadzonymi regulacjami równy R<sub>c</sub>, czyli kształtuje się poniżej stopy procentowej równoważącej rynek (R<sub>0</sub>). Stopa procentowa nie może więc wzrosnąć do poziomu równowagi. Przy cenie maksymalnej zapotrzebowanie Q<sub>d</sub> przewyższa ilość oferowaną Q<sub>s</sub>. Na rynku istnieje nadwyżka popytu na kredyt (środki finansowe).</caption>
+      </figure>
+      <para id="UUIDe1a8fd85-49d5-4a12-5ffa-838224162e3a">W wielu krajach obowiązuje <term cmlnle:reference="prawo antylichwiarskie" id="UUID58dee748-7a89-4c40-7182-4f2d507f5d1c">prawo antylichwiarskie</term> (ang. <foreign xml:lang="en" id="UUID7d57dfe6-ba20-4f54-4c84-67b2df1dbe64"><term cmlnle:reference="anti-usury law" id="UUID41ac6629-9e4f-4502-7249-0fe6a23f75be">anti-usury law</term></foreign>), które ustanawia górny limit dla wysokości stopy procentowej, jakiej mogą zażądać pożyczkodawcy. Jednak w wielu przypadkach limity te są zdefiniowane powyżej rynkowej stopy procentowej. Z taką sytuacją mamy do czynienia m.in. w Polsce. Jeśli limit oprocentowania pożyczek i kredytów został ustalony na poziomie 30%, to oprocentowanie nie może być wyższe, ale może kształtować się poniżej tego limitu. Maksymalny poziom oprocentowania nie będzie wówczas wiążący i nie będzie oddziaływał, chyba że cena równowagi (stopa procentowa) wzrośnie wystarczająco wysoko i przekroczy zdefiniowany przez ustawodawcę pułap cenowy.</para>
+    </section>
+    <section id="fs-idm160556896" class="summary">
+      <title id="UUID0b76b93b-56c0-4dee-5c14-6254fb955025">Key Concepts and Summary</title>
+      <para id="UUIDa5dbdd9b-33cf-40c6-7bc6-a9586407fe51">Ceną na rynkach finansowych jest stopa zwrotu, jaką podmioty dostarczające kapitał (pożyczkodawcy) spodziewają się uzyskać za zaoferowane pożyczkobiorcom środki finansowe. Najczęściej taką stopą zwrotu jest stopa procentowa. Natomiast wielkość produkcji na tym rynku to wartość pieniędzy przepływających od tych, którzy dostarczają środki finansowe, do tych, którzy ich potrzebują.</para>
+      <para id="UUID2353e511-a953-48bf-602a-d74e5508a262">Krzywa podaży środków finansowych przeznaczonych na konkretną inwestycję może ulec przesunięciu w związku z dwoma czynnikami: zmianą obecnego poziomu konsumpcji oraz zmianą poziomu ryzyka lub stopy zwrotu z tej konkretnej inwestycji w relacji do innych sposobów wykorzystania kapitału. Czynniki, które mogą zmienić popyt na środki finansowe, obejmują przede wszystkim przewidywania przedsiębiorców i konsumentów odnoszące się do przyszłości, ponieważ inwestycje finansowe wykorzystujące pożyczony kapitał ze swej istoty spłacane są w przyszłości.</para>
+    </section>
+    <section id="fs-idm68795600" class="self-check-questions">
+      <title id="UUID059fc19d-f5b4-425c-4771-8f43ee5a4852">Self-Check Questions</title>
+      <exercise id="fs-idm182294112">
+        <problem id="fs-idm83961616">
+          <para id="fs-idm44427824">Jakie zjawiska na rynku finansowym powodują ruch wzdłuż krzywej popytu, a jakie jej przesunięcie?</para>
+        </problem>
+        <solution id="fs-idm69503888">
+          <para id="fs-idm139965088">Zmiany stopy procentowej (tj. ceny środków finansowych) wywołują ruch wzdłuż krzywej popytu. Zmiana innych czynników determinujących popyt na środki finansowe (poza ceną, np. przewidywań odnośnie przyszłości) przesunęłaby całą krzywą popytu.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm102226576">
+        <problem id="fs-idm135996128">
+          <para id="fs-idm180779168">Jakie zjawiska na rynku finansowym powodują ruch wzdłuż krzywej podaży, a jakie jej przesunięcie?</para>
+        </problem>
+        <solution id="fs-idm165411984">
+          <para id="fs-idm178367920">Zmiany stopy procentowej (tj. ceny środków finansowych) wywołują ruch wzdłuż krzywej podaży. Zmiana jakichkolwiek innych czynników determinujących podaż pieniądza (dochodu pożyczkodawców, decyzji międzyokresowych) przesunęłaby krzywą podaży.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm107095712">
+        <problem id="fs-idm84440960">
+          <para id="fs-idm127403952">Jeśli prawo dotyczące lichwy ogranicza stopy procentowe do maksymalnego poziomu 35%, jaki byłby prawdopodobny wpływ tego prawa na kwotę udzielanych pożyczek i spłacanych odsetek?</para>
+        </problem>
+        <solution id="fs-idm116148576">
+          <para id="fs-idp30267888">Jeżeli rynkowe stopy procentowe pozostają poniżej poziomu 35%, limit cenowy wprowadzony przez ustawodawcę nie będzie miał żadnego wpływu na sytuację rynkową. Gdyby jednak stopa procentowa w równowadze wzrosła powyżej 35%, wówczas pożyczkodawcy nie mogliby jej – przynajmniej legalnie – zastosować. Wartość udzielonych pożyczek i kredytów byłaby niższa niż poziom równowagi, a więc spowodowałoby to nadwyżkę popytu na rynku.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm28938304">
+        <problem id="fs-idm46917216">
+          <para id="fs-idp78530464">Która z poniższych zmian na rynku finansowym doprowadzi do spadku stóp procentowych?</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp17940160">
+            <item id="UUIDef69bd3a-38ff-490c-55c1-e1f57a4bc38e">
+              <para id="UUIDc9c848eb-4f04-4130-495f-f8f79845ade5">wzrost popytu</para>
+            </item>
+            <item id="UUIDbe67144a-3839-406d-4335-3e3c0f6b88f8">
+              <para id="UUID59587f07-8cab-467b-7949-326ae322d345">spadek popytu</para>
+            </item>
+            <item id="UUID8c002452-c4f9-4ae2-5619-cb27b4a15d8a">
+              <para id="UUIDd1a63c58-290c-44e6-7b7d-c15cdb8c7947">wzrost podaży</para>
+            </item>
+            <item id="UUIDd30001b8-291d-471f-5949-0199970dd59b">
+              <para id="UUIDdc29e655-0c33-4e2a-43a7-945d2a31cd63">spadek podaży</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="eip-id1168810866791">
+          <para id="eip-id1168810843949">Zdarzenia drugie i trzecie doprowadzą do spadku stóp procentowych. Przy niższym popycie pożyczkodawcy nie będą mogli pobierać tak wysokich opłat, a przy większej liczbie dostępnych pożyczek i kredytów konkurencja o pożyczkobiorców obniży stopy procentowe.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp68468928">
+        <problem id="fs-idp63410752">
+          <para id="fs-idp71352928">Która z poniższych zmian na rynku finansowym doprowadzi do wzrostu liczby udzielonych i otrzymanych pożyczek?</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp10575424">
+            <item id="UUID566ac6c9-2694-4bc7-5e51-8525d0999707">
+              <para id="UUID62bb340f-046e-4300-6e3b-56425a76a7b0">wzrost popytu</para>
+            </item>
+            <item id="UUID1621a272-817b-425c-50ac-582874cb19b2">
+              <para id="UUIDfd99bd70-7ccd-43f7-5104-067410f1e4d4">spadek popytu</para>
+            </item>
+            <item id="UUIDc8d73ac2-0d67-490a-53f7-641f410b1fa0">
+              <para id="UUID8d037087-c748-4b52-7654-8dbdeed32db5">wzrost podaży</para>
+            </item>
+            <item id="UUID043a8c62-fc1b-4e50-5fcf-575dd5572188">
+              <para id="UUIDa02c08ee-4bf9-48d2-5541-1334336c319f">spadek podaży</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="eip-id1171265006352">
+          <para id="eip-id1171258271892">Zdarzenia pierwsze i trzecie zwiększą liczbę pożyczek. Większa liczba osób, które chcą pożyczyć, spowoduje udzielenie większej liczby pożyczek, podobnie jak wzrost liczby osób, które chcą udzielić pożyczek.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm34296512" class="review-questions">
+      <title id="UUIDf1060bd5-db30-4069-434d-4444871eb844">Review Questions</title>
+      <exercise id="fs-idp21604064">
+        <problem id="fs-idp36930880">
+          <para id="fs-idp126328944">W jaki sposób ekonomiści definiują równowagę na rynku finansowym?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp149920896">
+        <problem id="fs-idp6173904">
+          <para id="UUID122be087-1ef5-4cc4-5a6f-353af15bfc23">Co byłoby oznaką nadwyżki popytu na rynku finansowym?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp42689072">
+        <problem id="fs-idp77946128">
+          <para id="fs-idp60666896">Czy przepisy dotyczące lichwy pomogłyby, czy utrudniłyby rozwiązanie problemu nadwyżki popytu na rynku finansowym?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm168457264" class="critical-thinking">
+      <title id="UUID4bc2c546-ee9a-43f6-4134-8a723a194b8a">Critical Thinking Questions</title>
+      <exercise id="fs-idm6350400">
+        <problem id="fs-idm89788128">
+          <para id="fs-idm133637792">Załóżmy, że wzrost gospodarczy w Polsce był wyższy niż w innych krajach regionu (w UE). Jaki byłby prawdopodobny wpływ tej sytuacji na polski rynek finansowy jako część unijnej gospodarki?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm239677856">
+        <problem id="fs-idm119256880">
+          <para id="fs-idm181381424">Gdyby rząd pewnego kraju ustanowił pułap cenowy w wysokości 20% na stopy procentowe obciążające wszystkie pożyczki, kto wówczas zyskałby, a kto by stracił?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm38577696" class="problems">
+      <title id="UUIDb1504ce8-e0a3-4578-6729-42e7f2691d51">Problems</title>
+      <exercise id="fs-idm48050464">
+        <problem id="fs-idm162825184">
+          <para id="fs-idm86441280">Zastanów się, jak każda z poniższych zmian ekonomicznych wpłynie na cenę i ilość równowagi na rynku kredytów mieszkaniowych. Wykorzystaj model popytu i podaży, aby uzasadnić swoje odpowiedzi.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm112716848">
+            <item id="UUID9a834290-2a5b-455c-6cf2-163b9f947365">
+              <para id="UUID433dcf54-5ebc-41c5-6199-282d877544e1">Wzrasta liczba osób w wieku, w którym najczęściej kupuje się domy.</para>
+            </item>
+            <item id="UUIDa30757d4-7392-490d-674c-13bd16c3fb65">
+              <para id="UUID1dca4f13-063a-42e6-62ca-66fb6da3e814">Ludzie zyskują pewność, że gospodarka się rozwija, a ich miejsca pracy są bezpieczne.</para>
+            </item>
+            <item id="UUID56ba9cff-25ef-4a97-42ed-071e32591db1">
+              <para id="UUIDfbeebb4c-0233-4338-4d5d-d67211f84822">Banki, które udzieliły kredytów mieszkaniowych, stwierdzają, że większa od oczekiwanej liczba osób nie spłaca tych kredytów.</para>
+            </item>
+            <item id="UUID301c0e5d-0934-4955-7199-baf3d432e5b8">
+              <para id="UUIDa605deab-7e86-4eb6-55d6-86af1d4fddf9">Z powodu groźby wojny ludzie zaczynają postrzegać przyszłość znacznie mniej optymistycznie.</para>
+            </item>
+            <item id="UUIDc255c007-ad0c-4e75-413a-12dcfccdade2">
+              <para id="UUID506c42f5-e3ad-4e13-6c88-7666e89cb617">Ogólny poziom oszczędności w gospodarce maleje.</para>
+            </item>
+            <item id="UUIDd7d8234a-2076-4474-5fce-c9293f3aae4e">
+              <para id="UUID598d3721-fb88-4318-5c49-3ea737ef9347">Rząd zmienia przepisy bankowe w taki sposób, aby banki udzielały kredytów mieszkaniowych taniej i łatwiej.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm35438736">
+        <problem id="fs-idm188864960">
+          <para id="fs-idm95899984"><link target-id="Table_04_06" document="" id="UUID07d0206e-2e69-41a0-5962-04b70fbf4f30" /> pokazuje wielkość oszczędności i wartość (w mln zł) kredytów na rynku kredytów mieszkaniowych, przy różnych stopach procentowych. Jaka jest stopa procentowa i wielkość pożyczek w równowadze na tym rynku? Jak możesz to określić? A teraz wyobraź sobie, że z powodu zmiany postrzegania sytuacji przez inwestorów zagranicznych krzywa podaży przesunie się tak, że podaż będzie o 10 mln mniejsza przy każdej stopie procentowej. Oblicz nową stopę procentową i nową ilość równowagi oraz wyjaśnij, czy kierunek zmiany stopy procentowej ma intuicyjny sens.</para>
+          <table summary="This table has three columns and six rows. The columns are labeled, &apos;Interest Rate,&apos; &apos;Qs,&apos; and &apos;Qd.&apos; Under the column &apos;Interest Rate&apos; are the values: 5%, 6%, 7%, 8%, 9%, and 10%. Under the column &apos;Qs&apos; are the values: 130; 135; 140; 145; 150; and 155. Under the columne &apos;Qd&apos; are the values: 170; 150; 140; 135; 125; and 110." id="Table_04_06" class="top-captioned"><tgroup cols="3" id="UUID704d5026-4a18-d048-ec116bf30e579a19"><colspec colnum="1" colname="col1" id="UUID704d5026-b44c-3dea-a30f36b011fa5182" /><colspec colnum="2" colname="col2" id="UUID704d5026-21b7-72d5-2d196a1696b58774" /><colspec colnum="3" colname="col3" id="UUID704d5026-761b-d9ed-b3be794a369a0d34" /><thead id="UUID704d5026-36b8-c36d-550b90243e7bfd74"><row id="UUID704d5026-b3c0-3115-471a552fac4403c8"><entry id="UUID704d5026-e471-ac47-9ec8c6705390f6a2">Stopa procentowa</entry><entry id="UUID704d5026-6e04-503f-ed4dbdf812a4f52f">Q<sub>s</sub></entry><entry id="UUID704d5026-e3f6-8bea-1f9ccdd9bfde13f5">Q<sub>d</sub></entry></row></thead><tbody id="UUID704d5026-258f-e267-24b9079316bb78b6"><row id="UUID704d5026-9cc9-d10f-9a8857a4b7afac94"><entry id="UUID704d5026-08e8-329e-40b3b26cb0b4f73c">5%</entry><entry id="UUID704d5026-0504-2023-fd042fee731aa6f6">130</entry><entry id="UUID704d5026-7b17-164f-b8a792beba01b0b9">170</entry></row><row id="UUID704d5026-d3ea-8d13-c8fd006d9be446d6"><entry id="UUID704d5026-4b16-aeec-7c1c4e6b92dc823e">6%</entry><entry id="UUID704d5026-bee1-99fe-929c2992e344d867">135</entry><entry id="UUID704d5026-e923-4509-2d89c6409b0f2245">150</entry></row><row id="UUID704d5026-3599-afbc-a6f27f6addb0eb15"><entry id="UUID704d5026-44ce-680d-4099c657ced5b129">7%</entry><entry id="UUID704d5026-3af8-dbca-d86cab41e57dfa93">140</entry><entry id="UUID704d5026-6cc0-7de3-0d5e1665781075e5">140</entry></row><row id="UUID704d5026-c0aa-79f3-2c4898df353b2a93"><entry id="UUID704d5026-3bf5-ace2-cfe868b124928eb0">8%</entry><entry id="UUID704d5026-cc5b-f155-d32450804c3f5cd8">145</entry><entry id="UUID704d5026-6b2a-4438-ae3bfd5f263b6865">135</entry></row><row id="UUID704d5026-bc62-6cde-f03fe2c2486f984b"><entry id="UUID704d5026-259d-d27b-076008535ec8c5d3">9%</entry><entry id="UUID704d5026-806d-af81-5bcff42f0088c7d0">150</entry><entry id="UUID704d5026-c265-f841-1f371ad3bac00f1c">125</entry></row><row id="UUID704d5026-3351-636c-6de0347d5a41d49a"><entry id="UUID704d5026-a2bc-209b-97aad2bf1fa89651">10%</entry><entry id="UUID704d5026-c4dc-55dd-b1a2c8c4f1c21c01">155</entry><entry id="UUID704d5026-33ee-04a4-cb24dbf75f749145">110</entry></row></tbody></tgroup></table>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp137101040" class="references">
+      <title id="UUID3e42839a-2836-4174-450c-1576cf62023e">References</title>
+      <para id="fs-idp61190896">CreditCards.com. 2013. http://www.creditcards.com/credit-card-news/credit-card-industry-facts-personal-debt-statistics-1276.php.</para>
+    </section>
+  </content>
+  <glossary id="UUID3c2b7fa8-d418-42ef-67d1-1f6ef5198ebb">
+    <definition id="fs-idm736096">
+      <term id="UUID3cc010d5-7c32-4ee8-560e-6a052db54e7e">stopa procentowa (ang. <foreign xml:lang="en" id="UUID2c3f46af-6b7d-4795-5653-c734340fb6e5">interest rate</foreign>)</term>
+      <meaning id="fs-idm151585536">
+        <para id="UUID3a703b80-765e-493b-4a46-1fa75c75a1fa">cena pożyczek na rynku finansowym; stopa zwrotu z inwestycji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm108604544">
+      <term id="UUIDad22812e-1483-4f70-6891-359232d0cf31">prawo antylichwiarskie (ang. <foreign xml:lang="en" id="UUID02efc1b3-f654-4b6b-5a33-ff3184c0a8cf">anti-usury law</foreign>)</term>
+      <meaning id="fs-idm116447040">
+        <para id="UUID06fa4803-19da-48e3-67c2-a0eaf4df46b5">prawo, które ustanawia górny limit oprocentowania, jakiego mogą żądać pożyczkodawcy za oferowany klientom kapitał</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

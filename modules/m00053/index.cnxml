@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U5800d17a-0776-4747-a085-5f08c8d57d59" id="U5800d17a-0776-4747-a085-5f08c8d57d59" xml:lang="en" cnxml-version="0.7">
+  <title>Prywatne sposoby rozwiązania problemu negatywnych efektów zewnętrznych</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00053</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Prywatne sposoby rozwiązania problemu negatywnych efektów zewnętrznych</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:57.496976823+00:00</md:version>
+    <md:created>2022-08-08T07:43:57.496976823+00:00</md:created>
+    <md:revised>2022-08-08T07:43:57.496976823+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>5800d17a-0776-4747-a085-5f08c8d57d59</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDf160624e-c21d-4142-6549-1a2ffed913e3" class="learning-objectives">
+      <para id="UUIDf51de0bf-2cf0-4289-7171-10c908448d58">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUIDecc65ff4-2404-4605-460a-a6824c11a5ba">
+        <item id="UUIDe3a7a615-43da-4a73-4823-afc29ed36901">
+          <para id="UUID558814e2-0994-459f-6c04-c246b5fccede">Wskazać, w jaki sposób opłaty za emisję zanieczyszczeń wpływają na proces decyzyjny w przedsiębiorstwie</para>
+        </item>
+        <item id="UUID56ea1174-0f2e-4aaf-4f89-31fd8a38105e">
+          <para id="UUIDf8a429ff-2e27-4369-6c8f-49e460fe0180">Wyjaśnić znaczenie zbywalnych pozwoleń na emisję zanieczyszczeń i praw własności</para>
+        </item>
+        <item id="UUIDf17b56d0-b117-492a-6997-51939a4b1730">
+          <para id="UUID8116ec81-ad14-4609-5540-d068e892bac3">Ocenić, które z prywatnych sposobów rozwiązywania problemu negatywnych efektów zewnętrznych są najskuteczniejsze w konkretnych sytuacjach rynkowych</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDb998d2b2-326d-45ae-5193-be20b497dcf3">Polityka ochrony środowiska wykorzystująca przede wszystkim prywatne (zorientowane na rynek) sposoby ograniczania skali emisji zanieczyszczeń, umożliwia przedsiębiorstwom zachowanie niezbędnego stopnia elastyczności. Trzema głównymi elementami tego podejścia są opłaty za emisję zanieczyszczeń, zbywalne zezwolenia na emisję tychże i lepiej zdefiniowane prawa własności. Wszystkie te działania, które omówimy w niniejszym podrozdziale, eliminują wskazane wcześniej wady regulacji w ramach systemu nakazowo-kontrolnego, aczkolwiek w różny sposób.</para>
+    <section id="fs-idm128525456">
+      <title id="UUID152603d7-5d66-48a3-6dea-22eb03a8fcb7">Opłaty za emisję zanieczyszczeń</title>
+      <para id="fs-idm130018704"><term cmlnle:reference="opłata za emisję zanieczyszczeń" id="UUID07da49e7-6a45-4c11-4db7-5a0b8fa2ddec">Opłata za emisję zanieczyszczeń</term> (ang. <foreign xml:lang="en" id="UUIDb230c72f-7acd-4652-5a6f-91fe930346ff"><term cmlnle:reference="pollution charge" id="UUID9a3f1726-66ae-44c8-600f-067dd10af424">pollution charge</term></foreign>) to podatek od zanieczyszczeń nakładany na przedsiębiorstwo, które je emituje. Opłata taka stanowi dla firmy maksymalizującej zysk zachętę do redukcji emisji zanieczyszczeń, o ile koszt krańcowy redukcji emisji jest mniejszy niż wysokość podatku.</para>
+      <para id="fs-idm229096608">Rozważmy tu przykład niewielkiego przedsiębiorstwa, które emituje do atmosfery 50 kg sadzy rocznie. Pył zawieszony w powietrzu powoduje choroby układu oddechowego oraz obciąża finansowo inne biznesy i mieszkańców obszaru, na którym działa ta firma.</para>
+      <para id="fs-idm87009136"><link target-id="CNX_Econ_C12_002" id="UUIDe1fb36a1-ee5f-4089-7b9a-e8ac05866543" /> ilustruje koszty krańcowe ponoszone przez wspomniane przedsiębiorstwo w związku ze zmniejszeniem emisji zanieczyszczeń. Koszt krańcowy redukcji zanieczyszczeń, podobnie jak większość kosztów krańcowych, rośnie wraz ze wzrostem produkcji, przynajmniej w krótkim okresie. Zmniejszenie emisji cząstek sadzy o pierwsze 10 kg rocznie kosztuje firmę 300 zł. Redukcja o kolejne 10 kg wymaga już 500 zł nakładów, o trzecie – 900 zł, o czwarte 10 kg – 1500 zł, zaś całkowite wyeliminowanie emisji sadzy kosztowałoby dodatkowo 2,5 tys. zł. Taki schemat kształtowania się kosztów zmniejszania emisji zanieczyszczeń jest dość powszechny. Początkowo redukcję ilości wytwarzanych szkodliwych substancji można osiągnąć stosunkowo niewielkim kosztem, ale całkowite wyeliminowanie jakichkolwiek zanieczyszczeń wymaga już bardzo dużych nakładów finansowych.</para>
+      <figure id="CNX_Econ_C12_002">
+        <title id="UUID3d0d2522-698c-4eea-69d3-b39b0f1b8e7f">Opłata za emisję zanieczyszczeń</title>
+        <media alt="Wykres przedstawia opłatę za emisję zanieczyszczeń, jako sposób, który państwo może wykorzystać, aby skłonić przedsiębiorstwo do redukcji skali emisji sadzy do atmosfery." id="fs-idm89415520">
+          <image src="../../media//CNX_Econ_C12_002.svg" mime-type="image/svg+xml" id="UUID7d366654-b3c4-4c5f-663a-1d88b6d7c258" />
+        </media>
+        <caption id="UUID14642939-f894-469e-5200-9946016b0643">Jeśli opłata za emisję zanieczyszczeń zostanie ustalona na poziomie 1000 zł za każde 10 kg sadzy, przedsiębiorstwo będzie miało motywację do zmniejszenia emisji zanieczyszczeń o 30 kg, ponieważ koszt redukcji emisji sadzy o kolejne 20 kg będzie wyższy (1500 zł + 2500 zł) niż opłata nałożona przez państwo (1000 zł + 1000 zł).</caption>
+      </figure>
+      <para id="fs-idm54107712">Wyobraź sobie, że na przedsiębiorstwo została nałożona opłata za emisję zanieczyszczeń w wysokości 1000 zł za każde wypuszczone do atmosfery 10 kg sadzy rocznie. (W polskim systemie prawnym podatki mają charakter nieekwiwalentny, w związku z czym pozwolenie na emisję zanieczyszczeń będzie opłatą, a nie podatkiem, bo daje firmie wnoszącej tę płatność konkretne prawa. Podobnie składką, a nie podatkiem jest opłata, dzięki której zyskujemy prawo do korzystania z publicznych systemów opieki zdrowotnej i emerytalnego). Firma ma do wyboru albo emitować sadzę i wnosić narzuconą przez państwo opłatę, albo zmniejszyć ilość zanieczyszczeń, ponosząc odpowiednie koszty tej redukcji, co ilustruje powyższy wykres. O ile firma zmniejszy roczną skalę emisji zanieczyszczeń? Redukcja emisji sadzy o pierwsze 10 kg kosztuje 300 zł. To znacznie mniej niż 1000 zł opłaty, więc firma z pewnością zdecyduje się na redukcję emisji. Zmniejszenie emisji o kolejne 10 kg kosztuje 500 zł, czyli nadal mniej niż wartość opłaty, więc firma zadba o dalszą redukcję emisji. Ograniczenie skali wytwarzania sadzy o trzecie 10 kg kosztuje już 900 zł, czyli wciąż mniej niż 1000 zł podatku. Jednak ograniczenie emisji o czwarte 10 kg wymaga już 1500 zł nakładów, co znacznie przekracza wartość stosownej opłaty. W rezultacie firma zdecyduje się na redukcję emisji sadzy o 30 kg, ponieważ krańcowy koszt redukcji o tę wielkość jest mniejszy niż wartość opłat za emisję zanieczyszczeń. Przy opłacie w wysokości 1000 zł przedsiębiorstwo nie ma motywacji do zmniejszenia skali emisji sadzy o więcej niż 30 kg rocznie.</para>
+      <para id="fs-idm20430032">Firma, która musi wnosić opłatę od emisji zanieczyszczeń, będzie miała motywację do znalezienia najtańszych technologii ograniczania skali wytwarzanych szkodliwych substancji. Przedsiębiorstwa mogące łatwo i tanio zmniejszyć emisję zanieczyszczeń zrobią to, aby zminimalizować kwotę płaconego podatku, zaś przedsiębiorstwa, które ponoszą wysokie koszty redukcji np. sadzy, zapłacą podatek od zanieczyszczeń. Jeśli podatek od zanieczyszczeń ma zastosowanie do każdego ich źródła, producenci mający poparcie polityczne nie uzyskują preferencji ani nie mogą korzystać z luk prawnych. Choć, jak łatwo zauważyć, politycy mogą mimo wszystko wprowadzić wyłączenia, zwalniając ze stosownej opłaty zakład znajdujący się np. w ich okręgu wyborczym.</para>
+      <para id="fs-idm46481792">Jako przykład swoistej opłaty za produkcję zanieczyszczeń nakładanej na gospodarstwa domowe można wskazać dwa sposoby pobierania opłat za wywóz śmieci. Jedną z metod jest zryczałtowana kwota przypadająca na gospodarstwo domowe, niezależna od ilości wytworzonych śmieci (taka właśnie opłata obowiązuje m.in. w Warszawie i innych dużych miastach w Polsce). Alternatywnym podejściem jest wprowadzenie kilku poziomów rosnących opłat powiązanych z ilością produkowanych śmieci oraz oferowanie niższych stawek lub bezpłatnego odbioru odpadów posegregowanych i nadających się do recyklingu.</para>
+      <para id="fs-idm2228448">Tak naprawdę opłaty za emisję zanieczyszczeń są uwzględnione w wielu regulacjach dotyczących ochrony środowiska, chociaż często nie są w nich wskazywane wprost. Na przykład zarówno w Polsce, jak i w pozostałych krajach UE czy Stanach Zjednoczonych nakładane są podatki na paliwa silnikowe (etylinę, olej napędowy i gaz LPG). Możemy postrzegać ten podatek jako opłatę za zanieczyszczenie powietrza przez samochody, a także jako źródło finansowania budowy i remontów sieci dróg publicznych.</para>
+      <para id="fs-idp101292928">Podobnie zwrotna kaucja za szklane butelkę nadające się do recyklingu działa jak podatek od zanieczyszczeń. Stanowi ona zachętę do segregowania śmieci i ich przetwarzania, jeśli bowiem butelka zostanie wrzucona do kosza, opłaty nie będzie można odzyskać. W porównaniu z regulacjami istniejącymi w ramach systemu nakazowo-kontrolnego podatek od zanieczyszczeń zmniejsza ich emisję w bardziej elastyczny i efektywny kosztowo sposób.</para>
+    </section>
+    <section id="fs-idp31688176">
+      <title id="UUID9a71575c-aac3-4673-76a3-bcb357c40aee">Zbywalne zezwolenia na emisję zanieczyszczeń</title>
+      <para id="fs-idp27766752">Kiedy państwo lub organizacja międzynarodowa wprowadza <term cmlnle:reference="zbywalne zezwolenia na emicję zanieczyszczeń" id="UUID3fc554a5-21cd-452c-614e-7ea692bc0deb">program zbywalnych zezwoleń na emisję zanieczyszczeń</term> (ang. <foreign xml:lang="en" id="UUID37e3535e-cef2-49f8-5ee5-57937f8d367a"><term cmlnle:reference="marketable permit program" id="UUIDed00891c-73a1-4e94-5456-5fb5672de9dd">marketable permit program</term></foreign>) (np. pozwolenia na emisję dwutlenku węgla w krajach UE), musi zacząć od ustalenia limitu dopuszczalnej ilości zanieczyszczeń, zgodnie z normami krajowymi lub międzynarodowymi. Na przykład może ustalić, że skala emisji CO<sub>2</sub> w ciągu roku może osiągnąć max. poziom 100 tys. ton. Każde zezwolenie umożliwia przedsiębiorstwu emisję jednej tony CO<sub>2</sub>, co oznacza, że wyemitowanych zostanie 100 tys. zezwoleń. Następnie zezwolenia na emisję ustalonej wcześniej ilości zanieczyszczeń są rozdzielane między przedsiębiorstwa albo bezpłatnie, zgodnie z przyjętym wcześniej algorytmem uzależnionym od wolumenu historycznej produkcji, albo w drodze aukcji. W tym drugim przypadku za każde zezwolenie firmy muszą zapłacić.</para>
+      <para id="fs-idp59173360">Pamiętajmy o trzech kwestiach. Po pierwsze, zezwolenia mają na celu zmniejszenie całkowitej emisji zanieczyszczeń w pewnym okresie. Na przykład w pierwszym roku wyemitowane zezwolenia umożliwią łączną emisję 100 tys. ton dwutlenku węgla, ale w kolejnym już tylko 90 tys. ton, a w jeszcze następnym jedynie 80 tys. ton i tak aż do pożądanego poziomu docelowego (np. w ciągu 20 lat program ma przynieść zmniejszenie emisji CO<sub>2</sub> do zera). Po drugie, są to zezwolenia zbywalne, co oznacza, że przedsiębiorstwa mogą je kupować i sprzedawać. Po trzecie, system oparty na zbywalnych pozwoleniach działa skutecznie tylko wtedy, gdy pomijalną kwestią jest to, które przedsiębiorstwa ograniczą emisję gazu, a które kupią pozwolenia.</para>
+      <para id="UUID6c289d75-3314-43ef-5843-47d0bffc2223">Dzięki takiej a nie innej konstrukcji programu zbywalnych zezwoleń emisja dwutlenku węgla nie tylko zostanie ograniczona do pożądanego poziomu, ale odbędzie się po minimalnym koszcie. Przedsiębiorstwa będą bowiem kupować i sprzedawać te zezwolenia, porównując ich cenę na rynku z kosztem ograniczenia emisji CO<sub>2</sub> o jedną tonę. Jeśli koszt ograniczenia emisji dwutlenku węgla będzie niższy od ceny zezwolenia na rynku wtórnym, przedsiębiorstwo zdecyduje się na wdrożenie technologii bądź montaż urządzeń ograniczających emisję cieplarnianego gazu, zamiast kupować zezwolenie, lub – jeśli otrzymało od państwa pewną pulę bezpłatnie – sprzeda je na rynku wtórnym. Natomiast jeśli koszt ograniczenia emisji CO<sub>2</sub> przekroczy cenę zezwolenia, wówczas przedsiębiorstwo kupi je od państwa w czasie pierwotnej aukcji lub od innych firm na rynku wtórnym. Problemem pozostaje natomiast pierwotna alokacja zezwoleń. Pamiętajmy, że jeśli przedsiębiorstwo ogranicza emisję dwutlenku węgla, może się to odbić na wolumenie jego produkcji i tym samym przełożyć się np. na spadek zatrudnienia. Dlatego władzom krajów tworzących organizację międzynarodową (np. UE) lub władzom lokalnym będzie zależało na tym, żeby emisję CO<sub>2</sub> redukowały przedsiębiorstwa w innych krajach lub w innych województwach, stanach etc. Wówczas uda się zredukować efekt cieplarniany i jednocześnie ochronić miejsca pracy obywateli, którzy będą głosować na przedstawicieli władz krajowych lub regionalnych w kolejnych wyborach.</para>
+    </section>
+    <section id="fs-idp17063552">
+      <title id="UUID6c9519e4-0f6a-49b0-6232-659ee97e8886">Lepiej zdefiniowane prawa własności</title>
+      <para id="fs-idm64446848">Jasno zdefiniowane i alokowane prawa własności również mogą zapewnić równowagę między działalnością gospodarczą a zanieczyszczeniem środowiska. Ronald Coase (1910–2013), zdobywca Nagrody Nobla w dziedzinie ekonomii w 1991 r., w przejrzysty sposób zilustrował przykład efektu zewnętrznego: obok pola rolnika biegnie tor kolejowy. Dość często przejeżdża po nim lokomotywa, z komina której wydobywają się iskry, co w niesprzyjających warunkach wywołuje pożar tego pola. Coase zadał pytanie o to, czyim obowiązkiem jest rozwiązanie tego problemu. Czy rolnik na własny koszt powinien zbudować bariery wzdłuż pola, aby nie dopuścić do zaprószenia ognia, czy też przewoźnik winien zainstalować w kominie lokomotywy specjalne urządzenie, które zapobiegnie przypadkowemu pożarowi.</para>
+      <para id="fs-idp114263216">Coase zwrócił uwagę, że nie da się rozwiązać tego problemu, dopóki nie zdefiniuje się jasno <term cmlnle:reference="prawo własności" id="UUIDe695efd8-5b9e-4cc2-5378-2aec1d7df700">praw własności</term> (ang. <foreign xml:lang="en" id="UUIDa55eaf7c-39f5-4e15-6343-45b546192a29"><term cmlnle:reference="property right" id="UUID9c5de6ee-1a4c-451a-6b5e-1bfdc4ef822d">property rights</term></foreign>), które jednoznacznie określą, kto komu powinien wypłacić odszkodowanie, a tym samym kto jest odpowiedzialny za zmniejszenie bądź wykluczenie prawdopodobieństwa pożaru. Czy rolnik ma prawo własności do swojego pola? Tak, to oczywiste. Czy kolej ma prawo własności do torów i lokomotywy? Na tak postawione pytanie również musi paść twierdząca odpowiedź. A zatem jasno zdefiniowane prawa własności wskażą nam stronę, która wyszuka i zapłaci za najmniej kosztowną metodę zmniejszenia ryzyka pożaru pola. Prawo własności określa, czy koszt ponosi rolnik, czy kolej.</para>
+      <para id="fs-idp30536288">Podejście uwzględniające prawa własności jest bardzo istotne w sprawach dotyczących zagrożonych gatunków flory i fauny. Lista zagrożonych stworzeń powiększa się z roku na rok, a większość populacji roślin i zwierząt żyje na gruntach prywatnych. Ochrona tych gatunków wymaga uważnej analizy bodźców i praw własności. Odkrycie zagrożonego gatunku na gruntach prywatnych często wywołuje automatyczną reakcję rządu, który zabrania właścicielowi korzystania z ziemi w sposób mogącym zagrozić gatunkom umieszczonym na stworzonej przez państwo liście. Zastanów się nad możliwymi skutkami takiej polityki: jeśli przyznasz się rządowi, że masz na swoim terenie zagrożony gatunek, rząd skutecznie zabroni ci korzystania z twojej własności. Stąd pogłoski o posiadaczach ziemskich, którzy znalazłszy przedstawicieli zagrożonego gatunku, stosowali metodę „zastrzelić, zakopać i siedzieć cicho”. Inni celowo ścinali drzewa lub wykorzystywali grunty w sposób zniechęcający zagrożone zwierzęta do przebywania na ich terenie.</para>
+      <para id="UUIDddbcf61f-dc97-4bf3-5fdd-8885948359a7">Skuteczniejszym sposobem postępowania byłoby nakłonienie prywatnych właścicieli gruntów do ochrony zagrożonych gatunków znajdujących się na ich terenie oraz zapewnienie im bezpiecznych siedlisk. Na przykład państwo mogłoby płacić odszkodowania właścicielom, którzy utrzymują odpowiednie siedliska lub ograniczą użytkowanie swojej ziemi w celu ochrony zagrożonych gatunków. Gdy państwo chce nadzorować miliony hektarów prywatnej ziemi, polityka oparta na zachętach i elastyczności ponownie okazuje się lepszym rozwiązaniem niż regulacje w systemie nakazowo-kontrolnym.</para>
+      <note type="note" id="fs-idm66366800" class="clearup economics">
+        <title id="UUID14273328-d9dd-4553-4819-13e7c9acea45">Jak skuteczne są prywatne (zorientowane na rynek) sposoby rozwiązywania problemów środowiskowych?</title>
+        <para id="fs-idm155641584">Ekolodzy czasami obawiają się, że prywatne sposoby ograniczania negatywnych efektów zewnętrznych i oparta na nich polityka ochrony środowiska są jedynie wymówką dla rozluźnienia lub wyeliminowania ścisłych limitów emisji zanieczyszczeń i w efekcie pozwalają na wzrost ilości odpadów, ścieków i szkodliwych substancji w powietrzu. Prawdą jest, że jeśli opłaty za zanieczyszczanie są ustalane na bardzo niskim poziomie lub jeśli zbywalne zezwolenia nie uwzględniają znacznego zmniejszenia emisji zanieczyszczeń, wówczas narzędzia rynkowe nie będą funkcjonować dobrze. Jednak przepisy tworzone w oparciu o system nakazowo-kontrolny również mogą zawierać luki prawne lub liczne wyłączenia i w efekcie nie przekładać się na znaczącą redukcję zanieczyszczeń. Zaletą polityki zorientowanej na rynek nie jest to, że ogranicza ona emisję zanieczyszczeń w stopniu większym niż system nakazowo-kontrolny, lecz to, że dzięki bodźcom i elastyczności może doprowadzić do pożądanej redukcji zanieczyszczeń po najniższych dla społeczeństwa kosztach.</para>
+      </note>
+    </section>
+    <section id="fs-idm66188608" class="summary">
+      <title id="UUID34a4e83b-1709-47cb-6752-7459fa666a0a">Kluczowe pojęcia i podsumowanie</title>
+      <para id="fs-idm134911904">Przykładami prywatnych (zorientowanych na rynek) narzędzi ograniczania problemu negatywnych efektów zewnętrznych w dziedzinie ochrony środowiska są: opłaty za emisję zanieczyszczeń, zbywalne zezwolenia na emisję zanieczyszczeń oraz lepiej zdefiniowane prawa własności. Dzięki działaniu mechanizmu rynkowego, nakładanym przez państwo opłatom o charakterze parapodatkowym i lepiej zdefiniowanym prawom własności podmioty generujące negatywne efekty zewnętrzne muszą skonfrontować się z pełnym kosztem społecznym swoich emisji zanieczyszczeń i odpadów.</para>
+    </section>
+    <section id="fs-idp128389440" class="self-check-questions">
+      <title id="UUID848ed67e-8327-4228-6437-143b239c896d">Pytania Self-Check</title>
+      <exercise id="fs-idp53675472">
+        <problem id="fs-idp40797424">
+          <para id="fs-idm3713616">Określ, czy poniższe działania z zakresu kontroli emisji zanieczyszczeń są przykładami systemu nakazowo-kontrolnego czy raczej zorientowanego na rynek.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp40192912">
+            <item id="UUID5ac1a75d-18c3-4b04-495b-46bf265833e7">
+              <para id="UUID68420656-20b4-4dd1-7068-db4a791fd909">Opłata za emisję dwutlenku węgla zostaje nałożona na każde przedsiębiorstwo.</para>
+            </item>
+            <item id="UUID93652aec-7f3a-473d-5123-9c8e77290a8d">
+              <para id="UUID59339132-3ae3-487c-779b-9446635bad20">Państwo wymaga, aby krajowi producenci samochodów zmniejszyli ilość zanieczyszczeń emitowanych przez samochody do 2025 r.</para>
+            </item>
+            <item id="UUIDcfdf4dfa-53cd-4f92-6bec-de10b3f7c0ef">
+              <para id="UUID107a894f-00e8-4844-4f5d-8d4347e4c130">Wyznaczone zostają krajowe standardy jakości wody.</para>
+            </item>
+            <item id="UUID94ad8948-1221-4cdf-77a6-84bb7802dd06">
+              <para id="UUID58567a0e-c820-4b4f-5220-619dbe08746a">Miasto sprzedaje przedsiębiorstwom pozwolenia na emisję określonej ilości zanieczyszczeń.</para>
+            </item>
+            <item id="UUIDb96ae9a1-3de3-4989-6893-1de977884062">
+              <para id="UUIDcfba3205-40ad-4043-4a49-b5c7fb473959">Państwo płaci rybakom za ochronę populacji łososia.</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp126045824">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp41233216">
+            <item id="UUIDecd8027e-9f7f-492a-4cd3-669224efe8d6">
+              <para id="UUID40ec8b17-c091-4876-5512-7731041d9656">działanie zorientowane na rynek</para>
+            </item>
+            <item id="UUIDc570a427-30a2-4911-4f3b-924fc8006cd7">
+              <para id="UUID65bb5710-2d4e-4c53-65a4-3e98c8c83b8a">system nakazowo-kontrolny</para>
+            </item>
+            <item id="UUIDe53bdc5a-f76c-4e36-71ff-9d9a71a7a804">
+              <para id="UUIDb2480bf5-a61a-45f7-766f-05d0478bd4a6">system nakazowo-kontrolny</para>
+            </item>
+            <item id="UUID7a916cd6-2326-48b3-5fd7-aa751684dd3a">
+              <para id="UUID779d9083-9cf9-4bc7-6210-7836aaceb034">działanie zorientowane na rynek</para>
+            </item>
+            <item id="UUIDfa96508a-761f-460f-6334-5ad7a56e9d4c">
+              <para id="UUIDc8352baa-f79b-4c13-5508-387e68c5c71f">działanie zorientowane na rynek</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm47024320">
+        <problem id="fs-idp13838672">
+          <para id="fs-idm100951632">Opłata za emisję zanieczyszczeń nałożona na przedsiębiorstwa nie jest elementem systemu regulacji nakazowo-kontrolnych. Dlaczego?</para>
+        </problem>
+        <solution id="fs-idm131509200">
+          <para id="fs-idm80274800">Mimo że państwo nakłada takie opłaty, przedsiębiorstwa mają swobodę w zakresie wyboru technologii pozwalających na obniżenie skali emisji zanieczyszczeń i tym samym zmniejszenie kwoty opłat.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm285104" class="review-questions">
+      <title id="UUIDbf1d6edf-9fcc-43a8-7889-631e8f5142b0">Pytania Review</title>
+      <exercise id="fs-idp8822016">
+        <problem id="fs-idp181581008">
+          <para id="fs-idp69425136">Czym jest opłata za emisję zanieczyszczeń i jak zachęca ona przedsiębiorstwa do uwzględniania zewnętrznych kosztów zanieczyszczeń?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp91740576">
+        <problem id="fs-idp68476160">
+          <para id="fs-idp52897120">Czym są zbywalne zezwolenia na emisję zanieczyszczeń i jak zachęcają one przedsiębiorstwa do uwzględniania zewnętrznych kosztów zanieczyszczeń?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm14607536">
+        <problem id="fs-idp42389904">
+          <para id="fs-idp13787920">W jaki sposób można lepiej zdefiniować i alokować prawa własności? Dlaczego będą one wówczas zachęcać przedsiębiorstwa do uwzględniania zewnętrznych kosztów zanieczyszczeń?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp12689328" class="critical-thinking">
+      <title id="UUID05784d1b-7ed7-49e5-536f-f4971978a794">Pytania Critical Thinking</title>
+      <exercise id="fs-idm99574720">
+        <problem id="fs-idm44443968">
+          <para id="fs-idm82934272">Czy system zbywalnych zezwoleń na emisję zanieczyszczeń będzie funkcjonował dobrze, gdy na rynku działa kilka tysięcy przedsiębiorstw? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp12538512">
+        <problem id="fs-idm83998304">
+          <para id="fs-idm134151744">Czy w systemie zbywalnych zezwoleń na emisję możliwe jest całkowite zredukowanie zanieczyszczeń? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm43623920">
+        <problem id="fs-idm57288640">
+          <para id="fs-idp71672016">Czy redukcja emisji zanieczyszczeń do zera jest optymalnym celem polityki państwa? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm163658272" class="references">
+      <title id="UUID965aa91e-2f64-4d9f-6228-cecc4581dd26">Bibliografia</title>
+      <para id="fs-idm133270816">Environmental Protection Agency. “2006 Pay-As-You-Throw Programs.” Accessed December 20, 2013. http://www.epa.gov/epawaste/conserve/tools/payt/states/06comm.htm.</para>
+    </section>
+  </content>
+  <glossary id="UUID7d99005a-c6ca-42c3-76e2-d3594eb8bfc9">
+    <definition id="fs-idm45278288">
+      <term id="UUID51ecbec2-ba77-47af-69d2-5dc6fc663b53">zbywalne zezwolenie na emisję zanieczyszczeń (ang. <foreign xml:lang="en" id="UUID9f29e9e9-2315-4a8e-7f28-f69e2ec2624c">marketable permit</foreign>)</term>
+      <meaning id="fs-idm16688288">
+        <para id="UUID24371d27-a07d-47df-67db-c8b80c07167f">pozwolenie umożliwiające przedsiębiorstwu emisję określonej ilości zanieczyszczeń; firmy posiadające więcej zezwoleń, niż wynoszą ich potrzeby, mogą sprzedać nadmiar innym przedsiębiorstwom</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm8944480">
+      <term id="UUID740657ce-6382-45b0-5363-26442d8adc8e">opłata za emisję zanieczyszczeń (ang. <foreign xml:lang="en" id="UUID16806041-8c13-4aef-493b-a928a782f8e8">pollution charge</foreign>)</term>
+      <meaning id="fs-idp359728">
+        <para id="UUIDbd640a2f-c906-4222-58f2-2930d373afe6">opłata (parapodatek) nakładana na przedsiębiorstwo za emitowane przez nie zanieczyszczenia</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp112402624">
+      <term id="UUID8cd51db3-fb22-445d-40f3-cc3793711c5e">prawo własności (ang. <foreign xml:lang="en" id="UUID49243488-bc6a-41c4-50ae-8dbaa9015c3c">property right</foreign>)</term>
+      <meaning id="fs-idp73799008">
+        <para id="UUID0d19b56a-6085-43ae-4277-531cd677cf03">prawo do posiadania i korzystania z własności, które oznacza, że podmioty naruszające to prawo będę zmuszone do wypłaty odszkodowania właścicielowi</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

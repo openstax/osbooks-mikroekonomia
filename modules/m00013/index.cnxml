@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U06017430-c0d8-40cb-bd07-20a160f9fb18" id="U06017430-c0d8-40cb-bd07-20a160f9fb18" xml:lang="en" cnxml-version="0.7">
+  <title>Pozacenowe determinanty popytu i podaży</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00013</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Pozacenowe determinanty popytu i podaży</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:52.760182701+00:00</md:version>
+    <md:created>2022-08-08T07:43:52.760182701+00:00</md:created>
+    <md:revised>2022-08-08T07:43:52.760182701+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>06017430-c0d8-40cb-bd07-20a160f9fb18</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDbf3d878c-1d13-4d68-7f73-5029efe09e24" class="learning-objectives">
+      <para id="UUID01ac7822-b703-4959-4d67-9590e155a448">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUIDf41df33b-40a7-4043-63bb-b79946510324">
+        <item id="UUIDd577596c-bf7c-402a-67bb-11deed1109ac">
+          <para id="UUIDf17f5864-3c34-419a-5b0e-96ef6391f808">Wskazywać czynniki wpływające na popyt</para>
+        </item>
+        <item id="UUID682b060f-9a0b-426c-6d63-c94ba722f26d">
+          <para id="UUIDc94ef0bd-6bf8-44a4-4a97-58767506d829">Wykreślać krzywą popytu, a następnie pracować ze stworzonym wykresem</para>
+        </item>
+        <item id="UUID61ff6be0-3f1b-4141-7b1d-d5ccfe8d27ef">
+          <para id="UUID7c630412-601c-4ea3-45ae-39c7f29f0074">Identyfikować czynniki wpływające na podaż</para>
+        </item>
+        <item id="UUID9b212bfd-7d94-442c-7da0-823835a0d932">
+          <para id="UUID54e5f4f3-5193-445f-52ad-d19d128e479e">Wykreślać krzywą podaży i pracować ze stworzonym wykresem</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID06a8dfa0-c9f6-45b3-6a88-ac29386ad7bf">W poprzednim podrozdziale zbadaliśmy, w jaki sposób cena wpływa na zapotrzebowanie i ilość oferowaną przez sprzedawców na rynku. Udało nam się również wyjaśnić koncepcje krzywych popytu i podaży. Jednak cena nie jest jedynym czynnikiem oddziałującym na decyzje kupujących i sprzedających. Zastanów się np., w jaki sposób popyt na produkty wykorzystywane w diecie wegetariańskiej kształtuje przekonanie podzielane przez rosnącą grupę konsumentów, iż unikanie mięsa jest korzystne dla naszego zdrowia. A jak na podaż diamentów wpłynie to, że ich producenci uruchomią kilka nowych kopalni tego cennego minerału? Jakie są zatem główne czynniki – obok ceny rynkowej – wpływające na popyt i podaż?</para>
+    <note type="note" id="fs-idm157649136" class="economics linkup">
+      <para id="fs-idm127210272">Odwiedź <link url="https://openstax.org/l/toothfish" id="UUID4978f378-c087-4d48-7293-6e19d08bc889">tę witrynę internetową</link> i przeczytaj krótką notatkę opisującą, jak strategie marketingowe mogą wpływać na podaż i popyt na różne produkty.</para>
+    </note>
+    <section id="fs-idp17963200">
+      <title id="UUID7040f0a5-1e79-406e-54d3-348d54663112">Jakie czynniki wpływają na popyt?</title>
+      <para id="UUIDc0db4e0f-9d5f-4d19-6f39-34d2843007f5">Popyt zdefiniowaliśmy jako ilość jakiegoś dobra lub usługi, którą konsumenci chcą i są w stanie kupić przy różnych poziomach ceny rynkowej. Zgodnie z tą definicją istnieją co najmniej dwa, łatwe do zidentyfikowania, czynniki, które kształtują popyt. Jeśli chcę coś kupić, to znaczy, że dane dobro lub usługa może zaspokoić potrzebę wynikającą z moich gustów i preferencji. Jeśli jestem palaczem, nałóg skłania mnie do zakupu papierosów lub tytoniu. Moje gusta i preferencje sprawiają, że palę, to z kolei powoduje, że odczuwam nieodpartą potrzebę dostarczenia mojemu organizmowi nikotyny, a tę potrzebę mogę zaspokoić, kupując paczkę papierosów. Jeśli jednak nie palę, nie jestem zainteresowany zakupem papierosów. Jeśli czegoś nie potrzebujesz ani nie chcesz, to po prostu tego nie kupisz. Z kolei stwierdzenie „są w stanie kupić" jednoznacznie wskazuje, że dochód konsumentów jest również istotnym czynnikiem wpływającym na ich decyzje zakupowe. Profesorów zazwyczaj stać na lepsze lokum i środek transportu niż studentów, ponieważ mają większe dochody, jakkolwiek zarówno studenci, jak i wykładowcy zapewne tak samo mocno pragną mieć dach nad głową i możliwość nieskrępowanego przemieszczania się. Ceny towarów pokrewnych do dobra lub usługi, których zakup rozważamy, również mogą wpływać na popyt. Jeśli potrzebujesz nowego samochodu i poważnie rozważasz zakup fiata, cena skody lub opla nie pozostanie bez wpływu na twoją decyzję. Wreszcie struktura demograficzna populacji (liczba ludzi w konkretnym wieku) również oddziałuje na popyt. Im więcej dzieci rodzi się w danym kraju, tym większy pojawia się popyt na pieluchy i ubranka dla niemowląt. Z kolei wraz z dorastaniem tych dzieci popyt na mleko modyfikowane i środki pielęgnacji maluchów maleje, a rośnie na ubezpieczenie samochodów młodych kierowców i różnego rodzaju elektroniczne gadżety.</para>
+      <para id="UUID7b6e6218-0d8e-4d55-700a-66692689fead">Wskazane powyżej czynniki mają znaczenie zarówno dla popytu zgłaszanego przez konkretną osobę, jak i dla całego rynku. W jaki sposób każdy z nich wpływa na popyt i jak zilustrować ten wpływ na wykresie? Aby odpowiedzieć na te pytania, musimy najpierw wprowadzić i objaśnić założenie <emphasis effect="italics">ceteris paribus</emphasis>.</para>
+    </section>
+    <section id="fs-idm104305088">
+      <title id="UUID65406276-1482-44a8-4a26-441a26df960d">Założenie <emphasis effect="italics">ceteris paribus</emphasis></title>
+      <para id="UUIDf6b29d10-7a50-4589-729c-6f70381e2267"><term cmlnle:reference="krzywa popytu" id="UUID427605ab-db9d-4c29-42a4-3e1f83e0c545">Krzywa popytu</term> (ang. <foreign xml:lang="en" id="UUID77b8a17e-56a6-46cd-4d0c-cc4d636f37f1"><term cmlnle:reference="demand curve" id="UUIDffea2b57-d162-4575-7dc1-d3e5cdbe3b98">demand curve</term></foreign>) lub <term cmlnle:reference="krzywa podaży" id="UUID5f0366d5-a760-41b4-52ec-5d84e2068f15">krzywa podaży</term> (ang. <foreign xml:lang="en" id="UUID4f6cac44-ff02-4438-72da-96dfb243087a"><term cmlnle:reference="supply curve" id="UUIDbddf1bba-1889-4cc5-4387-30bf77e4b47c">supply curve</term></foreign>) to relacja między dwiema i tylko dwiema zmiennymi: ilością na osi poziomej i ceną rynkową na osi pionowej. Założeniem leżącym u podstaw tworzenia krzywej popytu lub krzywej podaży jest to, że nie zmieniają się żadne istotne dla obu wielkości czynniki ekonomiczne inne niż rynkowa cena produktu. Ekonomiści nazywają to założenie <foreign xml:lang="la" id="UUID7fab63d8-f0dc-426e-4090-1de0d0793ff8"><term cmlnle:reference="ceteris paribus" id="UUID0582a1b0-0646-4d8d-626c-5d86a117beab">ceteris paribus</term></foreign>, co jest łacińskim wyrażeniem oznaczającym „inne rzeczy są stałe” lub „przy innych czynnikach niezmienionych". Zależność opisana krzywą popytu lub podaży opiera się na założeniu <emphasis effect="italics">ceteris paribus</emphasis>. Zmniejszenie ceny rynkowej wywołuje wzrost zapotrzebowania i spadek ilości oferowanej tylko wtedy, gdy wszystkie czynniki, które mogłyby wpłynąć na popyt i podaż, pozostają niezmienione. Jeśli dopuścimy zmianę jakiegokolwiek czynnika determinującego popyt lub podaż, wówczas prawa podaży i popytu oczywiście wciąż będą obowiązywać, ale efekt wzrostu lub spadku ceny wcale nie musi być zgodny z naszymi oczekiwaniami, jak pokazuje poniższa <link target-id="fs-idm163434208" id="UUIDec5f73b4-315d-46de-5a7e-2d98e420a9e7" />.</para>
+      <note type="note" id="fs-idm163434208" class="clearup economics">
+        <title id="UUID6e97a27e-c905-4949-7ba7-3e00044ce4dd">Kiedy <emphasis effect="italics">ceteris paribus</emphasis> ma zastosowanie?</title>
+        <para id="UUID4b825ad9-9ec8-486c-4792-0f8f7b34337c">Klauzulę <emphasis effect="italics">ceteris paribus</emphasis> stosujemy zazwyczaj wtedy, gdy chcemy dokładnie wskazać, jak zmiany cen wpływają na popyt lub podaż, ale założenie to możemy wykorzystać także w szerszym kontekście. W realnym świecie popyt i podaż zależą od znacznie większej liczby czynników niż tylko ceny rynkowe. Na przykład popyt zależy od dochodów konsumentów, a podaż zdeterminowana jest przez koszty wytworzenia produktu. W jaki sposób możemy przeanalizować wpływ, jaki wywiera na popyt lub podaż wiele czynników zmieniających się w tym samym czasie – powiedzmy, rosnące ceny rynkowe i spadające dochody? Ekonomiści radzą sobie z tym problemem, badając każdą ze zmiennych wpływających na popyt oddzielnie i zakładając, że pozostałe czynniki pozostają niezmienne.</para>
+        <para id="UUID84194125-0e9c-4016-5b08-16288e7e88b7">W poniższym przykładzie łatwo stwierdzić, że wzrost ceny rynkowej zmniejszy ilość, jaką konsumenci będą chcieli kupić (zakładając, że dochód i wszystkie inne czynniki wpływające na popyt pozostają stałe). Z kolei spadek dochodów zmniejsza kwotę, którą konsumenci mogą przeznaczyć na zakup tego konkretnego dobra, co zapewne również zmniejszy wielkość zapotrzebowania przy każdym poziomie ceny (ponownie przy założeniu, że cena i wszystkie inne zmienne determinujące popyt pozostają niezmienne). To właśnie w praktyce oznacza założenie <emphasis effect="italics">ceteris paribus</emphasis>. W tym konkretnym przypadku, po przeanalizowaniu każdego czynnika oddzielnie, możemy połączyć wyniki. Ilość tego konkretnego dobra, na którą konsumenci zgłoszą popyt, spadnie ze względu na dwa czynniki: wyższą cenę i niższe dochody.</para>
+      </note>
+    </section>
+    <section id="fs-idm90417728">
+      <title id="UUID78c38acc-2d0e-4975-6b75-46eeabb286d9">W jaki sposób dochód wpływa na popyt?</title>
+      <para id="UUID00b1f1fa-326e-4319-7123-bee4afdbed1f">Wykorzystajmy dochód jako przykład tego, w jaki sposób czynniki inne niż cena rynkowa wpływają na popyt. <link target-id="CNX_Econ_C03_004" id="UUIDaaa46a27-f381-4fb7-77d3-156ee6087e1b" /> pokazuje początkowe zapotrzebowanie na używane samochody jako D<sub>0</sub>. Na przykład w punkcie Q, gdzie cena wynosi 20 tys. zł za samochód, liczba aut, na które jest zapotrzebowanie, kształtuje się na poziomie 18 tys. D<sub>0</sub> pokazuje również, jak zmieniłoby się zapotrzebowanie na samochody przy wyższej lub niższej cenie. Gdyby cena samochodu wzrosła do 22 tys. zł, zapotrzebowanie spadłoby do 17 tys. sztuk (pokazuje to punkt R).</para>
+      <para id="UUIDa691b5d5-85aa-4e9b-5f68-ef58bbd645f1">Pierwotne położenie krzywej popytu D<sub>0</sub>, jak każdej krzywej popytu, opiera się na założeniu <emphasis effect="italics">ceteris paribus</emphasis>, zgodnie z którym żadne inne istotne dla popytu czynniki nie ulegają zmianie. Teraz wyobraź sobie, że gospodarka rozwija się, rosną dochody wielu ludzi, co sprawia, że samochody stają się bardziej przystępne cenowo (przeciętny konsument za swój roczny dochód jest w stanie kupić nie jeden, ale dwa samochody). Jak wpłynie to na popyt? Jak możemy to pokazać na wykresie?</para>
+      <para id="UUIDcb82e643-4a4a-469b-539f-19dcc7ae368b">Wracamy do <link target-id="CNX_Econ_C03_004" cmlnle:case="genitive" id="UUID08ea40db-ddab-4afc-6aba-b69da6447340" />. Cena samochodów nadal wynosi 20 tys. zł, ale przy wyższych dochodach zapotrzebowanie dla tego poziomu ceny rynkowej wzrosło teraz do 20 tys. aut, jak pokazuje to punkt S. W wyniku wzrostu poziomu dochodów krzywa popytu przesuwa się w prawo do nowego położenia D<sub>1</sub>, wskazując na wzrost popytu. <link target-id="Table_03_04" id="UUIDbd42fa1d-3d86-4df9-7a5b-0583799c5487" /> pokazuje wyraźnie, że ten zwiększony popyt występuje przy każdym poziomie ceny rynkowej, nie tylko tym wyznaczonym przez punkty Q i S.</para>
+      <para id="UUIDf158949e-71b3-41bc-5d49-3834d6a178e3">A teraz wyobraź sobie, że gospodarka zwalnia, wielu ludzi traci pracę lub pracuje krócej, osiągając niższe dochody. W takim przypadku spadek dochodów spowodowałby zmniejszenie zapotrzebowania na samochody przy każdym poziomie ceny rynkowej, a krzywa popytu D<sub>0</sub> z pierwotnego położenia przesunęłaby się w lewo, do położenia D<sub>2</sub>. W naszym przykładzie cena 20 tys. zł oznacza zapotrzebowanie na poziomie 18 tys. samochodów dla pierwotnej krzywej popytu, ale tylko 14,4 tys. aut po przesunięciu popytu.</para>
+      <para id="UUID2134f68c-f2ce-4a1a-6ce5-98ecff901b25" />
+      <figure id="CNX_Econ_C03_004">
+        <title id="UUID6cee74a8-489c-44e9-7a90-7b60de9877bc">Przesunięcia krzywej popytu: przykład rynku samochodów</title>
+        <media alt="Wykres przedstawia układ współrzędnych, w którym na osi pionowej odłożono ceny wyrażone w złotych, zaś na osi poziomej liczbę kupowanych aut. W tym układzie współrzędnych wykreślone są trzy krzywe popytu na samochody oznaczone jako D0, D1 i D2." id="fs-idm155342160">
+          <image src="../../media//CNX_Econ_C03_004.svg" mime-type="image/svg+xml" id="UUID8ae764b3-5d76-438a-4b7c-b036d7e36601" />
+        </media>
+        <caption id="UUID39fdc835-e07d-427d-4434-4cae1b30d32a">Zwiększony popyt oznacza, że przy każdym poziomie ceny rynkowej zapotrzebowanie jest większe, a więc krzywa popytu przesuwa się w prawo, z położenia D<sub>0</sub> do położenia D<sub>1</sub>. Zmniejszony popyt oznacza, że przy każdym poziomie ceny rynkowej zapotrzebowanie jest mniejsze, a zatem krzywa popytu przesuwa się w lewo, z położenia D<sub>0</sub> do położenia D<sub>2</sub>.</caption>
+      </figure>
+      <table summary="The table is called “Price and Demand Shifts: A Car Example.” It has four columns that show how the demand for cars changes at different levels. The four columns are Price, Decrease to D2, Original Quantity Demanded D0, and Increase to D1. When a car is priced at $16,000, the Decrease to D2 is 17.6 million cars. The Original Quantity Demanded D0 is 22.0 million and the Increase to D1 is 24.0 million. When a car is $18,000, the Decrease to D2 is 16 million. The Original Quantity Demanded D0 is 20.0 million and the Increase to D1 is 22.0 million. At $20,000, the Decrease to D1 is 14.4 million cars. The Original Quantity Demanded D0 is 18.0 million and the Increase to D1 is 20.0 million. At $22,000, the Decrease to D1 is 13.6 million cars. The Original Quantity Demanded D0 is 17.0 million and the Increase to D1 is 19.0 million. At $24,000, the Decrease to D1 is 13.2 million cars. The Original Quantity Demanded D0 is 16.5 million and the Increase to D1 is 18.5 million. Finally, at $26,000, the Decrease to D1 is 12.8 million cars. The Original Quantity Demanded D0 is 16.0 million and the Increase to D1 is 18.0 million." id="Table_03_04"><title id="UUID704d5026-c4f7-nn8x-kaidnsypgdxhd99w">Cena a przesunięcia krzywej popytu: przykład rynku używanych samochodów</title><tgroup id="UUID704d5026-c4f7-6e0s-7xbiv88iyv7yc3il" cols="4"><colspec id="UUID704d5026-c4f7-rh5h-n9b8r9lucofervqy" colnum="1" colname="col1" /><colspec id="UUID704d5026-c4f7-lanu-1qmkm7grvtn8o56r" colnum="2" colname="col2" /><colspec id="UUID704d5026-c4f7-vqkf-pvnjgfwhom8x63f9" colnum="3" colname="col3" /><colspec id="UUID704d5026-c4f7-lla1-g85yrcp5lc2e67n7" colnum="4" colname="col4" /><thead id="UUID704d5026-c4f7-7hj5-13v07galp6rqjssa"><row id="UUID704d5026-c4f7-pe66-uzz6yb3mqw0tqyg0"><entry id="UUID704d5026-c4f7-ecrq-gqo7n8ari9kbfir2">Cena (zł)</entry><entry id="UUID704d5026-c4f7-qzaq-uqlg517yld9rq4n7">Spadek zapotrzebowania do D<sub>2 </sub></entry><entry id="UUID704d5026-c4f7-a426-c27xxtdqxfmw2qdz">Pierwotne zapotrzebowanie (D<sub>0</sub>) </entry><entry id="UUID704d5026-c4f7-hu7s-fclwsl06crhwe4z9">Wzrost zapotrzebowania do D<sub>1 </sub></entry></row></thead><tbody id="UUID704d5026-f4fc-4d69-a8h7e72fce7o39gx"><row id="UUID704d5026-c4f7-8n7n-ggggr4vxoaqzr55s"><entry id="UUID704d5026-c4f7-s18m-tnl2s5kh39k0rvuf">16 000</entry><entry id="UUID704d5026-c4f7-3jno-vxmhvc3dwg5q8hg1">17 600</entry><entry id="UUID704d5026-c4f7-16vn-le6jb8xtma7hvz20">22 000</entry><entry id="UUIDae43fe63-b2c3-4pw8-acjion8xryoynda1">24 000 </entry></row><row id="UUIDae43fe63-b2c3-ybe4-rmdw3dqetykkdoed"><entry id="UUIDae43fe63-b2c3-wt89-oz9b1duruux8j79l">18 000</entry><entry id="UUIDae43fe63-b2c3-nr5n-as86uz1ybqp4j48c">16 000 </entry><entry id="UUIDae43fe63-b2c3-jpll-aefvzl4mw146x4u7">20 000 </entry><entry id="UUIDae43fe63-b2c3-8z7k-1i9evtkkbyvwjwt9">22 000 </entry></row><row id="UUIDae43fe63-b2c3-li76-64mjab6z3m3gt8vt"><entry id="UUIDae43fe63-86hc-s9hy-51duf37tim2fpp4m">20 000</entry><entry id="UUIDae43fe63-b2c3-lvm6-8hs30gp0bxq67wa4">14 400 </entry><entry id="UUIDae43fe63-b2c3-xymn-of9duvkpg7p3tur1">18 000 </entry><entry id="UUIDae43fe63-48q6-c90b-ds50otx29dp1cqcu">20 000 </entry></row><row id="UUIDae43fe63-b2c3-99v1-pqo7nl6rx8l84tfw"><entry id="UUIDae43fe63-xyl5-qwfa-eyk9ie0ql24clpcu">22 000</entry><entry id="UUIDae43fe63-5vtd-rt02-qtwulnc6susufszu">13 600</entry><entry id="UUID05a9ac86-a8f2-4f78-694d-d107510dcdd8">17 000 </entry><entry id="UUIDae43fe63-b2c3-fucc-jxwgnccrt5840nnx">19 000 </entry></row><row id="UUIDae43fe63-h5we-d17k-c8s8twr8nuubinfq"><entry id="UUID8396d45f-4901-0911-clf910lzo1m8d6zp">24 000</entry><entry id="UUID8396d45f-4901-0911-xci7xeqgs8e7j1la">13 200 </entry><entry id="UUID8396d45f-4901-0911-wy2dc5igdvw831ee">16 500 </entry><entry id="UUID8396d45f-4901-0911-n1chrxcqi81cr5g1">18 500 </entry></row><row id="UUID8396d45f-4901-0911-8s8jb3t3vnbq04cy"><entry id="UUID8396d45f-4901-0911-lcltqld2f1omth80">26 000</entry><entry id="UUID8396d45f-4901-0911-1ym29gyul4b491h0">12 800</entry><entry id="UUID8396d45f-4901-0911-sxek5b3h8fzz06n8">16 000 </entry><entry id="UUID8396d45f-4901-0911-l1soas5so5jc2tk3">18 000 </entry></row></tbody></tgroup><caption id="UUID51e6a6ec-a1ca-4c68-63c7-8ca84539cf16" /></table>
+      <para id="UUIDd8d9860f-5cbf-49bc-7475-f599b5ecbf45">Gdy krzywa popytu przesuwa się, nie oznacza to, że zapotrzebowanie zgłaszane przez każdego indywidualnego nabywcę zmienia się w taki sam sposób. W naszym przykładzie nie każdy klient zainteresowany kupnem auta musiałby się zmierzyć ze zmianą dochodu w tym samym kierunku (wzrost albo spadek) i tym samym stopniu, co oznacza, że nie każdy zdecydowałby się na kupno samochodu przy wzroście dochodów w gospodarce lub przeciwnie, nie dokonałby zakupu, gdyby dochody w gospodarce się obniżyły. Przesunięcie krzywej popytu pokazuje zmianę dla całego rynku i jest wypadkową decyzji podejmowanych przez wszystkie osoby zainteresowane kupnem samochodu.</para>
+      <para id="fs-idm36684448">W poprzednim podrozdziale dowodziliśmy, że wyższy dochód powoduje większy popyt przy każdym poziomie ceny rynkowej. Dotyczy to większości dóbr i usług. Ale dla pewnych produktów – takich jak luksusowe samochody, wakacje w egzotycznych miejscach i ekskluzywna biżuteria – efekt wzrostu dochodów może być szczególnie wyraźny. Dobro, na które popyt rośnie wraz ze wzrostem dochodu i spada wraz ze spadkiem dochodu, nazywane jest <term cmlnle:reference="dobro normalne" id="UUID6a4addb5-353a-4c0d-40e7-3959ec9a15b1">dobrem normalnym</term> (ang. <foreign xml:lang="en" id="UUID549d6984-4e09-4189-7417-75b08fcc3d36"><term cmlnle:reference="normal good" id="UUID84bd8c97-820a-400e-6ae0-94df8ccc0fae">normal good</term></foreign>). Istnieje kilka wyjątków od tego wzorca. Wraz ze wzrostem dochodów wiele osób będzie kupować mniej artykułów spożywczych sprzedawanych pod marką własną supermarketów i dyskontów, a więcej tych opatrzonych logo producenta. Można się również spodziewać spadku popytu na samochody używane i wzrostu na nowe. Dobro, na które popyt spada wraz ze wzrostem dochodów i rośnie wraz z ich spadkiem, nazywane jest <term cmlnle:reference="dobro niższego rzędu" id="UUID8125dc60-c380-47dc-74f8-8e72eba6a6f8">dobrem niższego rzędu</term> (ang. <foreign xml:lang="en" id="UUID51b15a1c-6e5a-49fc-5268-83a58044760a"><term cmlnle:reference="inferior good" id="UUIDf8b2a1dd-ded5-4cc8-65c3-554ddea43507">inferior good</term></foreign>). Innymi słowy, gdy dochód rośnie, krzywa popytu na dobra niższego rzędu przesuwa się w lewo.</para>
+    </section>
+    <section id="fs-idm29397760">
+      <title id="UUIDd5d951e8-8bc9-4a0e-6393-be0181a5151a">Inne czynniki wpływające na przesunięcie krzywych popytu</title>
+      <para id="UUID990554fb-d8e0-4e7f-51d4-f954f7367347">Dochód nie jest jedynym czynnikiem, który powoduje zmiany popytu. Inne czynniki przesuwające krzywą popytu to gusta i preferencje, struktura lub wielkość populacji, ceny dóbr pokrewnych, a nawet oczekiwania co do ceny danego dobra w przyszłości. Zmiana któregokolwiek z czynników określających, jaką ilość dobra lub usługi ludzie są skłonni kupić po danej cenie, spowoduje zmianę popytu. Graficznie nowa krzywa popytu leży po prawej stronie (wzrost) lub po lewej stronie (spadek) od pierwotnego położenia. Przyjrzyjmy się teraz wspomnianym wyżej czynnikom.</para>
+      <para id="fs-idm115517696"><emphasis effect="bold">Zmiana gustów i preferencji</emphasis></para>
+      <para id="UUID09df148f-9e0c-4dbd-6a06-a42c3c091635">Po rozpoczęciu procesu transformacji systemowej w Polsce w 1989 r. doszło do znaczącej zmiany w strukturze konsumpcji polskich gospodarstw domowych. Ilość kupowanego masła zaczęła spadać, zaś ilość margaryny, na którą konsumenci zgłaszali popyt, systematycznie rosła. Podobną tendencję obserwowano w relacji popytu na mięso wieprzowe i drobiowe. Udział drobiu w zakupach przeciętnego gospodarstwa domowego rósł, zaś wieprzowiny malał. Tego typu zmiany odzwierciedlają transformację gustów i preferencji konsumentów, która skutkuje zmianami ilości dóbr i usług, na które zgłaszany jest popyt przy każdej cenie. Oznacza to, że przesuwają one krzywą popytu na to dobro w prawo w przypadku kurczaka (margaryny) i w lewo w przypadku wieprzowiny (masła). Zmiana gustów i preferencji może być konsekwencją zarówno powszechnej zmiany trybu życia – co będzie np. zwiększać popyt na produkty wegetariańskie i wegańskie – jak i intensywnych kampanii marketingowych. Pomyślmy w tym kontekście o wzroście popytu na margarynę, która w okresie PRL była powszechnie uważana za produkt zdecydowanie gorszy od masła, a dzięki reklamie w telewizji stała się wręcz synonimem nowoczesnego i zdrowego stylu życia.</para>
+      <para id="fs-idm52526912"><emphasis effect="bold">Zmiany struktury populacji</emphasis></para>
+      <para id="fs-idm48776928">Odsetek osób starszych (w wieku 65 lat i więcej) w populacji Polski systematycznie rośnie. W 1990 r. było to 10,2%, w 2010 r. 13,5%, zaś w roku 2019 już 18,1%. W kolejnych latach przewidywany jest jego dalszy wzrost, do 25,2% w 2030 r. (dane opublikowane przez GUS). W społeczeństwie z relatywnie większą liczbą dzieci, takim jak Polska przed rokiem 1990, występuje większy popyt na towary i usługi kupowane przez młodych rodziców – rowery trójkołowe, pieluchy i usługi związane z opieką nad małymi dziećmi. Z kolei społeczeństwo ze stosunkowo dużą liczbą osób starszych, takie jak Polska w 2030 r., będzie zgłaszało większe zapotrzebowanie na domy opieki i aparaty słuchowe. Podobnie zmiany w wielkości populacji mogą wpłynąć na popyt na mieszkania oraz wiele innych dóbr. Każda z tych zmian zostanie pokazana jako przesunięcie krzywej popytu.</para>
+      <para id="fs-idmnewpara01"><emphasis effect="bold">Zmiany cen dóbr pokrewnych</emphasis></para>
+      <para id="fs-idm107091696">Zmiany cen dóbr pokrewnych, takich jak dobra substytucyjne i komplementarne, również mogą wpływać na popyt na dany produkt. <term cmlnle:reference="dobro substytucyjne" id="UUID7d98f983-81a3-402e-408a-59f910dfc357">Dobro substytucyjne</term> (ang. <foreign xml:lang="en" id="UUIDa96ac572-761c-4faa-53a5-688737393f90"><term cmlnle:reference="substitute good" id="UUID54a8e938-799b-439b-63a3-f0e02fb9d02f">substitute good</term></foreign>) to towar lub usługa, które pozwalają zaspokoić tę samą lub podobną potrzebę, można je zatem wykorzystać jako zamiennik konkretnego produktu. Ponieważ książki elektroniczne (e-booki), takie jak ten podręcznik, stają się coraz bardziej dostępne, można oczekiwać spadku popytu na książki tradycyjne, drukowane. Niższa cena substytutu zmniejsza popyt na rozpatrywany produkt. Na przykład w ostatnich latach, gdy ceny tabletów dość szybko spadały, popyt na nie wzrósł (z powodu działania prawa popytu). Ponieważ ludzie kupują tablety jako substytut laptopów, nastąpił spadek popytu na komputery przenośne, co można zilustrować jako przesunięcie krzywej popytu na laptopy w lewo. Wyższa cena za dobro substytucyjne przynosi odwrotny skutek.</para>
+      <para id="fs-idp3135008"><term cmlnle:reference="dobro komplementarne" id="UUID59627669-3f5c-40f3-7bf4-a750b0dca2db">Dobra komplementarne</term> (ang. <foreign xml:lang="en" id="UUIDe638a0f6-1ecf-47f5-66c5-3e9a9c0387fa"><term cmlnle:reference="complementary good" id="UUID07c029b0-2b8a-45fe-5d3e-fe4d47c358ed">complementary good</term></foreign>) wzajemnie się uzupełniają, co oznacza, że często używamy ich razem, ponieważ konsumpcja jednego dobra zwiększa użyteczność (korzyści) z konsumpcji drugiego. Najczęściej przywoływane przykłady to: płatki śniadaniowe i mleko, notesy i długopisy lub ołówki, piłki golfowe i kije golfowe, benzyna i samochody oraz kawa i cukier lub mleczko. Jeśli cena kijów golfowych rośnie, to wskutek działania prawa popytu spada na nie popyt, a jednocześnie spada również popyt na dobra komplementarne, czyli piłki golfowe. Podobnie wyższa cena zimowych wakacji w górach przesunęłaby krzywą popytu na dobra komplementarne, jakimi są narty i kombinezony narciarskie, w lewo, podczas gdy niższa cena za dobra komplementarne miałaby skutek odwrotny.</para>
+      <para id="UUIDdd6305d9-8697-41fe-5f02-58dcd9f80ce3"><emphasis effect="bold">Zmiany oczekiwań dotyczące przyszłych cen i innych czynników wpływających na popyt</emphasis></para>
+      <para id="UUIDea462b48-0c40-4266-4e36-d1b103f459cb">Łatwo zrozumieć, w jaki sposób cena rynkowa dobra wpływa na zapotrzebowanie, jednak popyt na dany produkt będą również kształtować oczekiwania dotyczące przyszłego poziomu jego ceny, a także inne czynniki (gusta i preferencje, dochody itd.), które w przyszłości mogą determinować popyt na to dobro. Na przykład jeśli ludzie usłyszą, że nadchodzi powódź lub huragan, mogą wykupić ze sklepów baterie do latarek i wodę butelkowaną, słusznie zakładając, że po klęsce żywiołowej produktów tych nie wystarczy dla wszystkich. Jeśli zaś dowiedzą się, że cena dobra takiego jak kawa prawdopodobnie wzrośnie w przyszłości, mogą wybrać się do sklepu, aby zaopatrzyć się w kawę na zapas. Z kolei, jeśli konsumenci spodziewają się obniżki cen w przyszłości, wówczas wstrzymują bieżący popyt (np. na tablety), licząc, że później (np. w przyszłym roku) uda im się kupić to dobro taniej. Pokazujemy te zmiany popytu jako przesunięcia krzywej w prawo lub w lewo. <term cmlnle:reference="przesunięcie krzywej popytu" id="UUID8a23aaca-e26f-4ff4-7690-72d48de71f83">Przesunięcie krzywej popytu</term> (ang. <foreign xml:lang="en" id="UUIDfe0ff4a4-cfc0-401f-4fc4-c081bd308f8f"><term cmlnle:reference="shift in demand" id="UUID16284721-64e2-4c13-60c1-32298a49fd8f">shift in demand</term></foreign>) następuje wówczas, gdy zmiana jakiegoś czynnika ekonomicznego (innego niż cena rynkowa) powoduje, że zapotrzebowanie zmienia się przy każdym poziomie ceny rynkowej. Poniższa <link target-id="fs-idm42358192" id="UUIDeaa3e7d3-a6fe-4db9-72bd-d1759a8370cc" /> dokładnie ilustruje kierunek tych zmian.</para>
+      <note type="note" id="fs-idm42358192" class="economics workout">
+        <title id="UUID601a754f-d68b-4cf9-44e7-beae5dff3901">Zmiany popytu, przesunięcie krzywej popytu</title>
+        <para id="UUID52a76292-bac8-4ae7-5539-f96b08fa98a4">Zmiana popytu oznacza, że przy każdym poziomie ceny rynkowej zapotrzebowanie ulegnie zmianie. Poniżej znajduje się przykład przesunięcia krzywej popytu spowodowanego wzrostem dochodów.</para>
+        <para id="fs-idm115694720">Krok 1. Narysuj krzywą popytu dla dobra normalnego, takiego jak pizza. Oznacz cenę (np. P<sub>0</sub>). Zaznacz odpowiednią dla niej ilość Q<sub>0</sub>. Spójrz na przykład nakreślony na <link target-id="CNX_Econ_C03_019" cmlnle:case="locative" id="UUIDbffaffe3-1e92-4d06-5d0b-8270f1156b6b" />.</para>
+        <figure id="CNX_Econ_C03_019">
+          <title id="UUID8cf54ca0-cf0c-46c9-5565-530535d70894">Krzywa popytu</title>
+          <media alt="Wykres przedstawia wskazówki dla pierwszego kroku. Krzywa popytu pozwala odczytać, ile pizzy konsumenci będą chcieli kupić przy danym poziomie ceny." id="fs-idm94402672">
+            <image src="../../media//CNX_Econ_C03_019.svg" mime-type="image/svg+xml" id="UUID6462c208-47be-4411-506d-951ca1698acb" />
+          </media>
+          <caption id="UUIDd4b7229e-c08e-4ecf-46ca-47452f1abead">Krzywa popytu może być wykorzystana do oceny tego, jaką ilość danego dobra konsumenci chcieliby kupić przy każdym poziomie ceny.</caption>
+        </figure>
+        <para id="fs-idm23986688">Krok 2. Załóżmy, że dochód wzrośnie. Czy w wyniku tej zmiany konsumenci będą kupować mniej, czy więcej pizzy? Odpowiedź brzmi: więcej. Narysuj przerywaną linię poziomą biegnącą od wybranej ceny, przez pierwotne zapotrzebowanie, do nowego punktu z nową ilością Q<sub>1</sub>. Narysuj przerywaną linię pionową w dół do osi poziomej i oznacz nowy Q<sub>1</sub>. <link target-id="CNX_Econ_C03_020" id="UUIDe865d912-9c77-4e17-47cb-67f7c388d775" /> ilustruje wskazane powyżej posunięcia.</para>
+        <figure id="CNX_Econ_C03_020">
+          <title id="UUIDf3cac640-2074-40db-5887-1f7b6600c597">Krzywa popytu a wzrost dochodu</title>
+          <media alt="Wykres ilustruje wskazówki z drugiego kroku. Wraz ze wzrostem dochodu konsumenci będą chcieli kupić większą ilość dobra (Q1) niż kupowali wcześniej, dysponując niższym dochodem." id="fs-idm4475184">
+            <image src="../../media//CNX_Econ_C03_020.svg" mime-type="image/svg+xml" id="UUID2fe1785d-1555-43e6-451b-abe5e0002b10" />
+          </media>
+          <caption id="UUID32715275-7e2d-4301-44ab-fc6ef4c5a2c1">Wraz ze wzrostem dochodu konsumenci będą nabywali większe ilości dobra, co przesunie popyt w prawo.</caption>
+        </figure>
+        <para id="fs-idp75089808">Krok 3. Teraz przesuń krzywą tak, aby jej wykres przechodził przez nowy wyznaczony punkt. Zobaczysz, że wzrost dochodu powoduje przesunięcie w górę (lub w prawo) krzywej popytu, w efekcie przy każdej cenie popyt będzie wyższy, jak to widać na <link target-id="CNX_Econ_C03_021" cmlnle:case="locative" id="UUID3c19209e-f3f5-41e4-6bb0-d0a04caa62be" />.</para>
+        <figure id="CNX_Econ_C03_021">
+          <title id="UUIDba42934a-f23e-4dcc-5d0b-70d186e0726f">Krzywa popytu przesunięta w prawo</title>
+          <media alt="Wykres przedstawia wskazówki dla trzeciego kroku. Zwiększony dochód skutkuje wzrostem zapotrzebowania przy każdym poziomie ceny, co jest zilustrowane przez przesunięcie w prawo krzywej popytu." id="fs-idm164619520">
+            <image src="../../media//CNX_Econ_C03_021.svg" mime-type="image/svg+xml" id="UUID0345e49c-819e-47d2-57b5-765d0894dc4d" />
+          </media>
+          <caption id="UUID75502674-454f-48f2-5fa1-490c978e32d7">Wraz ze wzrostem dochodu konsumenci będą nabywali większe ilości pizzy, co oznacza wzrost zapotrzebowania przy każdym poziomie ceny, czyli przesunięcie krzywej popytu w prawo.</caption>
+        </figure>
+        <para id="UUIDcb38d4de-79ee-46bd-6681-a410f0a3d26b" />
+      </note>
+    </section>
+    <section id="fs-idp7448176">
+      <title id="UUIDfb516219-05b4-4f32-7e13-cc76b48473ff">Podsumowanie: czynniki wpływające na popyt</title>
+      <para id="fs-idm99811792"><link target-id="CNX_Econ_C03_026" id="UUIDa02be24a-7ea9-46a5-5ff1-5b830590ca1a" /> podsumowuje działanie sześciu czynników, które mogą przesunąć krzywe popytu. Kierunek strzałek wskazuje, czy przesunięcie krzywej popytu oznacza jego wzrost, czy też spadek. Zauważ, że zmiana ceny samego dobra lub usługi nie jest wymieniona wśród czynników, które mogą przesunąć krzywą popytu. Zmiana ceny towaru lub usługi powoduje ruch po krzywej popytu i zazwyczaj prowadzi do pewnej zmiany zapotrzebowania, ale nie wywołuje przesunięcia krzywej.</para>
+      <figure id="CNX_Econ_C03_026">
+        <title id="UUIDd89ec8bf-af2a-43ce-5b35-645f23e7b145">Czynniki, które powodują przesunięcia krzywej popytu</title>
+        <media alt="Panel a wykresu (z lewej strony) wskazuje zdarzenia, które mogą spowodować zwiększenie popytu (wzrost zapotrzebowania przy każdym poziomie ceny, czyli przesunięcie krzywej popytu w prawo). Z kolei panel b (z prawej strony) zawiera listę zdarzeń mogących prowadzić do zmniejszenia popytu (spadku zapotrzebowania przy każdym poziomie ceny, czyli przesunięcia krzywej popytu w prawo)." id="fs-idm176066384">
+          <image src="../../media//CNX_Econ_C03_026.svg" mime-type="image/svg+xml" id="UUID1884625d-b7a3-4158-54d1-8a27cc414e1a" />
+        </media>
+        <caption id="UUIDff1ef678-9020-4917-6a7a-7ffa121f9779">(a) Lista czynników, które mogą spowodować wzrost popytu z D<sub>0</sub> do D<sub>1</sub>. (b) Te same czynniki, ale działające w odwrotnym kierunku, mogą spowodować spadek popytu z D<sub>0</sub> do D<sub>1</sub></caption>
+      </figure>
+      <para id="UUID8b569812-9510-49bc-5fd4-473a6048cbb4">Gdy krzywa popytu się przesunie, przetnie się z krzywą podaży w innym punkcie, wskazując inną cenę i ilość równowagi. Jednak nie powinniśmy się spieszyć. Zanim omówimy to, jak zmiany popytu mogą wpływać na cenę i ilość równowagi, najpierw musimy przeanalizować możliwe czynniki wpływające na podaż i tym samym przesunięcie wykresu krzywej podaży.</para>
+    </section>
+    <section id="fs-idm65744640">
+      <title id="UUID5ff56bd9-1abc-462d-5a51-d0f94ae46479">W jaki sposób koszty produkcji wpływają na podaż?</title>
+      <para id="fs-idm29526400">Krzywa podaży pokazuje, jak zmieni się ilość oferowana wraz ze wzrostem lub spadkiem ceny rynkowej, przy założeniu <emphasis effect="italics">ceteris paribus</emphasis>, zgodnie z którym żadne inne istotne dla podaży czynniki nie ulegają zmianie. Jeśli jakakolwiek ze zmiennych, które determinują podaż i nie są ceną rynkową, zmieni się, przesunie to całą krzywą podaży. Tak samo jak przesunięcie krzywej popytu, które opisaliśmy jako zmianę zapotrzebowania przy każdej cenie, <term cmlnle:reference="przesunięcie krzywej podaży" id="UUIDe0a3de8c-cbdc-4e7e-626e-b95f05251ed1">przesunięcie krzywej podaży</term> (ang. <foreign xml:lang="en" id="UUID02de21d4-04e8-49c5-651b-0e5fc75fb5d9"><term cmlnle:reference="shift in supply" id="UUID782d451e-8fe5-4e15-6356-5d5b6bd53833">shift in supply</term></foreign>) oznacza zmianę ilości oferowanej przy każdym poziomie ceny rynkowej.</para>
+      <para id="fs-idm43531936">Myśląc o czynnikach wpływających na podaż, pamiętajmy, co stanowi podstawowy cel działalności gospodarczej – to <term cmlnle:reference="zysk" id="UUID4c8f8e7d-5676-4b14-5c18-10b9bb12f594">zysk</term> (ang. <foreign xml:lang="en" id="UUIDc41684de-e8f3-456a-7649-6ebc9cf9c876"><term cmlnle:reference="profit" id="UUID12264972-d88c-424e-609f-0d9424eb0d6c">profit</term></foreign>), który jest różnicą między przychodami a kosztami. Przedsiębiorstwo wytwarza towary i usługi, używając kombinacji pracy, kapitału finansowego, materiałów i maszyn (kapitału fizycznego), czyli tego, co nazywamy <term cmlnle:reference="nakłady" id="UUID71c0834c-66b6-4359-7471-c5241dff63ac">nakładami</term> (ang. <foreign xml:lang="en" id="UUID52795f5f-880f-4e86-7e91-6fecd7effefd"><term cmlnle:reference="input" id="UUID257d9528-3169-484b-53be-2d0b68f13dee">input</term></foreign>) lub <term cmlnle:reference="czynnik produkcji" id="UUIDaa08cbed-c1b3-4b01-73eb-3bcb730ae995">czynnikami produkcji</term> (ang. <foreign xml:lang="en" id="UUID28152abf-3aa4-47ed-6718-3b90b7886f5d"><term cmlnle:reference="factor of production" id="UUIDf9061089-edef-47f9-58eb-d8a8d0f24f86">factor of production</term></foreign>). Jeśli koszty produkcji z punktu widzenia przedsiębiorstwa są niższe, a ceny towarów lub usług, które ono wytwarza, pozostają niezmienione, wówczas zyski rosną. Gdy zyski przedsiębiorstwa rosną, chętniej zwiększa ono produkcję, ponieważ im więcej towarów dostarczy na rynek, tym większy dochód osiągnie. Gdy koszty produkcji spadają, przedsiębiorstwo będzie chciało dostarczać większą ilość swoich produktów przy danym poziomie ceny. Zmianę tę możemy pokazać, przesuwając w prawo krzywą podaży.</para>
+      <para id="UUIDa742c90c-ddfd-4c29-57ff-70cfcad7e4a9">Potraktujmy jako przykład firmę kurierską, która dostarcza paczki i przesyłki na terenie danego miasta. Przedsiębiorstwo to może uznać, że koszt zakupu benzyny jest jedną z najważniejszych pozycji na liście jego kosztów. Jeśli cena benzyny spadnie, wówczas przedsiębiorstwo stwierdzi, że może dostarczać przesyłki taniej niż dotąd. Ponieważ niższe koszty przekładają się na wyższe zyski, firma ta może rozszerzyć zakres usług przy danej cenie na kolejne dzielnice miasta. Dzięki niższym cenom benzyny może teraz obsłużyć większy obszar i w ten sposób zwiększyć podaż swoich usług.</para>
+      <para id="UUIDd89468e1-6289-48a8-6fc8-5707c9788bff">I odwrotnie, jeśli przedsiębiorstwo poniesie wyższe koszty produkcji, będzie osiągać niższe zyski przy każdym poziomie ceny rynkowej swoich produktów. W rezultacie wyższy koszt produkcji zwykle powoduje, że przedsiębiorstwo oferuje do sprzedaży mniejsze ilości dóbr i usług przy każdym poziomie ceny rynkowej. W tym przypadku krzywa podaży przesuwa się w lewo.</para>
+      <para id="fs-idm25878112">Rozważmy teraz podaż samochodów używanych zilustrowaną za pomocą krzywej S<sub>0</sub> na <link target-id="CNX_Econ_C03_007" cmlnle:case="locative" id="UUID8dd62d84-a3a2-4800-7bd7-286dcd4fe3c8" />. Punkt J wskazuje, że przy cenie równej 20 tys. zł liczba oferowanych aut wyniesie 18 tys. sztuk. Jeśli cena wzrośnie do 22 tys. zł za samochód (<emphasis effect="italics">ceteris paribus)</emphasis>, podaż wzrośnie do 20 tys. samochodów, co pokazuje punkt K na krzywej S<sub>0</sub>. Możemy oczywiście zaprezentować te same informacje za pomocą zestawienia takiego jak <link target-id="Table_03_05" id="UUID584ea21a-eb53-4d5f-56f1-236bd2a24620" />.</para>
+      <figure id="CNX_Econ_C03_007">
+        <title id="UUIDe63dbee6-1286-4765-6824-18c3aaea760e">Zmiany podaży: przykład rynku samochodów używanych</title>
+        <media alt="Rysunek pokazuje krzywą S0 jako wyjściowe położenie krzywej podaży. Krzywa podaży S1, która została wykreślona po lewej stronie krzywej S0, reprezentuje przesunięcie wynikające ze zmniejszonej podaży. Krzywa podaży S2, która znajduje się z prawej strony wyjściowej krzywej podaży, ilustruje z kolei przesunięcie, będące skutkiem zwiększonej podaży." id="fs-idm85405328">
+          <image src="../../media//CNX_Econ_C03_007.svg" mime-type="image/svg+xml" id="UUID31485c02-f154-425e-6f3e-ba230a1cdb1d" />
+        </media>
+        <caption id="UUID5967e768-6462-40b3-73b4-44a9c8bde418">Zmniejszona podaż oznacza, że przy każdej cenie rynkowej liczba oferowanych samochodów jest mniejsza, a więc krzywa podaży przesuwa się w lewo, z położenia S<sub>0</sub> do S<sub>1</sub>. Zwiększona podaż oznacza, że przy każdym poziomie ceny rynkowej liczba oferowanych aut jest większa, a więc krzywa podaży przesuwa się w prawo, z położenia S<sub>0</sub> do położenia S<sub>2</sub>.</caption>
+      </figure>
+      <table summary="The table is called “Price and Shifts in Supply: A Car Example.” It has four columns that show how the supply of cars changes at different levels. The four columns are Price, Decrease to D1, Original Quantity Supplied S0, and Increase to S2. When a car is priced at $16,000, the Decrease to S1 is 10.5 million cars. The Original Quantity Supplied S0 is 12.0 million and the Increase to S2 is 13.2 million. When a car is $18,000, the Decrease to S1 is 13.5 million. The Original Quantity Supplied S0 is 15.0 million and the Increase to S2 is 16.5 million. At $20,000, the Decrease to S2 is 16.5 million cars. The Original Quantity Supplied S0 is 18.0 million and the Increase to S2 is 19.8 million. At $22,000, the Decrease to S1 is 18.5 million cars. The Original Quantity Supplied S0 is 20.0 million and the Increase to S2 is 22.0 million. At $24,000, the Decrease to S1 is 20.5 million cars. The Original Quantity Supplied S0 is 19.5 million and the Increase to S2 is 23.1 million. Finally, at $26,000, the Decrease to S1 is 20.5 million cars. The Original Quantity Supplied S0 is 22.0 million and the Increase to S2 is 24.2 million." id="Table_03_05"><title id="UUID8396d45f-4901-0911-l1soas5so7tc2tk3">Ceny a zmiany podaży: przykład rynku samochodów używanych</title><tgroup id="UUID8396d45f-4901-0911-9hwc8pjh1bim2kmt" cols="4"><colspec id="UUID8396d45f-4901-0911-myf4p5qp9qbvf79q" colnum="1" colname="col1" /><colspec id="UUID8396d45f-4901-0911-3jcotfgj0s3sp6ze" colnum="2" colname="col2" /><colspec id="UUID8396d45f-4901-0911-op62r009orjcihn6" colnum="3" colname="col3" /><colspec id="UUID8396d45f-4901-0911-4u9pmj5un9372h24" colnum="4" colname="col4" /><thead id="UUID8396d45f-4901-0911-75d2264f9d76228b"><row id="UUID9ff3h996-6bd0-6467-yxwq8fn7wyy4x81y"><entry id="UUID9ff3h996-6bd0-6467-nao2m27v0rwz2zz6">Cena (zł)</entry><entry id="UUID9ff3h996-6bd0-6467-9we9epp1r32qzq6h">Spadek liczby oferowanych aut do S<sub>1</sub></entry><entry id="UUID9ff3h996-6bd0-6467-ghnq530xyfgsxgnk">Początkowa liczba oferowanych aut (S<sub>0</sub>)</entry><entry id="UUID9ff3h996-6bd0-6467-xq5yltcdxleowon1">Wzrost liczby oferowanych aut do S<sub>2</sub></entry></row></thead><tbody id="UUID9ff3h996-6bd0-6467-630obweqbr2jjmw6"><row id="UUID9ff3h996-6bd0-6467-1sxcm63bespi3haf"><entry id="UUID9ff3h996-6bd0-6467-kiwn4wa58dv0kn95">16 000</entry><entry id="UUID9ff3h996-6bd0-6467-zntcxbu3na475aa9">10 500 </entry><entry id="UUID35cc53a0-6414-4771-nuvklnkxakk70r66">12 000</entry><entry id="UUID35cc53a0-6414-4771-ib42k20bk40g3i4o">13 200 </entry></row><row id="UUID35cc53a0-6414-4771-kr9o2a2l156u7sz3"><entry id="UUID35cc53a0-6414-4771-92opljucoyfudcw0">18 000</entry><entry id="UUID35cc53a0-6414-4771-3nohh44sqx5pxgeh">13 500</entry><entry id="UUID35cc53a0-6414-4771-3znwny431grtjbr6">15 000  </entry><entry id="UUID35cc53a0-6414-4771-qzz5z3xsqvud300h">16 500</entry></row><row id="UUID35cc53a0-6414-4771-e7xe4zlm8bpin1o4"><entry id="UUID35cc53a0-6414-4771-50d0xc6vptuvmgpo">20 000</entry><entry id="UUID35cc53a0-6414-4771-9so7vt4e2lbvgqfo">16 500 </entry><entry id="UUID35cc53a0-6414-4771-rb2o5cwhjws0xlkr">18 000 </entry><entry id="UUID35cc53a0-6414-4771-xxdog6wtzzbov8ue">19 800</entry></row><row id="UUID35cc53a0-6414-4771-e5niaz1v7tgqz4fp"><entry id="UUID35cc53a0-6414-4771-impg0dvvbv5cazkc">22 000</entry><entry id="UUID35cc53a0-6414-4771-yauixp5f5eo4du41">18 500  </entry><entry id="UUID35cc53a0-6414-4771-wyd4ryk3077u0t15">20 000 </entry><entry id="UUID35cc53a0-6414-4771-tbzalv4odxi0n90s">22 000</entry></row><row id="UUID35cc53a0-6414-4771-amzf6ayldx583pu1"><entry id="UUID35cc53a0-6414-4771-0of3bs9av34eej0d">24 000</entry><entry id="UUID35cc53a0-6414-4771-yfu0ty6886n3532h">19 500 </entry><entry id="UUID35cc53a0-6414-4771-v3t33z7gouru9bya">21 000 </entry><entry id="UUID35cc53a0-6414-4771-5z4x9pmkstpj8gpg">23 100</entry></row><row id="UUID704d5026-np5z-4d69-9157938247171125"><entry id="UUID704d5026-ost4-4d69-9157938247171125">26 000</entry><entry id="UUID704d5026-voem-4d69-9157938247171125">20 500 </entry><entry id="UUID704d5026-a346-4d69-9157938247171125">22 000</entry><entry id="UUID704d5026-guhx-4d69-9157938247171125">24 200</entry></row></tbody></tgroup><caption id="UUID773bbaae-a3f5-4550-74cc-ccee0d7f4e0d" /></table>
+      <para id="fs-idm143891376">A teraz wyobraź sobie, że stawki najmu powierzchni biurowo-wystawienniczej, ważnego komponentu kosztów w ramach działalności sprzedawców używanych samochodów, rosną, przez co aktywność ta staje się droższa. Przy każdym poziomie ceny rynkowej sprzedawcy używanych aut zaoferują do sprzedaży ich mniejszą liczbę (część sprzedawców będzie bowiem zmuszona zawiesić działalność). Można to zilustrować, przesuwając krzywą podaży w lewo, z położenia S<sub>0</sub> do położenia S<sub>1</sub>, co będzie oznaczało, że przy każdym poziomie ceny rynkowej liczba oferowanych samochodów maleje. W tym przykładzie przy cenie 20 tys. zł zaoferowana liczba spada z 18 tys. sztuk na początkowej krzywej podaży (S<sub>0</sub>) do 16,5 tys. na przesuniętej krzywej podaży S<sub>1</sub>. Nową wielkość wskazuje punkt L.</para>
+      <para id="fs-idm107781904">I odwrotnie, jeśli stawki najmu powierzchni spadają, sprzedaż samochodów staje się tańsza. Przy każdym poziomie ceny rynkowej sprzedawcy aut mogą teraz oczekiwać wyższych zysków, więc zaoferują do sprzedaży większą liczbę samochodów. Przesunięcie krzywej podaży w prawo, z S<sub>0</sub> do S<sub>2</sub>, oznacza, że przy każdym poziomie ceny rynkowej zaoferowana liczba aut wzrosła. W naszym przykładzie przy cenie 20 tys. zł ilość oferowana wzrasta z 18 tys. na pierwotnej krzywej podaży (S<sub>0</sub>) do 19,8 tys. na krzywej podaży S<sub>2</sub>. Nową wielkość wskazuje punkt M.</para>
+    </section>
+    <section id="fs-idp74095824">
+      <title id="UUID00429827-bd75-4353-67a3-4e4a30668384">Inne czynniki wpływające na podaż</title>
+      <para id="UUID2a3189c7-f845-4ac2-6e9e-b7f4c4d304d8">Na powyższym przykładzie można było zaobserwować, że zmiany cen nakładów w procesie produkcji wpływają na koszty produkcji, a tym samym na podaż. Przecież powierzchnia biurowo-wystawiennicza jest właśnie takim nakładem w procesie sprzedaży używanych samochodów. Na koszt wytwarzania dóbr i usług w przedsiębiorstwach oddziałuje również kilka innych elementów, takich jak zmiany pogody lub warunków naturalnych, nowe technologie produkcji i niektóre rodzaje polityki ekonomicznej państwa.</para>
+      <para id="UUID77ae0af1-b5f5-47b2-6fdf-d9936098003d">Zmiany pogody i – w dłuższym horyzoncie czasowym – klimatu wpływają na koszty produkcji wielu produktów rolnych. Na przykład w 2014 r. Nizina Mandżurska w północno-wschodnich Chinach, która odpowiada za większość produkcji pszenicy, kukurydzy i soi w tym kraju, została dotknięta najpoważniejszą od 50 lat suszą. Drastyczny spadek ilości opadów zmniejsza podaż produktów rolnych, a to oznacza, że przy danej cenie rynkowej do sprzedaży zostanie zaoferowana mniejsza ilość towarów. Z drugiej strony szczególnie korzystna pogoda przesunęłaby krzywą podaży w prawo.</para>
+      <para id="fs-idm62101232">Gdy przedsiębiorstwo opracuje nową technologię, która pozwala produkować taniej, krzywa podaży również przesunie się w prawo. Na przykład w latach 60. XX w. wielki projekt naukowy, zwany zieloną rewolucją, doprowadził do upowszechnienia wydajniejszych odmian podstawowych roślin, takich jak pszenica i ryż. Na początku lat 90. XX w. ponad dwie trzecie areału wykorzystywanego pod uprawę pszenicy i ryżu w krajach rozwijających się było obsiane ziarnem stworzonym dzięki zielonej rewolucji – w konsekwencji plony z hektara były dwukrotnie wyższe. Udoskonalenie technologiczne obniżające koszty produkcji przesunie krzywą podaży w prawo, dzięki czemu przy danej cenie można wyprodukować większą ilość.</para>
+      <para id="UUIDfc375cff-b663-411a-4d39-cafc694c4181">Polityka państwa również może zmieniać koszty produkcji, a tym samym krzywą podaży, poprzez podatki, regulacje i dotacje. Na przykład rząd Polski nakłada podatek akcyzowy na napoje alkoholowe. Wpływy z tego tytułu wyniosły w 2020 r. ponad 13,5 mld zł. Przedsiębiorstwa traktują podatki jako koszty działalności. Wyższe koszty zmniejszają podaż z powodów, które omówiliśmy powyżej. Innym przykładem polityki, która może wpływać na wysokość kosztów wytwarzania, jest szeroki wachlarz przepisów regulujących postępowanie przedsiębiorstw w zakresie ochrony środowiska lub bezpieczeństwa i higieny pracy. Konieczność dostosowania się do przepisów zwykle zwiększa koszty pojedynczego przedsiębiorstwa.</para>
+      <para id="UUID798cc3d5-d136-492b-7cb8-ed508f8466d2">Z drugiej strony ewentualna <term cmlnle:reference="subwencja" id="UUID092f318e-5985-4898-4ac4-079ae59fc2f9">subwencja</term> (ang. <foreign xml:lang="en" id="UUID65ba611f-5868-447b-4a9c-c6ce90a5cc5c"><term cmlnle:reference="subsidy" id="UUIDf10f8314-74fb-4f48-6a7d-298428092956">subsidy</term></foreign>) wypłacana przez władze różnego szczebla jest odwrotnością podatku. Z subwencją mamy do czynienia wtedy, kiedy państwo bezpośrednio wspiera przedsiębiorstwa, zasilając je środkami finansowymi, lub obniża wysokość podatków, gdy podejmują one działania pożądane przez władze. Z perspektywy przedsiębiorstwa podatki lub regulacje są dodatkowym kosztem produkcji, który przesuwa podaż w lewo, co prowadzi do zmniejszenia ilości oferowanej przy każdym poziomie ceny rynkowej. Z kolei dotacje rządowe obniżają koszty produkcji i zwiększają podaż oraz ilość oferowaną przy każdym poziomie ceny rynkowej, co przesuwa krzywą podaży w prawo. Następna <link target-id="fs-idp9921616" id="UUID20d20ed9-afec-415b-7a07-959f0d052d49" /> pokazuje, jak przebiega ta zmiana.</para>
+      <note type="note" id="fs-idp9921616" class="economics workout">
+        <title id="UUIDf1b7ea82-6b36-47f7-67f9-df8c9d55bdc3">Zmiany podaży</title>
+        <para id="UUID6ac1f9ec-c31a-4185-4bf1-67c6efd846be">Wiemy, że krzywa podaży pokazuje minimalną cenę rynkową, jaką przedsiębiorstwo zaakceptuje, aby wyprodukować i sprzedać daną ilość produktu. Co dzieje się z krzywą podaży, gdy koszty produkcji rosną? Poniżej znajduje się przykład przesunięcia krzywej podaży spowodowanego wzrostem kosztów produkcji. (W rozdziałach <link document="m00032" id="UUID744e16ad-1ee7-4bf9-7afb-b46b90756241">Introduction to Perfect Competition</link> i <link document="m00037" id="UUID1f708ad3-0fac-4384-440e-8b9fb31c0fcb">Introduction to a Monopoly</link> przedstawimy kilka innych koncepcji dotyczących podejmowania decyzji przez przedsiębiorstwo.)</para>
+        <para id="UUID095144dd-2499-4d4b-61ab-40507d01ed5c">Krok 1. Narysuj wykres krzywej podaży pizzy. Wybierz ilość (np. Q<sub>0</sub>). Jeśli narysujesz pionową linię od Q<sub>0</sub> do krzywej podaży, wyznaczysz cenę, którą wybierze przedsiębiorstwo. <link target-id="CNX_Econ_C03_022" id="UUIDc17262f8-41d2-4e4c-5044-af7f77e5bde3" /> pokazuje ten przykład.</para>
+        <figure id="CNX_Econ_C03_022">
+          <title id="UUID15248019-0c9e-489a-7f6a-4317bf858180">Krzywa podaży</title>
+          <media alt="Wykres przedstawia wskazówki do pierwszego kroku. Krzywa podaży wskazuje minimalną cenę rynkową, jaką przedsiębiorstwo jest gotowe zaakceptować (P0), jeśli chce dostarczyć na rynek liczbę placków równą Q0." id="fs-idp37229232">
+            <image src="../../media//CNX_Econ_C03_022.svg" mime-type="image/svg+xml" id="UUID46ad3744-8725-43ec-4fc1-d8435226b190" />
+          </media>
+          <caption id="UUID318bf511-fafd-40ea-4127-6586cd8f0a45">Krzywą podaży można wykorzystać, aby pokazać minimalną cenę rynkową, jaką zaakceptuje przedsiębiorstwo przy produkcji określonej ilości towaru.</caption>
+        </figure>
+        <para id="UUID5cdf2e93-3cfb-41ad-76bf-59996f525a2e" />
+        <para id="fs-idm49126288">Krok 2. Dlaczego przedsiębiorstwo wybrało tę, a nie inną cenę rynkową? Żeby to zrozumieć, warto sobie uświadomić, że cena składa się z dwóch części. Pierwsza z nich to koszt produkcji jednej pizzy. W tym przykładzie na koszt wyprodukowania pizzy składają się koszty składników (np. mąki, sosu, sera i szynki), koszt pieca do pizzy, czynsz za wynajmowane pomieszczenie i wynagrodzenie pracowników. Druga część ceny to oczekiwany zysk firmy wypracowany na jednym placku; jest on określany m.in. przez marżę zysku uzyskiwaną w ramach tego rodzaju działalności gospodarczej. (Oczekiwany zysk niekoniecznie jest tym samym co zysk ekonomiczny, zostanie to wyjaśnione w rozdziale <link document="m00032" id="UUID52ccd64c-75b0-447f-714a-2ab522eb10ee">Introduction to Perfect Competition</link>.) Po zsumowaniu tych dwóch składowych otrzymujemy cenę rynkową, jaką przedsiębiorstwo jest gotowe zaakceptować. Ilość Q<sub>0</sub> i związana z nią cena P<sub>0</sub> określają jeden punkt na krzywej podaży przedsiębiorstwa, co ilustruje <link target-id="CNX_Econ_C03_023" id="UUID10b9b073-4405-4c58-7a35-ef352acace9b" />.</para>
+        <figure id="CNX_Econ_C03_023">
+          <title id="UUIDe16990f5-ea90-4e42-633e-53b7222f4af3">Wyznaczanie cen</title>
+          <media alt="Wykres ilustruje wskazówki do kroku 2. Dla danej wielkości produkcji (Q0) firma chce uzyskać cenę rynkową (P0) równą kosztowi produkcji jednej pizzy powiększonemu o oczekiwaną marżę zysku." id="fs-idp61490608">
+            <image src="../../media//CNX_Econ_C03_023.svg" mime-type="image/svg+xml" id="UUID2ee610da-4b86-48b1-5c5a-27f38c1394cf" />
+          </media>
+          <caption id="UUIDeb17cb38-7153-4558-5ceb-ed4acf7096a6">Jednostkowy koszt produkcji powiększony o oczekiwany zysk równy jest cenie rynkowej, jaką firma ustaliła za swój produkt przy danej wielkości produkcji.</caption>
+        </figure>
+        <para id="UUID96f83f16-7bed-4fe9-68a2-f5619ca7c774" />
+        <para id="fs-idm50030960">Krok 3. Załóżmy teraz, że koszt produkcji wzrasta. Być może ser stał się droższy o 1,75 zł w przeliczeniu na pizzę. Jeśli to prawda, firma będzie chciała podnieść cenę o ten wzrost kosztów (1,75 zł). Narysuj ten punkt na krzywej podaży bezpośrednio nad początkowym punktem wyznaczonym na krzywej, ale o 1,75 zł wyżej, jak to widać na <link target-id="CNX_Econ_C03_024" cmlnle:case="locative" id="UUIDae152453-1021-47f6-5165-af18e83a4b14" />.</para>
+        <figure id="CNX_Econ_C03_024">
+          <title id="UUIDf4e4c3f4-e40d-44f6-456e-95e51bac1372">Rosnące koszty powodują wzrost cen rynkowych</title>
+          <media alt="Wykres przedstawia wskazówki do kroku trzeciego. Wzrost kosztów produkcji spowoduje wzrost ceny rynkowej (z poziomu P0 do poziomu P1), jaką przedsiębiorstwo będzie chciało uzyskać za jedną pizzę przy określonej wielkości produkcji (Q0). Od tego punktu jest już opis wykresu Ponieważ na cenę, którą firma chce otrzymać, składają się koszty produkcji i oczekiwany zysk, wzrost kosztów produkcji spowoduje wzrost rynkowej ceny produktu." id="fs-idm108114800">
+            <image src="../../media//CNX_Econ_C03_024.svg" mime-type="image/svg+xml" id="UUIDf6fbef3d-aaba-4af6-79a7-976fc9f26638" />
+          </media>
+        </figure>
+        <para id="fs-idp74824768">Krok 4. Przesuń krzywą podaży tak, aby przeszła przez nowy punkt, wyznaczony przez wyższe koszty jednostkowe. Zobaczysz, że wzrost kosztów powoduje przesunięcie w górę (lub w lewo) krzywej podaży, tak że przy każdej cenie zaoferowana ilość będzie teraz mniejsza, co widać na <link target-id="CNX_Econ_C03_025" cmlnle:case="locative" id="UUIDffeff025-d15c-4776-485a-215ff3324e42" />.</para>
+        <figure id="CNX_Econ_C03_025">
+          <title id="UUIDd329143f-b49c-4ab5-7668-4333959e9077">Przesunięcie krzywej podaży</title>
+          <media alt="Wykres ilustruje wskazówki do czwartego kroku. Wzrost jednostkowych kosztów produkcji spowoduje przesunięcie pionowo krzywej podaży w górę o tyle, o ile wzrosły te koszty." id="fs-idp119534720">
+            <image src="../../media//CNX_Econ_C03_025.svg" mime-type="image/svg+xml" id="UUIDddf16da5-0fd3-403a-4ee7-7aa2e60bc204" />
+          </media>
+          <caption id="UUID2d67544a-352b-47c8-6033-362892ca70c6">Gdy jednostkowy koszt produkcji wzrasta, krzywa podaży przesuwa się w górę, w związku z czym dla każdego poziomu oferowanej liczby placków pizzy cena rynkowa wzrasta.</caption>
+        </figure>
+      </note>
+    </section>
+    <section id="fs-idp50667120">
+      <title id="UUIDcfe7bd59-090b-4983-6949-c57300092c1a">Podsumowanie – czynniki wpływające na podaż</title>
+      <para id="UUID49bf2bce-73ab-4b99-7823-50ec12fe04aa">Zmiany cen dóbr i usług wykorzystywanych do produkcji (nakładów), klęski żywiołowe, nowe technologie i zmiany polityki państwa znajdują odbicie w kosztach produkcji. To zaś ma wpływ na ilość produktów, jaką firmy są skłonne dostarczać przy każdym poziomie ceny rynkowej.</para>
+      <para id="fs-idp15229536"><link target-id="CNX_Econ_C03_027" id="UUIDb2686eea-0755-491a-68b1-776059acd68d" /> podsumowuje działanie czterech czynników, które mogą przesuwać krzywe podaży dóbr i usług. Zauważ, że zmiana ceny rynkowej produktu do nich nie należy. Chociaż zmiana ceny dobra lub usługi zazwyczaj wywołuje zmianę ilości oferowanej, a więc ruch po krzywej podaży tego konkretnego dobra lub usługi, nie powoduje jednak przesunięcia samej krzywej podaży.</para>
+      <figure id="CNX_Econ_C03_027">
+        <title id="UUID96796eea-9807-4685-46f3-9c3eaa97d7c3">Czynniki, które powodują przesunięcie krzywych podaży</title>
+        <media alt="Na panelu z lewej strony wymienione są zdarzenia, które mogą spowodować zwiększenie ilości oferowanej przy każdym poziomie ceny rynkowej (przesunięcie krzywej podaży w prawo). Na panelu z prawej strony przedstawione są zdarzenia, które mogą prowadzić do zmniejszenia ilości oferowanej przy każdym poziomie ceny rynkowej (przesunięcie krzywej podaży w lewo)." id="fs-idm3875296">
+          <image src="../../media//CNX_Econ_C03_027.svg" mime-type="image/svg+xml" id="UUID3608e275-57e5-44bd-7aba-2aa53b9c208e" />
+        </media>
+        <caption id="UUIDfcb13971-780a-4013-6478-fb9f5dcd2000">(a) Lista czynników, które mogą spowodować wzrost podaży z S<sub>0</sub> do S<sub>1</sub>. (b) Te same czynniki, ale działające w odwrotnym kierunku, mogą spowodować spadek podaży z S<sub>0</sub> do S<sub>1</sub>.</caption>
+      </figure>
+      <para id="UUID0f5084d5-7c60-4a2e-4278-934a6319a007">Ponieważ krzywe popytu i podaży przedstawione są na dwuwymiarowym wykresie (z ceną rynkową i ilością odłożonymi na jego osiach), nieostrożny podróżnik po krainie ekonomii może odnieść błędne wrażenie, że nauka ta zajmuje się tylko czterema tematami: popytem, podażą, cenami i ilościami. Jednak popyt i podaż są tak naprawdę pojemnymi hasłami. Popyt obejmuje także wszystkie elementy, które wpływają na zapotrzebowanie przy każdym poziomie ceny rynkowej, a podaż obejmuje wszystko to, co wpływa na ilość zaoferowaną na rynku przy różnych poziomach ceny rynkowej. Uwzględniamy także czynniki inne niż cena rynkowa, których zmiana przejawia się przesunięciami krzywych popytu lub podaży. W ten sposób dwuwymiarowy model popytu i podaży staje się potężnym narzędziem do analizy szerokiego katalogu czynników ekonomicznych.</para>
+    </section>
+    <section id="fs-idm146864960" class="summary">
+      <title id="UUID15bfc586-bd34-4190-5f49-0b854050a32b">Key Concepts and Summary</title>
+      <para id="fs-idm93582096">Ekonomiści często stosują założenie <emphasis effect="italics">ceteris paribus</emphasis>, czyli „przy innych czynnikach niezmienionych”. Podczas badania ekonomicznego wpływu jednego zdarzenia na interesujący ich parametr traktują wszystkie inne czynniki, które również mogą determinować ten parametr, jako stałe (niezmienne). Czynniki, które mogą przesunąć krzywą popytu na dobra i usługi, powodując wzrost lub spadek zapotrzebowania przy każdym poziomie ceny rynkowej, obejmują zmiany: gustów i preferencji, liczby potencjalnych klientów, dochodów, cen dóbr substytucyjnych i komplementarnych oraz oczekiwań dotyczących przyszłych warunków i cen determinujących popyt. Czynniki, które mogą przesunąć krzywą podaży dóbr i usług, powodując wzrost lub spadek ilości oferowanej przy każdym poziomie ceny rynkowej, obejmują zmiany: cen nakładów (czynników produkcji), warunków naturalnych, technologii oraz regulacji prawnych, jak również wysokości podatków i dotacji rządowych.</para>
+    </section>
+    <section id="fs-idm24173264" class="self-check-questions">
+      <title id="UUIDd0f7a7ee-258b-4d94-48bd-364a8479a89c">Self-Check Questions</title>
+      <exercise id="fs-idm44597008">
+        <problem id="fs-idm610192">
+          <para id="fs-idm75781376">Dlaczego ekonomiści stosują założenie <emphasis effect="italics">ceteris paribus</emphasis>?</para>
+        </problem>
+        <solution id="fs-idm74085904">
+          <para id="UUID330f96c7-c588-4d79-75b4-6287424d948f">Aby ułatwić analizę złożonych problemów. <emphasis effect="italics">Ceteris paribus</emphasis> pozwala przyjrzeć się wpływowi tylko jednego czynnika na parametr, który próbujesz analizować. Po przeanalizowaniu wszystkich czynników oddzielnie ostateczna odpowiedź będzie sumą analiz cząstkowych.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp3857984">
+        <problem id="fs-idm101124144">
+          <para id="UUIDf1c0d716-34e4-47eb-5acf-51e1ad0a3248">Analizując rynek farb, ekonomista konstatuje wymienione poniżej fakty. Określ, czy wpłyną one na wzrost, czy na spadek popytu, a może na wzrost bądź spadek podaży.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm51555792">
+            <item id="UUID7f6ade94-f934-4073-605b-9fb7a9dd2e30">
+              <para id="UUIDb127bbae-e63c-4800-4010-8f09d76b8fcc">Ostatnio pojawiły się nowe rozwiązania technologiczne pozwalające zmniejszyć koszty wytwarzania farb.</para>
+            </item>
+            <item id="UUID06626991-1be6-4bbb-5a87-19ed08e1da99">
+              <para id="UUID3871e070-b5d6-4ddc-626b-8e729410b478">Farba utrzymuje się dłużej na pomalowanych powierzchniach, dzięki czemu właściciele nieruchomości nie muszą ich teraz malować tak często jak wcześniej.</para>
+            </item>
+            <item id="UUIDac4286f8-20cd-4491-6c1c-17a3af58bf18">
+              <para id="UUIDa2d27da2-24c3-4df9-4101-94f85c59c7b3">Z powodu silnego gradobicia wiele osób musi ponownie pomalować swoje nieruchomości.</para>
+            </item>
+            <item id="UUID012a027d-f042-4b04-73bb-8047b3c32b69">
+              <para id="UUID9f2e2308-3ae6-411f-6d8d-81fd07f06424">To samo gradobicie uszkodziło kilka fabryk produkujących farby na tyle, że zostały one zamknięte na kilka miesięcy.</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm71343200">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp20137152">
+            <item id="UUID73a0dd99-c54a-45ba-5055-2bd2fdadf0a4">
+              <para id="UUID61e514f8-5bee-45a2-6057-0e599d1840e2">Udoskonalenie technologii obniżające koszty produkcji spowoduje wzrost ilości oferowanej przy każdym poziomie ceny, czyli przesunięcie krzywej podaży w prawo (lub w dół).</para>
+            </item>
+            <item id="UUID7ef53155-cccb-4faa-75cb-58be3bbc69c8">
+              <para id="UUID7170ad2a-8e4b-472a-5306-4bf7ecd6cf3f">Poprawa jakości farby jest traktowana jako zmiana gustów lub preferencji na korzyść tego produktu, co oznacza, że konsumenci domagają się większej ilości farby przy dowolnym poziomie cenowym, więc krzywa popytu przesuwa się w prawo. Jeśli wydaje się to sprzeczne z intuicją, należy zauważyć, że w przyszłości popyt na trwalszą farbę spadnie, ponieważ konsumenci zasadniczo przeniosą popyt z przyszłości na moment obecny.</para>
+            </item>
+            <item id="UUID9e2526fc-4022-46a2-56ae-6ae83717acc8">
+              <para id="UUIDbc16fd3f-8c84-43f3-6121-6f0e9f41cb91">Zwiększenie potrzeb powoduje wzrost zapotrzebowania, czyli przesunięcie krzywej popytu w prawo.</para>
+            </item>
+            <item id="UUID22fe8464-6c0c-4841-630d-225625c943bf">
+              <para id="UUID6fa2dd0c-5042-48d4-7ce2-7bb722e6f960">Uszkodzenie fabryk oznacza, że obecnie przedsiębiorstwa nie są w stanie dostarczyć tak dużo farb jak poprzednio. Technicznie jest to wzrost kosztów produkcji. Tak czy inaczej krzywa podaży przesuwa się w lewo.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm630208">
+        <problem id="fs-idm75572256">
+          <para id="UUID79e821c0-c8fd-41f5-6b00-736a5140f659">Na rynek ropy naftowej wpływa wiele czynników. Postaraj się przewidzieć, jak każde z poniższych zdarzeń zmieni cenę rynkową i ilość równowagi. W każdym przypadku określ, w jaki sposób zdarzenie wpłynie na krzywe podaży i popytu. W razie potrzeby narysuj stosowny wykres.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm71917264">
+            <item id="UUIDb0489dab-205e-4e9b-72cd-f31924ed6faa">
+              <para id="UUID6fdf6b40-4952-422b-5b9b-f824296879f2">Samochody stają się coraz bardziej oszczędne, a zatem pokonują więcej kilometrów na jednym litrze paliwa.</para>
+            </item>
+            <item id="UUID5a1f290e-3e3b-4b28-4139-15df5e20a1a5">
+              <para id="UUIDed7db30e-2cd1-4825-4996-0dcbef10cf8b">Zima jest wyjątkowo mroźna.</para>
+            </item>
+            <item id="UUIDc2348be1-4f8a-4f2e-6592-c9a72c773998">
+              <para id="UUIDe1001ec2-555e-42fa-40e8-8e822d0155ec">U wybrzeży Norwegii dokonano ważnego odkrycia nowego złoża ropy naftowej.</para>
+            </item>
+            <item id="UUID13888ab2-4ea1-4fd1-6330-5d1ab182809e">
+              <para id="UUID4779c07a-59a2-4b41-6ba0-7b16456f527f">Gospodarki niektórych krajów wykorzystujących duże ilości ropy naftowej, takich jak Japonia, rozwijają się wolniej.</para>
+            </item>
+            <item id="UUIDb78570de-a8c0-4892-53ac-ddcd25a424fa">
+              <para id="UUID5e8545de-2918-47ca-71bb-6d0d9915ae6e">Wojna na Bliskim Wschodzie zakłóca harmonogramy wydobycia ropy.</para>
+            </item>
+            <item id="UUID9cd9a87e-6d89-43ad-4f74-64563a494021">
+              <para id="UUID6ebe649a-d6b8-4645-69ae-6a79588278b6">Właściciele budynków instalują w nich dodatkową izolację termiczną.</para>
+            </item>
+            <item id="UUID29e0de0a-2b01-45c6-597c-cbb30c526446">
+              <para id="UUID9efc903e-06bc-4669-524a-942ada7bad17">Cena energii pozyskiwanej za pomocą paneli słonecznych gwałtownie spada.</para>
+            </item>
+            <item id="UUID5ea15847-e289-4dc7-7835-0b183f1cd06b">
+              <para id="UUID3b385793-8346-4a00-6b1b-347e8e562d6a">Firmy chemiczne opracowują nowy rodzaj plastiku na bazie ropy naftowej, który nadaje się do bardzo wielu zastosowań.</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp49020240">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp12922608">
+            <item id="UUIDd46b662c-abcc-4378-625f-6fab73338ca5">
+              <para id="UUID9470b139-92bd-483e-5aaf-fe6df41010dc">Bardziej oszczędne samochody oznaczają mniejsze zapotrzebowanie na paliwa. Powoduje to przesunięcie w lewo krzywej popytu na benzynę i olej napędowy, a tym samym także na ropę naftową. Ponieważ krzywa popytu przesuwa się w dół krzywej podaży, spada zarówno cena, jak i ilość równowagi.</para>
+            </item>
+            <item id="UUID786ad2ad-721f-409d-71ee-1a671cac48c8">
+              <para id="UUID4e21a73b-997b-40af-65ec-7e964eb1ba1a">Niskie temperatury zwiększają zapotrzebowanie na olej opałowy. Powoduje to przesunięcie popytu na ten produkt, a tym samym na ropę naftową, w prawo. Ponieważ krzywa popytu przesuwa się w górę krzywej podaży, wzrasta zarówno cena rynkowa, jak i ilość równowagi.</para>
+            </item>
+            <item id="UUID047f47e0-abcf-4923-7910-505a15b027e6">
+              <para id="UUID85deaced-2849-4a63-650b-29519a7cd50a">Odkrycie nowych złóż ropy naftowej sprawi, że będzie jej więcej. Można to pokazać jako przesunięcie w prawo krzywej podaży, co spowoduje spadek ceny równowagi wraz ze wzrostem ilości równowagi. (Krzywa podaży przesuwa się w dół po krzywej popytu, więc cena i ilość zachowują się zgodnie z prawem popytu. Jeśli cena spada, ilość rośnie).</para>
+            </item>
+            <item id="UUID88bc749f-423a-4591-69b7-f2a27be75514">
+              <para id="UUIDa2a42ffe-1e91-42b5-7b72-db8e5620c90c">Jeśli gospodarka rozwija się wolniej, produkcja maleje i wymaga mniejszych nakładów, w tym energii, która jest wykorzystywana do wytwarzania praktycznie wszystkiego. Zmniejszenie popytu na energię przełoży się na spadek popytu na ropę naftową, czyli nastąpi przesunięcie w lewo krzywej popytu na to dobro. Ponieważ krzywa popytu przesuwa się w dół krzywej podaży, zarówno cena, jak i ilość równowagi spadną.</para>
+            </item>
+            <item id="UUID2a6cd9d6-495d-4523-60b3-fd1a0b67db00">
+              <para id="UUIDc4aca038-13b0-47cd-4546-2de123a9cce1">Zakłócenie wydobycia ropy naftowej zmniejszy jej podaż. To przesunięcie w lewo krzywej podaży oznacza ruch w górę po krzywej popytu, powodując wzrost ceny i spadek ilości zapewniających równowagę na rynku.</para>
+            </item>
+            <item id="UUID8cabd5e7-7439-425b-791b-1bb5e72a30a2">
+              <para id="UUID712f9c29-8c5c-4120-6e43-f239525ddcb0">Lepsza izolacja zmniejszy zapotrzebowanie na ogrzewanie. To oznacza przesunięcie popytu na ropę naftową w lewo, a więc ruch w dół po krzywej podaży, a to skutkuje spadkiem ceny i ilości równowagi na rynku ropy.</para>
+            </item>
+            <item id="UUID808c213a-6048-42d9-7f81-4082db60898e">
+              <para id="UUID2bf9e980-51d2-4910-6c1c-1c43c409ac5b">Energia słoneczna jest substytutem energii wytwarzanej z ropy naftowej. Jeśli więc energia słoneczna stanie się tańsza, popyt na ropę naftową spadnie, ponieważ konsumenci przestawią się z ropy naftowej na energię słoneczną. Spadek popytu na ropę naftową zostanie pokazany jako przesunięcie krzywej popytu w lewo. Gdy krzywa popytu przesuwa się w dół krzywej podaży, zarówno cena równowagi, jak i ilość wydobywanej ropy naftowej spadną.</para>
+            </item>
+            <item id="UUID9c89161d-f229-4db3-60fd-c9c10d59135b">
+              <para id="UUID586467c9-8afc-4523-5228-3775a7353006">Nowy, popularny rodzaj plastiku zwiększy popyt na ropę. Jego wzrost zostanie pokazany jako przesunięcie krzywej popytu w prawo podnoszące cenę równowagi i ilość ropy będącej przedmiotem transakcji.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm144464080" class="review-questions">
+      <title id="UUIDf01f7d81-b410-4963-7d03-7f16a50e8154">Review Questions</title>
+      <exercise id="fs-idm120419136">
+        <problem id="fs-idm88858944">
+          <para id="fs-idm140420448">W jaki sposób ekonomiści radzą sobie z problemem wpływu wielu czynników na konkretny rynek w tym samym czasie?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm139504000">
+        <problem id="fs-idm212973264">
+          <para id="fs-idp11809328">Wymień kilka czynników, które mogą spowodować przesunięcie krzywej popytu na rynku dóbr i usług.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm133420352">
+        <problem id="fs-idp88749536">
+          <para id="fs-idm1293632">Wymień kilka czynników, które mogą spowodować przesunięcie krzywej podaży na rynku dóbr i usług.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm105274544" class="critical-thinking">
+      <title id="UUID1fb4a0c2-f02d-4986-4d88-4983adc7b102">Critical Thinking Questions</title>
+      <exercise id="fs-idm70652288">
+        <problem id="fs-idp15224480">
+          <para id="fs-idm169436928">Przeanalizuj popyt na hamburgery. Jeśli cena dobra substytucyjnego (np. hot dogów) wzrośnie i cena dobra komplementarnego (np. bułek do hamburgerów) także pójdzie do góry, to czy możesz z całą pewnością powiedzieć, co stanie się z popytem na hamburgery? Dlaczego tak lub dlaczego nie? Zilustruj swoją odpowiedź wykresem.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm111391696">
+        <problem id="fs-idm433712">
+          <para id="fs-idm42120816">Jak sądzisz, jak starzenie się pokolenia powojennego wyżu demograficznego wpłynie na popyt na mleko? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm68643296">
+        <problem id="fs-idm103250992">
+          <para id="fs-idm93378256">Wiemy, że zmiana ceny produktu powoduje ruch wzdłuż krzywej popytu. Załóżmy, że konsumenci uważają, iż w przyszłości ceny będą rosły. Jak wpłynie to na popyt na produkt w teraźniejszości? Czy możesz to zilustrować za pomocą wykresu?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp45370304">
+        <problem id="fs-idm93164528">
+          <para id="UUIDafa14a39-0dc0-42ac-57bb-0925005f4b56">Załóżmy, że istnieje podatek od słodzonych napojów gazowanych („opłata cukrowa") wprowadzony, aby ograniczyć problem otyłości. Jak obniżka takiego podatku wpłynie na podaż tych napojów oraz na cenę i ilość w równowadze? Czy możesz to pokazać na wykresie? Podpowiedź: Przyjmijmy, że podatek ten jest pobierany od sprzedawców.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp114117856" class="problems">
+      <title id="UUID349292c3-6d43-4647-657f-bf79ac862684">Problems</title>
+      <exercise id="fs-idp46249600">
+        <problem id="fs-idp123984768">
+          <para id="UUID52687033-4f0a-451a-7203-b901316c3c75"><link target-id="Table_03_06" id="UUID0a534e5b-b9c4-415b-5662-f64577d13405" /> pokazuje informacje o popycie i podaży rowerów, przy czym liczba rowerów podana jest w tysiącach sztuk, a cena rynkowa w złotych.</para>
+          <table summary="The table shows information on the demand and supply for bicycles, where the quantities of bicycles are measured in thousands. At $120 per bicycle, the quantity demanded is 50,000 and the quantity supplied is 36,000. At $150, the quantity demanded is 40,000 and the quantity supplied is 40,000. At $180, the quantity demanded is 32,000 and the quantity supplied is 48,000. At $210, the quantity demanded is 28,000 and the quantity supplied is 56,000. Finally, at $240, the quantity demanded is 24,000 and the quantity supplied is 70,000." id="Table_03_06"><tgroup id="UUID704d5026-np5z-6d69-9157938247171125" cols="3"><colspec id="UUID704d5026-ost4-7d69-9157938247171125" colnum="1" colname="col1" /><colspec id="UUID704d5026-voem-ed69-9157938247171125" colnum="2" colname="col2" /><colspec id="UUID704d5026-a346-3d69-9157938247171125" colnum="3" colname="col3" /><thead id="UUID704d5026-guhx-2d69-9157938247171125"><row id="UUID704d5026-oavl-6d69-9157938247171125"><entry id="UUID704d5026-zb91-dd69-9157938247171125">Cena (zł)</entry><entry id="UUID704d5026-gau2-hd69-9157938247171125">Popyt</entry><entry id="UUID704d5026-qwrl-dd69-9157938247171125">Podaż</entry></row></thead><tbody id="UUID704d5026-tbn2-hd69-9157938247171125"><row id="UUID704d5026-hiek-sd69-9157938247171125"><entry id="UUID704d5026-5mao-dd69-9157938247171125">1200</entry><entry id="UUID704d5026-y6m5-jd69-9157938247171125">50</entry><entry id="UUID704d5026-uhiy-4d69-9157938247171125">36</entry></row><row id="UUID704d5026-ddqg-4d69-9157938247171125"><entry id="UUID704d5026-f18d-4d69-9157938247171125">1500</entry><entry id="UUID704d5026-90jf-4d69-9157938247171125">40</entry><entry id="UUID704d5026-0dds-4d69-9157938247171125">40</entry></row><row id="UUID704d5026-8s0k-4d69-9157938247171125"><entry id="UUID704d5026-np5z-xju6-9157938247171125">1800</entry><entry id="UUID704d5026-ost4-nk8w-9157938247171125">32</entry><entry id="UUID704d5026-voem-31zt-9157938247171125">48</entry></row><row id="UUID704d5026-a346-3f58-9157938247171125"><entry id="UUID704d5026-guhx-zo1o-9157938247171125">2100</entry><entry id="UUID704d5026-oavl-dqnz-9157938247171125">28</entry><entry id="UUID704d5026-zb91-gl2f-9157938247171125">56</entry></row><row id="UUID704d5026-gau2-kj2w-9157938247171125"><entry id="UUID704d5026-qwrl-fr16-9157938247171125">2400</entry><entry id="UUID704d5026-tbn2-x8fg-9157938247171125">24</entry><entry id="UUID704d5026-hiek-tc1o-9157938247171125">70</entry></row></tbody></tgroup><caption id="UUID7515e592-47cc-4a97-6c51-46694be899d3" /></table>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp40001392">
+            <item id="UUIDa1159dc6-6c36-4bc0-4b21-80b9c71754c1">
+              <para id="UUIDbc352086-cfa0-4b00-686f-2035caa7ae41">Jakie jest zapotrzebowanie i liczba jednośladów oferowanych w cenie 2100 zł?</para>
+            </item>
+            <item id="UUIDf2c3c56a-b99f-4112-68ff-23dbb6054bc9">
+              <para id="UUIDf237e66f-1e41-45e1-4654-3621ef6eb429">Przy jakiej cenie liczba zaoferowanych do sprzedaży rowerów wynosi 48 tys.?</para>
+            </item>
+            <item id="UUID3e733325-cb4e-4720-572c-17a337f8dbfa">
+              <para id="UUID9ab7805a-1e8b-433b-5c52-4dc52dc8f9da">Narysuj krzywe podaży i popytu na rowery. Czy możesz określić cenę i ilość równowagi na podstawie tego wykresu? Jak możesz określić cenę i ilość równowagi na podstawie powyższej tabeli? Ile wynosi ilość i cena równowagi?</para>
+            </item>
+            <item id="UUID2cb55cad-990e-4379-7649-3aa77506e6cf">
+              <para id="UUID3225841d-9847-4285-7e72-8fe3a7650a83">Gdyby cena była równa 1200 zł, to jaka byłaby liczba rowerów zaoferowana do sprzedaży i jakie byłoby zapotrzebowanie na rowery? Czy pojawi się wówczas nadwyżka podaży lub nadwyżka popytu? Jeśli tak, to jakiej wielkości?</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp2104288">
+        <problem id="fs-idm170032736">
+          <para id="UUIDafaf0e04-c56d-4167-4897-f5d750687852">Na rynku komputerów w ostatnich latach cena, po której sprzedawano ten produkt, znacznie spadła. Jakie zmiany popytu i podaży mogą wyjaśnić ten efekt? Naszkicuj krzywe i przedstaw swoje uzasadnienie.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm74080960">
+            <item id="UUIDd16e928d-5e42-4003-598a-bde1179d5514">
+              <para id="UUID670e2456-45c0-42ce-4642-c92090468d95">Zwiększenie popytu</para>
+            </item>
+            <item id="UUID6a4fa33c-a3f4-467a-5f62-ecce6996cbe6">
+              <para id="UUIDb2932198-921b-429b-40a5-5745291b1617">Spadek popytu</para>
+            </item>
+            <item id="UUIDa5486c70-c131-4957-7a57-723362a2fe0e">
+              <para id="UUID24012467-c3a7-4b56-68fe-087ebf4d9bdf">Wzrost podaży</para>
+            </item>
+            <item id="UUIDa58fca48-7338-4ab1-6e68-4b690b2d6d32">
+              <para id="UUID7446005a-fa39-42e9-4bac-cf5eb54d1b33">Spadek podaży</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm150285264" class="references">
+      <title id="UUID5e487be2-32dd-4724-4b84-91de8223cdfc">References</title>
+      <para id="fs-idm130580592">Landsburg, Steven E. <emphasis effect="italics">The Armchair Economist: Economics and Everyday Life</emphasis>. New York: The Free Press. 2012. specifically Section IV: How Markets Work.</para>
+      <para id="eip-237">National Chicken Council. 2015. "Per Capita Consumption of Poultry and Livestock, 1965 to Estimated 2015, in Pounds." Accessed April 13, 2015. https://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/.</para>
+      <para id="fs-idm110814192">Wessel, David. “Saudi Arabia Fears $40-a-Barrel Oil, Too.” <emphasis effect="italics">The Wall Street Journal</emphasis>. May 27, 2004, p. 42. https://online.wsj.com/news/articles/SB108561000087822300.</para>
+    </section>
+  </content>
+  <glossary id="UUID6994664f-d621-4bc5-43e0-5b5892a51b15">
+    <definition id="fs-idp405664">
+      <term id="UUID09d09853-3789-4243-7edb-13b0fe9d083e"><foreign xml:lang="la" id="UUID49999903-a00e-4644-5a2a-a852fedc51a8">ceteris paribus</foreign> (łac.)</term>
+      <meaning id="fs-idp406672">
+        <para id="UUID3d244d54-2a65-4e93-5074-e45ecc7a310e">założenie, zgodnie z którym wszystkie czynniki inne niż rozpatrywany są stałe</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp407184">
+      <term id="UUID2c63fc93-b1d6-4e2a-72cc-15d24a072fea">dobra komplementarne (ang. <foreign xml:lang="en" id="UUIDf1c6d6ae-16d4-4f47-55cf-8fd3caaf13bb">complementary good</foreign>)</term>
+      <meaning id="fs-idp407824">
+        <para id="UUID5a58f45e-22e7-437f-715c-43abe96327f0">dobra, które są używane razem, ponieważ konsumpcja jednego z nich zwiększa korzyści z konsumpcji (użyteczność) drugiego</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp408464">
+      <term id="UUIDe8094e6d-3db4-4c72-56ac-f9ab9ea652c9">czynniki produkcji (ang. <foreign xml:lang="en" id="UUID76e61e1d-25c2-48c3-6b4c-ce5fc7cf8a4c">factors of production</foreign>)</term>
+      <meaning id="fs-idp409104">
+        <para id="UUID90877df6-ac9c-4fae-5cc7-0cd3ba51442a">zasoby, takie jak praca, kapitał finansowy, surowce i urządzenia (kapitał rzeczowy), które są używane do produkcji dóbr i usług; nazywane także nakładami</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp409744">
+      <term id="UUID2b825c09-2341-4c98-650f-ed1336885394">dobro niższego rzędu (ang. <foreign xml:lang="en" id="UUIDaab35076-6f0e-4a5e-629f-f06ae78cf909">inferior good</foreign>)</term>
+      <meaning id="fs-idp410384">
+        <para id="UUIDad2c8e58-a467-456d-5de7-f28e461eeecd">dobro, na które popyt (zapotrzebowanie) spada wraz ze wzrostem dochodu i rośnie wtedy, gdy dochód spada</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp411024">
+      <term id="UUID3f62eb3d-638a-4b36-4fc2-d380c481aa1b">nakłady (ang. <foreign xml:lang="en" id="UUIDcdfc45bc-c643-49b9-6201-6adb2e138693">inputs</foreign>)</term>
+      <meaning id="fs-idp411664">
+        <para id="UUIDe504f1f8-46b8-4f5c-7840-fb04c793e202">zasoby, takie jak praca, kapitał finansowy, surowce i urządzenia (kapitał rzeczowy), które są używane do produkcji dóbr i usług; nazywane także czynnikami produkcji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp412320">
+      <term id="UUID05aeb790-29ca-4b40-6fdd-deb16c5a7fb6">dobro normalne (ang. <foreign xml:lang="en" id="UUIDe198c98e-3576-453f-541b-ce699196ac26">normal good</foreign>)</term>
+      <meaning id="fs-idp412960">
+        <para id="UUIDa14f4266-3e87-4e24-761c-4ec40f0374ad">dobro, na które zapotrzebowanie rośnie wraz ze wzrostem dochodu oraz spada wraz ze zmniejszaniem się dochodu</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp413600">
+      <term id="UUIDd65b78c2-b90b-44da-4bea-21bfd9f4b745">zmiana popytu, przesunięcie krzywej popytu (ang. <foreign xml:lang="en" id="UUID38e84a1d-e544-4ae7-7c6a-491fb7fb8605">shift in demand</foreign>)</term>
+      <meaning id="fs-idp414240">
+        <para id="UUID5a41dc32-9f53-4018-49ec-1ffc5231de04">następuje wówczas, gdy zmiana czynników ekonomicznych determinujących wielkość popytu (innych niż cena rynkowa) powoduje, że zapotrzebowanie na dane dobro zmienia się przy każdym poziomie ceny rynkowej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp414880">
+      <term id="UUID56a3624d-31b0-40b3-42fa-649ddaf6fdb5">zmiana podaży, przesunięcie krzywej podaży (ang. <foreign xml:lang="en" id="UUIDd64a15ce-add4-460e-7cf6-429dbe5b08bd">shift in supply</foreign>)</term>
+      <meaning id="fs-idp415520">
+        <para id="UUID613b7085-fe22-4885-6dd5-12d28522dfe1">następuje wówczas, gdy zmiana czynników ekonomicznych determinujących wielkość podaży (innych niż cena rynkowa) powoduje, że oferowana przy każdym poziomie ceny rynkowej ilość tego dobra się zmienia</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp416160">
+      <term id="UUID9655e69c-2b27-4569-474d-2cc5133d5353">dobro substytucyjne (ang. <foreign xml:lang="en" id="UUIDf2560564-6bab-4f70-5933-ca96bcb50248">substitute good</foreign>)</term>
+      <meaning id="fs-idp416800">
+        <para id="UUID6ba5b80f-1fe7-497c-7bd0-4121760fc782">dobro, które zaspokaja tę samą lub zbliżoną potrzebę co inne dobro, dzięki czemu można je wykorzystać jako zamiennik konkretnego produktu, stąd większa konsumpcja jednego z nich oznacza mniejszą konsumpcję drugiego</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

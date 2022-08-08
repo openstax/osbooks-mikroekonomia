@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uf69156ea-fce4-4bd4-a4a1-937101895afc" id="Uf69156ea-fce4-4bd4-a4a1-937101895afc" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00022</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:54.612979682+00:00</md:version>
+    <md:created>2022-08-08T07:43:54.612979682+00:00</md:created>
+    <md:revised>2022-08-08T07:43:54.612979682+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>f69156ea-fce4-4bd4-a4a1-937101895afc</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="fs-idp40261328" class="splash">
+      <title id="UUID4eb5c7df-ed5b-4825-7ffb-f950260b6504">Wybory inwestycyjne</title>
+      <media alt="Zdjęcie przedstawia zgromadzenie studentów na świeżym powietrzu podczas ceremonii ukończenia college&apos;u (wręczenia dyplomów)." id="fs-idp49277264">
+        <image src="../../media//CNX_Econ_C06_000.jpg" mime-type="image/jpeg" id="UUIDc9c7c4f5-1701-416f-6e44-71ffeac64e19" />
+      </media>
+      <caption id="UUID5b865cb0-5f62-405b-49f8-072ec3bb759f">Na ogół decyzję o kontynuowaniu nauki na poziomie uniwersyteckim postrzegamy jako dobrą inwestycję, oczywiście jeśli możemy sobie na to pozwolić finansowo. Dzieje się tak niezależnie od kondycji, w jakiej znajduje się gospodarka naszego kraju. (Źródło: modyfikacja pracy Jasona Bache/Flickr Creative Commons)</caption>
+    </figure>
+    <note type="note" id="fs-idp8512832" class="bringhome economics">
+      <title id="UUIDd28f3780-83cc-4102-707f-33db0b8dc536">Entliczek, pentliczek, czerwony stoliczek...</title>
+      <para id="fs-idp3361104">Globalny kryzys ekonomiczny, który w latach 2008–2012 dotknął większość gospodarek i nie bez kozery został nazywany największym po Wielkiej Depresji z lat 30. ubiegłego stulecia, wpłynął na dochody gospodarstw domowych na całym świecie. W wielu państwach liczba bezrobotnych gwałtownie wzrosła. Co prawda w krajach rozwiniętych system zabezpieczenia społecznego dzięki zasiłkom i transferom z budżetu gwarantował utrzymanie pewnego minimalnego standardu życia, ale rodziny nadal odnotowywały wyraźny spadek dochodu rozporządzalnego i musiały podejmować trudne decyzje dotyczące struktury i wielkości wydatków. Oczywiście w pierwszej kolejności redukowano wydatki najmniej istotne i te, które pozwalały zaspokoić mniej ważne potrzeby.</para>
+      <para id="fs-idp3361488">Mimo tych uwarunkowań istniała jedna, szczególna kategoria wydatków, która odchyliła się od tego trendu, przejawiając w tym czasie powszechny wzrost na całym świecie – np. w USA było to aż 18%. Można byłoby podejrzewać, że chodzi tu o wzrost wydatków na żywność, gdyż drastyczny spadek dochodów z pewnością zredukował popyt na „jedzenie na mieście”, co oznaczałoby, że większe sumy zostaną przeznaczone na zakupy produktów w sklepach spożywczych, do późniejszego przyrządzenia dań w domu. Jednak przeprowadzona przez amerykański urząd statystyczny (<foreign xml:lang="en" id="UUID5cbb339b-7271-4f05-6821-bf838d1a9e3f">Bureau of Labor Statistics</foreign>) analiza wydatków na żywność w USA wykazała, że „rzeczywiste całkowite wydatki na żywność w amerykańskich gospodarstwach domowych w latach 2006–2009 spadły o 5%”. Czyli nie były to artykuły spożywcze. Jakiego zatem dobra (lub usługi) ludzie na całym świecie w czasie kryzysu pragnęli znacznie bardziej niż przed nim? A co ważniejsze – dlaczego? (Cierpliwości, dowiesz się tego na końcu rozdziału).</para>
+      <para id="fs-idm95376">To pytanie prowadzi nas do głównego tematu niniejszego rozdziału – analizy tego, jak konsumenci RZECZYWIŚCIE dokonują wyborów. Jest to proces znacznie bardziej skomplikowany niż nieracjonalne zastosowanie dziecięcej wyliczanki: „entliczek, pentliczek, czerwony stoliczek...”.</para>
+    </note>
+    <note type="note" id="fs-idm9283792" class="chapter-objectives economics">
+      <title id="UUID029ff26b-4c41-4e74-6b94-e89ea43a7739">Wprowadzenie do rozdziału</title>
+      <para id="fs-idp94928512">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idp105684144">
+        <item id="UUID67aad96d-5a19-4d8a-6080-1ca38e64792d">
+          <para id="UUIDffce5d6c-a99c-4701-4822-74bcc2c30421">Jak ekonomiści objaśniają wybory dokonywane przez konsumentów</para>
+        </item>
+        <item id="UUIDcf9908ad-35eb-4006-745a-4780771a4f16">
+          <para id="UUID185cd973-19d8-4a2e-53fa-373a401b3550">W jaki sposób zmiany dochodu i cen dóbr wpływają na wybory konsumentów</para>
+        </item>
+        <item id="UUID40509cd6-041e-4d84-46b1-8a8b03e8b3dc">
+          <para id="UUID6fa7622d-3fa3-4fe8-7082-c18237dd3df8">Dlaczego wybory konsumentów nie zawsze są racjonalne</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp41486096">Mikroekonomia koncentruje się na zrozumieniu sposobów postępowania poszczególnych podmiotów gospodarczych, takich jak ludzie i przedsiębiorstwa. Ekonomiści uważają, że możemy analizować decyzje jednostek, np. jakie dobra i usługi kupować, jako wybory, których dokonujemy w ramach pewnych ograniczeń budżetowych. Generalnie konsumenci chcą jak najlepiej wykorzystać swój ograniczony budżet. W kategoriach ekonomicznych starają się zmaksymalizować całkowitą użyteczność lub satysfakcję z konsumpcji, biorąc pod uwagę ograniczenia budżetowe.</para>
+    <para id="fs-idm51156384">Każdy ma swoje osobiste gusta i preferencje. Francuzi mawiają: <foreign xml:lang="fr" id="UUIDaab5696a-4c78-4b7d-571a-9be693aae2d6"><emphasis effect="italics">Chacun à son goût</emphasis></foreign>, czyli „Każdy według własnego gustu”. Z kolei stare łacińskie powiedzenie stwierdza: <foreign xml:lang="la" id="UUID13c0fdd5-b6fb-45d4-6b16-818782570244"><emphasis effect="italics">De gustibus non est disputandum</emphasis></foreign>, czyli „O gustach się nie dyskutuje”. Jeśli jednak ludzie opierają swoje decyzje konsumpcyjne na własnych gustach i preferencjach, to w jaki sposób ekonomiści mogą analizować dokonywane przez nich wybory?</para>
+    <para id="fs-idp114601056">Ekonomiczne wyjaśnienie tego, dlaczego ludzie dokonują tak różnych wyborów, zaczyna się od zaakceptowania obiegowej mądrości, zgodnie z którą gusty są kwestią osobistą. Jednak ekonomiści uważają również, że na dokonywane przez ludzi wybory wpływ mają ich dochody, ceny konsumowanych dóbr i usług oraz takie czynniki, jak np. miejsce zamieszkania. Niniejszy rozdział przedstawia ekonomiczną teorię opisującą sposób, w jaki konsumenci dokonują swoich wyborów przy ograniczonych dochodach.</para>
+    <para id="fs-idm56378112">Analiza przedstawiona w tym rozdziale będzie opierać się na koncepcji ograniczenia budżetowego, którą wprowadziliśmy w rozdziale <link document="m00007" id="UUIDabfa6263-b375-4d85-7905-473014110fcc">Introduction to Choice in a World of Scarcity</link>. Teraz pokażemy również, w jaki sposób – dzięki teorii ekonomii i narzędziom, które wypracowała – przewidzieć reakcje konsumentów na zmiany cen lub dochodów, do których dostosowują oni swoje wybory. Po przeczytaniu tego rozdziału zapoznaj się z dodatkiem <link document="m00064" id="UUIDa9958517-8beb-4b3b-6418-e56de299e1ff">Indifference Curves</link>, aby dowiedzieć się więcej o prezentowaniu wyborów konsumenta i osiąganego poziomu użyteczności za pomocą krzywych obojętności.</para>
+  </content>
+</document>

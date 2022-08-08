@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U98ba878a-f6ff-481a-b28c-0fc8aaebe3a8" id="U98ba878a-f6ff-481a-b28c-0fc8aaebe3a8" xml:lang="en" cnxml-version="0.7">
+  <title>Koszty całkowite i księgowe, zysk księgowy i zysk ekonomiczny</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00027</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Koszty całkowite i księgowe, zysk księgowy i zysk ekonomiczny</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:55.168688945+00:00</md:version>
+    <md:created>2022-08-08T07:43:55.168688945+00:00</md:created>
+    <md:revised>2022-08-08T07:43:55.168688945+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>98ba878a-f6ff-481a-b28c-0fc8aaebe3a8</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID131dc885-459e-4f94-5778-c074b5544de9" class="learning-objectives">
+      <para id="fs-idm21540240">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID2160f1fe-7527-47ad-6ca9-8a4ce54c21cd">
+        <item id="UUID9e4d2b1f-47a0-4f65-48bc-be43e4c519be">
+          <para id="UUID4a437bdd-ca3c-466c-493d-858d0d07ee43">Wskazać różnicę między kosztem księgowym a kosztem ekonomicznym</para>
+        </item>
+        <item id="UUID5c695636-c242-4798-64f2-9998f84e7980">
+          <para id="UUID53c2d188-fac5-4f3e-754f-3a78dcca6900">Zrozumieć relację utargu i kosztów</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID8e1f04e9-1773-4452-624d-6c972c49f297">Każde przedsiębiorstwo, niezależnie od swoich rozmiarów i rodzaju działalności, dąży do osiągnięcia zysku:</para>
+    <para id="UUIDc7d5537d-02c2-4989-5f5b-bc116c642af4">Zysk = Utarg całkowity – Koszty całkowite</para>
+    <para id="UUID5a2ef8fa-e405-417d-5d81-8459a60cce7f"><term cmlnle:reference="utarg całkowity" id="UUID6238388f-eee0-4680-7f84-e1126f80d641">Utarg całkowity</term> (ang. <foreign xml:lang="en" id="UUIDd76d676c-714f-486f-51e2-e24b5b747548"><term cmlnle:reference="total revenue" id="UUID8781a524-cabd-40a6-7ab5-bb1a59f0f7b3">total revenue</term></foreign>) lub inaczej <term id="UUID035c543e-79f4-4749-7dee-66cf1ae4000e">przychód</term> (<term id="UUID10ed1882-2d8d-47eb-5de8-0866b2e76847">przychód ze sprzedaży</term>) to środki, jakie przedsiębiorstwo uzyskuje ze sprzedaży wytwarzanych przez siebie produktów. Obliczamy go, mnożąc cenę produktu przez wolumen sprzedanej produkcji:</para>
+    <para id="UUID11c81688-2261-45d5-724c-e6f16270da22">Utarg całkowity = Cena × Ilość</para>
+    <para id="UUIDd944fcc5-7863-4f0d-6abe-a0ac8ac5fbc3">W kolejnych rozdziałach dowiedziemy, że przychody ze sprzedaży są funkcją popytu na produkty przedsiębiorstwa.</para>
+    <para id="UUIDf6057f04-2530-4fe2-7287-0101ad1184e8"><term cxlxt:index="default" cmlnle:reference="koszty całkowite" id="UUIDbf7cdb78-9939-41a4-7234-9d49bcc14d7d">Koszty całkowite</term> (ang. <foreign xml:lang="en" id="UUIDb9c126ba-db3d-4cdd-4467-36eab810e66b"><term cmlnle:reference="total cost" id="UUID8a1f8815-e007-403b-4bfb-27d2f2778d63">total costs</term></foreign>) to wszystkie wydatki, jakie przedsiębiorstwo ponosi, produkując i sprzedając wytwarzane dobra i usługi. Przypomnijmy, że proces produkcji to przekształcanie nakładów w gotowe do sprzedaży dobra i usługi (wyroby gotowe). Pozyskanie każdego z tych nakładów wiąże się dla przedsiębiorstwa z pewnym kosztem. Suma wszystkich kosztów stanowi koszt całkowity. W tym rozdziale pokażemy, że koszty ponoszone przez przedsiębiorstwa w krótkim okresie różnią się od tych ponoszonych w długim okresie.</para>
+    <para id="UUID94f7a613-448f-47fb-7994-367ff77eb894">Możemy rozróżnić dwa rodzaje kosztów: księgowe i ekonomiczne. <term cmlnle:reference="koszty bezpośrednie" id="UUID3f593675-7e58-4942-486e-115676e93a35">Koszty księgowe</term> (ang. <foreign xml:lang="en" id="UUIDba08b8fb-17a7-48fc-7d8d-64fe7292885a"><term id="UUIDeb0c3082-edb7-4d93-6367-4e896d576153">explicit costs</term></foreign>) to koszty, które, jak sama nazwa wskazuje, są możliwe do ujęcia w księgach rachunkowych. Najczęściej mają formę rzeczywistych płatności dokonywanych przez przedsiębiorstwa. Niekiedy jednak koszty księgowe nie wiążą się bezpośrednio z żadnym wydatkiem. Takim kosztem jest <term cmlnle:reference="amortyzacja" id="UUID27f7d3b5-15fa-4cf4-603b-d517474a48dd">amortyzacja</term> (ang. <foreign xml:lang="en" id="UUID001209dc-09c6-416f-46c8-3456120ce9e3"><term cmlnle:reference="amortisation" id="UUIDa9db0f08-d5ed-4106-7047-49317efc83b4">amortisation</term></foreign>), czyli odpis związany z wykorzystaniem maszyny lub innego składnika kapitału rzeczowego, który jest użytkowany przez więcej niż jeden cykl produkcyjny. Najczęściej firmy dokonują pełnej płatności za taką maszynę przy jej zakupie, ale jako koszt traktują tylko część ceny. Koszt ten, czyli właśnie amortyzacja, będzie wpisywany w księgi rachunkowe przez cały okres, w którym dana maszyna jest eksploatowana, choć nie będzie już za sobą pociągał żadnego wydatku (ten opis jest oczywiście uproszczony, ale z uwagi na to, że niniejszy podręcznik traktuje o ekonomii, a nie o rachunkowości, możemy sobie na to pozwolić). Kosztami księgowymi są pensje wypłacane pracownikom lub czynsz za wynajęcie biura. <term cmlnle:reference="koszty pośrednie" id="UUIDb122d9f6-9dac-473e-60ca-0ab3b88209e9">Koszty ekonomiczne</term> (ang. <foreign xml:lang="en" id="UUID9949216e-34d0-46e0-59ca-a6163c5401e2"><term cmlnle:reference="implicit cost" id="UUID3c9578c8-4fec-4ccf-4eb0-10c5d1e7fd90">implicit costs</term></foreign>) są natomiast sumą kosztów księgowych oraz kosztów alternatywnych zasobów posiadanych i wykorzystywanych przez przedsiębiorstwo. W przypadku małych przedsiębiorstw zwykle są to zasoby wniesione przez właścicieli. Wartość pracy właściciela firmy, który nie pobiera za to wynagrodzenia, lub potencjalny dochód, jaki wiązałby się z wynajęciem części posiadanej przez tegoż właściciela i wykorzystywanej na działalność gospodarczą nieruchomości, to przykłady kosztów ekonomicznych.</para>
+    <para id="UUIDea8a6b1f-370c-4290-5a44-aeb37d5925b8">Te dwie definicje kosztu są ważne dla rozróżnienia dwóch koncepcji zysku: zysku księgowego i zysku ekonomicznego. <term cmlnle:reference="zysk księgowy" id="UUID9d66bd0f-1a39-454e-58e4-e47efa3a279b">Zysk księgowy</term> (ang. <foreign xml:lang="en" id="UUIDa1b97d68-d455-4a19-5163-54235c7463f7"><term cmlnle:reference="accounting profit" id="UUID34ff1d4e-f5ba-4784-75f6-4712d9c3110e">accounting profit</term></foreign>) wyraża podejście oparte wyłącznie na kosztach księgowych. Obliczany jest jako różnica między utargiem całkowitym a kosztem księgowym. Natomiast <term cmlnle:reference="zysk ekonomiczny" id="UUID3056e88a-f92a-4091-6a1a-274c432d09aa">zysk ekonomiczny</term> (ang. <foreign xml:lang="en" id="UUID5ee3cc93-7873-4124-66f7-4c22179f415e"><term cmlnle:reference="economic profit" id="UUID3d652a09-bc5d-4828-7e91-7e25fe6093dc">economic profit</term></foreign>) to utarg całkowity pomniejszony o koszty ekonomiczne, czyli zarówno o koszty księgowe, jak i koszty alternatywne wykorzystywanych zasobów. Różnica jest o tyle istotna, że nawet jeśli przedsiębiorstwo płaci podatek dochodowy od zysku księgowego (zysku brutto), wcale nie oznacza to, że notuje zyski ekonomiczne. A właśnie ta kategoria decyduje o sukcesie przedsiębiorstwa.</para>
+    <note type="note" id="fs-idp6233616" class="economics workout">
+      <title id="UUIDbca98946-1846-4d8c-7141-dd61cf1d0353">Obliczanie wartości kosztów oraz zysków księgowych i ekonomicznych</title>
+      <para id="UUID1fc853cd-041d-491a-6b04-4aab983d049f">Przeanalizujmy następujący przykład. Fryderyk obecnie pracuje w dużej kancelarii prawniczej. Rozważa jednak otwarcie w swoim rodzinnym, średniej wielkości mieście własnej firmy, w której – po rozkręceniu działalności – spodziewa się zarabiać 200 tys. zł rocznie. Aby prowadzić własną działalność gospodarczą, potrzebuje siedziby i jeszcze jednego pracownika wykonującego proste prace biurowe na pół etatu. Znalazł idealne biuro, które może wynająć za 50 tys. zł rocznie. Może też zatrudnić pracownika za 35 tys. zł rocznie. Jeśli te wielkości są dobrze oszacowane, to czy praktyka prawnicza Fryderyka będzie opłacalna?</para>
+      <para id="fs-idm21312000">Krok 1. Najpierw musisz obliczyć koszty. Mając już wiedzę o kosztach księgowych, możesz je zsumować:</para>
+      <equation id="UUID2d8b6ee8-9bc7-4c33-5e60-19b10c454dda" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnalign="left center"><mtr><mtd><mtext>Wynajęcie biura</mtext><mo>:</mo></mtd><mtd><mtext>50 000 zł</mtext></mtd></mtr><mtr><mtd><mtext>Wynagrodzenie pracownika</mtext><mo>:</mo></mtd><mtd><munder><mtext>+35 000 zł</mtext><mtext>____________</mtext></munder></mtd></mtr><mtr><mtd><mtext>Całkowite koszty księgowe</mtext><mo>:</mo></mtd><mtd><mtext>85 000 zł</mtext></mtd></mtr></mtable></math></equation>
+      <para id="fs-idp46012880">Krok 2. Odjęcie kosztów księgowych od przychodów całkowitych pozwala obliczyć zysk księgowy.</para>
+      <equation id="UUIDdf2eabaa-70ba-4aaf-5446-f76cf0da4c7f" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnalign="left center"><mtr><mtd><mtext>Przychody całkowite</mtext><mo>:</mo></mtd><mtd><mtext>200 000 zł</mtext></mtd></mtr><mtr><mtd><mtext>Całkowite koszty księgowe</mtext><mo>:</mo></mtd><mtd><munder><mtext>–85 000 zł</mtext><mtext>____________</mtext></munder></mtd></mtr><mtr><mtd><mtext>Zysk księgowy</mtext><mo>:</mo></mtd><mtd><mtext>115 000 zł</mtext></mtd></mtr></mtable></math></equation>
+      <para id="UUID8400f490-794d-465f-6d33-e459e2bf873e">Obliczenia te uwzględniają jednak tylko koszty księgowe. Aby otworzyć własną praktykę, Fryderyk musiałby porzucić obecną pracę, w której zarabia rocznie 125 tys. zł. Jest to koszt alternatywny jego pracy, jaką wykonywałby jako właściciel firmy prawniczej.</para>
+      <para id="fs-idm73628736">Krok 3. Aby określić zysk ekonomiczny, musisz od przychodów odjąć zarówno koszty księgowe, jak i alternatywne:</para>
+      <equation id="UUID0e81477a-cb56-4fb9-410d-92ba44e8e912" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Zysk ekonomiczny</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>przychody całkowite – koszty księgowe – koszty ekonomiczne</mtext></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mtext>200 000 zł – 85 000 zł – 125 000 zł</mtext></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mtext>–10 000 zł rocznie</mtext></mtd></mtr></mtable></math></equation>
+      <para id="UUID993a58f4-84a4-4a31-7b90-80c8baafe624">Na prowadzeniu własnej firmy Fryderyk traciłby 10 tys. zł rocznie. Nie oznacza to, że z pewnością jej nie otworzy (w końcu może mu bardzo zależeć na tym, żeby zostać swoim własnym szefem), ale jeśli się na to zdecyduje, zarobi o 10 tys. zł mniej, niż utrzymując posadę w dużej kancelarii.</para>
+      <para id="UUIDf88b10f8-aad6-477e-4e6c-dc4b62488300">Koszty ekonomiczne mogą obejmować również inne kategorie. Być może Fryderyk ceni sobie wolny czas, a założenie własnego przedsiębiorstwa wymagałoby od niego poświęcenia na pracę większej liczby godzin niż w korporacji prawniczej. W tym przypadku utracony czas wolny byłby również kosztem alternatywnym pomniejszającym zysk ekonomiczny.</para>
+    </note>
+    <para id="UUIDc81a4d70-ddb3-4966-76e6-0e9c5273792a">Teraz, gdy zapoznaliśmy się z podziałem kosztów na dwie zasadnicze kategorie, przyjrzyjmy się ich strukturze. Może się ona różnić w zależności od tego, czy analizujemy sytuację przedsiębiorstwa w długim, czy w krótkim okresie. Rozróżnienie to będzie przedmiotem naszych rozważań w kolejnych podrozdziałach.</para>
+    <section id="fs-idp27288672" class="summary">
+      <title id="UUID2c11369f-8327-4147-4751-f01bf055592f">Key Concepts and Summary</title>
+      <para id="UUIDb3813d17-e5ed-4d28-5ad7-1b99cd8bab84">Przedsiębiorstwa prywatne są nastawione na osiąganie zysków. Zysk to różnica między utargiem (przychodami) a kosztami. Zysk księgowy wynika tylko z kosztów księgowych, zaś zysk ekonomiczny uwzględnia również koszty alternatywne wykorzystywanych zasobów (w tym pracy własnej właścicieli), czyli koszty ekonomiczne.</para>
+    </section>
+    <section id="fs-idm28930832" class="self-check-questions">
+      <title id="UUID9c4dc5c3-97ba-4551-48bc-37d1bbc11577">Self-Check Questions</title>
+      <exercise id="fs-idm18450688">
+        <problem id="fs-idp730512">
+          <para id="fs-idm64765376">Przedsiębiorstwo osiągnęło przychody ze sprzedaży w wysokości 1 mln zł. Na wynagrodzenia wydało 6oo tys. zł., 150 tys. zł to koszty kapitałowe, a 200 tys. zł – wydatki na zakup materiałów. Jaki był zysk księgowy tego przedsiębiorstwa?</para>
+        </problem>
+        <solution id="fs-idm37741456">
+          <para id="fs-idp11284528">Zysk księgowy = utarg całkowity minus koszty księgowe = 1 000 000 – (600 000 + 150 000 + 200 000) = 50 000 [zł].</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp12466368">
+        <problem id="fs-idm33925456">
+          <para id="fs-idm31452496">Kontynuując rozważania na temat przedsiębiorstwa przedstawionego w <link target-id="fs-idm18450688" document="" cmlnle:case="locative" id="UUIDfd21eadf-f8b3-4d75-6c50-ab3fc57f250a" />, przyjmijmy, że zakład należący do tego przedsiębiorstwa znajduje się na ziemi, która jest jego własnością. Można byłoby ją wydzierżawić za 30 tys. zł rocznie. Jaki zatem był zysk ekonomiczny tego przedsiębiorstwa?</para>
+        </problem>
+        <solution id="fs-idm14827104">
+          <para id="fs-idm2473280">Zysk ekonomiczny = zysk księgowy minus koszty ekonomiczne = 50 000 – 30 000 = 20 000 [zł].</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm46210816" class="review-questions">
+      <title id="UUID06ac35a9-1028-479c-78b2-b6c9ba933bba">Review Questions</title>
+      <exercise id="fs-idm30960832">
+        <problem id="fs-idp20874144">
+          <para id="fs-idp34612160">Czym różnią się koszty księgowe od kosztów ekonomicznych?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm5313344">
+        <problem id="fs-idm10444752">
+          <para id="fs-idp1066896">Jak myślisz, czy spłata odsetek od pożyczki udzielonej przedsiębiorstwu jest kosztem księgowym, czy kosztem ekonomicznym?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm769280">
+        <problem id="fs-idp8705200">
+          <para id="fs-idp21876496">Jaka jest różnica między zyskiem księgowym a zyskiem ekonomicznym?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm38754320" class="critical-thinking">
+      <title id="UUID69b8ba90-5a90-48f7-4c46-ebde27e6805c">Critical Thinking Questions</title>
+      <exercise id="fs-idp67302192">
+        <problem id="fs-idp51187328">
+          <para id="fs-idp33914720">Małe przedsiębiorstwa „U sąsiada”, takie jak sklepy spożywcze w centrach miast, czasami istnieją, mimo że nie osiągają zysków ekonomicznych. Jak możesz to wyjaśnić?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp239408" class="problems">
+      <title id="UUIDd6ad08f8-1d0a-4bfe-412a-8f46e67d945c">Problems</title>
+      <exercise id="fs-idp42899008">
+        <problem id="fs-idp74570352">
+          <para id="UUID3b19fbed-c760-44e6-417e-404b336514fb">Przedsiębiorstwo rozważa inwestycję, która przyniesie 6% zwrotu w stosunku rocznym. Gdyby zaciągnęło pożyczkę na jej sfinansowanie, musiałby od niej zapłacić 8% odsetek rocznie, ale obecnie ma gotówkę, więc nie będzie musiało pożyczać kapitału. Czy ów podmiot gospodarczy powinien dokonać tej inwestycji? Posłuż się obliczeniami. Wskazówka: Czy to zadanie da się rozwiązać, jeśli nie wiemy, jaką roczną stopę zwrotu firma może osiągnąć dzięki zainwestowaniu posiadanej gotówki?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm17763872" class="references">
+      <title id="UUID01c5d579-047b-49e4-6411-d1783b3a556b">References</title>
+      <para id="fs-idp48815200">2010 U.S. Census. www.census.gov.</para>
+    </section>
+  </content>
+  <glossary id="UUIDf7806a01-9402-4e34-6f0d-6b50eba5d2f7">
+    <definition id="fs-idp47083712">
+      <term id="UUIDc5c1d46b-ffd8-4cf0-5b63-6ce51aef1606">zysk księgowy (ang. <foreign xml:lang="en" id="UUID9ccc9ad5-e577-4d63-5e22-b515b6913320">accounting profit</foreign>)</term>
+      <meaning id="fs-idm27437232">
+        <para id="UUIDd9bbee38-ad59-451b-53bd-8ae11b96323e">utarg całkowity pomniejszony o koszty księgowe</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp43822992">
+      <term id="UUIDc617b358-dc9c-4874-4fa8-efd1e0620363">zysk ekonomiczny (ang. <foreign xml:lang="en" id="UUIDab34180c-ec98-4a7c-6085-e9eb7489ce74">economic profit</foreign>)</term>
+      <meaning id="fs-idp14606240">
+        <para id="UUID00b520f7-61b0-425b-5bef-b748a734f05b">utarg całkowity pomniejszony o koszty ekonomiczne, koszty księgowe i koszty alternatywne wykorzystywanych zasobów)</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm12310608">
+      <term id="UUID47b8f71c-f60e-489e-7f22-eb55ca6f305e">koszty księgowe (ang. <foreign xml:lang="en" id="UUID4c085f7e-2bd5-4bea-5a12-d7210e04a7b0">explicit costs</foreign>)</term>
+      <meaning id="fs-idm37283888">
+        <para id="UUIDb04c0f94-17b9-4ab5-6d4f-9066d718df14">koszty, które można zapisać w księgach rachunkowych, np. płatności dokonywane przez przedsiębiorstwo na wynagrodzenia personelu, czynsz, zakupy materiałów i surowców itd.</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp34356896">
+      <term id="UUIDdee7fc45-90b7-442e-5a85-81d2014bdde2">przedsiębiorstwo (ang. <foreign xml:lang="en" id="UUID669faed2-0d10-44d9-4e70-b749a5a15c27">firm</foreign>)</term>
+      <meaning id="fs-idm42325936">
+        <para id="UUID29bab5a7-d8e8-4237-5d91-82550c9ead5d">wydzielona prawnie jednostka organizacyjna, która łączy nakłady pracy, kapitału, ziemi, surowców i półproduktów, aby wyprodukować dobra i usługi</para>
+      </meaning>
+    </definition>
+    <definition id="UUID8aae4976-f4a3-44fb-6166-5d8c25cbeed6">
+      <term id="UUIDde040e83-5efd-4126-75eb-d3f63d2b65e3">koszty ekonomiczne (ang. <foreign xml:lang="en" id="UUIDa4053515-b914-4771-6d3a-08a0195c0cbc">economic costs</foreign>)</term>
+      <meaning id="fs-idp42749744">
+        <para id="UUID3aaa9472-2816-4042-5091-e1303230dc00">suma kosztów księgowych i kosztów alternatywnych zasobów wykorzystywanych przez przedsiębiorstwo w działalności gospodarczej, np. zarobków utraconych przez właściciela firmy, który świadczy na jej korzyść nieodpłatną pracę</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm80052912">
+      <term id="UUIDe9800842-1ccb-4bbe-6af0-2183a035c170">przedsiębiorstwo prywatne (ang. <foreign xml:lang="en" id="UUIDcbdd57dc-ed48-480e-5bcd-e612a89e5b41">private firm</foreign>)</term>
+      <meaning id="fs-idp13338576">
+        <para id="UUID21cad21b-e88e-4aa2-54e0-f387c5610110">sytuacja, w której podmioty prywatne są właścicielami całego przedsiębiorstwa lub większości jego akcji lub udziałów</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm40196320">
+      <term id="UUID994bc4e6-1b6a-44b7-7d0b-5827b4c3426a">produkcja (ang. <foreign xml:lang="en" id="UUIDb2ff5c5e-ef93-49cd-7b98-72ed39d0defa">production</foreign>)</term>
+      <meaning id="fs-idm42331312">
+        <para id="UUID8b4f1331-d955-4671-67ca-a4b23b70d922">proces łączenia nakładów w taki sposób, aby wyprodukować dobra i usługi, które następnie zostaną zaoferowane do sprzedaży na rynku, wartość produktów powinna być wyższa niż suma wartość nakładów i kosztów procesu produkcyjnego</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm19677984">
+      <term id="UUID9e53baad-a166-4efd-46f6-faa86efc86c3">utarg (przychody ze sprzedaży) (ang. <foreign xml:lang="en" id="UUID2db3a92a-003f-4ee1-540f-d0cc73cfce42">total revenue</foreign>)</term>
+      <meaning id="fs-idp6970304">
+        <para id="UUIDdab8df4f-cb44-4c04-6229-b87687216504">środki, jakie przedsiębiorstwo uzyskuje ze sprzedaży wytworzonych dóbr i usług; definiowane jako iloczyn ceny oraz wolumenu produkcji (sprzedaży)</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

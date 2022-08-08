@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U5c7ac98e-edf3-4e9b-a16c-0ea5a5b71c5c" id="U5c7ac98e-edf3-4e9b-a16c-0ea5a5b71c5c" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00040</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:56.928409095+00:00</md:version>
+    <md:created>2022-08-08T07:43:56.928409095+00:00</md:created>
+    <md:revised>2022-08-08T07:43:56.928409095+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>5c7ac98e-edf3-4e9b-a16c-0ea5a5b71c5c</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="CNX_Econ_C10_000" class="splash">
+      <title id="UUID7886e51e-7e00-468b-5026-a02aa6bac7f5">Konkurujące marki</title>
+      <media alt="Zdjęcie przedstawia stojące na półce sklepowej butelki z płynem do prania. Obraz butelek detergentu do prania na półce sklepowej." id="fs-idp71080416">
+        <image src="../../media//CNX_Econ_C10_P000.jpg" mime-type="image/jpeg" id="UUIDe7071439-3de5-492b-740e-3b7312e56334" />
+      </media>
+      <caption id="UUID8f04d763-1b1f-4ca2-6eae-fd355bc59d6a">Rynek płynów do prania nie jest doskonale konkurencyjny, ale nie jest też zmonopolizowany. (Źródło: modyfikacja pracy autorstwa Pixel Drip/Flickr Creative Commons)</caption>
+    </figure>
+    <note type="note" id="fs-idm95913504" class="bringhome economics">
+      <title id="UUID2c558858-1101-41fb-505d-a3a1065582eb">Pokusa, aby przeciwstawić się prawu</title>
+      <para id="fs-idp14805632">Płyny do prania i lód do napojów to produkty, które wydają się dość przyziemne, a może nawet nudne. Tak samo postrzegane są rynki, na których sprzedaje się i kupuje te dobra. W rzeczywistości wcale nudne nie są! Na obu tych rynkach doszło do sekretnych spotkań i tajnych porozumień godnych szpiegowskiej opowieści. We Francji w latach 1997–2004 czterech największych producentów płynów do prania (<foreign xml:lang="en" id="UUIDb6aa7430-506a-434c-79ba-a6f7dda0d2bf">Procter &amp; Gamble</foreign>, <foreign xml:lang="de" id="UUID1ef85f12-75e1-41ea-7f84-554abc3a07e7">Henkel</foreign>, <foreign xml:lang="en" id="UUIDf679e220-28e7-4012-592f-6e22a9ba0cd8">Unilever</foreign> i <foreign xml:lang="en" id="UUID6a17d755-ffd8-4b47-643d-1a4e55d785f7">Colgate-Palmolive</foreign>) kontrolowało ok. 90% rynku tych produktów. Pracownicy wspomnianych firm spotykali się potajemnie w ustronnych paryskich kawiarniach, by wyeliminować konkurencję i zagwarantować poziom cen satysfakcjonujący wszystkich wtajemniczonych.</para>
+      <para id="fs-idm81701104">Mniej więcej w tym samym czasie pięciu największych producentów lodu do napojów na Środkowym Zachodzie USA (<foreign xml:lang="en" id="UUID63681416-d93d-43c4-6b57-8cdd4c6d9b32">Home City Ice</foreign>, <foreign xml:lang="en" id="UUIDde733eb7-aa0b-4b2d-6125-759bcd01437e">Lang Ice</foreign>, <foreign xml:lang="en" id="UUID45ea1cd4-e266-4ea7-42aa-eda0cd2d67c3">Tinley Ice</foreign>, <foreign xml:lang="en" id="UUIDb7d7f6b8-3838-453f-7512-1f6667662b20">Sisler’s Dairy</foreign> i <foreign xml:lang="en" id="UUIDc904a4e4-05b8-47e7-54cf-ca1023b22b07">Products of Ohio</foreign>) chciało osiągnąć analogiczne cele. Ich pracownicy również odbywali potajemne spotkania, na których dzielili między swoich pracodawców rynek lodu do napojów.</para>
+      <para id="UUIDebbd5c02-670d-493b-4b4f-b46b924d7e5a">W Polsce z kolei tajne porozumienie zawierali producenci farb (m.in. Tikkurila i Akzo Nobel) i właściciele marketów budowlanych (m.in. sieci <foreign xml:lang="de" id="UUID063e88ca-25ae-4348-6a1c-5b5cf65be125">Praktiker</foreign> i <foreign xml:lang="fr" id="UUIDa85f8120-6294-4120-4102-da18199ef95b">Castorama</foreign>), którzy również starali się ograniczać konkurencję ze strony innych podmiotów i ustalić poziom cen zapewniający uczestnikom zmowy dodatkowe zyski.</para>
+      <para id="fs-idp1339040">Gdyby przedsiębiorstwom zawierającym takie tajne porozumienia udało się osiągnąć swoje cele, zachowywałyby się jak jedno przedsiębiorstwo (monopolista na rynku), zapewniając sobie tym samym zyski monopolowe. Gdzie leży problem? Otóż w większości krajów świata, w tym w Polsce, Unii Europejskiej i Stanach Zjednoczonych, przedsiębiorstwa nie mogą w ten sposób dzielić rynków ani wspólnie ustalać cen. Tego typu działania są nielegalne.</para>
+      <para id="fs-idp1215632">Opisane wyżej przypadki są przykładami rynków, które nie są ani konkurencją doskonałą, ani monopolem. To struktury rynkowe znajdujące się między tymi dwiema skrajnościami. Jak się zachowują? Dlaczego istnieją? Na końcu niniejszego rozdziału wrócimy do nielegalnych porozumień, by wyjawić, jakie były ich konsekwencje.</para>
+    </note>
+    <note type="note" id="fs-idp3147824" class="chapter-objectives economics">
+      <title id="UUID6042eacc-8f6f-4866-7a61-ddef0b06b8c3">Wprowadzenie do rozdziału</title>
+      <para id="fs-idm15062144">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idm113554288">
+        <item id="UUID481d6406-331e-4d81-5412-48f4f8c6de06">
+          <para id="UUID8a696b13-37c6-4187-5b43-96b44322834e">Jakie cechy wyróżniają strukturę rynku określaną jako konkurencja monopolistyczna</para>
+        </item>
+        <item id="UUID88e70b87-003e-48c8-5635-6fbb450f42c1">
+          <para id="UUID32d21450-5a17-4e4e-7a6c-443413559cb0">Na czym polega specyfika oligopolu</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idm44240544">Konkurencja doskonała i monopol znajdują się na przeciwległych krańcach spektrum struktur rynku. W gałęzi doskonale konkurencyjnej istnieje wiele przedsiębiorstw sprzedających identyczne produkty, wszystkie firmy działają jako biorcy ceny, a ich rynek nie jest chroniony żadnymi barierami wejścia (nie ma również żadnych barier wyjścia). Jako <term id="UUID74fa7044-d0c3-4203-6584-a7b2fa547077">biorców cen</term> lub <term id="UUIDd5fe13cf-92e3-478c-58c0-be380af07ace">cenobiorców</term> (ang. <foreign xml:lang="en" id="UUIDf6e5586f-2070-429b-6eb7-cf7d1a9a3d81"><term cmlnle:reference="price taker" id="UUIDc520540c-99ca-467d-5a12-6ebed1aea4d7">price takers</term></foreign>) określamy przedsiębiorstwa, które nie mają siły monopolowej. Muszą po prostu przyjąć cenę rynkową jako daną.</para>
+    <para id="fs-idm16794096">Monopol zaś powstaje, gdy tylko jedno przedsiębiorstwo sprzedaje produkt, dla którego nie ma żadnych bliskich substytutów. W Polsce, przez wiele lat monopolistą pozostawała Poczta Polska, ponieważ tylko to przedsiębiorstwo oferowało usługi polegające na przekazywaniu przesyłek pocztowych. Ostatecznie ten zagwarantowany prawem monopol na przesyłanie listów o masie poniżej 50 g. wygasł z początkiem 2013 r.</para>
+    <para id="fs-idm56668704">A co z ogromną większością realnie istniejących przedsiębiorstw, które znajdują się między tymi skrajnościami – firmami, które działają na <term cmlnle:reference="rynki niedoskonale konkurencyjne" id="UUIDcc4e1062-18e7-4250-5ce4-b9260355f610">rynkach niedoskonale konkurencyjnych</term> (ang. <foreign xml:lang="en" id="UUID373d4463-be9a-40a6-584f-4e0c7136c660"><term cmlnle:reference="imperfectly competitive" id="UUID235b62a6-ed38-4486-4017-4e8a70f0dcb5">imperfectly competitive</term></foreign>)? Co determinuje ich zachowanie? Mają one większy wpływ na cenę niż przedsiębiorstwa doskonale konkurencyjne, ale nie tak silny jak monopol. Jaka zatem będzie ich strategia rynkowa?</para>
+    <para id="fs-idp40936544">Jednym z dwóch podstawowych rodzajów rynku konkurencji niedoskonałej jest <term cmlnle:reference="konkurencja monopolistyczna" id="UUIDd7c05aee-2c8a-4e80-545a-50109af23461">konkurencja monopolistyczna</term> (ang. <foreign xml:lang="en" id="UUID9db23f0f-ac03-480a-6cea-c49745c54bed"><term cmlnle:reference="monopolistic competition" id="UUID0139fb57-048a-4e24-45da-972d658c5491">monopolistic competition</term></foreign>). Na rynkach konkurencji monopolistycznej działa duża liczba konkurujących ze sobą przedsiębiorstw. Sprzedawane przez nie produkty wprawdzie nieco się różnią, są jednak dość bliskimi substytutami. Rozważmy jako przykład Arkadię, jedno z centrów handlowych w Warszawie (choć równie dobrze mogłaby to być łódzka Manufaktura). Na początku 2022 r. w Arkadii mieściło się 97 sklepów, w których można było kupić artykuły określane przez właścicieli tego centrum jako moda (m.in. Bershka, Mango, Reserved i Zara). Dodatkowo, odzież można było też nabyć w istniejącym na terenie Arkadii supermarkecie i sklepach sprzedających akcesoria sportowe (np. Intersport i 4F). Większość rynków, na których sprzedaje się dobra konsumpcyjne ostatecznym nabywcom, zorganizowana jest na zasadach konkurencji monopolistycznej.</para>
+    <para id="fs-idm109998400">Innym rodzajem niedoskonale konkurencyjnego rynku jest <term cmlnle:reference="oligopol" id="UUID26fd7de0-a002-4ad6-5668-ba7f08d2ab49">oligopol</term> (ang. <foreign xml:lang="en" id="UUID378bbd59-30ae-4575-60a1-29efbd8a2db7"><term cmlnle:reference="oligopoly" id="UUID50b2e586-92d3-4e80-4f76-5c911e0fdb64">oligopoly</term></foreign>). Rynki oligopolistyczne to takie, na których funkcjonuje niewielka liczba przedsiębiorstw. Dobrym przykładem są producenci pasażerskich samolotów odrzutowych: Boeing, Airbus i Embrarer, którzy łącznie mają niemal 100% sprzedaży w tej gałęzi przemysłu. Innym przykładem jest amerykański (i polski!) przemysł napojów bezalkoholowych, na którym dominują <foreign xml:lang="en" id="UUIDc5fb98ab-6d45-4eef-6257-6271546a0021">Coca-Cola</foreign> i <foreign xml:lang="en" id="UUID52f24817-2d9f-461b-772b-cf2a3e370458">PepsiCo</foreign>. Oligopolem jest również światowy rynek samochodów osobowych, na którym działa kilkunastu producentów, a także polski rynek ubezpieczeń majątkowych (również kilkanaście podmiotów), na którym kupujemy ubezpieczenia aut. Oligopole charakteryzują się wysokimi barierami wejścia i współzależnością wszystkich działających na nich przedsiębiorstw. Podmioty na rynkach oligopolistycznych określają wolumen produkcji, ustalają ceny i podejmują inne decyzje strategiczne w oparciu o swoje przewidywania dotyczące zachowania konkurentów.</para>
+    <para id="UUIDf2b7369c-553e-4749-5047-7092a96863c1">W pierwszej części niniejszego rozdziału pokażemy, w jaki sposób firmy na rynku konkurencji monopolistycznej wybierają poziom produkcji i ceny pozwalające na maksymalizację zysku. W drugim podrozdziale omówimy z kolei strategie przedsiębiorstw oligopolistycznych, które stoją w obliczu dwóch sprzecznych bodźców: legalnej lub nielegalnej współpracy, która zamieni ich branżę w faktyczny monopol, lub twardej walki konkurencyjnej polegającej na zwiększaniu sprzedaży i obniżaniu cen. Przedsiębiorstwa działające na rynkach oligopolistycznych, w zależności od konkretnych warunków, niekiedy mogą również wykorzystywać elementy strategii monopolistów i przedsiębiorstw działających w warunkach konkurencji doskonałej.</para>
+  </content>
+</document>

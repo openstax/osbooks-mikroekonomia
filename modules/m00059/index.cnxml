@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uf5630cba-8bba-42fe-ae85-10c6fd75de7b" id="Uf5630cba-8bba-42fe-ae85-10c6fd75de7b" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00059</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:58.057144340+00:00</md:version>
+    <md:created>2022-08-08T07:43:58.057144340+00:00</md:created>
+    <md:revised>2022-08-08T07:43:58.057144340+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>f5630cba-8bba-42fe-ae85-10c6fd75de7b</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="CNX_Econ_C12_000" class="splash">
+      <title id="UUIDc6cd8ca9-7199-4534-75f4-1ba07b0760b5">Palący problem</title>
+      <media alt="Zdjęcie przedstawia pożar, drzewa są zajęte przez płomienie." id="fs-idp64598896">
+        <image src="../../media//fire-3814159.jpg" mime-type="image/jpeg" id="UUID529d6680-8a66-4f0b-70bd-137c784b0600" />
+      </media>
+      <caption id="UUIDd291d4f8-a236-4384-4de7-8d53463686ed">Pożar buszu w Australii na przełomie 2019 i 2020. (Źródło Pixabay)</caption>
+    </figure>
+    <note type="note" id="fs-idm71913744" class="bringhome economics">
+      <title id="UUID06f00584-3e36-47e7-7369-c8a97839c94d">Uwaga, pożar!</title>
+      <para id="fs-idp1596304">We wrześniu 2019 r. australijskie Biuro Meteorologiczne wydało ostrzeżenie o zwiększonym zagrożeniu pożarami w Nowej Południowej Walii oraz Queensland. Opady w pierwszej połowie roku były w tych dwóch stanach o 50% niższe od wieloletniej średniej, a na niektórych obszarach – najniższe od 1900 r. W latach 2017–18 na terenie tych dwóch stanów również panowała susza. Meteorologów zaalarmowała bardzo niska wilgotność runa oraz średnie temperatury wyższe o 10 °C od ubiegłorocznych. Zagrożenie pożarowe zwiększał też porywisty wiatr. W takich warunkach wystarcza uderzenie pioruna lub przypadkowe zaprószenie ognia przez człowieka, żeby wzniecić pożar. Niestety, ten negatywny scenariusz się ziścił. Już w październiku 2019 r. ogień trawił wiele hektarów buszu. W kolejnych miesiącach żywioł dalej szybko się rozprzestrzeniał, nie mogły go powstrzymać wysiłki tysięcy strażaków, wojska, ludności cywilnej. Według Biura Meteorologicznego to był największy znany pojedynczy pożar we wschodniej Australii w czasie sezonu letniego.</para>
+      <para id="UUID7e2edfd6-6dc3-4d47-4d98-885e56a925d6">Do marca 2020 ogień pochłonął 19 mln ha buszu, życie 33 osób i zniszczył ponad 3 tys. domów. W pożarze śmierć poniosło ponad miliard kręgowców (ssaków, ptaków i gadów) oraz trudna do ustalenia, gigantyczna liczba bezkręgowców (głownie stawonogów). Dym i smog zatruły powietrze. Badacze oszacowali, że przez 19 tygodni trwania pożaru zarejestrowano 417 nadmiarowych zgonów spowodowanych smogiem, 1124 hospitalizacje z powodu problemów z układem sercowo-naczyniowym oraz 2027, których przyczyną były problemy z układem oddechowym. Ponadto 1305 osób wymagało nagłej interwencji wywołanej nasilonymi objawami astmy.</para>
+      <para id="UUIDf2129c3f-5bdb-47ad-65f8-2ab3bb4c01d2">Wydawać by się mogło, że tak wielka katastrofa naturalna roznieci w Australii ogólnonarodową dyskusję na temat podejścia do paliw kopalnych (kraj ten jest przecież jednym z największych światowych eksporterów węgla kamiennego), zmian klimatycznych i kosztów związanych z dotychczasowym modelem funkcjonowania gospodarki. Właśnie ta problematyka jest przedmiotem rozważań niniejszego rozdziału.</para>
+    </note>
+    <para id="UUID25c3653b-07ed-4cf5-7a00-f22454e25498" />
+    <note type="note" id="fs-idm62113584" class="chapter-objectives economics">
+      <title id="UUIDe487388d-d4e8-4d57-5451-6b90860e3165">Wprowadzenie do rozdziału</title>
+      <para id="fs-idm3674400">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="UUID4521e6c7-6bc1-4ca1-48c2-1ef0bfc9fa4e">
+        <item id="UUIDabbfe43f-5a86-4bbe-4444-23a2fcdefdde">
+          <para id="UUIDf04d59bf-7214-407e-48a7-2371142646af">na czym polegają zmiany klimatyczne</para>
+        </item>
+        <item id="UUID46ecf439-cf6e-4d64-6683-4e871190bceb">
+          <para id="UUIDa1b81d5f-f4e7-42d4-645e-d64de6a37332">jakie mogą być negatywne skutki zmian klimatycznych</para>
+        </item>
+        <item id="UUID09a2850c-5345-42e0-667e-7ebc3f99a7dc">
+          <para id="UUIDcd381de1-d8b2-4560-7f41-303095db92b9">w jaki sposób zmiany klimatyczne wpływają na działalność przedsiębiorstw</para>
+        </item>
+        <item id="UUID4adb7d56-e20f-444d-7168-f11f34221ca7">
+          <para id="UUIDb945f762-7b8f-4e2c-455b-7e4a3cc8eed7">w jaki sposób pryncypia zrównoważonego rozwoju pomagają zaplanować i wdrożyć „zieloną” transformację przedsiębiorstw</para>
+        </item>
+        <item id="UUID5d4e1f47-b24c-4956-68fe-5b54061422b9">
+          <para id="UUID7ae0adbd-58bc-4395-51ab-c50247c29458">czym są zrównoważone produkty finansowe</para>
+        </item>
+        <item id="UUID4a4d7e82-d6d3-48de-6b05-4825a5a45b41">
+          <para id="UUID2dbb71a5-d4ff-4235-5c79-8521840e28a1">jaką rolę pełni sektor finansowy w procesie zielonej transformacji.</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idm29154896">W poprzednim rozdziale przedstawiona została koncepcja negatywnych efektów zewnętrznych, czyli szkód, jakie wywołuje działalność pojedynczych osób bądź przedsiębiorstw. Wiemy już, że podmioty wywołujące takie szkody nie ponoszą z tego powodu żadnych kosztów – te są najczęściej przerzucane na całe społeczeństwo. Zmiany klimatyczne są jednym z najważniejszych źródeł negatywnych efektów zewnętrznych. W kolejnych podrozdziałach zastanowimy się nad czynnikami, które zmiany te wywołują, ich najważniejszymi konsekwencjami dla sektora przedsiębiorstw, jak również sposobami ograniczenia tych niekorzystnych trendów i wyeliminowania negatywnych skutków zmian klimatu.</para>
+    <para id="UUID5d3ea345-39a2-4d66-5641-7cde794533ce">Na półkuli północnej od 2005 r. widać bardzo wyraźny trend kształtowania się średnich temperatur letnich miesięcy. Lektura raportu europejskiego programu badawczego Copernicus (Copernicus Climate Change Service) nie pozostawia żadnych złudzeń, klimat naszej planety podlega daleko idącym zmianom. Potwierdzeniem tych tendencji jest właśnie systematyczny wzrost średnich temperatur. Pomiary wskazują, iż średnia globalna temperatura w 2021 r. kształtowała się 0,3°C powyżej średniej temperatury notowanej w latach 1991–2020 oraz 1,1°C–1,2°C powyżej średnich poziomów z lat 1850–1900. Zacytujmy dyrektora Copernicusa, Carlo Buontempo:</para>
+    <quote id="UUIDda9f64b2-c252-49f6-50bc-f8487a0f5dab">
+      <para id="UUIDf63185f1-ceb3-4b99-71bc-4e9bcc1bfb5f">„Rok 2021 był kolejnym rokiem ekstremalnych temperatur z najgorętszym latem w Europie, falami upałów w basenie Morza Śródziemnego, nie wspominając o bezprecedensowo wysokich temperaturach w Ameryce Północnej”.</para>
+    </quote>
+    <para id="UUIDfca663b6-f0cb-4689-6f65-e2046f8744fc">Latem 2021 r. można było również zaobserwować intensyfikację negatywnych skutków tych zmian. Wyjątkowo wysokie temperatury w regionie Morza Śródziemnego doprowadziły do licznych pożarów, na Sycylii słupek rtęci na termometrze podskoczył do 48,8°C – temperatury najwyższej w historii pomiarów w Europie. W tym samym czasie inne kraje Starego Kontynentu nękane były przez groźne powodzie, które doprowadziły do śmierci łącznie kilkuset osób oraz do ogromnych strat ekonomicznych. Zdaniem naukowców zmiany klimatu, z którymi mamy do czynienia, zwiększyły ryzyko pojawienia katastrof naturalnych i klęsk żywiołowych o ponad 20%.</para>
+    <para id="UUID293bce64-526e-4235-52d6-e4c49bee49c4">W tym kontekście wydaje się oczywiste, że zmiany klimatu to jedno z największych wyzwań dla ludzkości w XXI w. Niepodważalne dane naukowe wskazują, że stoimy u progu katastrofy klimatycznej. Niebezpieczne zjawiska pogodowe, takie jak ulewne deszcze, powodzie, huragany, długotrwałe upały i susze pojawiają się coraz częściej na każdej szerokości geograficznej. Katastrofy żywiołowe są najbardziej widocznymi, ale oczywiście nie jedynymi konsekwencja zmian klimatycznych. Spektrum zagrożenia związanego ze zmianami klimatu jest zdecydowanie szersze, dotyka niemal wszystkich sfer życia, w tym oczywiście również gospodarki i sektora przedsiębiorstw.</para>
+    <para id="UUID053ad9b7-02d7-4aa5-6aa5-a0993e274f17">Decyzje podejmowane dzisiaj przez wszystkie podmioty: konsumentów, przedsiębiorstwa i państwo z jednej strony zdeterminowane są dotychczasową ścieżką rozwoju gospodarki, z drugiej zaś wpływają na sytuację klimatyczną planety w niedalekiej przyszłości. Dlatego tak ważne jest, żebyśmy wszyscy potrafili redefiniować nasze priorytety oraz żebyśmy wszyscy uświadomili sobie, że decyzje podejmowane w sferze konsumpcji (indywidualnej i zbiorowej) oraz produkcji, wpływają na przyszłość całej ludzkości.</para>
+    <para id="UUID3a2f87b5-05c9-4206-6db8-9f26c24f6f08">Decyzje te mogą zapobiec lub przynajmniej ograniczyć skalę przyszłych zmian klimatycznych (działania te określane są jako mitygacja), a także dostosować zasady gospodarowania do zmieniającego się klimatu. Stawką jest tutaj nie tyle polepszenie, co utrzymanie obecnego standardu życia ludzkości. Kluczową rolę mają tutaj do odegrania przedsiębiorstwa, które – inwestując w nowoczesne technologie, wybierając metody produkcji i strukturę asortymentu – mogą nie tylko ograniczyć zużycie surowców, ale także kształtować postawy i wybory konsumenckie. Innymi słowy, bez wprowadzenia zielonej transformacji firm dalszy rozwój globalnej gospodarki nie będzie możliwy.</para>
+    <section id="UUID1d27803d-47e1-4a73-52d3-b39f9828f342" class="references">
+      <title id="UUID439377bf-9cb3-4fc3-7ea9-27545734eaf1">Bibliografia</title>
+      <para id="UUID607233c8-5839-4074-5be1-5720f873bdc5">http://www.bom.gov.au/climate/current/statements/scs71.pdf</para>
+      <para id="UUID144a51af-bfcf-45e1-4c2f-a201af51db70">https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianBushfires</para>
+      <para id="UUID8fbf8b96-73da-4fe3-7b8e-60f4ed915c3e">https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianBushfires</para>
+      <para id="UUID5304c4ec-52c5-434f-6218-fb83d611c9b9">https://www.mja.com.au/system/files/issues/213_06/mja250545.pdf</para>
+      <para id="UUIDf5ad5170-d8ed-48a7-71d8-1ca14997d9e7">https://klimat.rp.pl/planeta/art19279221-2021-rok-byl-piatym-najcieplejszym-rokiem-w-historii</para>
+    </section>
+  </content>
+</document>

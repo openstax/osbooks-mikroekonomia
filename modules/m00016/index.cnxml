@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Udd76d6b9-81b9-4b36-9324-74b2e841c3d2" id="Udd76d6b9-81b9-4b36-9324-74b2e841c3d2" xml:lang="en" cnxml-version="0.7">
+  <title>Popyt, podaż i efektywność</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00016</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Popyt, podaż i efektywność</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:53.580924897+00:00</md:version>
+    <md:created>2022-08-08T07:43:53.580924897+00:00</md:created>
+    <md:revised>2022-08-08T07:43:53.580924897+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>dd76d6b9-81b9-4b36-9324-74b2e841c3d2</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID0b6585c1-56f9-4661-7402-e943427188b6" class="learning-objectives">
+      <para id="UUIDa4e948c8-b25a-4ac5-75c9-0e01fab74020">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID9563c49f-f28f-46b9-7880-36b042fbf420">
+        <item id="UUIDd713830e-e627-4273-5732-3de38c4a04fb">
+          <para id="UUIDbd2dfd7e-ee8b-4e67-792e-2433154fc2fa">Porównać nadwyżkę konsumenta, nadwyżkę producenta i nadwyżkę całkowitą (nazywaną również nadwyżką społeczną lub ekonomiczną)</para>
+        </item>
+        <item id="UUIDf1bd54d8-36c7-4294-64a9-7901d68e5bfb">
+          <para id="UUID5f46e02f-508e-42ee-55b4-32acff133a00">Objaśnić, dlaczego ceny minimalne i ceny maksymalne są źródłem nieefektywności</para>
+        </item>
+        <item id="UUID5339c85c-0089-4956-72eb-878b1c5d1075">
+          <para id="UUID73f6d9ed-4656-4c6d-6650-cc68f4379c37">Traktować popyt i podaż jako kluczowe elementy mechanizmu regulacji społecznych</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID7e0c828b-8ad0-4b93-72a6-3147eb76feb0"><term cmlnle:reference="model popytu i podaży" id="UUID80a02498-06f2-443a-5f1e-73187f22b6a4">Model popytu i podaży</term> (ang. <foreign xml:lang="en" id="UUID12ab546d-1115-4118-6c72-7c1eb5fd3214"><term cmlnle:reference="demand and supply model" id="UUID23634af2-34e5-4d94-46b7-0e23c2859729">demand and supply model</term></foreign>), który został przedstawiony w tym rozdziale, może zostać wykorzystany do objaśnienia pojęcia efektywności ekonomicznej. Jednym ze sposobów, w jaki ekonomiści definiują <term cmlnle:reference="efektywność" id="UUIDef38aeba-87fc-4981-6eec-f00515be5a78">efektywność</term> (ang. <foreign xml:lang="en" id="UUID8630c189-050c-4a28-6645-12e23dff3706"><term cmlnle:reference="efficiency" id="UUID704a5528-1144-45ed-5a86-2596c7fc6f74">efficiency</term></foreign>), jest wskazanie, że efektywną jest sytuacja, w której nie można poprawić położenia ani jednego podmiotu bez pogorszenia sytuacji innego. I odwrotnie, sytuacja jest nieefektywna, jeśli możliwe jest poprawienie sytuacji choćby jednej osoby bez obciążania kosztami kogokolwiek innego.</para>
+    <para id="UUIDc2e4fa8d-a1a7-4306-7007-a8c05e94efb6">Jeśli popyt i podaż znajdują się w równowadze, sytuacja również jest efektywna: gospodarka (społeczeństwo) wykorzystuje w maksymalnym stopniu swoje ograniczone zasoby, a wszystkie możliwe korzyści z handlu zostają osiągnięte. Innymi słowy, przedmiotem transakcji jest optymalna ilość każdego dobra i usługi, którymi handluje się na rynku.</para>
+    <section id="fs-idp93089408">
+      <title id="UUID2508fe40-d83a-440c-6932-697e61740174">Nadwyżka konsumenta, nadwyżka producenta, nadwyżka społeczna</title>
+      <para id="UUIDd58a4306-0b29-4ca7-7824-6e9547677baa">Pomyśl o rynku tabletów w pewnym mieście wojewódzkim, który został zilustrowany na <link target-id="CNX_Econ_C03_015" cmlnle:case="locative" id="UUID8bacc3d5-7a40-4690-5838-6299f5c2c3ad" />. Cena równowagi to 800 zł, a ilość równowagi to 28 tys. Aby zorientować się, jakie są korzyści dla konsumentów, spójrz na fragment krzywej popytu, z lewej strony powyżej <term cmlnle:reference="punkt równowagi" id="UUID1c8ab7fd-d3bd-47da-486c-a7b9f5f36478">punktu równowagi</term>. Ta część krzywej popytu wskazuje, że przynajmniej część nabywców byłaby skłonna zapłacić więcej niż 800 zł za tablet.</para>
+      <para id="UUIDeeb3201a-d38b-4623-642c-ce8f0c33cb25">Na przykład punkt J wskazuje, że gdyby cena wynosiła 900 zł, przedsiębiorstwa sprzedałyby 20 tys. tabletów. Konsumenci, którzy byliby gotowi zapłacić 900 zł za tablet, bo na taką właśnie kwotę oceniają użyteczność tego sprzętu, płacą cenę równowagi wynoszącą 800 zł . Skorzystali, bo zapłacili mniej, niż skłonni byliby uiścić. Pamiętaj, krzywa popytu pokazuje gotowość konsumentów do płacenia za różne ilości dobra. Kwota, którą ludzie byliby skłonni zapłacić, pomniejszona o kwotę, którą faktycznie zapłacili, nazywana jest <term cmlnle:reference="nadwyżka konsumenta" id="UUIDf5d07714-2cd1-4338-749d-de25b237ad90">nadwyżką konsumenta</term> (ang. <foreign xml:lang="en" id="UUID1d352e82-c6eb-42d3-4402-ccdb9888761b"><term cmlnle:reference="consumer surplus" id="UUID787513e5-6c12-4fd5-448e-8b7ef74a60f5">consumer surplus</term></foreign>). Nadwyżka konsumenta to obszar oznaczony na wykresie jako F, to znaczy obszar powyżej ceny rynkowej i poniżej krzywej popytu.</para>
+      <figure id="CNX_Econ_C03_015">
+        <title id="UUIDdadac548-b042-4d2e-4ab9-87f621719981">Nadwyżka konsumenta i producenta</title>
+        <media alt="Wykres przedstawia obszar równy nadwyżce konsumenta powyżej punktu równowagi rynkowej (stylizowany trójkąt pomiędzy poziomem ceny równowagi, krzywą popytu i pionową osią układu współrzędnych) i obszar równy nadwyżce producenta poniżej punktu równowagi rynkowej (stylizowany trójkąt pomiędzy poziomem ceny rynkowej, krzywą podaży i pionową osią układu współrzędnych)." id="fs-idm49259952">
+          <image src="../../media//CNX_Econ_C03_015-a.svg" mime-type="image/svg+xml" id="UUIDd9e830b9-d4c6-4a50-4824-ede6cc8a6936" />
+        </media>
+        <caption id="UUID72ce2c50-c32b-4798-67f4-d908a42d3b41">Niemal trójkątny obszar oznaczony literą F pokazuje nadwyżkę konsumenta, która powstaje wówczas, gdy cena równowagi na rynku jest niższa niż ta, którą wielu konsumentów byłoby skłonnych zapłacić. Punkt J na krzywej popytu wskazuje, że nawet przy cenie 900 zł konsumenci kupiliby 20 tys. tabletów. Obszar oznaczony literą G reprezentuje nadwyżkę producenta. Nadwyżka producenta wskazuje, że cena równowagi jest wyższa niż cena, którą wielu producentów byłoby skłonnych zaakceptować za dostarczenie swoich produktów na rynek. Na przykład punkt K na krzywej podaży wskazuje, że przy cenie 450 zł przedsiębiorstwa byłyby skłonne zaoferować na rynku aż 14 tys. tabletów.</caption>
+      </figure>
+      <para id="UUID614cb635-d445-4888-529a-c5c8497895dd">Krzywa podaży pokazuje liczbę tabletów, jaką przedsiębiorstwa są skłonne zaoferować na rynku przy każdym poziomie ceny. Na przykład punkt K na <link target-id="CNX_Econ_C03_015" cmlnle:case="locative" id="UUIDd468681c-2795-4349-79be-5d30a5a146ee" /> reprezentuje 14 tys. tabletów, które przedsiębiorstwa byłyby w stanie dostarczyć na rynek po cenie 450 zł. Ci producenci, którzy byliby gotowi sprzedać tablety po 450 zł, ale otrzymują za nie cenę równowagi równą 800 zł, uzyskują dodatkowe korzyści mocno przewyższające to, co spodziewali się otrzymać, dostarczając dobro na rynek. Dodatkowa korzyść, jaką producenci uzyskują w związku ze sprzedażą dobra lub usługi, mierzona nadwyżką ceny, którą producent faktycznie otrzymał nad tą, którą byłby w stanie zaakceptować, nazywana jest <term cmlnle:reference="nadwyżka producenta" id="UUIDa79334e4-12e1-41ab-52d3-6d5129e78708">nadwyżką producenta</term> (ang. <foreign xml:lang="en" id="UUID7a0f0857-3054-4f58-65e6-1c94c0e30eb7"><term cmlnle:reference="producer surplus" id="UUID16ced6b0-843c-47da-427b-1cf1b00a0e59">producer surplus</term></foreign>). Na <link target-id="CNX_Econ_C03_015" cmlnle:case="locative" id="UUID22d39f0f-879d-4c3f-6125-f09f020ecbac" /> nadwyżka producenta to obszar oznaczony jako G – czyli obszar między poziomem ceny rynkowej a odcinkiem krzywej podaży poniżej punktu równowagi rynkowej (E).</para>
+      <para id="UUIDe106b01b-3aba-4621-6c8a-8b938172b234">Suma nadwyżki konsumenta i nadwyżki producenta to <term cmlnle:reference="nadwyżka społeczna" id="UUID2cd481a7-30a8-4dd8-6ae4-dcba14be1517">nadwyżka społeczna</term> (ang. <foreign xml:lang="en" id="UUIDf9c60c58-8745-430e-6fd7-867ec40bb9be"><term cmlnle:reference="social surplus" id="UUIDd296c9c1-84a6-4d43-4903-2850af431863">social surplus</term></foreign>), zwana także <term cmlnle:reference="nadwyżka ekonomiczna" id="UUIDb970b060-7b4a-4eaa-799d-9ecda66a27ac">nadwyżką ekonomiczną</term> (ang. <foreign xml:lang="en" id="UUIDc27c5817-cd75-44c0-633d-66d8a53fa3da"><term cmlnle:reference="economic surplus" id="UUID51f8b866-5c3d-425b-7e59-2f28b7f1d7a0">economic surplus</term></foreign>) lub <term cmlnle:reference="nadwyżka całkowita" id="UUIDafe02f51-b422-4ad9-710d-7b515e33f49f">nadwyżką całkowitą</term> (ang. <foreign xml:lang="en" id="UUID7ed0b475-47ac-4d2d-554b-a14366b2acf9"><term cmlnle:reference="total surplus" id="UUID9900a0b8-83ac-4207-7f98-f05e9cf07932">total surplus</term></foreign>). Na <link target-id="CNX_Econ_C03_015" cmlnle:case="locative" id="UUIDabf4377e-cdd0-498e-6300-a7db831445c7" /> nadwyżka społeczna to obszar będący sumą obszarów oznaczonych jako F i G. Nadwyżka społeczna dla ceny i ilości równoważących rynek jest większa, niż byłaby przy jakimkolwiek innym poziomie tych dwóch parametrów. Oznacza to, że równowaga rynkowa może być określona jako sytuacja efektywna ekonomicznie. Ponadto przy efektywnym poziomie produkcji (równoważącym na rynku popyt i podaż) niemożliwe jest uzyskanie większej nadwyżki konsumenta bez zmniejszenia nadwyżki producenta, a także niemożliwe jest osiągnięcie większej nadwyżki producenta bez zmniejszenia nadwyżki konsumenta.</para>
+    </section>
+    <section id="fs-idp1777824">
+      <title id="UUID0290fb9e-dffc-4930-6301-d4e3c3ba6879">Ceny minimalne i maksymalne jako rozwiązania nieefektywne ekonomicznie</title>
+      <para id="UUIDd487198b-035d-4295-7ac2-8321ae6a782d">Narzucenie ceny minimalnej lub maksymalnej uniemożliwi ustalenie na rynku ceny rynkowej i ilości, które zrównoważą popyt i podaż. Automatycznie oznaczać to będzie ukształtowanie się sytuacji nieefektywnej ekonomicznie. Co więcej, poza tym, że ceny minimalne i maksymalne oznaczają pojawienie się nieefektywnego rozwiązania (bo nadwyżka społeczna jest mniejsza, niż mogłaby być), to dodatkowo instrumenty te przenoszą część nadwyżki konsumenta na producentów lub część nadwyżki producenta na konsumentów.</para>
+      <para id="UUID350e4250-969d-4112-4abe-1e7e91954d11">Wyobraź sobie, że kilka amerykańskich przedsiębiorstw pracuje nad nowym, skutecznym lekarstwem na ból pleców. Niestety, jak to bywa z nowymi medykamentami, zazwyczaj są one dość drogie. Jeśli rynek, na którym nowy środek będzie sprzedawany i kupowany, zostanie wyłączony spod ingerencji państwa, to cena równowagi wyniesie 600 dol. za miesięczną kurację, a leku będzie używać 20 tys. osób, tak jak zilustrowano to na panelu (a) <link target-id="CNX_Econ_C03_028" cmlnle:case="genitive" id="UUIDab51b3e9-c1f4-48f2-702e-879e68d07a2f" />. Pierwotny poziom nadwyżki konsumenta to obszar T + U, a nadwyżka producenta to obszar V + W + X. Jednak, biorąc pod uwagę naciski lobby pacjentów zainteresowanych nowym, obiecującym specyfikiem, rząd decyduje się na narzucenie ceny maksymalnej w wysokości 400 dol. za miesięczną kurację, aby uczynić lek bardziej przystępnym cenowo. Przy takiej cenie maksymalnej przedsiębiorstwa zaoferują na rynku ilość, która wystarcza tylko dla 15 tys. pacjentów.</para>
+      <para id="UUID24fb94d3-5d29-4f83-5a7d-bbc270548b44">W rezultacie zachodzą dwie zmiany. Po pierwsze, pojawia się nieefektywność i zmniejsza się nadwyżka społeczna. Utrata nadwyżki społecznej, która następuje, gdy gospodarka produkuje nieefektywną ekonomicznie ilość dobra lub usługi, nazywana jest <term cmlnle:reference="zbędna strata społeczna" id="UUIDe037dbc4-ac7e-466f-4291-36099453bf9c">zbędną stratą społeczną</term> (ang. <foreign xml:lang="en" id="UUIDdafc90c4-c19c-4f33-67ec-908de05e15c5"><term cmlnle:reference="deadweight loss" id="UUID6b3ff990-84e8-4aa3-4830-3b1219201df0">deadweight loss</term></foreign>). Używając obrazowej analogii, to trochę tak, jak wyrzucanie przez okno pieniędzy, których nikt nie zdoła złapać i wykorzystać. Na <link target-id="CNX_Econ_C03_028" cmlnle:case="locative" id="UUID53c15046-8372-4e07-6520-e391cfa5c731" /> (a) strata społeczna to obszar U + W. Oznacza to, że po wprowadzeniu ceny maksymalnej obszar reprezentujący nadwyżkę całkowitą zmniejszył się z poziomu T+U+V+W+X do poziomu T+V+X. W przypadku straty społecznej może się zdarzyć, że choć nadwyżka społeczna będzie mniejsza, to rozpatrywane oddzielnie nadwyżka konsumenta lub producenta będą wyższe. W tym przypadku jest to skutkiem wprowadzenia mechanizmu <term cmlnle:reference="kontrola cen" id="UUID3c055fbb-581f-4148-7263-763b6e308bbd">kontroli cen</term> (ang. <foreign xml:lang="en" id="UUID6f1b1110-1461-4b4a-4ad2-115140d08549"><term cmlnle:reference="price control" id="UUIDdad19f89-e8cb-4fa0-7141-8355af823689">price control</term></foreign>), który powoduje zablokowanie możliwości zawarcia legalnej transakcji producentom i konsumentom.</para>
+      <para id="UUIDb1c1bbd4-76ec-4f9f-4c12-02b9ad98d62b">Drugą zmianą zachodzącą w efekcie wprowadzenia <term cmlnle:reference="cena maksymalna" id="UUIDee7cacb5-eeb7-4f90-4f15-bdda6d6caa37">ceny maksymalnej</term> (ang. <foreign xml:lang="en" id="UUID8b5335b1-56b7-489d-699f-d6f9bf9026dc"><term cmlnle:reference="price ceiling" id="UUID29ea8ac4-1cda-4b4a-7789-4ece8331d6bf">price ceiling</term></foreign>) jest właśnie transfer części nadwyżki producenta na korzyść konsumentów. Po nałożeniu ceny maksymalnej nowa nadwyżka konsumenta wynosi T + V, natomiast nowa nadwyżka producenta to jedynie obszar X. Innymi słowy, cena maksymalna przenosi obszar nadwyżki (V) z producentów na konsumentów. Zauważ, że korzyść konsumentów jest mniejsza niż strata producentów, co jest tylko kolejnym sposobem zaprezentowania straty społecznej wynikającej ze zmniejszenia efektywności.</para>
+      <figure id="CNX_Econ_C03_028">
+        <title id="UUID998d86e5-e6d6-4b34-4d36-1a6e14150103">Efektywność a cena minimalna i cena maksymalna</title>
+        <media alt="Panele (a) i (b) ilustrują, jak wprowadzenie ceny maksymalnej i minimalnej wpływa na wysokość nadwyżki społecznej i jej podział pomiędzy nadwyżkę konsumenta i producenta." id="fs-idm53199312">
+          <image src="../../media//CNX_Econ_C03_028.svg" mime-type="image/svg+xml" id="UUIDbc8d5768-6530-411a-78d3-1a2c7751767b" />
+        </media>
+        <caption id="UUID7cafe823-9294-44a6-6ec4-c907fdeb6f13">Panel (a) Pierwotna cena równowagi wynosi 600 dol. przy ilości równowagi 20 tys.. Nadwyżka konsumenta to T + U, a nadwyżka producenta to V + W + X. Po narzuceniu ceny maksymalnej na poziomie 400 dol. przedsiębiorstwa dostarczają ilość wystarczającą dla 15 tys. odbiorców. W rezultacie nowa nadwyżka konsumenta to T + V, podczas gdy nowa nadwyżka producenta to X. Panel (b) Pierwotnie równowaga zachodzi przy cenie 8 dol. i ilości 1800 biletów. Nadwyżka konsumenta to G + H + J, a nadwyżka producenta I + K. Przy cenie minimalnej równej 12 dol. zapotrzebowanie spada do 1400 biletów. W rezultacie nowa nadwyżka konsumenta to G, a nowa nadwyżka producenta H + I.</caption>
+      </figure>
+      <para id="UUID187b37d7-f94e-49f8-7820-be3dd391bd21"><link target-id="CNX_Econ_C03_028" id="UUID7d3e4710-2225-4dec-475c-b3f8b6ce9a40" /> (b) pokazuje działanie ceny minimalnej na przykładzie kin w pewnym mieście. Pierwotna cena równowagi wynosi 8 dol. za bilet, a zapotrzebowanie kształtuje się na poziomie 1800 biletów. Pierwotna nadwyżka konsumenta to G + H + J, a nadwyżka producenta I + K. Władze miasta obawiają się, że kina zbankrutują, co ograniczy ofertę rozrywki dostępnej dla obywateli i w dłuższym horyzoncie czasowym wywoła ich niezadowolenie, które zwróci się przeciw włodarzom. Postanawiają więc narzucić cenę minimalną na poziomie 12 dol. za bilet. W efekcie zapotrzebowanie na bilety do kin spada do poziomu 1400 biletów. Nowa nadwyżka konsumenta to G, a nowa nadwyżka producenta H + I. W efekcie cena minimalna powoduje przeniesienie obszaru H z nadwyżki konsumenta do nadwyżki producenta, ale jednocześnie prowadzi do zmniejszenia nadwyżki całkowitej o obszar J + K.</para>
+      <para id="UUID7b26efea-12e1-47e6-6d47-c3d466694e86">Ta analiza pokazuje, że cena maksymalna, podobnie jak ustawa ustanawiająca kontrolę czynszów, przeniesie część nadwyżki producenta na konsumentów – co pomaga wyjaśnić, dlaczego konsumenci chętnie popierają takie regulacje. I odwrotnie, cena minimalna, taka jak gwarancja, że rolnicy otrzymają określoną cenę za swoje uprawy, przeniesie część nadwyżki konsumenta na producentów, co wyjaśnia, dlaczego sprzedawcy na tym rynku tak gwałtownie się jej domagają. Jednak zarówno ceny minimalne, jak i maksymalne blokują legalną możliwość zawarcia transakcji, które inaczej doszłyby do skutku, i powodują tym samym powstanie zbędnej straty społecznej. Usunięcie tych barier i przywrócenie swobody kształtowania się cen rynkowych wyznaczających ilość równowagi zwiększy nadwyżkę społeczną wypracowywaną przez gospodarkę.</para>
+    </section>
+    <section id="fs-idm93663616">
+      <title id="UUID4742553a-5e25-40a8-5ee9-1226ff05222e">Popyt i podaż jako mechanizm regulacji społecznych</title>
+      <para id="fs-idm67409584">Model popytu i podaży pozwala nam lepiej zrozumieć, że cena rynkowa nie jest zdeterminowana wyłącznie przez popyt albo tylko przez podaż, ale zostaje ukształtowana przez interakcję, w jaką wchodzą te dwa parametry. W 1890 r. słynny ekonomista Alfred Marshall napisał, że pytanie o to, czy cenę determinuje wyłącznie podaż, czy wyłącznie popyt, nie ma sensu. Byłoby bowiem równie sensowne, jak zastanawianie się: „czy to górne, czy dolne ostrze nożyczek przecina kawałek papieru”. Odpowiedź jest taka, że w proces cięcia (kształtowania cen) zawsze zaangażowane są oba „ostrza” – popytu i podaży.</para>
+      <para id="UUIDf9bf4c3b-8ceb-4e34-511c-3bef18840319">Dostosowania ceny i ilości równowagi na konkretnych rynkach w gospodarce rynkowej (kapitalistycznej) najczęściej rozgrywają się bez nacisków lub nadzoru ze strony państwa. Jeśli zbiory kawy w Brazylii są zmniejszone z powodu niespodziewanej w tym kraju fali mrozów, to krzywa podaży kawy przesuwa się w lewo i cena kawy rośnie. Niektórzy ludzie – nazwijmy ich „kawoszami” – nadal piją kawę i płacą wyższą cenę za każdą filiżankę. Inni zmieniają przyzwyczajenia i zaczynają pić więcej herbaty lub innych napojów bezalkoholowych. Żaden publiczny organ nie jest zaangażowany w ustalenie „optymalnej” ceny kawy ani podejmowanie decyzji, które przedsiębiorstwa będą mogły nabyć kawę od plantatorów, które supermarkety i w których miastach dostaną konkretne ilości kawy do sprzedania lub którym konsumentom ostatecznie wolno będzie pić ten napar. Takie dostosowania w odpowiedzi na zmiany cen zachodzą w gospodarce rynkowej cały czas, zwykle tak płynnie i szybko, że ledwo je zauważamy.</para>
+      <para id="UUIDabbe9f56-6d99-48ff-5e8d-6cf459abadaa">Pomyśl o wszystkich sezonowych produktach spożywczych, które są szeroko dostępne i niedrogie w określonych porach roku (np. świeże truskawki na przełomie czerwca i lipca), ale droższe w pozostałych. Ludzie zmieniają swoją dietę, a restauracje menu w odpowiedzi na te wahania cen, bez zamieszania i fanfar. Zarówno dla gospodarki amerykańskiej, jak i dla polskiej, ale też dla gospodarki światowej jako całości rynki – to znaczy popyt i podaż – są fundamentalnym mechanizmem społecznym, który odpowiada na podstawowe pytania o to, co jest produkowane, jak jest produkowane i dla kogo jest produkowane.</para>
+      <note type="note" id="fs-idp13602640" class="bringhome economics">
+        <title id="UUID898235d8-b7e3-453b-69ae-fb6e02916f19">Dlaczego nie mamy wystarczająco dużo taniej żywności organicznej?</title>
+        <para id="UUIDc103b5d4-8e87-42ab-4f75-f619fbe3e0e1">Żywność ekologiczna (organiczna) jest uprawiana bez syntetycznych pestycydów, nawozów chemicznych czy genetycznie modyfikowanych nasion. W ostatnich dziesięcioleciach gwałtownie wzrosło zapotrzebowanie na produkty ekologiczne. <foreign xml:lang="en" id="UUIDddf3aa0b-4277-41b0-542a-bb111aa89848">Organic Trade Association</foreign> poinformowało, że ich sprzedaż w Stanach Zjednoczonych wzrosła z 1 mld dol. w 1990 r. do 35,1 mld dol. w roku 2013, z czego ponad 90% stanowiły produkty spożywcze.</para>
+        <para id="UUIDad362517-3071-4673-457a-7ccfec196c0b">Dlaczego zatem żywność ekologiczna jest droższa niż jej standardowe odpowiedniki? Odpowiedź na to pytanie jest dość łatwa, jeśli do jej udzielenia wykorzystamy model podaży i popytu. Ponieważ ludzie dowiedzieli się więcej o szkodliwym wpływie nawozów chemicznych, hormonów wzrostu, pestycydów i tym podobnych substancji stosowanych w uprawach przemysłowych, doszło do znaczącej zmiany preferencji konsumentów na korzyść bezpieczniejszej żywności ekologicznej. Ta zmiana gustów połączona ze wzrostem dochodów pozwoliła ludziom kupować droższe produkty i sprawiła, że żywność ekologiczna stała się bardziej popularna, a to doprowadziło do zwiększonego popytu. Ilustracją graficzną tych trendów byłoby przesunięcie krzywej popytu w prawo, co automatycznie oznacza przesunięcie w górę po krzywej podaży, ponieważ reakcją producentów na wzrost cen rynkowych byłoby zwiększenie ilości oferowanych na rynku.</para>
+        <para id="UUID1209afe9-ae2a-4629-6b06-ec055a9c20f5">Oprócz ruchu po krzywej podaży doszło również do przesunięcia tej krzywej w prawo, bowiem z biegiem czasu liczba rolników zajmujących się uprawami ekologicznymi także wzrosła. Ponieważ zarówno popyt, jak i podaż przesunęły się w prawo, ilość żywności ekologicznej w równowadze jest zdecydowanie wyższa niż jeszcze 20–30 lat temu. Jednak cena warzyw i owoców ekologicznych spadłaby tylko wtedy, gdyby wzrost podaży był większy niż wzrost popytu. A to może potrwać, ponieważ dostosowanie po stronie podaży (wzrost areału upraw organicznych) następuje wolniej niż dostosowanie po stronie popytu. Koszt produkcji tej żywności może również w sposób trwały pozostać wyższy w porównaniu z uprawami przemysłowymi, ponieważ nawozy organiczne i naturalne metody zwalczania szkodników są droższe niż pestycydy i nawozy sztuczne. A więc ceny żywności ekologicznej mogą nigdy nie obniżyć się do poziomu jej standardowych odpowiedników.</para>
+        <para id="UUID4da400e1-63a1-4b83-6bce-2fa70d536654">Na koniec konkretny przykład z rynku amerykańskiego: w kwietniu 2013 r. <foreign xml:lang="en" id="UUID96db9818-4244-4984-5af4-e17ab6a59274">Environmental Working Group</foreign> opublikowało zestawienie „parszywej dwunastki” owoców i warzyw, które zawierają szczególnie dużo pestycydów, nawet po umyciu. Wpisanie na tę listę truskawek doprowadziło do wzrostu popytu na truskawki ekologiczne, co skutkowało wzrostem zarówno ceny równowagi, jak i ilości truskawek organicznych będących przedmiotem transakcji rynkowych.</para>
+      </note>
+      <section id="UUID1bddd310-1c91-4a79-7376-42e9b514d670" class="summary">
+        <title id="UUIDe4106cb4-8dd7-474a-5f2b-2b805290da8f">Key Concepts and Summary</title>
+        <para id="UUID45c95dc0-ea0d-42c7-741d-0e5030edec32">Nadwyżka konsumenta to różnica między ceną, którą konsumenci są gotowi zapłacić w oparciu o swoje preferencje, a ceną równoważącą rynek. Nadwyżka producenta z kolei to różnica między ceną, przy której producenci są skłonni zaoferować swój produkt na rynku, biorąc pod uwagę koszty produkcji, a ceną równowagi rynkowej. Nadwyżka społeczna (całkowita, ekonomiczna) to suma nadwyżek konsumenta i producenta. Wartość całkowitej nadwyżki jest maksymalna, jeśli na rynku panuje równowaga. Przy każdym innym poziomie ceny i ilości nadwyżka ekonomiczna będzie mniejsza. Strata społeczna to zmniejszenie całkowitej nadwyżki, które jest konsekwencją zmniejszenia lub zwiększenia ilości będącej przedmiotem transakcji rynkowych w stosunku do poziomu równoważącego rynek.</para>
+      </section>
+      <section id="UUIDfb8a592d-f12d-4f76-6831-e91aed32b24a" class="self-check-questions">
+        <title id="UUID546c14f7-398d-47c6-42e8-0404ab2c7086">Self-Check Question</title>
+        <exercise id="UUID5b2a51b1-c95b-4117-409d-beb49f5a5ffe">
+          <problem id="UUID5daedc56-e307-4c97-4b81-ca56c4c5629b">
+            <para id="UUID64ba3d6e-40e8-4a42-4e64-2f00001a50ff">Czy cena maksymalna zwiększa lub zmniejsza liczbę transakcji na rynku? Dlaczego? A co z ceną minimalną?</para>
+          </problem>
+          <solution id="UUID0fa17e4b-35ae-43f6-4925-5533b3be6da5">
+            <para id="UUIDbac1f9d7-9247-4022-5853-52c2412d35d9">Zakładając, że ludzie przestrzegają prawa i nie zawierają transakcji przy cenach wyższych od ceny maksymalnej, cena rynkowa będzie poniżej równowagi, co oznacza, że popyt (Q<sub>d</sub>) będzie większy niż podaż (Q<sub>s</sub>). W konsekwencji liczba transakcji spadnie do Q<sub>s</sub>. Analogicznie rozumując, przy cenie minimalnej cena rynkowa będzie wyższa od ceny równowagi, więc Q<sub>d</sub> będzie mniejsze niż Q<sub>s</sub>. Ponieważ limitem transakcji jest tutaj popyt, liczba transakcji spadnie do Q<sub>d</sub>. Należy zauważyć, że ponieważ zarówno ceny minimalne, jak i ceny maksymalne zmniejszają liczbę transakcji, nadwyżka społeczna także jest mniejsza.</para>
+          </solution>
+        </exercise>
+        <exercise id="UUID42fe3077-80e7-4912-40e9-ba2a15eae1d6">
+          <problem id="UUID34cfaeb1-3ff6-4353-6adf-ee97e779d256">
+            <para id="UUIDe9a3d8d4-35dd-4a35-7d66-1ef8ae30caea">Jeśli cena minimalna przynosi korzyści producentom, to dlaczego zmniejsza nadwyżkę społeczną?</para>
+          </problem>
+          <solution id="UUID432a503d-f17a-4e3f-55e1-c99604917de3">
+            <para id="UUID23d6e2e4-21da-48d6-4365-dca52c75c9d1">Ponieważ straty dla konsumentów są większe niż korzyści dla producentów, efekt netto jest ujemny. Ponieważ utracona nadwyżka konsumenta jest większa niż dodatkowa nadwyżka producenta, nadwyżka społeczna spada.</para>
+          </solution>
+        </exercise>
+      </section>
+      <section id="UUID2b9ea06f-d6f2-487f-4df4-19108de98d13" class="review-questions">
+        <title id="UUIDf94de464-31d6-408d-6433-394feb1c4052">Review Questions</title>
+        <exercise id="UUIDcdac873c-fd92-4649-66dc-103924657b1a">
+          <problem id="UUIDb2682b14-8bac-4975-7247-78849c2cf812">
+            <para id="UUID24d19e2c-c86e-40cd-7033-00d1d0780283">Czym jest nadwyżka konsumenta? W jaki sposób można ją zilustrować, wykorzystując krzywe popytu i podaży?</para>
+          </problem>
+        </exercise>
+        <exercise id="UUID91de9e97-4a6b-4afa-58cd-5d9551425b8f">
+          <problem id="UUIDfb5cc45e-4ac7-42d7-41fa-2acbd2b02330">
+            <para id="UUIDbf2e93fb-e1f0-4249-4a87-851b334426e1">Co to jest nadwyżka producenta? W jaki sposób można ją zilustrować, wykorzystując krzywe popytu i podaży?</para>
+          </problem>
+        </exercise>
+        <exercise id="UUID9a016a12-fa28-4cef-5b50-a4455f1e2d22">
+          <problem id="UUID4d49f5e6-b725-4eed-75e4-1c02f4c740cb">
+            <para id="UUIDc79780c0-9269-4521-5bdd-b6e6880f8871">Czym jest nadwyżka całkowita? W jaki sposób można ją zilustrować, wykorzystując krzywe popytu i podaży?</para>
+          </problem>
+        </exercise>
+        <exercise id="UUIDdc87226b-2e47-47e3-5d88-0b8b65b076f7">
+          <problem id="UUIDb9990bdd-f1a5-47e4-7ffa-3806a77c4c7d">
+            <para id="UUID60a2ee7f-17bb-4797-7820-01612f5c31b0">Jaki jest związek między nadwyżką całkowitą a efektywnością ekonomiczną?</para>
+          </problem>
+        </exercise>
+        <exercise id="UUID90cf8a1e-3198-4de2-744c-930a2daf0a6e">
+          <problem id="UUID95c1ea57-e164-46ed-5173-b4c08e302e9a">
+            <para id="UUID577f871d-fbf1-4ecf-7cc4-91c044ac22c2">Czym jest zbędna strata społeczna?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="UUIDc5d04b73-1dcc-4e18-5268-49f745bb7e9e" class="critical-thinking">
+        <title id="UUID771b64a4-209a-47b1-50dc-debf8e120255">Critical Thinking Questions</title>
+        <exercise id="UUIDfc2bd225-8996-4984-79d2-e29840bfa98a">
+          <problem id="UUIDdd2e04bc-96b3-46e0-79a9-09454c13a1f9">
+            <para id="UUID0d07be0d-1be7-4ede-7df2-76ed873fcd7f">Jakiego terminu użyłby ekonomista, aby zdefiniować sytuację, w której kupujący dostaje „dobrą ofertę” na jakiś produkt?</para>
+          </problem>
+        </exercise>
+        <exercise id="UUID9f912463-5929-4693-6ed1-6bae8460c899">
+          <problem id="UUIDfef65c7f-64a1-4b78-54fb-3853a7874afd">
+            <para id="UUID580db8f9-6341-44e1-5b4f-481daee9b4ae">Wyjaśnij, dlaczego dobrowolne transakcje poprawiają dobrobyt społeczny.</para>
+          </problem>
+        </exercise>
+        <exercise id="UUID53972324-bf0e-4201-4a90-7d1f7e113480">
+          <problem id="UUID571a687e-2bab-4df6-6229-12ad72edb95b">
+            <para id="UUIDcdf9a9e3-79b4-47eb-797c-0d031b291813">Dlaczego na wolnym rynku nigdy nie dojdzie do transakcji w liczbie większej niż ta zapewniająca równowagę? Podpowiedź: Co byłoby potrzebne, aby transakcje zostały zawarte właśnie w tej liczbie?</para>
+          </problem>
+        </exercise>
+      </section>
+    </section>
+  </content>
+  <glossary id="UUIDc1df7f4c-28dd-4149-5ba5-c7c720132aa3">
+    <definition id="fs-id1166067925505">
+      <term id="UUID07fe3939-e4e4-48aa-44ec-c8df0cce0d2b">nadwyżka konsumenta (ang. <foreign xml:lang="en" id="UUIDa9229a90-5d6c-4989-77ef-ab7c880127f6">consumer surplus</foreign>)</term>
+      <meaning id="fs-id1166068655699">
+        <para id="UUID0f29c534-da84-4d08-681d-5fe22f1a919e">dodatkowa korzyść, którą konsument otrzymuje dzięki zakupowi dobra lub usługi, mierzona różnicą między tym, ile byłby skłonny zapłacić, a ceną faktycznie przezeń zapłaconą</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id1166086099625">
+      <term id="UUID076acc13-1b80-4f69-6c16-5314ee7c3f58">zbędna strata społeczna (ang. <foreign xml:lang="en" id="UUID97675c06-6394-44e2-7030-e60667ee7ec2">deadweight loss</foreign>)</term>
+      <meaning id="fs-id1166069806667">
+        <para id="UUID352a621d-1128-48eb-7496-8e598073d01b">strata nadwyżki społecznej, która pojawia się wówczas, gdy rynek produkuje nieefektywną ilość dóbr</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id1166072305589">
+      <term id="UUID1d4e7d68-564e-4973-7835-4e446492cde4">nadwyżka ekonomiczna (ang. <foreign xml:lang="en" id="UUID7d196575-8a71-4d32-4ccc-ef36a8a16020">economic surplus</foreign>)</term>
+      <meaning id="fs-id1166071546261">
+        <para id="UUID6328e79a-84fb-42d2-660b-7bb67fedb7ca">patrz: nadwyżka społeczna</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id1166068138718">
+      <term id="UUID2822f625-de91-4e1c-7bab-081fb629faa2">nadwyżka producenta (ang. <foreign xml:lang="en" id="UUID6e7ea5a4-7dac-4338-70ed-4b1ceaaf178b">producer surplus</foreign>)</term>
+      <meaning id="fs-id1166067494087">
+        <para id="UUID6fd5735d-ffb8-4fe9-74da-f519126c471f">dodatkowa korzyść, jaką otrzymuje producent, sprzedając dobro lub usługę, mierzona różnicą między ceną rzeczywiście uzyskaną przez producenta a ceną, którą byłby on gotowy zaakceptować</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDcc85f9e5-e5ba-40db-7f65-9af78898f878">
+      <term id="UUID4610fba4-d14a-4c4a-7cec-0c5ffd64c90c">nadwyżka całkowita (ang. <foreign xml:lang="en" id="UUIDc2371566-1bf7-4e7b-6024-a9cd9a32d7fb">total surplus</foreign>)</term>
+      <meaning id="UUIDdc4d8972-7c2c-41b0-4b7c-a14379a1be16">
+        <para id="UUID6fd29822-ac0b-42c8-7567-2e837e0a3247">patrz: nadwyżka społeczna</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

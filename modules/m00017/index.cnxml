@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uff2c001d-929e-4b68-a4a2-0f87c4ea69cb" id="Uff2c001d-929e-4b68-a4a2-0f87c4ea69cb" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00017</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:53.611085156+00:00</md:version>
+    <md:created>2022-08-08T07:43:53.611085156+00:00</md:created>
+    <md:revised>2022-08-08T07:43:53.611085156+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>ff2c001d-929e-4b68-a4a2-0f87c4ea69cb</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="CNX_Econ_C05_000" class="splash">
+      <title id="UUID60584307-25ed-4862-74fd-789e96545f84">Multimedia na żądanie</title>
+      <media alt="Zrzut ekranu witryny Netflix Watch Instantly umożliwiającej natychmiastowe oglądanie filmów i odcinków seriali za pośrednictwem usługi streamingu treści wideo. Zrzut pochodzi z początków działalności serwisu." id="fs-idm38071840">
+        <image src="../../media//CNX_Econv1-2_C05_00.jpg" mime-type="image/jpeg" id="UUID521e84aa-599a-42dd-65e5-2b83ac3eab79" />
+      </media>
+      <caption id="UUIDc96a4d54-efe1-4653-6d10-2b7260710972">Archiwalny zrzut witryny Netflix, Inc., amerykańskiego producenta filmowego oraz dostawcy internetowych usług streamingowych działającego w wielu krajach świata, w tym w Polsce. W USA serwis oferuje klientom również wysyłkę pocztą płyt DVD z filmami. Za usługę tę płaci się stałą opłatę abonamentową. (Źródło: modyfikacja pracy Traci Lawson/Flickr Creative Commons)</caption>
+    </figure>
+    <note type="note" id="fs-idp2201424" class="bringhome economics">
+      <title id="UUID3e1eff22-74ef-425d-4408-205ffc3938f4">Ile to będzie?</title>
+      <para id="fs-idp6584768">Wyobraź sobie, że idziesz do ulubionej kawiarni, a kelner informuje cię o zmianie cen. Zamiast 6 zł za filiżankę kawy ze śmietanką i cukrem zapłacisz teraz 5 zł za kawę i ewentualnie po złotówce za śmietankę i wybrany słodzik, cukier lub miód. Jeśli nie chcesz zapłacić za kawę więcej niż dotychczasowe 6 zł, musisz wybrać pomiędzy śmietanką a czymś słodkim do kawy. Jeśli chcesz mieć jedno i drugie, musisz zapłacić o 1 zł więcej. Brzmi absurdalnie? Cóż, jest to sytuacja podobna do tej, w jakiej w 2011 r. znaleźli się klienci Netfliksa – platforma podniosła wówczas cenę za jeden ze swoich pakietów usług aż o 60%.</para>
+      <para id="fs-idp3484288">Na początku 2011 r. klienci Netfliksa płacili ok. 10 dol. miesięcznie za pakiet składający się z usługi dostępu do streamingu treści wideo oraz możliwości korzystania z wypożyczalni DVD. W lipcu 2011 r. firma ogłosiła zmianę pakietu usług. Klienci, którzy chcieli zachować dostęp zarówno do streamingu, jak i wypożyczalni DVD, musieli zapłacić 15,98 dol. miesięcznie, co stanowiło wzrost ceny o niemal 60%. W 2014 r. przedsiębiorstwo podniosło również cenę subskrypcji usługi streamingu wideo z 7,99 do 8,99 dol. miesięcznie dla nowych klientów z USA. W tym samym roku Netflix zwiększył ponadto cenę korzystania z treści w standardzie 4K z 9 do 12 dol. miesięcznie.</para>
+      <para id="fs-idp9005760">Jak na podwyżkę cen zareagowali klienci tego przedsiębiorstwa? Czy porzucili Netfliksa? Czy łatwość dostępu do innych dostawców treści wideo wpłynęła na sposób ich reakcji? Odpowiedzi na te pytania są przedmiotem analizy w niniejszym rozdziale. Skoncentrujemy się w nim na zmianie zapotrzebowania zgłaszanego przez konsumentów w reakcji na zmianę ceny rynkowej, czyli zjawisku, które ekonomiści nazywają elastycznością.</para>
+    </note>
+    <note type="note" id="fs-idp1432688" class="chapter-objectives economics">
+      <title id="UUID251f2f45-5f52-4909-4fec-b4b99e094e17">Wprowadzenie do rozdziału</title>
+      <para id="fs-idm14297408">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idm31795888">
+        <item id="UUID8ba5da80-16ca-4dad-59fe-d60952b1c6da">
+          <para id="UUIDc2a1c278-2d44-419d-693f-6ec6891e669b">Czym jest elastyczność cenowa popytu i elastyczność cenowa podaży</para>
+        </item>
+        <item id="UUID7178cb0b-c677-4df6-47dd-75173b36bdcb">
+          <para id="UUID3fcb10d2-0998-4b1d-65cf-dec5401a4077">W jakich przypadkach elastyczność przyjmuje skrajne bądź stałe wartości</para>
+        </item>
+        <item id="UUIDd7500623-b027-4cde-5537-a5648030b997">
+          <para id="UUID6af33694-17df-4788-4fe2-a5eec87a5744">Jakie są związki pomiędzy elastycznością a polityką cenową</para>
+        </item>
+        <item id="UUID616e9b29-6035-43fb-4772-f7f684b89b0a">
+          <para id="UUID36345f8a-daa6-40bd-7105-3c7625d41263">Względem jakich, poza ceną, parametrów można liczyć elastyczność popytu i podaży</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp3958192">Każdy, kto zajmuje się ekonomią, zna prawo popytu: wyższa cena prowadzi do mniejszego zapotrzebowania, <foreign xml:lang="la" id="UUID5a78d510-c357-4075-49dc-43eff703e0b9">ceteris paribus</foreign>. Jednak odpowiedź na pytanie o to, o ile niższa będzie wielkość zapotrzebowania w reakcji na wzrost ceny, nie jest już taka prosta. Podobnie prawo podaży mówi, że wyższa cena przynosi większą ilość oferowaną na rynku przez sprzedawców, <foreign xml:lang="la" id="UUID059e0339-e522-4eac-588c-e4e9cf977068">ceteris paribus</foreign>. Pytanie brzmi: o ile większą? W tym rozdziale wyjaśnimy, jak znaleźć odpowiedzi na te pytania i dlaczego są one niezwykle ważne w świecie realnych problemów ekonomicznych.</para>
+    <para id="fs-idp7095584">Analizowanie tych zagadnień wymaga zrozumienia pojęcia elastyczności. <term cmlnle:reference="elastyczność" id="UUID5bc25ec4-d2a2-4ec9-4fa4-fad8885e0cf9">Elastyczność</term> (ang. <foreign xml:lang="en" id="UUID24aec6e6-11fc-425e-667b-d1ad96165aa5"><term cmlnle:reference="elasticity" id="UUID587421e4-04dc-4ee1-6657-e1f87c01f506">elasticity</term></foreign>) to koncepcja ekonomiczna, która mierzy wrażliwość jednej zmiennej na zmiany innej zmiennej. Załóżmy, że zrzucasz dwa przedmioty z balkonu na drugim piętrze. Pierwszym jest piłka tenisowa, drugim – cegła. Który przedmiot odbije się wyżej? Oczywiście piłka tenisowa. Powiedzielibyśmy, że piłka tenisowa ma większą elastyczność.</para>
+    <para id="fs-idp5868816">Rozważmy teraz przykład ekonomiczny. Podatek akcyzowy nałożony na papierosy jest przykładem instrumentu finansowego mającego zmniejszyć negatywne konsekwencje konsumpcji tego specyficznego dobra, które co prawda sprawia subiektywną przyjemność osobie uzależnionej od nikotyny, ale obiektywnie szkodzi zarówno samemu palaczowi, jak i całemu społeczeństwu. W 2021 r. w Polsce stawka podatku akcyzowego nałożonego przez ministra finansów na papierosy wyniosła 747,67 zł za 1 tys. sztuk. Zgodnie z planami rządu podatek akcyzowy miałby w 2022 r. wzrosnąć o 5%, co przełożyłoby się na średni wzrost ceny paczki papierosów o 30 gr. Kluczowe pytanie brzmi: jeśli taka propozycja zostanie ostatecznie wprowadzona w życie, o ile spadną zakupy papierosów?</para>
+    <para id="fs-idp1773936">Podatki nakładane na wyroby tytoniowe służą dwóm celom: zwiększaniu dochodów podatkowych państwa i zniechęcaniu do konsumpcji papierosów. Jeżeli wyższy podatek skutecznie zmniejsza konsumpcję i powoduje duży spadek wielkości sprzedaży papierosów, wówczas wzrost podatku nie przyniesie państwu wyraźnie wyższych dochodów. Natomiast w sytuacji, w której wyższy podatek od papierosów nie doprowadzi do znacznego spadku popytu, państwo uzyska większe dochody. Tak więc gdy rząd próbuje określić skutki zmiany stawki podatku od papierosów, musi przeanalizować, w jakim stopniu podatek wpływa na liczbę kupowanych papierosów. To zagadnienie jest znacznie szersze i nie dotyczy jedynie państwa i zbieranych przez nie podatków. Każde przedsiębiorstwo boryka się bowiem z podobnymi problemami. Kiedy rozważa podniesienie ceny, musi określić, jak bardzo jej wzrost zmniejszy wielkość zapotrzebowania na to, co sprzedaje. I odwrotnie, gdy przedsiębiorstwo wystawia swoje produkty na sprzedaż, musi oczekiwać (lub mieć nadzieję), że niższa cena doprowadzi do znacznego wzrostu zapotrzebowania.</para>
+  </content>
+</document>

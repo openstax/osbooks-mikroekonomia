@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ufa13a385-e795-4627-b647-f4428c83e1de" id="Ufa13a385-e795-4627-b647-f4428c83e1de" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do rozdziału</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00037</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Wprowadzenie do rozdziału</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:56.806601957+00:00</md:version>
+    <md:created>2022-08-08T07:43:56.806601957+00:00</md:created>
+    <md:revised>2022-08-08T07:43:56.806601957+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>fa13a385-e795-4627-b647-f4428c83e1de</md:uuid>
+  </metadata>
+  <content>
+    <?cnx.eoc class="summary" title="Chapter Review"?>
+    <?cnx.eoc class="self-check-questions" title="Self-Check Questions"?>
+    <?cnx.eoc class="review-questions" title="Review Questions"?>
+    <?cnx.eoc class="critical-thinking" title="Critical Thinking Questions"?>
+    <?cnx.eoc class="problems" title="Problems"?>
+    <?cnx.eoc class="references" title="References"?>
+    <figure id="fig-ch09_00_01" class="splash">
+      <title id="UUID1e1adc3d-5eff-4e94-4231-68b8e850c0e5">Polityczna siła monopolu na rynku bawełny</title>
+      <media alt="Zdjęcie przedstawia fragment krzewu bawełny z widoczną kępką białych włókien." id="fs-idm41927008">
+        <image src="../../media//CNX_Econ_C09_000.jpg" mime-type="image/jpeg" id="UUIDfbce1f35-a264-4d9a-5e36-9424546dfdbb" />
+      </media>
+      <caption id="UUIDa28976b6-4cc0-4955-5c00-c938899f40f0">W połowie XIX w. południowe stany USA miały niemalże monopol na dostawy bawełny do Wielkiej Brytanii. Stany te usiłowały wykorzystać tę siłę ekonomiczną jako główny element siły politycznej i skłonić Wielką Brytanię do formalnego uznania Skonfederowanych Stanów Ameryki. (Źródło: modyfikacja pracy ashleylovespizza/Flickr Creative Commons)</caption>
+    </figure>
+    <note type="note" id="fs-idm86710608" class="bringhome economics">
+      <title id="UUIDfe0164bf-4fc2-4de6-4d99-a0051c5bd6c8">Reszta jest historią</title>
+      <para id="UUID8a0ed5d8-e4fe-4daf-782c-c7ca6586edf0">Wiele z otwierających kolejne rozdziały niniejszej publikacji studiów przypadków koncentruje się na wydarzeniach bieżących lub niedawnych. Tym razem jednak cofniemy się głębiej w przeszłość, aby zobaczyć, jak monopole kształtowały historię.</para>
+      <para id="UUID141901a6-1bbe-41e0-53ad-66e9fbc43902">Wiosną 1773 r. Kompania Wschodnioindyjska (<emphasis effect="italics">East India Company</emphasis>), przedsiębiorstwo, które w swoim czasie było określane jako „zbyt duże, by upaść”, przeżywało trudności finansowe związane ze spadkiem cen herbaty na rynkach światowych. Aby wesprzeć upadającą spółkę, brytyjski parlament zatwierdził ustawę o herbacie (<foreign xml:lang="en" id="UUID16245973-8484-4e00-7070-fabfc0676742">Tea Act)</foreign>. Prawo to podtrzymało opodatkowanie herbaty i uczyniło Kompanię Wschodnioindyjską jedynym uprawnionym dostawcą suszu herbacianego do kolonii amerykańskich. Nowe regulacje uderzyły w amerykańskich importerów tego produktu. W listopadzie mieszkańcy Bostonu mieli już dość. Odmówili zezwolenia na rozładunek herbaty, powołując się na zasadę, zgodnie z którą nakładanie podatków i opłat powinno być ściśle powiązane z emancypacją polityczną amerykańskich kolonii (<foreign xml:lang="en" id="UUID4cbe667e-b91e-485a-4b0c-c06273fd35c5">no taxation without representation</foreign>). Kilka gazet, w tym <foreign xml:lang="en" id="UUID674117f0-8088-47dd-752f-246140862076">„The Massachusetts Gazette”</foreign>, ostrzegało statki przypływające z herbatą: „Jesteśmy przygotowani i nie omieszkamy sprawić, by niepożądaną wizytę na pokładzie złożyli Mohawkowie”, co było ledwie zawoalowaną groźbą. W rzeczywistości napaści na brytyjskie statki dokonali koloniści przebrani za Indian.</para>
+      <para id="UUID8c3b5d1a-e794-46cb-6f6d-1b45c1cea7ae">Teraz przenieśmy się w czasie do roku 1860. W przeddzień wojny secesyjnej istniał inny, niemal monopolistyczny dostawca o historycznym znaczeniu – amerykański przemysł bawełniany. W tym czasie stany południowe dostarczały większość bawełny importowanej do Wielkiej Brytanii. Południe, chcąc odłączyć się od Unii, usiłowało wykorzystać znaczną zależność Wielkiej Brytanii od amerykańskiej bawełny i wymóc na Brytyjczykach formalne dyplomatyczne uznanie Skonfederowanych Stanów Ameryki.</para>
+      <para id="UUID4817201f-60dd-4fcb-7daa-5d60edaf4885">To prowadzi nas do tematu niniejszego rozdziału: monopolu, czyli przedsiębiorstwa, które kontroluje całość lub zdecydowaną większość rynkowej podaży dobra lub usługi. Jak przedsiębiorstwa monopolistyczne zachowują się na rynku? Jaką siłą dysponują? Czy może ona mieć niezamierzone konsekwencje? Powrócimy do tego przykładu na końcu rozdziału, aby zobaczyć, jak monopole na rynkach herbaty i bawełny wpłynęły na historię Stanów Zjednoczonych.</para>
+    </note>
+    <note type="note" id="fs-idp117157520" class="chapter-objectives economics">
+      <title id="UUID7b875f03-1ed3-47ed-552f-27aa8a1f2eaf">Wprowadzenie do rozdziału</title>
+      <para id="fs-idm10208320">Z lektury tego rozdziału dowiesz się:</para>
+      <list id="fs-idp26087104">
+        <item id="UUID8c3a0700-adf8-4e5f-413b-eb9e2460fe0d">
+          <para id="UUID9dfe9c25-1115-43c7-7d5c-88a95088348c">Jak dzięki różnym barierom wejścia powstają monopole</para>
+        </item>
+        <item id="UUID7fd7e375-fd44-4bd5-56d4-fb3b89ee5e6c">
+          <para id="UUIDf753cf5c-8b3a-4819-5d0f-7453561a2868">W jaki sposób maksymalizująca zysk firma monopolistyczna wybiera wielkość produkcji i określa cenę wyrobu</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID95e377d4-eeb9-45dd-5340-6510b8f850f7">Wiele osób sądzi, że menedżerowie najwyższego szczebla w przedsiębiorstwach są największymi zwolennikami konkurencji rynkowej, ale to przekonanie jest dalekie od prawdy. Pomyśl o tym w ten sposób: jeśli bardzo chcesz zdobyć złoty medal olimpijski, to czy wolisz być – dzięki ciężkiemu treningowi, dobrym trenerom i unikatowemu wyposażeniu – w znacznie lepszej formie od wszystkich innych konkurentów, czy też rywalizować z wieloma sportowcami równie dobrymi jak ty? Podobnie jeśli chcesz osiągnąć bardzo wysoki poziom zysków: wolisz zarządzać biznesem, który ma tylko niewielką konkurencję (lub nie ma jej wcale), czy borykać się z wieloma sprawnymi, konkurencyjnymi firmami, które próbują sprzedawać swoje wyroby twoim klientom? Być może masz już za sobą lekturę rozdziału o doskonałej konkurencji. W tym rozdziale przeanalizujemy przykład struktury rynku z drugiego bieguna, czyli monopol.</para>
+    <para id="UUID76433b70-766c-4b7f-70e3-1f941d5bd02d">Jeśli doskonała konkurencja to rynek, na którym pojedyncze przedsiębiorstwa nie mają żadnej siły wpływu i po prostu reagują na cenę rynkową, to monopol jest rynkiem bez konkurencji, a przedsiębiorstwo będące jedynym sprzedawcą danego produktu dysponuje pełnią siły monopolowej. Ponieważ monopol nie ma żadnej znaczącej konkurencji, może pobierać dowolną cenę, oczywiście uwzględniając zależności wynikające z krzywej popytu. Monopol z definicji odnosi się do pojedynczego przedsiębiorstwa, jednak w praktyce ludzie często używają tego terminu do opisu rynku, w którym jeden podmiot gospodarczy ma po prostu bardzo duży udział. Jest to podejście słuszne, gdyż czynnikiem, który odróżnia monopol od innych struktur rynku jest swoboda w kształtowaniu cen. Swoboda ta jest niezależna od tego, czy na rynku rzeczywiście działa tylko jedna firma, czy też takich podmiotów jest więcej, ale największy z nich ma udział wielokrotnie przekraczający względną sprzedaż wszystkich konkurentów razem wziętych. Jakkolwiek w ścisłym sensie tego typu struktura rynku nie jest monopolem, lecz oligopolem z liderem na rynku.</para>
+    <para id="UUID0e043446-163b-4658-4a05-a59684a46a0e">Chociaż istnieje bardzo niewiele prawdziwych monopoli, to mamy z nimi do czynienia codziennie, często nie zdając sobie z tego sprawy: Totalizator Sportowy na terenie Polski, przedsiębiorstwa zajmujące się dystrybucją energii elektrycznej na rynkach lokalnych, wodociągowe i wywożące śmieci na terenie konkretnych jednostek samorządu terytorialnego (gmin i miast na prawach powiatów) – to jedynie kilka przykładów. Niektóre nowe leki są produkowane tylko przez jedno przedsiębiorstwo farmaceutyczne i nie istnieją żadne ich substytuty.</para>
+    <para id="UUIDd359a9e6-995b-4901-5a1f-2d7a639f38a0">Od połowy lat 90. XX w. do 2004 r. Departament Sprawiedliwości Stanów Zjednoczonych ścigał firmę <foreign xml:lang="en" id="UUID0b447f87-d371-40d0-601c-8240a1877075">Microsoft Corporation</foreign> za instalację aplikacji <foreign xml:lang="en" id="UUID6901cffa-07b5-44ae-4e0a-843bbc24ec29">Internet Explorer</foreign> jako domyślnej przeglądarki internetowej w systemie operacyjnym Windows. Departament Sprawiedliwości argumentował, że Microsoft – posiadając niezwykle duży udział w rynku systemów operacyjnych i udostępniając bezpłatną przeglądarkę internetową – stosował nieuczciwą konkurencję w stosunku do producentów innych aplikacji tego typu, takich jak <emphasis effect="italics" /><foreign xml:lang="en" id="UUID2c98d254-e546-499e-6e0d-d672b5e4d609">Netscape Navigator</foreign>. Ponieważ prawie wszyscy użytkownicy indywidualni korzystali z systemu Windows, a za jego pośrednictwem również z Internet Explorera, niemal wyeliminowało to potrzebę poszukiwania innych przeglądarek i uniemożliwiło konkurentom zdobycie choćby przyczółka na rynku, dającego widoki na jakąkolwiek ekspansję w dłuższym okresie. W 2013 r. system Windows działał na ponad 90% najczęściej sprzedawanych komputerów osobistych w Stanach Zjednoczonych. W 2015 r. amerykański sąd federalny odrzucił z kolei zarzuty antymonopolowe wysunięte wobec <foreign xml:lang="en" id="UUIDbc4c6963-b04e-49f9-4d0c-fbdaccbaaa4f">Google Inc.</foreign> (obecne <foreign xml:lang="en" id="UUID0bd7a63e-406b-4a9f-450a-a22668c1e10d">Alphabet Inc.</foreign>), jakoby firma ta zawarła umowę z producentami urządzeń mobilnych (telefonów i tabletów), aby ci instalowali <foreign xml:lang="en" id="UUID4865552f-9a94-4858-7ef8-171c63bb3193">Google</foreign> jako domyślną wyszukiwarkę.</para>
+    <para id="UUIDdd65df41-4b4b-4f6c-6ea7-bcc6128d7452">Niniejszy rozdział rozpoczyna się od opisu tego, w jaki sposób monopole są chronione przed konkurencją, np. przez prawo, które ją wyklucza, przez przewagi technologiczne oraz pewne specyficzne konfiguracje popytu i podaży. Następnie zostanie wyjaśniony sposób, w jaki monopolista wybiera maksymalizującą zysk wielkość produkcji i jak określa cenę swojego wyrobu. Przedsiębiorstwo monopolistyczne wciąż martwi się o to, czy konsumenci będą kupować jego produkty, czy też wydadzą pieniądze na coś zupełnie innego. Ale nie musi się już przejmować działaniami innych, konkurencyjnych przedsiębiorstw wytwarzających takie same lub podobne produkty. W rezultacie monopol nie przyjmuje cen z rynku, jak czyni to przedsiębiorstwo na rynku doskonale konkurencyjnym, bo ma możliwości wyznaczania ceny za swój produkt. O monopoliście mówimy, że jest twórcą cen.</para>
+  </content>
+</document>

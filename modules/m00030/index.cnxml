@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ucdd9d72b-e1af-4f78-a67b-b65a7a4c10f6" id="Ucdd9d72b-e1af-4f78-a67b-b65a7a4c10f6" xml:lang="en" cnxml-version="0.7">
+  <title>Produkcja w długim okresie</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00030</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Produkcja w długim okresie</md:title>
+    <md:language>en</md:language>
+    <md:version>2022-08-08T07:43:55.565747585+00:00</md:version>
+    <md:created>2022-08-08T07:43:55.565747585+00:00</md:created>
+    <md:revised>2022-08-08T07:43:55.565747585+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>cdd9d72b-e1af-4f78-a67b-b65a7a4c10f6</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID398973bd-e181-4753-791b-c4f6852f90cd" class="learning-objectives">
+      <para id="eip-552">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID733799c1-ede5-45c3-5891-5692c5c12317">
+        <item id="UUID8cd97f61-dd5d-4741-6b39-00369ea07de6">
+          <para id="UUID5100c162-5a29-4d54-4502-ddb34b6133d9">Zrozumieć różnice między funkcją produkcji w krótkim a funkcją produkcji w długim okresie</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID72ac02f2-6a38-4482-5481-5e3969adc618">W długim okresie wszystkie czynniki produkcji (łącznie z kapitałem) są zmienne, a więc nasza funkcja produkcji ma postać:</para>
+    <equation id="UUIDa8adb593-2f2b-4ca9-7660-0dbf50416f7b" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi> Q</mi><mo> = </mo><mi>f</mi><mo>[</mo><mi>L</mi><mtext>,</mtext><mspace width="0.2em" /><mi>K</mi><mo>]</mo></math></equation>
+    <para id="UUID979c6c5d-d2d0-4805-7ec6-644daf6e8815">Rozważmy sytuację przedsiębiorstwa, które zajmuje się przygotowywaniem korespondencji handlowej w różnych językach na zlecenie. Firma zatrudnia maszynistki, które będziemy traktować jako czynnik produkcji – praca. Wykorzystują one komputery, które są kapitałem przedsiębiorstwa. Na początku firma ma niewiele zleceń, tak że tylko jedna maszynistka i jeden komputer są zajęci przez cały dzień. Powiedzmy, że w ciągu jednego dnia firma jest w stanie przygotować pięć dokumentów. Załóżmy teraz, że następnego dnia przedsiębiorstwo otrzyma od dobrego klienta pilne zlecenie na przygotowanie 10 dokumentów. W świecie idealnym firma po prostu zatrudni dwie maszynistki i kupi dwa komputery, by wykonać zadanie w ciągu jednego dnia. To pozwoli wyprodukować dwa razy więcej dokumentów niż normalnie. Tyle że w krótkim okresie przedsiębiorstwo ma określony kapitał trwały, czyli tylko jeden komputer. Poniższa tabela przedstawia tę sytuację:</para>
+    <table summary="Table demonstrates the situation of the firm with the typists and the PC. With one typist, the workers product five letters per hour, and Marginal Productivity equals 5. With two typists, the firm produces seven letters per hour, and MP is 2. With three typists, they product 8 letters per hour, and MP is 1. For the remaining number of typists, 4, 5, and 6, the firm produces eight letters per hour, and MP is 0 for each." id="Table_07_11"><title id="UUID704d5026-2a55-8ab0-4e3c5ee8207e53ad">Krótkookresowa funkcja produkcji przedsiębiorstwa przygotowującego dokumenty handlowe na zlecenie</title><tgroup cols="8" id="UUID704d5026-79e4-8e40-9a87fcdacf595457"><colspec colnum="1" colname="col1" id="UUID704d5026-3b46-ec63-ec10b841fb7fc6f4" /><colspec colnum="2" colname="col2" id="UUID704d5026-ea9d-9890-94e702704735536d" /><colspec colnum="3" colname="col3" id="UUID704d5026-5362-7b5c-e260c40f34f53001" /><colspec colnum="4" colname="col4" id="UUID704d5026-30c0-87b2-8876a271aefb58b3" /><colspec colnum="5" colname="col5" id="UUID704d5026-0f3a-88b5-4646e20e84894434" /><colspec colnum="6" colname="col6" id="UUID704d5026-95c9-8805-8ffb62ad14d7a162" /><colspec colnum="7" colname="col7" id="UUID704d5026-08ce-7ba2-895feabd3baaf4b5" /><colspec colnum="8" colname="col8" id="UUID704d5026-7ca6-ae01-d9e08d259fc422c0" /><tbody id="UUID704d5026-07bd-43d8-71f8a8baa46b0c83"><row id="UUID704d5026-6ee4-1770-9b82fa137fef5721"><entry id="UUID704d5026-2a95-219f-5e80b8bcf590e399">Maszynistki (L)</entry><entry id="UUID704d5026-47b1-e9b2-a9e135c1e68fb1b9">1</entry><entry id="UUID704d5026-e7a5-7915-1690a27d2e0c867f">2</entry><entry id="UUID704d5026-5869-797a-b1f82198fa2ff3ac">3</entry><entry id="UUID704d5026-f564-67e6-f1e967f5d46c5dd3">4</entry><entry id="UUID704d5026-de53-0ab7-9442e5c60e9b3a45">5</entry><entry id="UUID704d5026-307d-abb2-e09f85ccc856a58c">6</entry><entry id="UUID704d5026-7ba6-a97c-4625b2eda62676bc" /></row><row id="UUID704d5026-ac94-4364-71ad5e2c0d737c91"><entry id="UUID704d5026-8983-78aa-1bb63f462c0fb820">Produkt całkowity/dzień (TP)</entry><entry id="UUID704d5026-2c0c-e08b-a8e2809a1f1f0b3b">5</entry><entry id="UUID704d5026-178f-1891-f56fe9553869ca08">7</entry><entry id="UUID704d5026-6743-7ab4-c2e3b532c53f1ff2">8</entry><entry id="UUID704d5026-3b94-dcec-7e0b13c67236731f">8</entry><entry id="UUID704d5026-6e73-88bd-373013931dd7b251">8</entry><entry id="UUID704d5026-d5be-86fa-a53f0fe5d3cc5ce8">8</entry><entry id="UUID704d5026-27ba-e711-1116beb262cc12e6">Kapitał = 1 komputer</entry></row><row id="UUID704d5026-9461-9f04-8463f5cb7e127212"><entry id="UUID704d5026-3410-1922-5e890c3db84a54f6">Produkt krańcowy (MP)</entry><entry id="UUID704d5026-5435-fff6-9e24471a2712c814">5</entry><entry id="UUID704d5026-a464-41d0-558492df7d527532">2</entry><entry id="UUID704d5026-280c-07ff-337f400f8496d00a">1</entry><entry id="UUID704d5026-606b-8217-3567926776359e1b">0</entry><entry id="UUID704d5026-fa93-494a-a5a89270cee21f8d">0</entry><entry id="UUID704d5026-f748-3b9f-38d085373cafe17b">0</entry><entry id="UUID704d5026-c6ed-6ab7-6a88338a1fc064f7" /></row></tbody></tgroup></table>
+    <para id="UUID0f793af7-26a6-4aa0-657b-9dbff3d5eb42">W krótkim okresie jedynym zmiennym czynnikiem jest praca, więc jedynym sposobem zwiększenia produkcji jest zatrudnienie dodatkowych pracowników. Co może robić druga maszynistka? Co może wnieść do tego specyficznego procesu produkcyjnego? Być może będzie odbierała telefony, co często przeszkadza w maszynopisaniu. A co z trzecim pracownikiem? Może mógłby przynieść kawę dwóm pierwszym. Jeśli liczba maszynistek wzrasta, mogą się one częściej zmieniać przy komputerze, dzięki czemu będą pracować szybciej, bo ich wzrok nie będzie się męczył. W tabeli została wskazana produkcja całkowita analizowanej firmy, ale stosunkowo łatwo możesz obliczyć również produkcję krańcową dla tego przedsiębiorstwa. Zastanów się zatem, w którym momencie (np. po zatrudnieniu której maszynistki) zaczyna się zmniejszać produktywność krańcowa i, co ważniejsze, dlaczego.</para>
+    <para id="UUIDc0a84d8e-41b2-4994-654b-894a4f0e5e26">W tym przykładzie produktywność krańcowa zaczyna spadać wraz z zatrudnieniem drugiego pracownika. Oczywiście dlatego, że przedsiębiorstwo dysponuje stałym nakładem kapitału. Proces produkcyjny polegający na przygotowywaniu korespondencji handlowej na zlecenie działa najlepiej, kiedy każda maszynistka dysponuje swoim komputerem. Zwiększanie liczby pracowników bez powiększania liczby komputerów gwałtownie zmniejszy produktywność krańcową.</para>
+    <para id="UUID2d5c10de-897c-452c-5a23-9401ff01b5f0">Rozważmy teraz sytuację przedsiębiorstwa w długim okresie. Załóżmy, że zapotrzebowanie na usługi przedsiębiorstwa wzrasta w sposób trwały do 15 dokumentów dziennie. Co można zrobić, aby przedsiębiorstwo działało bardziej wydajnie? Jeśli popyt się potroi, to przedsiębiorstwo może nabyć dwa dodatkowe komputery, co dałoby nam nową funkcję produkcji w krótkim okresie. Została ona przedstawiona w czwartym i piątym wierszu <link target-id="Table_07_12" cmlnle:case="locative" id="UUIDb24e3435-3990-4e0b-48a2-6058c49ecfa2" />.</para>
+    <table summary="The table illustrates the effects of two extra PCs on the firm. It adds to the previous table. With one PC, the firm can operate as follows: With one typist, the workers product five letters per hour, and Marginal Productivity equals 5. With two typists, the firm produces seven letters per hour, and MP is 2. With three typists, they product 8 letters per hour, and MP is 1. For the remaining number of typists, 4, 5, and 6, the firm produces eight letters per hour, and MP is 0 for each. With three PCs, one typist, the workers product five letters per hour, and Marginal Productivity equals 5. With two typists, the firm produces ten letters per hour, and MP is 5. With three typists, they product fifteen letters per hour, and MP is 5. With four typists, they produce 17 letters per hour, and MP is 2. For five typists, they product eighteen letters, and MP is one. And for six typists, they product 18 letters and MP is zero." id="Table_07_12"><title id="UUID704d5026-679e-b6ab-ef65923b7b58506e">Długookresowa funkcja produkcji przedsiębiorstwa przygotowującego dokumenty handlowe na zlecenie</title><tgroup cols="8" id="UUID704d5026-bd5c-3e79-b8e6121236b89e8a"><colspec colnum="1" colname="col1" id="UUID704d5026-d75d-cbae-3a9cbe2e46393577" /><colspec colnum="2" colname="col2" id="UUID704d5026-fee5-744c-50ef0e0b1e7334fb" /><colspec colnum="3" colname="col3" id="UUID704d5026-b13e-ffb3-1d53bac37a3fda09" /><colspec colnum="4" colname="col4" id="UUID704d5026-e64f-3231-b608fa90d4fd8a74" /><colspec colnum="5" colname="col5" id="UUID704d5026-4446-f90e-15e8f6cb1587445d" /><colspec colnum="6" colname="col6" id="UUID704d5026-69b9-d5cc-2bd8554cb5a255b8" /><colspec colnum="7" colname="col7" id="UUID704d5026-1c55-e622-e53ad15d42342efb" /><colspec colnum="8" colname="col8" id="UUID704d5026-0db9-00da-cd16d6d915026123" /><tbody id="UUID704d5026-ba0a-0a9c-604266789e39eb7d"><row id="UUID704d5026-6678-1fb8-9072bc93aacc3602"><entry id="UUID704d5026-ce67-a48a-0e41f4965b0e54ce">Maszynistki (L)</entry><entry id="UUID704d5026-e195-6104-142deda7420fb3ab">1</entry><entry id="UUID704d5026-0487-ba48-543781756237f14f">2</entry><entry id="UUID704d5026-ee73-b216-1f7f3cd1bbd017ff">3</entry><entry id="UUID704d5026-9c01-24ea-b732870cf236b26b">4</entry><entry id="UUID704d5026-6597-cf96-eef20dcace3938df">5</entry><entry id="UUID704d5026-57bf-a4a7-de5155d54955b491">5</entry><entry id="UUID704d5026-b46e-7a47-65c4184ad7cf3efd" /></row><row id="UUID704d5026-7b0a-1778-443d23e476342932"><entry id="UUID704d5026-4328-158f-43aa3155e022f7ab">Produkt całkowity/dzień (TP)</entry><entry id="UUID704d5026-d98d-8bab-d5924344e712e9e8">5</entry><entry id="UUID704d5026-555f-dedc-00cb20ac8845c46e">6</entry><entry id="UUID704d5026-b623-e6c6-e49e9af1bf0acfa9">8</entry><entry id="UUID704d5026-8a1a-3e1a-11a87c6f2e31c79c">8</entry><entry id="UUID704d5026-851e-63ee-37e7cac9f13c90b4">8</entry><entry id="UUID704d5026-df6a-977d-22958f31a5427d78">8</entry><entry id="UUID704d5026-5788-3c4f-382c7c1f87ba92c2">Kapitał = 1 komputer</entry></row><row id="UUID704d5026-1755-d612-6d4a6d9ae90ee451"><entry id="UUID704d5026-5759-b80a-65f69f6c5068cf0c">Produkt krańcowy (MP)</entry><entry id="UUID704d5026-c569-5bcf-91e5d7c101dd3293">5</entry><entry id="UUID704d5026-69e0-7816-43d2e4cbb814dd04">2</entry><entry id="UUID704d5026-08ae-6660-cf199d1fd43d0ab0">1</entry><entry id="UUID704d5026-f7d3-cbb4-be870c39f4f4a66d">0</entry><entry id="UUID704d5026-1983-7c57-010b020d7eb02ad8">0</entry><entry id="UUID704d5026-d3ee-c91e-a217093fd1e7e0c3">0</entry><entry id="UUID704d5026-7c34-3d22-d48308c07bc72c1a" /></row><row id="UUID704d5026-ce7d-b09c-c6a465f1f3c748f3"><entry id="UUID704d5026-35a0-c333-0a47b5b2d33dc01d">Produkt całkowity/dzień (TP)</entry><entry id="UUID704d5026-cc17-1ecd-db3bacce938da17f">5</entry><entry id="UUID704d5026-76cb-b9b5-eb355c848d4cb07b">10</entry><entry id="UUID704d5026-70f8-1d4b-442f04bdcc496b0b">15</entry><entry id="UUID704d5026-7f76-ef62-11bdf0f4a051d3bf">17</entry><entry id="UUID704d5026-4a8c-104d-fe3db472e8c60ee9">18</entry><entry id="UUID704d5026-07c1-f705-22307953d83b1304">18</entry><entry id="UUID704d5026-56f2-c3ae-7865549043a5bed5">Kapitał = 3 komputery</entry></row><row id="UUID704d5026-0a5c-bd6c-439863225e8416a0"><entry id="UUID704d5026-fd16-50c1-c8e9f0f98dea2deb">Produkt krańcowy (MP)</entry><entry id="UUID704d5026-33f1-59ee-f64608e21892bdb1">5</entry><entry id="UUID704d5026-0c71-d65d-039760a8ef4fb7e8">5</entry><entry id="UUID704d5026-af73-de57-14982c70ec359963">5</entry><entry id="UUID704d5026-a51e-d582-5770441758faa2b5">2</entry><entry id="UUID704d5026-dd65-02e0-d519a352973d54e8">1</entry><entry id="UUID704d5026-950f-8761-58f9d6f3cd968849">0</entry><entry id="UUID704d5026-5ee0-08d1-945ec85d17e0d1f5" /></row></tbody></tgroup></table>
+    <para id="UUID3f8e13fc-e58b-461f-5b86-22997cae3f73">Mając do dyspozycji większy zasób kapitału, przedsiębiorstwo może zatrudnić trzech pracowników i każdy z nich będzie generował taki sam produkt krańcowy (5 dokumentów dziennie). Mówiąc bardziej ogólnie – ponieważ wszystkie czynniki produkcji mają zmienny charakter, to długookresowa funkcja produkcji pokazuje efektywny sposób wytwarzania jej dowolnego wolumenu.</para>
+    <section id="fs-id1170272381821" class="summary">
+      <title id="UUIDec2d10e9-fb1a-451f-53c9-6b54b168451e">Key Concepts and Summary</title>
+      <para id="UUIDd3393c71-71be-4945-546a-9812e6615860">W długim okresie nakłady wszystkich czynników produkcji są zmienne. Ponieważ malejąca produktywność krańcowa jest spowodowana stałym nakładem kapitału trwałego, w długim okresie zjawisko to nie występuje. Przedsiębiorstwa mogą wybrać optymalny zasób kapitału, aby wytworzyć pożądany wolumen produkcji.</para>
+    </section>
+    <section id="fs-idm950822368" class="self-check-questions">
+      <title id="UUID90fe2990-3e46-4e0e-5b47-8e376f8dc168">Self-Check Questions</title>
+      <exercise id="eip-561">
+        <problem id="eip-idm444604832">
+          <para id="eip-idm648372704">Jeśli dwóch malarzy jest w stanie pomalować 18 m<sup>2</sup> ściany w ciągu godziny, a trzech malarzy 25 m<sup>2</sup>, to jaki jest produkt krańcowy trzeciego malarza?</para>
+        </problem>
+        <solution id="eip-idm549826064">
+          <para id="eip-idm417789856">Produkt krańcowy trzeciego malarza to 7 m<sup>2</sup>.</para>
+          <equation id="UUID34f535f3-14d1-475d-66af-d8306c9505fa" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable>
+<mtr>
+<mtd columnalign="right"><mtext>produkt krańcowy</mtext></mtd><mtd><mo> = </mo></mtd><mtd columnalign="left"><mtext>zmiana produkcji całkowitej/zmiana wielkości zatrudnienia zmiennego czynnika produkcji</mtext></mtd>
+</mtr>
+<mtr>
+<mtd /><mtd /><mtd columnalign="left"><mtext>zmiana produktu całkowitego</mtext><mo> = </mo><mn>25</mn><mspace width="0.2em" /><mo>−</mo><mn>18 m2</mn><mspace width="0.2em" /></mtd>
+</mtr>
+<mtr>
+<mtd /><mtd /><mtd columnalign="left"><mtext>zmiana produktu całkowitego</mtext><mo> = </mo><mn>7 m2</mn><mspace width="0.2em" /></mtd>
+</mtr>
+<mtr>
+<mtd columnalign="right"><mtext>produkt krańcowy</mtext></mtd><mtd><mo> = </mo></mtd><mtd columnalign="left"><mn>7 m2</mn><mspace width="0.2em" /><mtext>na 1 pracownika</mtext></mtd>
+</mtr>
+<mtr>
+<mtd columnalign="right"><mtext>produkt krańcowy</mtext></mtd><mtd><mo> = </mo></mtd><mtd columnalign="left"><mn>7 m2</mn></mtd>
+</mtr>
+</mtable>
+</math></equation>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm453030576" class="review-questions">
+      <title id="UUIDba7c2a91-8d80-4da1-6af8-ff816ab2c0cd">Review Questions</title>
+      <exercise id="eip-507">
+        <problem id="eip-732">
+          <para id="eip-679">W jaki sposób obliczamy następujące rodzaje kosztów: koszt krańcowy, przeciętny koszt całkowity i przeciętny koszt zmienny?</para>
+        </problem>
+      </exercise>
+      <exercise id="eip-443">
+        <problem id="eip-710">
+          <para id="eip-818">Jaki kształt będą miały: krzywa kosztów stałych, krzywa kosztów zmiennych, krzywa kosztu krańcowego, krzywa przeciętnego kosztu całkowitego i krzywa przeciętnego kosztu zmiennego?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+</document>
