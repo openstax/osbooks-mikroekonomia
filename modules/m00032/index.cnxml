@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Wprowadzenie do rozdziału</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-08T07:43:56.256290163+00:00</md:version>
-    <md:created>2022-08-08T07:43:56.256290163+00:00</md:created>
-    <md:revised>2022-08-08T07:43:56.256290163+00:00</md:revised>
+    <md:version>2022-08-16T10:03:01.035163929+00:00</md:version>
+    <md:created>2022-08-16T10:03:01.035163929+00:00</md:created>
+    <md:revised>2022-08-16T10:03:01.035163929+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -60,6 +60,6 @@
         </item>
       </list>
     </note>
-    <para id="ch08mod00_p07">Większość przedsiębiorstw musi zaakceptować dwa istotne fakty, które determinują ich działalność. Po pierwsze – nikt nie musi kupować wytwarzanych przez nich produktów. Po drugie – nawet klienci, którzy chcieliby nabyć te produkty, mogą zwrócić się do konkurentów. Firmy, które działają na rynkach doskonale konkurencyjnych, w największym stopniu mierzą się z tą rzeczywistością. W niniejszym rozdziale dowiesz się, w jaki sposób takie przedsiębiorstwa podejmują decyzje o tym, ile produkować, czy pozostać na rynku, jaki zysk uda się osiągnąć i wiele innych. Poszczególne branże (czyli grupy sprzedawców wytwarzające ten sam lub podobny produkt) różnią się między sobą pod względem liczby działających przedsiębiorstw, kosztów rozpoczęcia działalności oraz rodzaju sprzedawanego produktu (na ile jest on postrzegany przez potencjalnych nabywców jako standardowy). Modele opisujące sposób postępowania przedsiębiorstw w takich sektorach ekonomiści nazywają <term cmlnle:reference="strukturami rynku" id="UUID337e9695-dc10-4896-62b1-c64d506449af">strukturami rynku</term> (ang. <foreign xml:lang="en" id="UUIDa551d81e-ef41-470f-4f70-c4c62394628e"><term cmlnle:reference="market structure" id="UUID6949bb24-f6d4-4801-5c71-6bdefe6c765b">market structure</term></foreign>). W tym rozdziale skupiamy się na strukturze rynku nazywanej konkurencją doskonałą. W kolejnych przyjrzymy się innym modelom: monopolowi, konkurencji monopolistycznej i oligopolowi.</para>
+    <para id="ch08mod00_p07">Większość przedsiębiorstw musi zaakceptować dwa istotne fakty, które determinują ich działalność. Po pierwsze – nikt nie musi kupować wytwarzanych przez nich produktów. Po drugie – nawet klienci, którzy chcieliby nabyć te produkty, mogą zwrócić się do konkurentów. Firmy, które działają na rynkach doskonale konkurencyjnych, w największym stopniu mierzą się z tą rzeczywistością. W niniejszym rozdziale dowiesz się, w jaki sposób takie przedsiębiorstwa podejmują decyzje o tym, ile produkować, czy pozostać na rynku, jaki zysk uda się osiągnąć i wiele innych. Poszczególne branże (czyli grupy sprzedawców wytwarzające ten sam lub podobny produkt) różnią się między sobą pod względem liczby działających przedsiębiorstw, kosztów rozpoczęcia działalności oraz rodzaju sprzedawanego produktu (na ile jest on postrzegany przez potencjalnych nabywców jako standardowy). Modele opisujące sposób postępowania przedsiębiorstw w takich sektorach ekonomiści nazywają <term cmlnle:reference="struktura rynku" id="UUID337e9695-dc10-4896-62b1-c64d506449af">strukturami rynku</term> (ang. <foreign xml:lang="en" id="UUIDa551d81e-ef41-470f-4f70-c4c62394628e"><term cxlxt:index="foreign" cmlnle:reference="market structure" id="UUID6949bb24-f6d4-4801-5c71-6bdefe6c765b">market structure</term></foreign>). W tym rozdziale skupiamy się na strukturze rynku nazywanej konkurencją doskonałą. W kolejnych przyjrzymy się innym modelom: monopolowi, konkurencji monopolistycznej i oligopolowi.</para>
   </content>
 </document>

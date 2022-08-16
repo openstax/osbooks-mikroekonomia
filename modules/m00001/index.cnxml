@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0" module-id="new" id="new" xml:lang="en" cnxml-version="0.7" class="preface">
-  <title>Preface</title>
-  <metadata xmlns:system-info="http://cnx.rice.edu/system-info">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U49c90efa-89b0-4c18-8abf-582bd51f8720" id="U49c90efa-89b0-4c18-8abf-582bd51f8720" xml:lang="en" cnxml-version="0.7" class="preface">
+  <title>Przedmowa</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00001</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:title>Preface</md:title>
+    <md:content-url>https://legacy.cnx.org/content/m64023/latest/</md:content-url>
+    <md:title>Przedmowa</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-08T07:43:48.881394997+00:00</md:version>
-    <md:created>2022-08-08T07:43:48.881394997+00:00</md:created>
-    <md:revised>2022-08-08T07:43:48.881394997+00:00</md:revised>
+    <md:version>2022-08-16T10:02:58.826064741+00:00</md:version>
+    <md:created>2022-08-16T10:02:58.826064741+00:00</md:created>
+    <md:revised>2022-08-16T10:02:58.826064741+00:00</md:revised>
     <md:actors>
+      <md:person userid="cnxecon2">
+        <md:fullname>OpenStax Economics</md:fullname>
+        <md:email>info@openstax.org</md:email>
+        <md:firstname>OpenStax</md:firstname>
+        <md:surname>Economics</md:surname>
+      </md:person>
+      <md:organization userid="OpenStaxCollege">
+        <md:fullname>OpenStax</md:fullname>
+        <md:email>info@openstax.org</md:email>
+        <md:shortname>OpenStax</md:shortname>
+      </md:organization>
+      <md:person userid="OSCRiceUniversity">
+        <md:fullname>Rice University</md:fullname>
+        <md:email>info@openstax.org</md:email>
+        <md:firstname>Rice</md:firstname>
+        <md:surname>University</md:surname>
+      </md:person>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
         <md:homepage>adaptarr.naukosfera.com</md:homepage>
@@ -17,128 +35,195 @@
       </md:organization>
     </md:actors>
     <md:roles>
+      <md:role type="author">OpenStaxCollege</md:role>
+      <md:role type="maintainer">OpenStaxCollege cnxecon2</md:role>
+      <md:role type="licensor">OSCRiceUniversity</md:role>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution License 4.0
+    </md:license>
+    <md:derived-from url="https://legacy.cnx.org/content/m49463/1.8/" />
+    <md:keywordlist>
+      <md:keyword>bank accounts</md:keyword>
+      <md:keyword>bonds</md:keyword>
+      <md:keyword>borrowing</md:keyword>
+      <md:keyword>budget</md:keyword>
+      <md:keyword>college economics</md:keyword>
+      <md:keyword>competition</md:keyword>
+      <md:keyword>consumer choice</md:keyword>
+      <md:keyword>corporate mergers</md:keyword>
+      <md:keyword>corporate stock</md:keyword>
+      <md:keyword>cost</md:keyword>
+      <md:keyword>demand</md:keyword>
+      <md:keyword>demand curve</md:keyword>
+      <md:keyword>diminishing marginal utility</md:keyword>
+      <md:keyword>discrimination</md:keyword>
+      <md:keyword>division of labor</md:keyword>
+      <md:keyword>economic inequality</md:keyword>
+      <md:keyword>economics</md:keyword>
+      <md:keyword>economic systems</md:keyword>
+      <md:keyword>economies of scale</md:keyword>
+      <md:keyword>elasticity, consumer</md:keyword>
+      <md:keyword>environmental protection</md:keyword>
+      <md:keyword>equilibrium</md:keyword>
+      <md:keyword>explicit costs</md:keyword>
+      <md:keyword>financial</md:keyword>
+      <md:keyword>financial market</md:keyword>
+      <md:keyword>goods and services</md:keyword>
+      <md:keyword>immigration</md:keyword>
+      <md:keyword>implicit costs</md:keyword>
+      <md:keyword>industry</md:keyword>
+      <md:keyword>information</md:keyword>
+      <md:keyword>insurance</md:keyword>
+      <md:keyword>labor</md:keyword>
+      <md:keyword>labor market</md:keyword>
+      <md:keyword>legal monopoly</md:keyword>
+      <md:keyword>macroeconomics</md:keyword>
+      <md:keyword>marginal revenue</md:keyword>
+      <md:keyword>market system</md:keyword>
+      <md:keyword>microeconomics</md:keyword>
+      <md:keyword>minimum wage</md:keyword>
+      <md:keyword>monopolistic competition,</md:keyword>
+      <md:keyword>monopoly</md:keyword>
+      <md:keyword>natural monopoly</md:keyword>
+      <md:keyword>negative externalities</md:keyword>
+      <md:keyword>oligopoly</md:keyword>
+      <md:keyword>opportunity cost</md:keyword>
+      <md:keyword>perfect competition</md:keyword>
+      <md:keyword>positive externalities</md:keyword>
+      <md:keyword>poverty</md:keyword>
+      <md:keyword>price ceiling</md:keyword>
+      <md:keyword>price floor</md:keyword>
+      <md:keyword>public economy</md:keyword>
+      <md:keyword>public firm</md:keyword>
+      <md:keyword>public good</md:keyword>
+      <md:keyword>public goods</md:keyword>
+      <md:keyword>public policy</md:keyword>
+      <md:keyword>regulation</md:keyword>
+      <md:keyword>risk</md:keyword>
+      <md:keyword>scarcity</md:keyword>
+      <md:keyword>special-interest politics</md:keyword>
+      <md:keyword>stocks</md:keyword>
+      <md:keyword>supply</md:keyword>
+      <md:keyword>total utility</md:keyword>
+      <md:keyword>trade</md:keyword>
+      <md:keyword>unions</md:keyword>
+    </md:keywordlist>
+    <md:subjectlist>
+      <md:subject>Mathematics and Statistics</md:subject>
+      <md:subject>Mathematics and Statistics</md:subject>
+    </md:subjectlist>
+    <md:abstract xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0">Principles of Microeconomics is designed for a one-semester microeconomics introductory course. It is traditional in coverage, including introductory economics content, microeconomics, and international economics.  At the same time, the book includes a number of innovative and interactive features designed to enhance student learning.  Instructors can also customize the book, adapting it to the approach that works best in their classroom.</md:abstract>
     <md:uuid>49c90efa-89b0-4c18-8abf-582bd51f8720</md:uuid>
   </metadata>
   <content>
-  <para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="delete_me">Welcome to <emphasis effect="italics">Principles of Microeconomics 2e</emphasis> (2nd Edition), an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost. </para><section id="eip-809"><title>About OpenStax</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-391">OpenStax is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012, and our library has since scaled to over 25 books for college and AP<sup>®</sup> courses used by hundreds of thousands of students. OpenStax Tutor, our low-cost personalized learning tool, is being used in college courses throughout the country. Through our partnerships with philanthropic foundations and our alliance with other educational resource organizations, OpenStax is breaking down the most common barriers to learning and empowering students and instructors to succeed.
-</para></section><section id="eip-100"><title xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute">About OpenStax resources</title><section id="eip-469"><title>Customization</title><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-200"><emphasis effect="italics">Principles of Microeconomics 2e</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.</para><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-id1172417337625">Because our books are openly licensed, you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para><para xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-550">Instructors also have the option of creating a customized version of their OpenStax book. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit the Instructor Resources section of your book page on OpenStax.org for more information.</para></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-696"><title>Errata</title><para id="eip-410">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on OpenStax.org.</para></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-233"><title>Format</title><para id="eip-709">You can access this textbook for free in web view or PDF through OpenStax.org, and for a low cost in print.
-</para></section></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-307"><title>About <emphasis effect="italics">Principles of Microeconomics 2e</emphasis></title><para id="eip-422"><emphasis effect="italics">Principles of Microeconomics 2e</emphasis> (2nd edition) covers the scope and sequence of most introductory microeconomics courses. The text includes many current examples, which are handled in a politically equitable way. The outcome is a balanced approach to the theory and application of economics concepts. The second edition has been thoroughly revised to increase clarity, update data and current event impacts, and incorporate the feedback from many reviewers and adopters. </para><section id="eip-887"><title>Coverage and scope</title><para id="eip-617">For the second edition, we received expansive and actionable feedback from hundreds of adopters who had used the book for several academic terms. These knowledgeable instructors informed the pedagogical courses, learning objective development and fulfillment, and the chapter arrangements. Faculty who taught from the material provided critical and detailed commentary.</para><para id="eip-id1169327261430">The result is a book that covers the breadth of economics topics and also provides the necessary depth to ensure the course is manageable for instructors and students alike. We strove to balance theory and application, as well as the amount of calculation and mathematical examples.  </para><para id="eip-734">The book is organized into five main parts:</para><list id="eip-679"><item><emphasis>What is Economics?</emphasis>  The first two chapters introduce students to the study of economics with a focus on making choices in a world of scarce resources.</item>
-<item><emphasis>Supply and Demand</emphasis>, Chapters 3 and 4, introduces and explains the first analytical model in economics–supply, demand, and equilibrium–before showing applications in the markets for labor and finance.</item>
-<item><emphasis>The Fundamentals of Microeconomic Theory</emphasis>, Chapters 5 through 10, begins the microeconomics portion of the text, presenting the theories of consumer behavior, production and costs, and the different models of market structure, including some simple game theory.</item>
-<item><emphasis>Microeconomic Policy Issues</emphasis>, Chapters 11 through 18, covers the range of topics in applied micro, framed around the concepts of public goods and positive and negative externalities.  Students explore competition and antitrust policies, environmental problems, poverty, income inequality, and other labor market issues. The text also covers information, risk and financial markets, and public economy.</item>
-
-<item><emphasis>International Economics</emphasis>, Chapters 19 and 20, introduces the international dimensions of economics, including international trade and protectionism.
-
-</item></list><para id="eip-766"><title>Alternate sequencing </title><emphasis effect="italics">Principles of Microeconomics 2e</emphasis> was conceived and written to fit a particular topical sequence, but it can be used flexibly to accommodate other course structures. One such potential structure, which fits reasonably well with the textbook content, is provided. Please consider, however, that the chapters were not written to be completely independent, and that the proposed alternate sequence should be carefully considered for student preparation and textual consistency. 
-</para><para id="eip-470">Chapter 1 Welcome to Economics!<newline />
-Chapter 2 Choice in a World of Scarcity<newline />
-Chapter 3 Demand and Supply<newline />
-Chapter 4 Labor and Financial Markets<newline />
-Chapter 5 Elasticity<newline />
-Chapter 6 Consumer Choices<newline />
-Chapter 19 International Trade<newline />
-Chapter 7 Cost and Industry Structure<newline />
-Chapter 12 Environmental Protection and Negative Externalities<newline />
-Chapter 13 Positive Externalities and Public Goods<newline />
-Chapter 8 Perfect Competition<newline />
-Chapter 9 Monopoly<newline />
-Chapter 10 Monopolistic Competition and Oligopoly<newline />
-Chapter 11 Monopoly and Antitrust Policy<newline />
-Chapter 14 Labor Markets and Income<newline />
-Chapter 15 Poverty and Economic Inequality<newline />
-Chapter 16 Information, Risk, and Insurance<newline />
-Chapter 17 Financial Markets<newline />
-Chapter 18 Public Economy<newline />
-Chapter 20 Globalization and Protectionism<newline />
-<newline />
-Appendix A The Use of Mathematics in Principles of Economics<newline />
-Appendix B Indifference Curves<newline />
-Appendix C Present Discounted Value<newline />
-</para></section><section id="eip-4"><title>Changes to the second edition</title><para id="eip-272">OpenStax only undertakes revisions when significant modifications to a text are necessary. In the case of <emphasis effect="italics">Principles of Microeconomics</emphasis>, we received a wealth of constructive feedback.  Many of the book’s users felt that consequential movement in economic data, coupled with the impacts of national and global events, warranted a full revision. We also took advantage of the opportunity to improve the writing and sequencing of the text, as well as many of the calculation examples. The major changes are summarized below.</para><list id="eip-447"><item>Augmented explanations in chapters one through four provide a more comprehensive and informative foundation for the book. </item> 
-<item>A clearer explanation, using a numerical example, has been given for finding the utility maximizing combination of goods and services a consumer should choose.</item>
-<item>The labor markets chapter and the poverty and economic inequality chapter have been resequenced.</item> 
-<item>Substantial revisions to the AD/AS model in chapters 24-26 present the core concepts of macroeconomics in a clearer, more dynamic manner. </item>  
-<item>Case studies and examples have been revised and, in some cases, replaced to provide more relevant and useful information for students.</item>   
-<item>Economic data, tables, and graphs, as well as discussion and analysis around that data, have been thoroughly updated.</item> </list><para id="eip-318">Wherever possible, data from the Federal Reserve Economic Database (FRED) was included and referenced.  In most of these uses, links to the direct source of the FRED data are provided, and students are encouraged to explore the information and the overall FRED resources more thoroughly.  
-
-</para><para id="eip-594">Additional updates and revisions appear throughout the book.  They reflect changes to economic realities and policies regarding international trade, taxation, insurance, and other topics.  For issues that may change in the months or years following the textbook's publication, the authors often provided a more open-ended explanation, but we will update the text annually to address further changes. </para><para id="eip-204">The revision of <emphasis effect="italics">Principles of Microeconomics</emphasis> was undertaken by Steven Greenlaw (University of Mary Washington) and David Shapiro (Pennsylvania State University), with significant input by lead reviewer Daniel MacDonald (California State University, San Bernardino).</para></section><section id="eip-27"><title>Pedagogical foundation</title><para id="eip-987">Throughout <emphasis effect="italics">Principles of Microeconomics 2e</emphasis>, you will find features that engage the students in economic inquiry and support their learning. Our features include:
-</para><list id="eip-213"><item><emphasis>Bring It Home.</emphasis> This feature presents a brief case study, specific to each chapter, which connects the chapter’s main topic to the real world. It is broken up into two parts:  the first at the beginning of the chapter (in the Intro module) and the second at chapter’s end, when students have learned what’s necessary to understand the case and “bring home” the chapter’s core concepts.</item>
-<item><emphasis>Work It Out.</emphasis> This feature asks students to work through a generally analytical or computational problem, and guides them step-by-step to find out how its solution is derived. </item>
-<item><emphasis>Clear It Up.</emphasis> This feature addresses common student misconceptions about the content. Clear It Ups are usually deeper explanations of something in the main body of the text. Each CIU starts with a question.  The rest of the feature explains the answer.</item>
-<item><emphasis>Link It Up.</emphasis> This feature offers a very brief introduction to a website that is pertinent to students’ understanding and enjoyment of the topic at hand.  </item></list></section><section id="eip-651"><title>Questions for each level of learning</title><para id="eip-454"><emphasis effect="italics">Principles of Microeconomics 2e</emphasis> offers four types of end-of-module questions for students.  
-</para><list id="eip-284"><item><emphasis>Self-Checks.</emphasis> These analytical self-assessment questions appear at the end of each module.  They push the student to think beyond what is said in the text.  Self-Check questions are designed for formative (rather than summative) assessment. The questions and answers are explained so that students feel like they are being walked through the problem.  </item>
-<item><emphasis>Review Questions.</emphasis> These are simple recall questions from the chapter and are in open-response format (<emphasis effect="underline">not</emphasis> multiple choice or true/false). The answers can be looked up in the text. </item>
-<item><emphasis>Critical Thinking Questions.</emphasis> These higher-level, conceptual questions ask students to <emphasis effect="italics">demonstrate their understanding by applying</emphasis> what they have learned in different contexts. They ask for outside-the-box thinking, for <emphasis effect="italics">reasoning</emphasis> about the concepts. They push the student to places they wouldn’t have thought of going themselves.  </item>
-<item><emphasis>Problems.</emphasis> These exercises give students additional practice working with the analytic and computational concepts in the module. </item></list></section><section id="eip-780"><title>Updated art</title><para id="eip-26"><emphasis effect="italics">Principles of Microeconomics 2e</emphasis> includes an updated art program to better inform today’s student, providing the latest data on covered topics. 
-</para><figure id="eip-id1164834349372" class="unnumbered"><label />
-      <media id="eip-id1164829542564" alt="sample image">
-        <image mime-type="image/png" src="../../media//CNX_Econ_C07_003.jpg" />
-      </media>
-      </figure><figure id="eip-idm1378576256" class="unnumbered"><label />
-      <media id="eip-idm807956944" alt="sample image">
-        <image mime-type="image/png" src="../../media//CNX_Econ_C17_001.jpg" />
-      </media>
-      </figure><figure id="eip-idm208226960" class="unnumbered"><label />
-      <media id="eip-idm636554032" alt="sample image">
-        <image mime-type="image/png" src="../../media//CNX_Econ2e_C17_007.jpg" />
-      </media>
-      </figure></section></section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-28"><title>Additional resources</title><section id="eip-idm851080000"><title>Student and instructor resources</title><para id="eip-idm378652592">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, an instructor solution manual, test bank, and PowerPoint slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.
-</para></section><section id="eip-816"><title>Community Hubs</title><media id="eip-idm1609058016" alt="OERCommons logo"><image mime-type="image/png" src="../../media//OERCommons.png" /></media><para id="eip-818">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons – a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty.  
-</para><para id="eip-186">To reach the Community Hubs, visit www.oercommons.org/hubs/OpenStax.</para></section><section id="eip-idm805856224">
-<title>Technology partners</title>
-
-<para id="eip-idm833973344">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.
-</para></section>
-</section><section xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="eip-660"><title>About the authors</title><section id="eip-407" class="sr-contrib-auth"><title>Senior contributing authors</title><para id="eip-852"><emphasis>Steven A. Greenlaw, University of Mary Washington</emphasis><newline />
-Steven Greenlaw has been teaching principles of economics for more than 30 years.  In 1999, he received the Grellet C. Simpson Award for Excellence in Undergraduate Teaching at the University of Mary Washington.  He is the author of <emphasis effect="italics">Doing Economics: A Guide to Doing and Understanding Economic Research</emphasis>, as well as a variety of articles on economics pedagogy and instructional technology, published in the <emphasis effect="italics">Journal of Economic Education</emphasis>, the <emphasis effect="italics">International Review of Economic Education</emphasis>, and other outlets.  He wrote the module on Quantitative Writing for <emphasis effect="italics">Starting Point: Teaching and Learning Economics</emphasis>, the web portal on best practices in teaching economics. Steven Greenlaw lives in Alexandria, Virginia with his wife Kathy and their three children.</para><para id="eip-49"><emphasis>David Shapiro, Pennsylvania State University</emphasis><newline />
-David Shapiro is Professor Emeritus of Economics, Demography, and Women’s, Gender, and Sexuality Studies at the Pennsylvania State University.  He received a BA in Economics and Political Science from the University of Michigan, and an MA as well as a PhD in Economics from Princeton University.  He began his academic career at Ohio State University in 1971, and moved to Penn State in 1980. His early research focused on women and youth in the United States labor market. Following a 1978-79 stint as a Fulbright professor at the University of Kinshasa in the Democratic Republic of the Congo, his research shifted focus to fertility in Kinshasa and more broadly, in sub-Saharan Africa.  He has also received the top prize for teaching at both Ohio State and Penn State.</para></section><para id="eip-925">Special thanks to Christian Potter from University of Mary Washington, who thoroughly researched and applied many of the data updates and provided the foundation for many new and revised illustrations.
-
-</para><section id="eip-124"><title>Development editor</title><para id="eip-457">
-Thomas Sigel
-</para></section><section id="eip-491"><title>Contributing authors</title><para id="eip-868" class="contrib-auth">Eric Dodge, Hanover College<newline />
-Cynthia Gamez, University of Texas at El Paso<newline />
-Andres Jauregui, Columbus State University<newline />
-Diane Keenan, Cerritos College<newline />
-Dan MacDonald, California State University, San Bernardino<newline />
-Amyaz Moledina, The College of Wooster<newline />
-Craig Richardson, Winston-Salem State University<newline />
-Ralph Sonenshine, American University</para></section><section id="eip-227"><title>Reviewers</title><para id="eip-549">Bryan Aguiar, Northwest Arkansas Community College<newline />
-Basil Al Hashimi, Mesa Community College<newline />
-Jennifer Ball, Washburn University<newline />
-Emil Berendt, Mount St. Mary's University<newline />
-Zena Buser, Adams State University<newline />
-Douglas Campbell, The University of Memphis<newline />
-Sanjukta Chaudhuri, University of Wisconsin-Eau Claire<newline />
-Xueyu Cheng, Alabama State University<newline />
-Robert Cunningham, Alma College<newline />
-Rosa Lea Danielson, College of DuPage<newline />
-Steven Deloach, Elon University<newline />
-Debbie Evercloud, University of Colorado Denver<newline />
-Sal Figueras, Hudson County Community College<newline />
-Reza Ghorashi, Stockton University<newline />
-Robert Gillette, University of Kentucky<newline />
-George Jones, University of Wisconsin-Rock County<newline />
-Charles Kroncke, College of Mount St. Joseph<newline />
-Teresa Laughlin, Palomar Community College<newline />
-Carlos Liard-Muriente, Central Connecticut State University<newline />
-Heather Luea, Kansas State University<newline />
-Charles Meyrick, Housatonic Community College<newline />
-William Mosher, Nashua Community College<newline />
-Michael Netta, Hudson County Community College<newline />
-Nick Noble, Miami University<newline />
-Joe Nowakowski, Muskingum University<newline />
-Shawn Osell, University of Wisconsin, Superior<newline />
-Mark Owens, Middle Tennessee State University<newline />
-Sonia Pereira, Barnard College<newline />
-Brian Peterson, Central College<newline />
-Jennifer Platania, Elon University<newline />
-Robert Rycroft, University of Mary Washington<newline />
-Adrienne Sachse, Florida State College at Jacksonville<newline />
-Hans Schumann, Texas A&amp;M University<newline />
-Gina Shamshak, Goucher College<newline />
-Chris Warburton, John Jay College of Criminal Justice, CUNY<newline />
-Mark Witte, Northwestern University<newline />
-Chiou-nan Yeh, Alabama State University</para></section></section></content>
+    <para id="delete_me">Podręcznik <emphasis effect="italics">Mikroekonomia – Podstawy</emphasis> powstał po to, by bezpłatnie udostępnić studentom materiały dydaktyczne spełniające najwyższe standardy akademickie. Jest adaptacją podręcznika <emphasis effect="italics">Principles of Microeconomics</emphasis> 2e stworzonego przez OpenStax, fundację non-profit działającą przy Rice University w Stanach Zjednoczonych. Został wydany w 2022 roku przez OpenStax Polska, fundację non-profit z siedzibą w Warszawie.</para>
+    <section id="UUID16e3137e-00a2-404d-44c5-7ea59dda8f06">
+      <title id="UUID24db7088-9d7a-40d9-611f-f307bfd928e3">O podręczniku <emphasis effect="italics">Mikroekonomia – Podstawy</emphasis></title>
+      <para id="UUID0af9722a-9c9e-498a-630d-007b6a13ecad">Wierzymy, że przyszłość edukacji to swobodny i wygodny dostęp do najlepszych treści, równy dla wszystkich. Fundacja OpenStax Poland wspólnie z fundacją OpenStax realizują tę misję, tworząc wysokiej jakości podręczniki i udostępniając je studentom i wykładowcom. W ramach projektu opublikowano w języku polskim trzytomowy podręcznik <emphasis effect="italics">Fizyka dla szkół wyższych</emphasis> (2018) oraz jednotomową <emphasis effect="italics">Psychologię</emphasis> (2020).</para>
+      <para id="UUIDe7b8c7ae-2bb2-425c-7c41-29fc1b76074a"><emphasis effect="italics">Mikroekonomia – Podstawy</emphasis> to polska adaptacja <emphasis effect="italics">Principles of Microeconomics</emphasis> 2e wydanego przez OpenStax. Dzięki aktualizacjom wprowadzonym przez polski zespół redakcyjny jest to jeden z najbardziej aktualnych podręczników do mikroekonomii na polskim rynku. Publikacja przygotowana została przez OpenStax Poland we współpracy z wykładowcami: Szkoły Głównej Handlowej, Uniwersytetu Gdańskiego, Uniwersytetu Ekonomicznego w Poznaniu, Uniwersytetu Ekonomicznego w Krakowie, Uniwersytetu Ekonomicznego we Wrocławiu, Uniwersytetu Ekonomicznego w Katowicach, Uniwersytetu Łódzkiego. Publikacja jest odpowiedzią na rosnące zapotrzebowanie na treści mające wysokie walory dydaktyczne, a zarazem atrakcyjne dla współczesnych studentów.</para>
+      <para id="UUID6ff7b134-4740-4a7e-54b3-7a804e366d54">Podręcznik został wydany na otwartej licencji Creative Commons Uznanie autorstwa 4.0 Międzynarodowe (CC-BY 4.0). Gwarantuje ona całkowicie bezpłatne użytkowanie i niemal nieograniczone możliwości korzystania z publikacji: wolny dostęp, swobodne przekazywanie pliku PDF oraz legalne modyfikowanie kopii – zarówno tekstu, jak i ilustracji. Jeśli więc zamierzacie Państwo wykorzystać fragmenty publikacji np. do przygotowania własnych materiałów dydaktycznych, nie ma ku temu żadnych przeszkód prawnych ani technicznych, jedynym warunkiem jest powołanie się na źródło: <emphasis effect="italics">Mikroekonomia – Podstawy</emphasis>, OpenStax Poland, 2022, www.OpenStax.org. Podręcznik jest dostępny w wersji cyfrowej (online oraz w pliku PDF) na stronie www.OpenStax.org.</para>
+      <section id="UUIDbbea8140-9556-4244-5133-581a0e9e2596">
+        <title id="UUID4591e28f-c7ea-438c-7a05-901bc2653b42">Podziękowania</title>
+        <para id="UUIDd145400b-24b2-4f90-44c7-cff9e4f800e7">W pracę nad polskim wydaniem podręcznika zaangażowanych było 17 dydaktyków akademickich, trzech korektorów oraz redaktor językowy. Składamy serdeczne podziękowania wszystkim, którzy brali udział w tworzeniu tego otwartego podręcznika. W szczególności chcielibyśmy wyróżnić w tym współpracowników, których udział był szczególnie znaczący. Są to:</para>
+        <para id="UUID5149b3a5-8e24-4364-476c-dd921d933264">dr Piotr Maszczyk, Szkoła Główna Handlowa w Warszawie</para>
+        <para id="UUIDf5465ac6-b6b3-4bad-737a-74bf46d0839d">dr Bożena Horbaczewska, Szkoła Główna Handlowa w Warszawie</para>
+        <para id="UUIDfff10dfa-cc84-4855-6275-46fac361913d">prof. dr hab. Mariusz Próchniak, Szkoła Główna Handlowa w Warszawie</para>
+        <para id="UUID2715e777-872e-4e7e-7b40-882d2b4834a6">Adaptacja podręcznika została sfinansowana z grantu przekazanego przez White Star Education Foundation. Serdecznie dziękujemy.</para>
+      </section>
+      <section id="UUID615e0330-855c-4bf2-536b-77f49b0ce661">
+        <title id="UUIDc84fb06f-bdf9-4178-69c0-7b2b5362c55f">Modyfikacje względem podręcznika <emphasis effect="italics">Principles of Microeconomics</emphasis> 2e</title>
+        <para id="UUID45186415-a665-4438-467b-74eaefe22148">Podręcznik <emphasis effect="italics">Mikroekonomia – Podstawy</emphasis>, podobnie jak <emphasis effect="italics">Principles of Microeconomics 2e</emphasis>, przeznaczony jest do trwających jeden semestr zajęć z podstaw mikroekonomii. Treść dopasowano pod względem zakresu i kolejności do praktyki dydaktycznej większości uczelni prowadzących takie zajęcia. Niniejsza publikacja pomoże studentom poznać najważniejsze zagadnienia z dziedziny mikroekonomii. Publikacja została dostosowana do standardów nauczania przedmiotu na polskich uczelniach.</para>
+        <para id="UUID08539bf4-5b21-438b-662d-84718d0b3cb3">Polskie wydanie wzbogacono o liczne adaptacje kulturowe. Ponadto, ze względu na różnorodność terminologii z zakresu mikroekonomii obowiązującej na polskich uczelniach, we współpracy z dydaktykami z wymienionych wyżej siedmiu uczelni wprowadziliśmy synonimy terminów w sekcji Kluczowe pojęcia na końcu każdego rozdziału. Zabieg ten sprawia, że podręcznik jest uniwersalny i odnajdzie się w nim student każdej uczelni w Polsce. Przygotowaliśmy także dodatkowy rozdział o wpływie katastrofy klimatycznej na rozwój przedsiębiorstw. Dla jasności przekazu i wygody studentów w obecnym wydaniu nie zostały natomiast uwzględnione te zagadnienia z <emphasis effect="italics">Principles of Microeconomics</emphasis> 2e, które na polskich uczelniach typowo są prowadzone na kursie makroekonomii.</para>
+        <section id="UUIDa4275452-3cc8-41ff-57e9-4214ce69c349">
+          <title id="UUIDb5055d95-c218-4f7b-7290-4f74726a884c">Zakres materiału</title>
+          <para id="UUIDd95a8277-2936-4aba-513a-261f1e0e5405">Zakres wiedzy prezentowanej w podręczniku <emphasis effect="italics">Mikroekonomia – Podstawy</emphasis> został dopasowany do typowych zajęć akademickich z mikroekonomii ogólnej prowadzonych przez jeden semestr. Naszym celem było zaprezentowanie mikroekonomii jako dziedziny ciekawej i przystępnej, a poruszane zagadnienia staraliśmy się obrazować życiowymi przykładami.</para>
+          <para id="UUIDf8b58f24-2a01-4c59-5c53-dcb21e031843">Rozdział 1. Wstęp do mikroekonomii</para>
+          <para id="UUIDccc7ae1c-a1b0-42a0-630c-4c7031e4d00d">Rozdział 2. Wybory w świecie rzadkości zasobów</para>
+          <para id="UUID5623aec6-4bed-46d2-4abf-dde12cbe7a4d">Rozdział 3. Popyt i podaż</para>
+          <para id="UUID0e4175d2-15ec-4cf7-446c-651a68019f93">Rozdział 4. Elastyczność</para>
+          <para id="UUID6c2a546d-6021-4f75-5a2b-f5128ad1d083">Rozdział 5. Wybory konsumenta</para>
+          <para id="UUIDd3c5cbbd-61fe-48ed-78f0-f7432c5b5e21">Rozdział 6. Teoria podaży, kosztów i struktur rynku</para>
+          <para id="UUIDd8dc60c0-9e15-4022-587f-417754462b8f">Rozdział 7. Konkurencja doskonała</para>
+          <para id="UUID060de6ab-abba-40ef-4b99-80dcc4aed971">Rozdział 8. Monopol</para>
+          <para id="UUID6c35e52e-dede-4e04-7ec8-3ebb4117f035">Rozdział 9. Konkurencja monopolistyczna i oligopol</para>
+          <para id="UUIDd919f890-f528-4827-5589-c58dd553706f">Rozdział 10. Wprowadzenie do rynku czynników produkcji</para>
+          <para id="UUID1b25d79f-2065-44c9-436e-83b6645b130c">Rozdział 11. Zawodność rynku – państwo a biznes</para>
+          <para id="UUIDc2a28e6d-c368-4a3c-6e5e-c764bf248313">Rozdział 12. Wpływ zmian klimatu na rozwój przedsiębiorstw</para>
+        </section>
+        <section id="UUID9100c4e1-53b5-4ada-690c-a5265e537fe9">
+          <title id="UUIDeaa33c62-e687-45ef-7681-517282c5e05b">Funkcje dydaktyczne</title>
+          <para id="UUID3234ffde-0ad6-4a17-602f-08e1ee0f4450">Struktura podręcznika została przygotowana w sposób mający zachęcić czytelnika do aktywnego przetwarzania wiedzy. Każdy rozdział zawiera dodatkowe informacje przedstawione w ramkach:</para>
+          <list id="eip-213">
+            <item id="UUID1ceb3129-839a-4f43-4867-ea1ab7ea55a4">
+              <para id="UUIDa29a07ea-a8c5-44bf-7ef4-2fa8b46fa861"><emphasis effect="bold">Do przemyślenia.</emphasis> Krótka analiza przypadku. Przedstawione w niej odniesienia do rzeczywistych zdarzeń pozwalają pokazać praktyczne zastosowanie wiedzy prezentowanej rozdziale. Treść analizy przypadku jest rozbita na dwa elementy: na początku i na końcu każdego rozdziału. Pierwsza część wprowadza czytelnika do omawianego zagadnienia, a druga część jest podsumowaniem analizy przypadku z wykorzystaniem wiedzy przedstawionej w rozdziale.</para>
+            </item>
+            <item id="UUID9bc27610-68a2-4324-6940-647e62fb7e13">
+              <para id="UUIDfc8db742-34ac-45ff-7b1e-e3b4dc20a243"><emphasis effect="bold">Krok po kroku.</emphasis> Prowadzi czytelnika krok po kroku przez kolejne etapy rozwiązywania konkretnego problemu analitycznego albo obliczeniowego.</para>
+            </item>
+            <item id="UUID538f233e-a25e-462b-7b1b-7f7928d6052b">
+              <para id="UUID4bc75d64-f7fe-477d-6821-242af20f90ab"><emphasis effect="bold">Poznaj szczegóły.</emphasis> Mierzy się z popularnymi wśród studentów nieporozumieniami związanymi z wprowadzanym tematem. Zazwyczaj są pogłębiającymi wyjaśnieniami zagadnień z głównego tekstu.</para>
+            </item>
+            <item id="UUIDc29cc2f4-f6be-41ea-5d10-377eea81e449">
+              <para id="UUID15e8e3ad-457e-4311-4f69-169832d587d6"><emphasis effect="bold">Sięgnij po więcej.</emphasis> Prowadzi do źródeł zewnętrznych jak popularne artykuły prasowe i materiały wideo, które mają nadać omawianemu zagadnieniu ciekawy kontekst.</para>
+            </item>
+          </list>
+          <section id="eip-651">
+            <title id="UUID12c2e78b-d021-4788-7c73-3d405ac5b6a4">Efektywne uczenie się i weryfikacja wiedzy</title>
+            <para id="eip-454">Na końcu każdego rozdziału zamieszczone są zagadnienia do samodzielnej pracy.</para>
+            <list id="eip-284">
+              <item id="UUID97d043c0-7389-46f7-6cf5-f5dc677d366d">
+                <para id="UUID3c562613-4a13-479b-7d45-827a6352dfe9"><emphasis effect="bold">Pytania sprawdzające.</emphasis> Ćwiczenia mające ułatwić samodzielne sprawdzenie wiedzy i motywujące studenta do rozważań wykraczających poza zagadnienia wprowadzone w rozdziale analizy zagadnień. Rozwiązania do zadań znajdują się w sekcji Rozwiązania zadań.</para>
+              </item>
+              <item id="UUIDb27f72ff-ff42-4eda-4800-ee7026b5ad2f">
+                <para id="UUID12e9b84f-686c-4e37-6eda-abbbf5023ef7"><emphasis effect="bold">Sprawdź wiedzę.</emphasis> Nieskomplikowane pytania otwarte z wiedzy zawartej w rozdziale.</para>
+              </item>
+              <item id="UUID3901c24d-48f2-48c3-487f-ce2635e02bed">
+                <para id="UUID73531421-a2c9-4b42-5acf-bbbcf4e44924"><emphasis effect="bold">Ćwicz myślenie krytyczne.</emphasis> Pytania koncepcyjne, w których czytelnik może sprawdzić rozumienie zagadnienia, stosując pozyskaną wiedzę w różnych kontekstach. Wymagają pogłębionej analizy, mają sprowokować do nieszablonowych rozważań.</para>
+              </item>
+              <item id="UUIDf6b17428-775c-44fe-6ce5-08ccf92d7c74">
+                <para id="UUIDde17aecf-1242-4262-645f-fe90d92e54a0"><emphasis effect="bold">Problemy.</emphasis> Zadania dodatkowo sprawdzające wiedzę i umiejętności analityczne i obliczeniowe dotyczące wprowadzanych w rozdziale zagadnień.</para>
+              </item>
+            </list>
+          </section>
+        </section>
+        <section id="UUIDae4e3ae2-72bf-4474-6ea6-ebc5d3ab829a">
+          <title id="UUID145fc199-c737-43f4-7935-40b803027adc">Zasoby dla studentów i wykładowców</title>
+          <para id="UUID57353c9f-5933-4301-7147-050c54e2fb67">Na stronie OpenStax.org można znaleźć materiały dodatkowe w języku angielskim, przeznaczone zarówno dla studentów, jak i wykładowców — między innymi przewodniki użytkownika, slajdy dla prowadzących zajęcia i studentów. Aby uzyskać dostęp do materiałów dla wykładowców, należy posiadać zweryfikowane konto instruktorskie, o które można poprosić przy logowaniu na OpenStax.org. Zasoby te są dopasowane do podręcznika.</para>
+        </section>
+        <section id="UUID9be1d4e5-2ca7-447b-5b2b-4094d1abadfa">
+          <title id="UUID973b18fa-d266-49b0-7b47-1080b1774c85">Format</title>
+          <para id="UUID44034a27-ccf5-42ea-7753-74fe9203028d">Podręcznik jest dostępny za darmo online oraz w PDF za pośrednictwem strony OpenStax.org.</para>
+        </section>
+        <section id="UUID568afe5a-0f08-450d-4697-ddc1388ba24a">
+          <title id="UUID74f46336-5fa9-4cb8-51de-4f8d4d4d8495">Zgłaszanie błędów</title>
+          <para id="eip-410">Wszystkie podręczniki OpenStax przechodzą rygorystyczny proces recenzji. Mimo to niektóre błędy mogły zostać przeoczone, co zdarza się w każdej profesjonalnej publikacji. Nasze książki są cyfrowe, dlatego możemy uaktualniać je, gdy zachodzi taka potrzeba. By zaproponować poprawkę, prosimy skorzystać z odnośnika na stronie podręcznika na OpenStax.org. Zgłoszone poprawki są oceniane przez ekspertów.</para>
+        </section>
+      </section>
+    </section>
+    <section id="eip-660">
+      <title id="UUIDa438bced-ada9-4efd-5553-e2b4d1a26980">Twórcy podręcznika</title>
+      <section id="eip-407">
+        <title id="UUID83c1a6b1-0878-44e0-4317-842fe496f989">Autorzy</title>
+        <para id="eip-852"><emphasis effect="bold">Steven A. Greenlaw, University of Mary Washington</emphasis> Steven Greenlaw wykłada podstawy ekonomii od ponad 30 lat. w 1999 r. jego działalność dydaktyczna została wyróżniona przez jego macierzystą uczelnię nagrodą <emphasis effect="italics">Grelleta C. Simpsona za Doskonałość w Nauczaniu Akademickim.</emphasis> Jest autorem <foreign xml:lang="en" id="UUID61f4d73c-e579-443e-661f-438a5512406f"><emphasis effect="italics">Doing Economics: A Guide to Doing and Understanding Economic Research</emphasis></foreign> (Jak robić ekonomię: przewodnik po prowadzeniu badań) oraz artykułów o dydaktyce ekonomii m.in. w <foreign xml:lang="en" id="UUIDa43c3195-9dce-453e-401d-c068488ef610"><emphasis effect="italics">Journal of Economic Education</emphasis>, <emphasis effect="italics">International Review of Economic Education</emphasis></foreign><emphasis effect="italics">.</emphasis> Greenlaw napisał także moduł <foreign xml:lang="en" id="UUID5239e2fc-8ac8-4803-6416-dc71273a2c93"><emphasis effect="italics">Quantitative Writing for</emphasis> <emphasis effect="italics">Starting Point: Teaching and Learning Economics</emphasis></foreign> opublikowany w portalu poświęconym najlepszym praktykom nauczania ekonomii. Mieszka w Alexandrii w stanie Wirginia w USA, razem z żoną Kathy mają troje dzieci.</para>
+        <para id="eip-49"><emphasis effect="bold">David Shapiro, Pennsylvania State University</emphasis> David Shapiro jest profesorem emerytowanym na wydziale Ekonomii, demografii oraz studiów nad tematyką kobiecości, gender i seksualności na University of Michigan. Obronił licencjat z Nauk politycznych i ekonomicznych na University of Michigan oraz dyplom i doktorat Nauk Ekonomicznych na Princeton University. Karierę akademicką rozpoczął w 1971 r. na Ohio State University, gdzie zajmował się badaniami kobiet i młodzieży na rynku pracy w USA. W latach 1978–1979 jako stypendysta Fulbrighta na Uniwersytecie w Kinszasie w Demokratycznej Republice Konga prowadził badania nad edukacją, zatrudnieniem i zachowaniami reprodukcyjnymi kobiet w Kinszasie, a później poszerzył badania na cały region subsaharyjski. Zdobył również najwyższe nagrody dla dydaktyków zarówno w Ohio State jak i Penn State.</para>
+        <para id="UUIDdbb9010c-b215-455a-63ef-b9ceccc9ccbf"><emphasis effect="bold">Waldemar Karpa, Akademia Leona Koźmińskiego</emphasis> Waldemar Karpa jest wieloletnim dydaktykiem i pracownikiem naukowym, profesorem w Katedrze Ekonomii Akademii Leona Koźmińskiego. W latach xxxx–xxxx wykładał na paryskich uczelniach Université Paris-Est oraz ENSTA-ParisTech. Magisterium i doktorat w dyscyplinie ekonomii międzynarodowej obronił na paryskiej Sorbonie (Université Paris 1 Panthéon-Sorbonne). Główną tematyką jego pracy naukowej są procesy innowacyjności w gospodarce, w szczególności ochrony zdrowia i zmian klimatycznych będących ekonomicznymi i społecznymi skutkami postępu technologicznego. W podręczniku <emphasis effect="italics">Mikroekonomia – Podstawy</emphasis> jest autorem rozdziału <emphasis effect="italics">Wpływ zmian klimatu na rozwój przedsiębiorstw</emphasis>.</para>
+        <para id="UUID23a17502-bea0-4699-4bda-1ae6cba1e90e"><emphasis effect="bold">Piotr Maszczyk, Szkoła Główna Handlowa w Warszawie</emphasis> Piotr Maszczyk prodziekan Studium Magisterskiego Szkoły Głównej Handlowej w Warszawie oraz kierownik Zakładu Makroekonomii i Ekonomii Sektora Publicznego w Kolegium Gospodarki Światowej. Autor i współautor blisko 50 artykułów i opracowań naukowych z obszarów teorii ekonomii, ekonomii instytucjonalnej i transformacji ustrojowej w Europie Środkowej i Wschodniej, a także licznych ekspertyz. Posiada ponad dwudziestoletnie doświadczenie dydaktyczne na studiach licencjackich, magisterskich, doktorskich i podyplomowych, potwierdzone licznymi nagrodami przyznanymi zarówno przez JM Rektora SGH, jak i samych studentów (był dwukrotnie wybierany Inspiracją Roku). Laureat Nagrody Ministra Nauki i Edukacji. Były pracownik Ministerstwa Finansów i Ministerstwa Rozwoju Regionalnego w randze radcy ministra. Stały komentator ekonomiczny radia Tok FM i RdC. W podręczniku <emphasis effect="italics">Mikroekonomia – Podstawy</emphasis> jest współautorem rozdziału <emphasis effect="italics">Wpływ zmian klimatu na rozwój przedsiębiorstw</emphasis> oraz autorem adaptacji polskiego wydania.</para>
+        <para id="UUIDe54bb5b1-d6a6-4437-6b03-3b09a50ce2be">Specjalne podziękowania dla Christiana Pottera z University of Mary Washington, za szczegółowy research i aktualizacje danych w podręczniku.</para>
+        <para id="UUID5dfc0615-c634-491b-7a6c-7e092bc56de3"><emphasis effect="bold">Redakcja naukowa polskiego wydania:</emphasis> dr Piotr Maszczyk, Szkoła Główna Handlowa w Warszawie</para>
+        <para id="UUID5554338c-6112-4d5a-7786-6a41b2fbfa7e"><emphasis effect="bold">Tłumaczenia:</emphasis> dr Bożena Horbaczewska, Szkoła Główna Handlowa w Warszawie (rozdziały: Popyt i podaż, Wprowadzenie do rynku czynników produkcji, Teoria podaży, kosztów i struktur rynku, Monopol, Dodatek C); dr Krystian Jaworski, Szkoła Główna Handlowa w Warszawie (rozdziały: Wstęp do mikroekonomii, Wybór w świecie rzadkości zasobów); prof. dr hab. Mariusz Próchniak, Szkoła Główna Handlowa w Warszawie (rozdziały: Elastyczność, Wybory konsumenta, Konkurencja doskonała, Konkurencja monoplistyczna i oligopol, Zawodność rynku – państwo a biznes, Dodatek A, Dodatek B)</para>
+        <para id="UUID65e844b5-b5ab-4ce4-533c-3591855ed52c"><emphasis effect="bold">Recenzje naukowe polskiego wydania:</emphasis> dr Ewa Ignaciuk, Uniwersytet Gdański; dr hab. Jacek Jankiewicz, Uniwersytet Ekonomiczny w Poznaniu, dr Jakub Gazda, d. Uniwersytet Ekonomiczny w Poznaniu; prof. dr hab. Wojciech Giza, Uniwersytet Ekonomiczny w Krakowie; prof. dr hab. Bożena Borkowska, Uniwersytet Ekonomiczny we Wrocławiu; dr hab. Sławomir Czetwertyński, Uniwersytet Ekonomiczny we Wrocławiu; dr hab. Izabela Ostoj, Uniwersytet Ekonomiczny w Katowicach; dr hab. Jacek Pietrucha, Uniwersytet Ekonomiczny w Katowicach; prof. dr hab. Janina Godłów-Legiędź, Uniwersytet Łódzki; dr hab. Edyta Dworak, prof. Uniwersytetu Łódzkiego; dr Tomasz Grabia, Uniwersytet Łódzki; prof. dr hab. Bolesław Rok, Akademia Leona Koźmińskiego.</para>
+        <para id="UUIDe63ce450-6730-4b19-533f-12c5a71e65ab"><emphasis effect="bold">Redakcja językowa:</emphasis> Sławomir Borkowski</para>
+        <para id="UUID178f83cc-b64d-4217-630c-006f04bdddb1"><emphasis effect="bold">Korekta językowa:</emphasis> Marcin Kuźma, Ewa Jeżewska, Weronika Dulęba</para>
+        <para id="UUID93d519a0-c774-4261-4686-f749fd58f4e7"><emphasis effect="bold">Okładka i ilustracje:</emphasis> Marta Sztuka</para>
+      </section>
+    </section>
+    <section id="UUID73ae5777-96b8-488c-5e19-e65eb2ec5930">
+      <title id="UUIDa53b15d6-7b4e-45ea-4ca1-58a33749bd09">Zespół redakcyjny Principles of Microeconomics 2e</title>
+      <para id="eip-457"><emphasis effect="bold">Prowadzenie redakcji:</emphasis> Thomas Sigel</para>
+      <para id="eip-868" class="contrib-auth"><emphasis effect="bold">Współautorstwo:</emphasis> Eric Dodge, Hanover College Cynthia Gamez, University of Texas at El Paso Andres Jauregui, Columbus State University Diane Keenan, Cerritos College Dan MacDonald, California State University, San Bernardino Amyaz Moledina, The College of Wooster Craig Richardson, Winston-Salem State University Ralph Sonenshine, American University</para>
+      <para id="UUID938c9779-1376-460b-71c6-75bf87542f35" class="contrib-auth"><emphasis effect="bold">Recenzje naukowe:</emphasis> Bryan Aguiar, Northwest Arkansas Community College; Basil Al Hashimi, Mesa Community College; Jennifer Ball, Washburn University; Emil Berendt, Mount St. Mary's University; Zena Buser, Adams State University; Douglas Campbell, The University of Memphis; Sanjukta Chaudhuri, University of Wisconsin-Eau; Claire Xueyu Cheng, Alabama State University; Robert Cunningham, Alma College; Rosa Lea Danielson, College of DuPage; Steven Deloach, Elon University; Debbie Evercloud, University of Colorado Denver; Sal Figueras, Hudson County Community College; Reza Ghorashi, Stockton University; Robert Gillette, University of Kentucky; George Jones, University of Wisconsin-Rock County; Charles Kroncke, College of Mount St. Joseph; Teresa Laughlin, Palomar Community College; Carlos Liard-Muriente, Central Connecticut State University; Heather Luea, Kansas State University; Charles Meyrick, Housatonic Community College; William Mosher, Nashua Community College; Michael Netta, Hudson County Community College; Nick Noble, Miami University; Joe Nowakowski, Muskingum University; Shawn Osell, University of Wisconsin, Superior; Mark Owens, Middle Tennessee State University; Sonia Pereira, Barnard College; Brian Peterson, Central College; Jennifer Platania, Elon University; Robert Rycroft, University of Mary Washington; Adrienne Sachse, Florida State College at Jacksonville; Hans Schumann, Texas A&amp;M University; Gina Shamshak, Goucher College; Chris Warburton, John Jay College of Criminal Justice, CUNY; Mark Witte, Northwestern University; Chiou-nan Yeh, Alabama State University</para>
+    </section>
+  </content>
 </document>

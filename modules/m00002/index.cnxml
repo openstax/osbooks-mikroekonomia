@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Wprowadzenie do rozdziału</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-08T07:43:49.965849943+00:00</md:version>
-    <md:created>2022-08-08T07:43:49.965849943+00:00</md:created>
-    <md:revised>2022-08-08T07:43:49.965849943+00:00</md:revised>
+    <md:version>2022-08-16T10:02:59.087540191+00:00</md:version>
+    <md:created>2022-08-16T10:02:59.087540191+00:00</md:created>
+    <md:revised>2022-08-16T10:02:59.087540191+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -50,7 +50,7 @@
           <para id="UUID254a9879-da36-4cfa-5eed-83e312020a0d">Czym jest ekonomia i dlaczego jest ważna</para>
         </item>
         <item id="UUIDe18e61dc-1502-411b-66c5-afd97bab5039">
-          <para id="UUID7c701afd-bb95-4248-7743-c4ed831c512d">Jakie są różnice pomiędzy mikro- i makroekonomią</para>
+          <para id="UUID7c701afd-bb95-4248-7743-c4ed831c512d">Jakie są różnice między mikro- a makroekonomią</para>
         </item>
         <item id="UUIDabc581fa-edd4-4921-7ad8-fef2c30a9374">
           <para id="UUID4b597093-c7f7-4ebb-50c6-cdc4071c2bec">Jak ekonomiści wykorzystują teorie i modele do zrozumienia problemów ekonomicznych</para>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
   <metadata>
-    <md:content-id>col00001</md:content-id>
+    <md:content-id>c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Principles of Microeconomics 2e</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-08T07:44:01.691096328+00:00</md:version>
-    <md:created>2022-08-08T07:44:01.691096328+00:00</md:created>
-    <md:revised>2022-08-08T07:44:01.691096328+00:00</md:revised>
+    <md:version>2022-08-16T10:03:05.008830157+00:00</md:version>
+    <md:created>2022-08-16T10:03:05.008830157+00:00</md:created>
+    <md:revised>2022-08-16T10:03:05.008830157+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -18,8 +18,11 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
+    <md:license url="https://creativecommons.org/licenses/by/4.0/deed.pl">
+      Uznanie autorstwa (CC BY)
+    </md:license>
     <md:uuid>c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a</md:uuid>
-    <md:slug>col00001</md:slug>
+    <md:slug>mikroekonomia</md:slug>
   </metadata>
   <content>
     <module document="m00001" />
@@ -136,7 +139,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>Zielona transformacja i zrównoważony rozwój</md:title>
+      <md:title>Wpływ zmian klimatu na rozwój przedsiębiorstw</md:title>
       <content>
         <module document="m00059" />
         <module document="m00060" />
