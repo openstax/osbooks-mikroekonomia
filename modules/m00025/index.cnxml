@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Ekonomia behawioralna: inne podejście do wyborów konsumenckich</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-16T10:03:00.678270129+00:00</md:version>
-    <md:created>2022-08-16T10:03:00.678270129+00:00</md:created>
-    <md:revised>2022-08-16T10:03:00.678270129+00:00</md:revised>
+    <md:version>2022-08-19T07:58:28.432908650+00:00</md:version>
+    <md:created>2022-08-19T07:58:28.432908650+00:00</md:created>
+    <md:revised>2022-08-19T07:58:28.432908650+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -49,7 +49,7 @@
       <title id="UUIDb01f145b-f7c1-4e4e-455f-eef254a58eb8">Dokonywanie wyborów</title>
       <para id="fs-idm44989776">Jaką kategorię wydatków zwiększyli konsumenci na całym świecie podczas globalnego kryzysu? Wydatki na szkolnictwo wyższe. Według Organizacji Narodów Zjednoczonych do spraw Oświaty, Nauki i Kultury (UNESCO) liczba uczniów i studentów w college'ach i na uniwersytetach wzrosła o jedną trzecią w Chinach, o blisko dwie trzecie w Arabii Saudyjskiej, prawie podwoiła się w Pakistanie, potroiła w Ugandzie i wzrosła o 18% (czyli 3 mln) w Stanach Zjednoczonych. Dlaczego konsumenci w czasach kryzysu byli skłonni wydawać więcej na edukację? Zarówno ludzie, jak i państwa postrzegają szkolnictwo wyższe jako drogę do dobrobytu. Wielu uważa, że większe zarobki są ważną korzyścią płynącą z uczęszczania na studia.</para>
       <para id="eip-946">Po co wydawać pieniądze na studia w czasie recesji? Ponieważ jeśli jesteś bezrobotny lub zatrudniony w niepełnym wymiarze godzin, koszt alternatywny twojego czasu jest niski. Jeśli jesteś bezrobotny, nie musisz rezygnować z pracy i dochodów, idąc na studia.</para>
-      <para id="UUID390bcc10-1050-441e-6773-65523051f66b">Jeśli nie przekonuje cię ta argumentacja, jeszcze raz sięgnij do <link document="m00007" id="UUIDd667a14e-ce4b-440e-67e8-d19aa99501cc" /> i sprawdź, jak różnią się średnie zarobki Polaków z wykształceniem podstawowym i wyższym.</para>
+      <para id="UUID390bcc10-1050-441e-6773-65523051f66b">Jeśli nie przekonuje cię ta argumentacja, jeszcze raz sięgnij do <link document="m00007" cmlnle:case="genitive" id="UUIDd667a14e-ce4b-440e-67e8-d19aa99501cc" /> i sprawdź, jak różnią się średnie zarobki Polaków z wykształceniem podstawowym i wyższym.</para>
     </note>
     <section id="fs-idm1556240" class="summary">
       <title id="UUIDb0f7d14e-a2b4-43f2-639c-82cdef2c59e3">Kluczowe pojęcia i podsumowanie</title>
@@ -79,7 +79,7 @@
     <definition id="UUID29be933d-9079-43f5-5aeb-4d836f77ed3b">
       <term id="UUIDd3ab4ccf-1387-473c-7a11-d0ad67e64782">wymienialność (ang. <foreign xml:lang="en" id="UUID9a001a1c-5e78-491d-5b93-f983db924cfc">fungible</foreign>)</term>
       <meaning id="UUID13fe32f0-321f-44a1-6144-2deb276a4d5a">
-        <para id="UUIDd7117385-a8df-4a48-618a-a65e6d9a9da4">patrz:  wymienialny</para>
+        <para id="UUIDd7117385-a8df-4a48-618a-a65e6d9a9da4">patrz: wymienialny</para>
       </meaning>
     </definition>
     <definition id="UUID05998e60-52c7-4061-7973-adfbb0789340">

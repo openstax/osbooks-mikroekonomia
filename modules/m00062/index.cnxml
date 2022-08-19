@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Zrównoważony ład korporacyjny i ESG</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-16T10:03:03.311390172+00:00</md:version>
-    <md:created>2022-08-16T10:03:03.311390172+00:00</md:created>
-    <md:revised>2022-08-16T10:03:03.311390172+00:00</md:revised>
+    <md:version>2022-08-19T07:58:30.052128978+00:00</md:version>
+    <md:created>2022-08-19T07:58:30.052128978+00:00</md:created>
+    <md:revised>2022-08-19T07:58:30.052128978+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -46,7 +46,7 @@
     <note type="note" id="UUID940f95d1-7e1e-4e32-4944-736ead934fbf" class="economics linkup">
       <para id="UUIDa6ef16b5-abb3-4010-5e7f-8598b16579d9">Więcej na temat koncepcji zrównoważonego rozwoju znajdziesz <link url="https://ptgeo.org.pl/geodesola/zrownowazony-rozwoj" id="UUID0936710a-eb94-4d01-5106-df6d2d783fc7">tutaj</link>. Natomiast o konieczności i korzyściach z raportowania wskaźników ESG przeczytasz <link url="https://www.pibr.org.pl/pl/prasa/1625,Rzeczpospolita-Raportowanie-ESG-zyskuje-na-znaczeniu" id="UUID9ceef4b5-3b54-4981-5ae1-ffc94a6432c3">tu</link>.</para>
     </note>
-    <para id="UUID54599a29-eede-4833-6e9e-abf9f1a308b8">/<emphasis effect="bold">/W ramce Kwestie społeczne (czy aby nie: Społeczna odpowiedzialność?): bezpieczeństwo produktów (a nie bezpieczeństwa, o zamiast a); w ramce Środowisko: zmniejszenie zużycia (zamiast ograniczenie zużycia; w ramce Ład społeczny: " obowiązki interesariuszy, jako relacji wewnętrznych i inwestorskich" - to jest niezrozumiałe, ponadto w "inwestorskich" brak jednego s, i chyba powinien to być jednak Ład korporacyjny, a nie społeczny </emphasis></para>
+    <para id="UUID54599a29-eede-4833-6e9e-abf9f1a308b8">/<emphasis effect="bold">/W ramce Kwestie społeczne (czy aby nie: Społeczna odpowiedzialność?): bezpieczeństwo produktów (a nie bezpieczeństwa, o zamiast a); w ramce Środowisko: zmniejszenie zużycia (zamiast ograniczenie zużycia; w ramce Ład społeczny: " obowiązki interesariuszy, jako relacji wewnętrznych i inwestorskich" - to jest niezrozumiałe, ponadto w "inwestorskich" brak jednego s, i chyba powinien to być jednak Ład korporacyjny, a nie społeczny</emphasis></para>
     <para id="UUID62dc1f94-9940-4b3d-7a6f-97e42a68e74e">Ocena działalności przedsiębiorstw przy użyciu wskaźników ESG jest niewątpliwie ważnym elementem pozwalającym firmom na lepszą adaptację do wszystkich klimatycznych ryzyk. Jednocześnie jednak każda zmiana, adaptacja i transformacja pociąga za sobą wymierne koszty, a dostosowanie organizacji do wyzwań klimatycznych może stanowić poważne obciążenie finansowe dla firm. Zastanówmy się zatem, w jaki sposób firmy mogą pozyskać fundusze na klimatyczną transformację.</para>
     <section id="UUID38aa63ff-fc45-4faa-745c-e379ba805749" class="bringhome economics">
       <title id="UUIDc3c7aa4d-e67d-4e3c-7bf6-73cb9da18157">Wymiar finansowy transformacji klimatycznej przedsiębiorstw</title>
@@ -56,7 +56,7 @@
       <para id="UUID1bda6b37-4b99-4f94-47d6-e578b01f5f80" />
       <figure id="UUID0ec0f77d-ddc1-4f04-5ab7-db91c7ba1cb4">
         <media alt="" id="UUIDa61bf65e-8ef7-4192-6a82-a57d38a02d6b">
-          <image src="../../media//Zrzut ekranu 2022-08-10 o 13.34.41.png" mime-type="image/png" id="UUIDa296b934-6521-4434-46f8-725f5426b5e4" />
+          <image src="../../media//rys5.svg" mime-type="image/svg+xml" id="UUIDa296b934-6521-4434-46f8-725f5426b5e4" />
         </media>
         <caption id="UUID853519b6-ba9e-4a60-7bfa-eb67d8b849fe">Rodzaje zielonych obligacji wg regionów, dane na koniec 2019 r. (Źródło: Franklin Templeton Capital Markets Insights Group, Bloomberg)</caption>
       </figure>
@@ -64,7 +64,7 @@
       <para id="UUIDeb2404fc-48d5-45e9-4ad3-4dd863cb77fc" />
       <figure id="UUIDdb0905b9-c645-40b0-49aa-4a29ffb94b25">
         <media alt="" id="UUID26afc3cc-8e18-4e1e-7a95-066afc93f5e3">
-          <image src="../../media//Zrzut ekranu 2022-08-10 o 13.38.22.png" mime-type="image/png" id="UUIDd3724914-d1a4-4cf8-469b-30d5be7f76a8" />
+          <image src="../../media//rys7.svg" mime-type="image/svg+xml" id="UUIDd3724914-d1a4-4cf8-469b-30d5be7f76a8" />
         </media>
         <caption id="UUID31f2a6ab-439e-4d86-5e43-9a73274be757">Panel (a) emitenci zielonych obligacji w podziale regionalnym, panel (b) skumulowana wartość emisji zielonych obligacji (wartość denominacyjna w walutach obcych wyrażona w mld dol. amerykańskich) Źródło: Bank Rozrachunków Międzynarodowych.</caption>
       </figure>
@@ -72,7 +72,7 @@
       <para id="UUID564ed796-a2c3-4233-4871-62936085e697" />
       <figure id="UUIDa6c93915-7626-445c-7530-0b1b7939c9fd">
         <media alt="" id="UUID85399caf-c9de-4118-4730-a43a7e05e613">
-          <image src="../../media//Zrzut ekranu 2022-08-10 o 13.44.37.png" mime-type="image/png" id="UUID062cce47-0c6c-4c28-463e-2f5729fd5eb1" />
+          <image src="../../media//rys6.svg" mime-type="image/svg+xml" id="UUID062cce47-0c6c-4c28-463e-2f5729fd5eb1" />
         </media>
         <caption id="UUID339d9faa-dceb-4b67-4a4e-ebdc12d425ca">Rys.: Stopy zwrotu z obligacji zielonych i tradycyjnych. Źródło: Bank Rozrachunków Międzynarodowych</caption>
       </figure>
@@ -191,7 +191,7 @@
       </exercise>
       <exercise id="UUID0c272866-0427-417a-72fe-185b14cc7b40">
         <problem id="UUID142d2b3a-5d8c-46e5-4708-ac167ac8f3ef">
-          <para id="UUID44a23f3a-2ca5-4aff-47d2-877fd96168e9">Zapobieganie dalszym negatywnym skutków zmian klimatycznych jest wyzwaniem dla całej ludzkości, dlatego w zielonej rewolucji może  - i powinien - brać udział, starając się zmniejszyć swój ślad węglowy. Oszacuj swój ślad węglowy, wykorzystując to narzędzie: https://footprintcalculator.henkel.com/en. Zastanów się, jak możesz ów ślad obniżyć.</para>
+          <para id="UUID44a23f3a-2ca5-4aff-47d2-877fd96168e9">Zapobieganie dalszym negatywnym skutków zmian klimatycznych jest wyzwaniem dla całej ludzkości, dlatego w zielonej rewolucji może - i powinien - brać udział, starając się zmniejszyć swój ślad węglowy. Oszacuj swój ślad węglowy, wykorzystując to narzędzie: https://footprintcalculator.henkel.com/en. Zastanów się, jak możesz ów ślad obniżyć.</para>
         </problem>
       </exercise>
     </section>

@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Jak ludzie dokonują wyborów w oparciu o ograniczenia budżetowe</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-16T10:02:59.780621370+00:00</md:version>
-    <md:created>2022-08-16T10:02:59.780621370+00:00</md:created>
-    <md:revised>2022-08-16T10:02:59.780621370+00:00</md:revised>
+    <md:version>2022-08-19T07:58:27.536594177+00:00</md:version>
+    <md:created>2022-08-19T07:58:27.536594177+00:00</md:created>
+    <md:revised>2022-08-19T07:58:27.536594177+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -60,7 +60,7 @@
         <para id="fs-idm9543664">Zobacz tę <link url="http://openstax.org/l/linestanding" id="UUIDc13cb5a1-a03f-4a85-53e7-5a5e873ddd50">witrynę</link>, aby zapoznać się ze specyficznym przykładem kosztu alternatywnego – płaceniem komuś innemu za czekanie w kolejce.</para>
       </note>
       <para id="UUID62918b67-d4e8-4e34-74b6-9efbb61aa5d2">Każdy wybór ma swój koszt alternatywny. Jest to fundamentalna zasada ekonomii. Jeśli prześpisz swoje zajęcia z ekonomii w ostatnim rzędzie auli, kosztem alternatywnym tego wyboru będzie wiedza, której nie uzyskasz. Jeśli przeznaczasz swoje dochody na gry wideo, nie możesz ich wydawać na filmy. Jeśli zdecydujesz się poślubić jedną osobę, rezygnujesz z możliwości poślubienia kogokolwiek innego. Krótko mówiąc, z kosztem alternatywnym mamy do czynienia na co dzień, bo stanowi on część ludzkiej egzystencji.</para>
-      <para id="UUID22c66499-86d0-4c00-54c7-5d47b6314e0d">Poniższa ramka przedstawia analizę tego, jak krok po kroku wyznaczyć linię ograniczenia budżetowego. Zapoznaj się z nią, aby zrozumieć inne ważne pojęcie – nachylenie – które dokładniej wyjaśniamy w <link document="m00063" id="UUIDfdd20e81-ca4e-436a-4931-18b5ead9e835" />.</para>
+      <para id="UUID22c66499-86d0-4c00-54c7-5d47b6314e0d">Poniższa ramka przedstawia analizę tego, jak krok po kroku wyznaczyć linię ograniczenia budżetowego. Zapoznaj się z nią, aby zrozumieć inne ważne pojęcie – nachylenie – które dokładniej wyjaśniamy w <link document="m00063" cmlnle:case="locative" id="UUIDfdd20e81-ca4e-436a-4931-18b5ead9e835" />.</para>
       <note type="note" id="fs-idm84884032" class="economics workout">
         <title id="UUID90f92e47-f1c3-4448-6a03-8f7863088b3a">Zrozumienie ograniczenia budżetowego</title>
         <para id="fs-idm61959616">Koncepcja ograniczenia budżetowego jest łatwa do zrozumienia, jeśli wykorzystasz podstawowe umiejętności z matematyki. <link document="m00063" id="UUID1c142f29-edbb-4ee7-751c-3d1982705345" /> objaśnia cały zakres wiedzy i umiejętności matematycznych, których prawdopodobnie będziesz potrzebować, aby w pełni wykorzystać informacje zawarte w niniejszym podręczniku. Dlatego jeśli matematyka nie jest twoją mocną stroną, lepiej zapoznaj się z tym dodatkiem.</para>

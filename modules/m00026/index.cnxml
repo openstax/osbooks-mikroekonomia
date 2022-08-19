@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Wprowadzenie do rozdziału</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-16T10:03:00.684699519+00:00</md:version>
-    <md:created>2022-08-16T10:03:00.684699519+00:00</md:created>
-    <md:revised>2022-08-16T10:03:00.684699519+00:00</md:revised>
+    <md:version>2022-08-19T07:58:28.447159495+00:00</md:version>
+    <md:created>2022-08-19T07:58:28.447159495+00:00</md:created>
+    <md:revised>2022-08-19T07:58:28.447159495+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -92,7 +92,7 @@
         <para id="UUID83c99413-1acf-409e-681b-60b0a46058ac">Jak wielu jest sprzedawców w danej branży?</para>
       </item>
     </list>
-    <para id="fs-idp27631888"><link target-id="CNX_Econ_C07_001" document="" id="UUIDc8847d1a-4705-4fc1-6b01-c787c6d72ec9" /> pokazuje najważniejsze cechy różnych struktur rynku, które będziemy analizować w <link document="m00032" id="UUIDf104dd16-4f73-41f6-5884-7fc8c374dee4" />, <link document="m00037" id="UUIDca5ca87f-d1c4-4554-666e-6392d7243d34" /> oraz <link document="m00040" id="UUIDe80054c7-038c-4277-5df4-dec2b4640c1e" />.</para>
+    <para id="fs-idp27631888"><link target-id="CNX_Econ_C07_001" document="" id="UUIDc8847d1a-4705-4fc1-6b01-c787c6d72ec9" /> pokazuje najważniejsze cechy różnych struktur rynku, które będziemy analizować w <link document="m00032" cmlnle:case="locative" id="UUIDf104dd16-4f73-41f6-5884-7fc8c374dee4" />, <link document="m00037" cmlnle:case="locative" id="UUIDca5ca87f-d1c4-4554-666e-6392d7243d34" /> oraz <link document="m00040" cmlnle:case="locative" id="UUIDe80054c7-038c-4277-5df4-dec2b4640c1e" />.</para>
     <para id="UUID7de29881-73e2-46d2-694b-fdf977d7567b" />
     <figure id="CNX_Econ_C07_001">
       <title id="UUID049f96d2-fe49-4713-44f1-bc1aaeced479">Najważniejsze struktury rynku</title>

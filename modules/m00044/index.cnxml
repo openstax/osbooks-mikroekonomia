@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Podaż i popyt na rynku pracy</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-16T10:03:02.127805329+00:00</md:version>
-    <md:created>2022-08-16T10:03:02.127805329+00:00</md:created>
-    <md:revised>2022-08-16T10:03:02.127805329+00:00</md:revised>
+    <md:version>2022-08-19T07:58:29.327205545+00:00</md:version>
+    <md:created>2022-08-19T07:58:29.327205545+00:00</md:created>
+    <md:revised>2022-08-19T07:58:29.327205545+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -83,7 +83,7 @@
     </section>
     <section id="fs-idm35414864">
       <title id="UUIDb5667cfd-c0fc-4c4b-7384-9a668143f26e">Technologia i zróżnicowanie płac: czteroetapowy proces</title>
-      <para id="UUID2324d312-09ad-4a8e-7874-fe7aa70578f5">Różne trendy obserwowane w gospodarkach rynkowych prowadzą do zmian poziomu wynagrodzeń i wielkości zatrudnienia. Zastanów się, w jaki sposób nowe technologie informatyczne, takie jak sieci komputerowe i telekomunikacyjne, wpłynęły na sytuację pracowników wysoko wykwalifikowanych, a jak na sytuację tych, którzy nie posiadają specjalistycznego wykształcenia i umiejętności? Z punktu widzenia pracodawców zgłaszających zapotrzebowanie na siłę roboczą nowe technologie często zastępują pracowników o niskich kwalifikacjach, takich jak urzędnicy zajmujący się aktami, którzy kiedyś przeczesywali szafki pełne papierowych dokumentów potwierdzających zawarcie transakcji i podpisanie umów. Jednak te same nowe technologie ułatwiają pracę wysoko wykwalifikowanych pracowników, takich jak menedżerowie, którzy dzięki komputerom i sieciom teleinformatycznym są w stanie dotrzeć do większej ilości informacji i lepiej nadzorować zarówno pracowników, jak i procesy produkcyjne w różnych częściach kraju i świata. Jak nowe technologie wpłyną na płace pracowników o wysokich i niskich kwalifikacjach? W przypadku tego pytania czteroetapowy proces analizy wpływu zmian podaży lub popytu na rynek (wprowadzony w <link document="m00011" id="UUID6b461a54-6ca5-4f97-474c-4d29bab59e7c" />) działa w następujący sposób:</para>
+      <para id="UUID2324d312-09ad-4a8e-7874-fe7aa70578f5">Różne trendy obserwowane w gospodarkach rynkowych prowadzą do zmian poziomu wynagrodzeń i wielkości zatrudnienia. Zastanów się, w jaki sposób nowe technologie informatyczne, takie jak sieci komputerowe i telekomunikacyjne, wpłynęły na sytuację pracowników wysoko wykwalifikowanych, a jak na sytuację tych, którzy nie posiadają specjalistycznego wykształcenia i umiejętności? Z punktu widzenia pracodawców zgłaszających zapotrzebowanie na siłę roboczą nowe technologie często zastępują pracowników o niskich kwalifikacjach, takich jak urzędnicy zajmujący się aktami, którzy kiedyś przeczesywali szafki pełne papierowych dokumentów potwierdzających zawarcie transakcji i podpisanie umów. Jednak te same nowe technologie ułatwiają pracę wysoko wykwalifikowanych pracowników, takich jak menedżerowie, którzy dzięki komputerom i sieciom teleinformatycznym są w stanie dotrzeć do większej ilości informacji i lepiej nadzorować zarówno pracowników, jak i procesy produkcyjne w różnych częściach kraju i świata. Jak nowe technologie wpłyną na płace pracowników o wysokich i niskich kwalifikacjach? W przypadku tego pytania czteroetapowy proces analizy wpływu zmian podaży lub popytu na rynek (wprowadzony w <link document="m00011" cmlnle:case="locative" id="UUID6b461a54-6ca5-4f97-474c-4d29bab59e7c" />) działa w następujący sposób:</para>
       <para id="UUID8abc3656-2790-4b18-4734-5ce9fb477d70">Krok 1. Jak wyglądały rynki pracowników o wysokich i niskich kwalifikacjach przed pojawieniem się nowych technologii? Na dwóch panelach <link target-id="CNX_Econ_C04_009" document="" cmlnle:case="locative" id="UUID8dfa7f83-75e0-465a-6edf-6c04c01ed774" /> S<sub>0</sub> to pierwotna krzywa popytu na pracę. Na każdym panelu pierwotny punkt równowagi E<sub>0</sub> występuje przy płacy W<sub>0</sub> i ilości Q<sub>0</sub>.</para>
       <figure id="CNX_Econ_C04_009">
         <title id="UUID31eb5411-207d-4924-537b-61678da061b8">Technologia i wynagrodzenia: zastosowanie modelu popytu i podaży</title>

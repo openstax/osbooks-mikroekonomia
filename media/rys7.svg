@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="155.78799mm"
-   height="70.527mm"
-   viewBox="0 0 155.78799 70.527"
+   height="62.452mm"
+   viewBox="0 0 155.78799 62.451999"
    version="1.1"
    id="svg4252"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="326.72702"
-     inkscape:cy="183.86754"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="351.97032"
+     inkscape:cy="242.30037"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,9 +101,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-226.473)">
+     transform="translate(0,-234.548)">
     <g
-       id="g904">
+       id="g995"
+       transform="translate(-9.0100072e-7,2.1720734e-4)">
       <path
          d="m 8.223915,272.10559 h 65.7892"
          style="fill:none;stroke:#3f60b6;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -326,24 +327,6 @@
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.23528647">17</tspan>
       </text>
-      <text
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-         id="text52-8-2-1-55-2-2-7-5-2"
-         x="8.0420961"
-         y="228.61737">
-        <tspan
-           id="tspan5179-4-4-1-6-5-2-0"
-           y="228.61737"
-           x="8.0420961"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">Green bond issuance</tspan>
-        <tspan
-           id="tspan7203"
-           y="232.14514"
-           x="8.0420961"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">by country of incorporation</tspan>
-      </text>
       <path
          d="m 13.046365,234.72385 v 37.29374"
          style="fill:none;stroke:#3f60b6;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -400,27 +383,6 @@
            x="72.073715"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.23528647">19</tspan>
-      </text>
-      <text
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-         id="text52-8-2-1-55-2-2-7-5-2-6"
-         x="89.816902"
-         y="228.61737">
-        <tspan
-           id="tspan5179-4-4-1-6-5-2-0-7"
-           y="228.61737"
-           x="89.816902"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">Cumulative green bond issuance</tspan>
-        <tspan
-           id="tspan7205"
-           y="232.14514"
-           x="89.816902"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">by sector and currency<tspan
-   id="tspan5810"
-   style="font-size:64.99999762%;baseline-shift:super">2</tspan>
-</tspan>
       </text>
       <rect
          y="266.55377"
@@ -1302,12 +1264,5 @@
            y="269.28302" />
       </g>
     </g>
-    <rect
-       id="rect552"
-       width="0.69999999"
-       height="0.69999999"
-       x="178.47203"
-       y="255.60893"
-       style="stroke-width:0.26398653" />
   </g>
 </svg>

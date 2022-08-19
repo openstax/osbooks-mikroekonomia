@@ -149,6 +149,39 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -170,8 +203,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:zoom="1.591631"
-     inkscape:cx="56.352469"
-     inkscape:cy="185.76336"
+     inkscape:cx="81.064377"
+     inkscape:cy="150.36582"
      inkscape:window-x="1438"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -195,6 +228,14 @@
        position="393.11248,44.156006"
        orientation="1,0"
        id="guide501"
+       inkscape:locked="false" /><sodipodi:guide
+       position="189.53131,25.996119"
+       orientation="1,0"
+       id="guide272"
+       inkscape:locked="false" /><sodipodi:guide
+       position="209.43217,25.996119"
+       orientation="1,0"
+       id="guide274"
        inkscape:locked="false" /></sodipodi:namedview><g
      id="g10"
      inkscape:groupmode="layer"
@@ -238,7 +279,7 @@
            x="-60.86438"
            y="-45.4869" /></flowRegion><flowPara
          id="flowPara314" /></flowRoot><g
-       id="g406"><path
+       id="g402"><path
          inkscape:connector-curvature="0"
          id="path14"
          style="fill:none;stroke:#b33aa3;stroke-width:0.51411897;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.08471372, 2.05647581;stroke-dashoffset:0;stroke-opacity:1"
@@ -315,6 +356,7 @@
      y="0"
      x="0 4.4492207"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37971687px;font-family:sans-serif;-inkscape-font-specification:sans-serif">18</tspan></text>
+
 
 
 
@@ -400,7 +442,7 @@
            id="tspan200"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.02823794">E<tspan
    id="tspan276"
-   style="font-size:65%;baseline-shift:sub">0</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:sub">0</tspan></tspan></text>
 <text
          transform="scale(1,-1)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02823794"
@@ -412,7 +454,7 @@
            id="tspan208"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.02823794">E<tspan
    id="tspan274"
-   style="font-size:65%;baseline-shift:sub">1</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:sub">1</tspan></tspan></text>
 <text
          transform="scale(1,-1)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02823794"
@@ -438,7 +480,7 @@
            id="tspan224"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.02823794">D<tspan
    id="tspan272"
-   style="font-size:65%;baseline-shift:sub">1</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:sub">1</tspan></tspan></text>
 <text
          transform="scale(1,-1)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02823782"
@@ -530,7 +572,7 @@
            id="tspan224-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.02823782">S<tspan
    id="tspan278"
-   style="font-size:65%;baseline-shift:sub">0</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:sub">0</tspan></tspan></text>
 <path
          inkscape:connector-curvature="0"
          id="path232"
@@ -643,7 +685,7 @@
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.02823782">Nadwyżka popytu</tspan><tspan
            id="tspan4437"
-           y="-63.950871"
+           y="-63.950878"
            x="90.640488"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986691px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.02823782">(niedobór podaży)</tspan></text>
@@ -704,23 +746,23 @@
            id="tspan96-8-6">14</tspan></text>
 <text
          y="-16.068254"
-         x="115.96801"
+         x="128.20679"
          style="font-variant:normal;font-weight:normal;font-size:6.55986738px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02823794"
          id="text98-4-31"
          transform="scale(1,-1)"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986738px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.02823794"
-           x="115.96801"
+           x="128.20679"
            y="-16.068254"
            sodipodi:role="line"
            id="tspan96-8-7">16</tspan></text>
 <text
          y="-16.068254"
-         x="128.20679"
+         x="115.96801"
          style="font-variant:normal;font-weight:normal;font-size:6.55986738px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02823794"
          id="text98-4-5"
          transform="scale(1,-1)"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55986738px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.02823794"
-           x="128.20679"
+           x="115.96801"
            y="-16.068254"
            sodipodi:role="line"
            id="tspan96-8-9">15</tspan></text>

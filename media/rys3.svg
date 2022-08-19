@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="168.239mm"
-   height="113.998mm"
-   viewBox="0 0 168.239 113.998"
+   height="100.389mm"
+   viewBox="0 0 168.239 100.389"
    version="1.1"
    id="svg6700"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="225.91609"
-     inkscape:cy="113.74723"
+     inkscape:zoom="1.4"
+     inkscape:cx="402.1947"
+     inkscape:cy="251.23188"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,14 +52,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-183.002)">
+     transform="translate(0,-196.611)">
     <g
-       id="g3843"
-       transform="translate(-5.1337125,-36.04976)">
+       id="g2150"
+       transform="translate(-2.4881519e-6,1.3314951e-5)">
       <g
          style="stroke:#666666;stroke-opacity:1"
          id="g11797"
-         transform="translate(330.60896,-519.3955)">
+         transform="translate(325.47525,-555.44526)">
         <path
            inkscape:connector-curvature="0"
            id="path14-79"
@@ -3423,255 +3423,237 @@
       </g>
       <circle
          r="12.659554"
-         cy="280.56607"
-         cx="105.97874"
+         cy="244.51631"
+         cx="100.84502"
          id="path3191-4-8-1-7-4"
          style="opacity:0.80800003;fill:#fbc74b;fill-opacity:1;stroke-width:0.27377531;stroke-miterlimit:10;stroke-dasharray:none" />
       <circle
          r="7.8942556"
-         cy="274.99097"
-         cx="35.272312"
+         cy="238.94121"
+         cx="30.138599"
          id="path3191-6"
          style="opacity:0.80800003;fill:#fbc74b;fill-opacity:1;stroke-width:0.1707211;stroke-miterlimit:10;stroke-dasharray:none" />
       <circle
          r="12.659554"
-         cy="301.8656"
-         cx="49.968727"
+         cy="265.81583"
+         cx="44.835014"
          id="path3191-4-4"
          style="opacity:0.80800003;fill:#fbc74b;fill-opacity:1;stroke-width:0.27377531;stroke-miterlimit:10;stroke-dasharray:none" />
       <circle
          r="14.237301"
-         cy="306.33594"
-         cx="91.704063"
+         cy="270.28616"
+         cx="86.570351"
          id="path3191-4-8-5"
          style="opacity:0.80800003;fill:#fbc74b;fill-opacity:1;stroke-width:0.30789563;stroke-miterlimit:10;stroke-dasharray:none" />
       <circle
          r="8.6400509"
-         cy="272.18896"
-         cx="84.679283"
+         cy="236.13921"
+         cx="79.54557"
          id="path3191-4-8-7-5"
          style="opacity:0.80800003;fill:#fbc74b;fill-opacity:1;stroke-width:0.18684962;stroke-miterlimit:10;stroke-dasharray:none" />
       <circle
          r="11.382328"
-         cy="256.74957"
-         cx="98.841385"
+         cy="220.69981"
+         cx="93.707672"
          id="path3191-4-8-1-5"
          style="opacity:0.80800003;fill:#fbc74b;fill-opacity:1;stroke-width:0.24615405;stroke-miterlimit:10;stroke-dasharray:none" />
       <circle
          r="10.743716"
-         cy="291.57275"
-         cx="148.31516"
+         cy="255.52299"
+         cx="143.18144"
          id="path3191-4-8-1-2-6"
          style="opacity:0.80800003;fill:#fbc74b;fill-opacity:1;stroke-width:0.23234342;stroke-miterlimit:10;stroke-dasharray:none" />
       <text
          style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
          id="text44-7-06"
-         x="91.808128"
-         y="305.44366">
+         x="86.674416"
+         y="269.39389">
         <tspan
-           y="305.44366"
-           x="91.808128"
+           y="269.39389"
+           x="86.674416"
            sodipodi:role="line"
            id="tspan42-4-2"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Afryka</tspan>
         <tspan
            id="tspan8043-6"
-           y="308.97144"
-           x="91.808128"
+           y="272.92166"
+           x="86.674416"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">4,7%</tspan>
         <tspan
            id="tspan8041-9"
-           y="312.49921"
-           x="91.808128"
+           y="276.44943"
+           x="86.674416"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778" />
       </text>
       <text
          style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
          id="text44-7-2-9"
-         x="49.961159"
-         y="299.20944">
+         x="44.827446"
+         y="263.15967">
         <tspan
            id="tspan8043-2-2"
-           y="299.20944"
-           x="49.961159"
+           y="263.15967"
+           x="44.827446"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Ameryka</tspan>
         <tspan
            id="tspan8140-9"
-           y="302.73721"
-           x="49.961159"
+           y="266.68744"
+           x="44.827446"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Południowa</tspan>
         <tspan
            id="tspan8142-6"
-           y="306.26498"
-           x="49.961159"
+           y="270.21521"
+           x="44.827446"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">3,8%</tspan>
         <tspan
            id="tspan8041-4-5"
-           y="309.79279"
-           x="49.961159"
+           y="273.74301"
+           x="44.827446"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778" />
       </text>
       <text
          style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
          id="text44-7-4-5"
-         x="35.264748"
-         y="273.41052">
+         x="30.131035"
+         y="237.36076">
         <tspan
            id="tspan8041-6-3"
-           y="273.41052"
-           x="35.264748"
+           y="237.36076"
+           x="30.131035"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Ameryka</tspan>
         <tspan
            id="tspan8134-8"
-           y="276.93829"
-           x="35.264748"
+           y="240.88853"
+           x="30.131035"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Północna</tspan>
         <tspan
            id="tspan8136-6"
-           y="280.46606"
-           x="35.264748"
+           y="244.41632"
+           x="30.131035"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">1,1%</tspan>
       </text>
       <text
          style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
          id="text44-7-0-7"
-         x="84.726822"
-         y="269.48938">
+         x="79.593109"
+         y="233.43962">
         <tspan
            id="tspan8043-9-3"
-           y="269.48938"
-           x="84.726822"
+           y="233.43962"
+           x="79.593109"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Europa</tspan>
         <tspan
            id="tspan8146-6"
-           y="273.01715"
-           x="84.726822"
+           y="236.96739"
+           x="79.593109"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Wachodnia</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Zachodnia</tspan>
         <tspan
            id="tspan8148-0"
-           y="276.54492"
-           x="84.726822"
+           y="240.49518"
+           x="79.593109"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">1,7%</tspan>
         <tspan
            id="tspan8041-2-2"
-           y="280.07272"
-           x="84.726822"
+           y="244.02295"
+           x="79.593109"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778" />
       </text>
       <text
          style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
          id="text44-7-23-6"
-         x="98.902725"
-         y="254.23055">
+         x="93.769012"
+         y="218.18079">
         <tspan
-           y="254.23055"
-           x="98.902725"
+           y="218.18079"
+           x="93.769012"
            sodipodi:role="line"
            id="tspan42-4-1-9"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Europa</tspan>
         <tspan
            id="tspan8150-3"
-           y="257.75833"
-           x="98.902725"
+           y="221.70856"
+           x="93.769012"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Wschodnia</tspan>
         <tspan
            id="tspan8043-83-0"
-           y="261.2861"
-           x="98.902725"
+           y="225.23634"
+           x="93.769012"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">3%</tspan>
         <tspan
            id="tspan8041-42-8"
-           y="264.81387"
-           x="98.902725"
+           y="228.76411"
+           x="93.769012"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778" />
       </text>
       <text
          style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
          id="text44-7-24-7"
-         x="106.04762"
-         y="277.90985">
+         x="100.91391"
+         y="241.86009">
         <tspan
            id="tspan8043-7-6"
-           y="277.90985"
-           x="106.04762"
+           y="241.86009"
+           x="100.91391"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Bliski</tspan>
         <tspan
            id="tspan8165-5"
-           y="281.43762"
-           x="106.04762"
+           y="245.38786"
+           x="100.91391"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Wschód</tspan>
         <tspan
            id="tspan8154-2"
-           y="284.96539"
-           x="106.04762"
+           y="248.91565"
+           x="100.91391"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">3,7%</tspan>
         <tspan
            id="tspan8041-5-4"
-           y="288.49319"
-           x="106.04762"
+           y="252.44342"
+           x="100.91391"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778" />
       </text>
       <text
          style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
          id="text44-7-7-0"
-         x="148.3076"
-         y="288.9166">
+         x="143.17389"
+         y="252.86684">
         <tspan
            id="tspan8041-1-0"
-           y="288.9166"
-           x="148.3076"
+           y="252.86684"
+           x="143.17389"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">Azja</tspan>
         <tspan
            id="tspan8161-8"
-           y="292.44437"
-           x="148.3076"
+           y="256.39462"
+           x="143.17389"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">i Pacyfik</tspan>
         <tspan
            id="tspan5173"
-           y="295.97214"
-           x="148.3076"
+           y="259.92239"
+           x="143.17389"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#3f60b6;fill-opacity:1;stroke-width:0.35277778">2,6%</tspan>
-      </text>
-      <text
-         style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-         id="text44-3-5"
-         x="60.040718"
-         y="221.196">
-        <tspan
-           y="221.196"
-           x="60.040718"
-           sodipodi:role="line"
-           id="tspan42-3-4"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.35277778">Economic impacts of climate change</tspan>
-        <tspan
-           id="tspan8253-9"
-           y="224.72377"
-           x="60.040718"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.35277778">Avarage real GDP loss 2050</tspan>
       </text>
     </g>
   </g>

@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Jak maksymalizujący zyski monopol ustala produkcję i ceny</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-16T10:03:01.554443407+00:00</md:version>
-    <md:created>2022-08-16T10:03:01.554443407+00:00</md:created>
-    <md:revised>2022-08-16T10:03:01.554443407+00:00</md:revised>
+    <md:version>2022-08-19T07:58:29.123294287+00:00</md:version>
+    <md:created>2022-08-19T07:58:29.123294287+00:00</md:created>
+    <md:revised>2022-08-19T07:58:29.123294287+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -68,7 +68,7 @@
     </section>
     <section id="fs-idm55974336">
       <title id="UUIDe02146c3-d6b3-4c1c-71a4-166c82623c26">Koszty całkowite i utarg całkowity monopolisty</title>
-      <para id="fs-idm96960928">Wielkość zysków monopolisty przedstawione na <link target-id="CNX_Econ_C09_004" cmlnle:case="locative" id="UUID2a73348a-8058-4159-69c4-a38f86650346" /> za pomocą krzywych utargu całkowitego i kosztów całkowitych hipotetycznej firmy Tabletka Zdrowia. Krzywa kosztów całkowitych ma typowy kształt, taki jaki przedstawiliśmy w <link document="m00026" id="UUIDe01de987-a678-43dc-460a-3d2d8f6e8507" /> i jaki wykorzystywaliśmy w rozdziale poświęconym konkurencji doskonałej. Wartość kosztów całkowitych rośnie coraz bardziej wraz ze wzrostem wolumenu produkcji (krzywa kosztów jest coraz bardziej stroma), zgodnie z danymi z ostatniej kolumny w <link target-id="Table_09_02" cmlnle:case="locative" id="UUID0fffaca6-6c47-49fb-57d5-5ef5f94a556f" />.</para>
+      <para id="fs-idm96960928">Wielkość zysków monopolisty przedstawione na <link target-id="CNX_Econ_C09_004" cmlnle:case="locative" id="UUID2a73348a-8058-4159-69c4-a38f86650346" /> za pomocą krzywych utargu całkowitego i kosztów całkowitych hipotetycznej firmy Tabletka Zdrowia. Krzywa kosztów całkowitych ma typowy kształt, taki jaki przedstawiliśmy w <link document="m00026" cmlnle:case="locative" id="UUIDe01de987-a678-43dc-460a-3d2d8f6e8507" /> i jaki wykorzystywaliśmy w rozdziale poświęconym konkurencji doskonałej. Wartość kosztów całkowitych rośnie coraz bardziej wraz ze wzrostem wolumenu produkcji (krzywa kosztów jest coraz bardziej stroma), zgodnie z danymi z ostatniej kolumny w <link target-id="Table_09_02" cmlnle:case="locative" id="UUID0fffaca6-6c47-49fb-57d5-5ef5f94a556f" />.</para>
       <figure id="CNX_Econ_C09_004">
         <title id="UUID03cebae7-6cb6-49e8-5b3a-6deca5c723c8">Utarg całkowity i koszt całkowity dla monopolistycznego przedsiębiorstwa Tabletka Zdrowia</title>
         <media alt="Wykres przedstawia koszt całkowity jako nachyloną dodatnio krzywą, a utarg całkowity jako paraboliczną krzywą, która początkowo rośnie, a następnie spada. Obie krzywe przecinają się dla poziomu produkcji zbliżonego do 7." id="fs-idm57576384">

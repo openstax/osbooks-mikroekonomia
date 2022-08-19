@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Koszty w krótkim okresie</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-16T10:03:00.901743816+00:00</md:version>
-    <md:created>2022-08-16T10:03:00.901743816+00:00</md:created>
-    <md:revised>2022-08-16T10:03:00.901743816+00:00</md:revised>
+    <md:version>2022-08-19T07:58:28.520012686+00:00</md:version>
+    <md:created>2022-08-19T07:58:28.520012686+00:00</md:created>
+    <md:revised>2022-08-19T07:58:28.520012686+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -122,7 +122,7 @@
     <section id="fs-idm38625792">
       <title id="UUIDcc64e86d-7b2f-4841-4542-a873caa71dde">Lekcje płynące z alternatywnych metod mierzenia kosztów</title>
       <para id="UUIDe2441ac2-17c3-4ba8-5cd9-b36644b1b2b4">Podział kosztów całkowitych na koszty stałe, krańcowe i przeciętne jest przydatny, ponieważ każda z tych alternatywnych miar pozwala spojrzeć na sposób funkcjonowania przedsiębiorstwa w nieco inny sposób.</para>
-      <para id="UUID4e340676-87d1-4775-528a-67170a60f08f">Bez względu na wielkość produkcji utarg całkowity musi przekraczać koszty całkowite, jeśli przedsiębiorstwo ma osiągnąć zysk. Jednak, jak omówiliśmy to w <link document="m00007" id="UUIDb8eb9c11-b0ce-42ec-525a-56efda1b62f0" />, koszty stałe są często <term cmlnle:reference="koszty utopione" id="UUIDa42bc672-502d-4845-5582-1959b8908c83">kosztami utopionymi</term> (ang. <foreign xml:lang="en" id="UUID108f8a43-0130-415f-58c1-f51692ff5323"><term cxlxt:index="foreign" cmlnle:reference="sunk costs" id="UUID0e41e8cb-f697-4d0f-7fcb-26a5cc7d8798">sunk costs</term></foreign>), których przedsiębiorstwo nie może odzyskać. Powinny być zatem ignorowane podczas podejmowania decyzji o tym, co można zrobić, aby poprawić sytuację przedsiębiorstwa. Można natomiast zmienić wartość kosztów zmiennych, dzięki czemu przedsiębiorstwo ma szansę stać się dochodowe. Jest to przecież jedyna kategoria kosztów, które mogą się zmieniać w krótkim okresie, w związku z czym to one właśnie rosną lub maleją wraz ze wzrostem lub spadkiem wolumenu produkcji.</para>
+      <para id="UUID4e340676-87d1-4775-528a-67170a60f08f">Bez względu na wielkość produkcji utarg całkowity musi przekraczać koszty całkowite, jeśli przedsiębiorstwo ma osiągnąć zysk. Jednak, jak omówiliśmy to w <link document="m00007" cmlnle:case="locative" id="UUIDb8eb9c11-b0ce-42ec-525a-56efda1b62f0" />, koszty stałe są często <term cmlnle:reference="koszty utopione" id="UUIDa42bc672-502d-4845-5582-1959b8908c83">kosztami utopionymi</term> (ang. <foreign xml:lang="en" id="UUID108f8a43-0130-415f-58c1-f51692ff5323"><term cxlxt:index="foreign" cmlnle:reference="sunk costs" id="UUID0e41e8cb-f697-4d0f-7fcb-26a5cc7d8798">sunk costs</term></foreign>), których przedsiębiorstwo nie może odzyskać. Powinny być zatem ignorowane podczas podejmowania decyzji o tym, co można zrobić, aby poprawić sytuację przedsiębiorstwa. Można natomiast zmienić wartość kosztów zmiennych, dzięki czemu przedsiębiorstwo ma szansę stać się dochodowe. Jest to przecież jedyna kategoria kosztów, które mogą się zmieniać w krótkim okresie, w związku z czym to one właśnie rosną lub maleją wraz ze wzrostem lub spadkiem wolumenu produkcji.</para>
       <note type="note" id="fs-idm60136640" class="clearup economics">
         <title id="UUIDe61b8c92-e128-4128-4489-cfb2eef49976">Dlaczego koszty całkowite i koszt przeciętny nie są przedstawione na tym samym wykresie?</title>
         <para id="UUID8429c3eb-49a1-4378-7009-84139b9d50e0">Koszty całkowite, koszty stałe i koszty zmienne odzwierciedlają różne aspekty kształtowania się kosztów produkcji danego wolumenu. Mierzymy je w złotych (lub innych jednostkach pieniężnych). Natomiast koszt krańcowy, koszt przeciętny i przeciętny koszt zmienny są kosztami przeliczonymi na jednostkę produkcji. W poprzednim przykładzie mierzyliśmy je w złotych za ostrzyżoną głowę. Zatem umieszczanie wszystkich krzywych na tym samym wykresie nie miałoby sensu, ponieważ mierzymy je w różnych jednostkach (w złotych albo w złotych na jednostkę produkcji).</para>
