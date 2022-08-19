@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Produkcja w długim okresie</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-19T07:58:28.550418109+00:00</md:version>
-    <md:created>2022-08-19T07:58:28.550418109+00:00</md:created>
-    <md:revised>2022-08-19T07:58:28.550418109+00:00</md:revised>
+    <md:version>2022-08-19T13:42:24.985609704+00:00</md:version>
+    <md:created>2022-08-19T13:42:24.985609704+00:00</md:created>
+    <md:revised>2022-08-19T13:42:24.985609704+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -56,16 +56,35 @@
 <mtd columnalign="right"><mtext>produkt krańcowy</mtext></mtd><mtd><mo> = </mo></mtd><mtd columnalign="left"><mtext>zmiana produkcji całkowitej/zmiana wielkości zatrudnienia zmiennego czynnika produkcji</mtext></mtd>
 </mtr>
 <mtr>
-<mtd /><mtd /><mtd columnalign="left"><mtext>zmiana produktu całkowitego</mtext><mo> = </mo><mn>25</mn><mspace width="0.2em" /><mo>−</mo><mn>18 m2</mn><mspace width="0.2em" /></mtd>
+<mtd /><mtd /><mtd columnalign="left"><mtext>zmiana produktu całkowitego</mtext><mo> = </mo><mn>25</mn><mspace width="0.2em" /><mo>−</mo><mn>18</mn>
+<mo>[</mo>
+<msup>
+<mi>m</mi>
+<mn>2</mn>
+</msup>
+<mo>]</mo>
+<mspace width="0.2em" /></mtd>
 </mtr>
 <mtr>
-<mtd /><mtd /><mtd columnalign="left"><mtext>zmiana produktu całkowitego</mtext><mo> = </mo><mn>7 m2</mn><mspace width="0.2em" /></mtd>
+<mtd /><mtd /><mtd columnalign="left"><mtext>zmiana produktu całkowitego</mtext><mo> = </mo><mn>7</mn>
+<msup>
+<mi>m</mi>
+<mn>2</mn>
+</msup><mspace width="0.2em" /></mtd>
 </mtr>
 <mtr>
-<mtd columnalign="right"><mtext>produkt krańcowy</mtext></mtd><mtd><mo> = </mo></mtd><mtd columnalign="left"><mn>7 m2</mn><mspace width="0.2em" /><mtext>na 1 pracownika</mtext></mtd>
+<mtd columnalign="right"><mtext>produkt krańcowy</mtext></mtd><mtd><mo> = </mo></mtd><mtd columnalign="left"><mn>7</mn>
+<msup>
+<mi>m</mi>
+<mn>2</mn>
+</msup><mspace width="0.2em" /><mtext>na 1 pracownika</mtext></mtd>
 </mtr>
 <mtr>
-<mtd columnalign="right"><mtext>produkt krańcowy</mtext></mtd><mtd><mo> = </mo></mtd><mtd columnalign="left"><mn>7 m2</mn></mtd>
+<mtd columnalign="right"><mtext>produkt krańcowy</mtext></mtd><mtd><mo> = </mo></mtd><mtd columnalign="left"><mn>7</mn>
+<msup>
+<mi>m</mi>
+<mn>2</mn>
+</msup></mtd>
 </mtr>
 </mtable>
 </math></equation>

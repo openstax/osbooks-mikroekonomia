@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Koszty całkowite i księgowe, zysk księgowy i zysk ekonomiczny</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-19T07:58:28.468569099+00:00</md:version>
-    <md:created>2022-08-19T07:58:28.468569099+00:00</md:created>
-    <md:revised>2022-08-19T07:58:28.468569099+00:00</md:revised>
+    <md:version>2022-08-19T13:42:24.958287906+00:00</md:version>
+    <md:created>2022-08-19T13:42:24.958287906+00:00</md:created>
+    <md:revised>2022-08-19T13:42:24.958287906+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -34,9 +34,23 @@
       </list>
     </note>
     <para id="UUID8e1f04e9-1773-4452-624d-6c972c49f297">Każde przedsiębiorstwo, niezależnie od swoich rozmiarów i rodzaju działalności, dąży do osiągnięcia zysku:</para>
-    <para id="UUIDc7d5537d-02c2-4989-5f5b-bc116c642af4">Zysk = Utarg całkowity – Koszty całkowite</para>
+    <equation id="UUID1ea3822f-derr-y766-7a2a-7f4dfd656d2d" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<mtext>Zysk</mtext>
+<mo> = </mo>
+<mspace width="0.2em" />
+<mtext>Utarg całkowity</mtext>
+<mo> – </mo>
+<mtext>Koszty całkowite</mtext>
+</math></equation>
     <para id="UUID5a2ef8fa-e405-417d-5d81-8459a60cce7f"><term cmlnle:reference="utarg całkowity" id="UUID6238388f-eee0-4680-7f84-e1126f80d641">Utarg całkowity</term> (ang. <foreign xml:lang="en" id="UUIDd76d676c-714f-486f-51e2-e24b5b747548"><term cxlxt:index="foreign" cmlnle:reference="total revenue" id="UUID8781a524-cabd-40a6-7ab5-bb1a59f0f7b3">total revenue</term></foreign>) lub inaczej <term id="UUID035c543e-79f4-4749-7dee-66cf1ae4000e">przychód całkowity</term> (<term id="UUID10ed1882-2d8d-47eb-5de8-0866b2e76847">przychód ze sprzedaży</term>) to środki, jakie przedsiębiorstwo uzyskuje ze sprzedaży wytwarzanych przez siebie produktów. Obliczamy go, mnożąc cenę produktu przez wolumen sprzedanej produkcji:</para>
-    <para id="UUID11c81688-2261-45d5-724c-e6f16270da22">Utarg całkowity = Cena × Ilość</para>
+    <equation id="UUID1ea3822f-derr-ggfr-sdsd-7f4dfd656d2d" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<mtext>Zysk</mtext>
+<mo> = </mo>
+<mspace width="0.2em" />
+<mtext>Cena</mtext>
+<mo> × </mo>
+<mtext>Ilość</mtext>
+</math></equation>
     <para id="UUIDd944fcc5-7863-4f0d-6abe-a0ac8ac5fbc3">W kolejnych rozdziałach dowiedziemy, że przychody ze sprzedaży są funkcją popytu na produkty przedsiębiorstwa.</para>
     <para id="UUIDf6057f04-2530-4fe2-7287-0101ad1184e8"><term cmlnle:reference="koszty całkowite" id="UUID58960967-6552-482d-6fb9-3a9b72cc8051">Koszty całkowite</term> (ang. <foreign xml:lang="en" id="UUIDb9c126ba-db3d-4cdd-4467-36eab810e66b"><term cxlxt:index="foreign" cmlnle:reference="total cost" id="UUID8a1f8815-e007-403b-4bfb-27d2f2778d63">total costs</term></foreign>) to wszystkie wydatki, jakie przedsiębiorstwo ponosi, produkując i sprzedając wytwarzane dobra i usługi. Przypomnijmy, że proces produkcji to przekształcanie nakładów w gotowe do sprzedaży dobra i usługi (wyroby gotowe). Pozyskanie każdego z tych nakładów wiąże się dla przedsiębiorstwa z pewnym kosztem. Suma wszystkich kosztów stanowi koszt całkowity. W tym rozdziale pokażemy, że koszty ponoszone przez przedsiębiorstwa w krótkim okresie różnią się od tych ponoszonych w długim okresie.</para>
     <para id="UUID94f7a613-448f-47fb-7994-367ff77eb894">Możemy rozróżnić dwa rodzaje kosztów: księgowe i ekonomiczne. <term cmlnle:reference="koszty księgowe" id="UUID3f593675-7e58-4942-486e-115676e93a35">Koszty księgowe</term> (ang. <foreign xml:lang="en" id="UUIDba08b8fb-17a7-48fc-7d8d-64fe7292885a"><term cxlxt:index="foreign" id="UUIDeb0c3082-edb7-4d93-6367-4e896d576153">explicit costs</term></foreign>) to koszty, które, jak sama nazwa wskazuje, są możliwe do ujęcia w księgach rachunkowych. Najczęściej mają formę rzeczywistych płatności dokonywanych przez przedsiębiorstwa. Niekiedy jednak koszty księgowe nie wiążą się bezpośrednio z żadnym wydatkiem. Takim kosztem jest <term cmlnle:reference="amortyzacja" id="UUID27f7d3b5-15fa-4cf4-603b-d517474a48dd">amortyzacja</term> (ang. <foreign xml:lang="en" id="UUID001209dc-09c6-416f-46c8-3456120ce9e3"><term cxlxt:index="foreign" cmlnle:reference="amortisation" id="UUIDa9db0f08-d5ed-4106-7047-49317efc83b4">amortisation</term></foreign>), czyli odpis związany z wykorzystaniem maszyny lub innego składnika kapitału rzeczowego, który jest użytkowany przez więcej niż jeden cykl produkcyjny. Najczęściej firmy dokonują pełnej płatności za taką maszynę przy jej zakupie, ale jako koszt traktują tylko część ceny. Koszt ten, czyli właśnie amortyzacja, będzie wpisywany w księgi rachunkowe przez cały okres, w którym dana maszyna jest eksploatowana, choć nie będzie już za sobą pociągał żadnego wydatku (ten opis jest oczywiście uproszczony, ale z uwagi na to, że niniejszy podręcznik traktuje o ekonomii, a nie o rachunkowości, możemy sobie na to pozwolić). Kosztami księgowymi są pensje wypłacane pracownikom lub czynsz za wynajęcie biura. <term cmlnle:reference="koszty ekonomiczne" id="UUIDb122d9f6-9dac-473e-60ca-0ab3b88209e9">Koszty ekonomiczne</term> (ang. <foreign xml:lang="en" id="UUID9949216e-34d0-46e0-59ca-a6163c5401e2"><term cxlxt:index="foreign" cmlnle:reference="implicit cost" id="UUID3c9578c8-4fec-4ccf-4eb0-10c5d1e7fd90">implicit costs</term></foreign>) są natomiast sumą kosztów księgowych oraz kosztów alternatywnych zasobów posiadanych i wykorzystywanych przez przedsiębiorstwo. W przypadku małych przedsiębiorstw zwykle są to zasoby wniesione przez właścicieli. Wartość pracy właściciela firmy, który nie pobiera za to wynagrodzenia, lub potencjalny dochód, jaki wiązałby się z wynajęciem części posiadanej przez tegoż właściciela i wykorzystywanej na działalność gospodarczą nieruchomości, to przykłady kosztów ekonomicznych.</para>

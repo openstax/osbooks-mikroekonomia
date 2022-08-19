@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Jak ludzie dokonują wyborów w oparciu o ograniczenia budżetowe</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-19T07:58:27.536594177+00:00</md:version>
-    <md:created>2022-08-19T07:58:27.536594177+00:00</md:created>
-    <md:revised>2022-08-19T07:58:27.536594177+00:00</md:revised>
+    <md:version>2022-08-19T13:42:24.808799842+00:00</md:version>
+    <md:created>2022-08-19T13:42:24.808799842+00:00</md:created>
+    <md:revised>2022-08-19T13:42:24.808799842+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -45,7 +45,7 @@
     <para id="UUIDda7fa1ed-d9e9-487b-52cc-31015bea440a" />
     <figure id="CNX_Econ_C02_001">
       <media alt="Wykres przedstawia linię ograniczenia budżetowego nachyloną ujemnie, pokazującą dostępne dla Tomka kombinacje konsumpcji kanapek i biletów autobusowych." id="fs-idm18308576">
-        <image src="../../media//CNX_Econ_C02_001.svg" mime-type="image/svg+xml" id="UUIDd7e549c0-dbf2-4c99-6319-670d6c64ef23" />
+        <image src="../../media//CNX_Econ_C02_001.png" mime-type="image/png" id="UUIDd7e549c0-dbf2-4c99-6319-670d6c64ef23" />
       </media>
       <caption id="UUID6cdd5869-7a55-4bcc-5b0f-78224b90ca3d">Każdy punkt na linii ograniczenia budżetowego reprezentuje dostępne dla Tomka kombinacje (koszyki) zakupów kanapek i biletów autobusowych, których całkowity koszt jest równy jego budżetowi wynoszącemu 60 zł. Relacja cen kanapek i biletów określa nachylenie linii ograniczenia budżetowego. W opisanym przypadku rezygnacja z jednej kanapki oznacza możliwość zakupu czterech dodatkowych biletów autobusowych.</caption>
     </figure>
@@ -132,7 +132,7 @@
           <para id="UUIDd8d59ab1-2d58-4778-4126-2467a5857d43">Koszt alternatywny biletów autobusowych to liczba kanapek, z których trzeba zrezygnować, aby kupić jeszcze jeden bilet autobusowy. Pierwotnie, gdy cena biletu wynosiła 3 zł za przejazd, ten koszt alternatywny wynosił 3 / 12 = 0,25 kanapki. Przy pierwotnych cenach jedna kanapka (12 zł) kosztuje tyle samo, co cztery bilety autobusowe (3 zł), więc koszt alternatywny kanapki to cztery bilety autobusowe, a koszt alternatywny biletu autobusowego to 0,25 (odwrotność kosztu alternatywnego kanapki). Wraz z nową, wyższą ceną biletów autobusowych koszt alternatywny wzrasta do 6 zł/12 zł lub 0,50. Można to zauważyć również na wykresie, ponieważ nachylenie nowej linii ograniczenia budżetowego jest bardziej strome j. Jeśli Tomek wydaje cały swój budżet na kanapki, wyższa cena biletów autobusowych nie ma znaczenia, więc przecięcie linii ograniczenia budżetowego z osią pionową jest w tym samym miejscu. Jeśli cały swój budżet przeznacza on na bilety autobusowe, to teraz może sobie pozwolić tylko na połowę dotychczasowych zakupów, więc przecięcie linii ograniczenia budżetowego z osią poziomą występuje przy dwa razy mniejszej wartości. Krótko mówiąc, linia ograniczenia budżetowego obraca się zgodnie z ruchem wskazówek zegara wokół punktu przecięcia z osią pionową, stając się bardziej stromą, co oznacza, że zwiększa się koszt alternatywny biletów autobusowych.</para>
           <figure id="CNX_Econ_C02_003">
             <media alt="Wykres pokazuje, jak na koszt alternatywny kanapek wpływa zmiana ceny biletów autobusowych." id="fs-idp97189264">
-              <image src="../../media//CNX_Econ_C02_003.svg" mime-type="image/svg+xml" id="UUIDec42fe1b-1a55-42d4-6585-b915e74abc46" />
+              <image src="../../media//CNX_Econ_C02_003.png" mime-type="image/png" id="UUIDec42fe1b-1a55-42d4-6585-b915e74abc46" />
             </media>
             <caption id="UUID5e0e7a7e-345f-49de-497c-f4c6419571b0">Każdy punkt na linii ograniczenia budżetowego reprezentuje dostępne dla Tomka kombinacje (koszyki) zakupów kanapek i biletów autobusowych, których całkowity koszt jest równy jego budżetowi wynoszącemu 60 zł. Relacja cen kanapek i biletów autobusowych określa nachylenie linii ograniczenia budżetowego. W opisanym przypadku rezygnacja z jednej kanapki oznacza możliwość zakupu dwóch dodatkowych biletów.</caption>
           </figure>
