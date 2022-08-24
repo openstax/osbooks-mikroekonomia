@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Popyt i podaż na rynku finansowym</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.509026388+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.509026388+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.509026388+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.611650227+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.611650227+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.611650227+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -47,7 +47,7 @@
       <figure id="CNX_Econ_C04_005">
         <title id="UUIDcdf264c5-2c23-4d51-64b3-02dab59050bb">Popyt i podaż na rynku pożyczek na kartach kredytowych</title>
         <media alt="Na wykresie zilustrowane są konsekwencje sytuacji, w której cena na rynku pożyczek zaciąganych dzięki kartom kredytowym (stopa procentowa) odchyla się od poziomu równowagi." id="fs-idp189527024">
-          <image src="../../media//CNX_Econ_C04_005.svg" mime-type="image/svg+xml" id="UUID47dfc6f3-2461-4127-7f88-4766590fea8c" />
+          <image src="../../media//CNX_Econ_C04_005.png" mime-type="image/png" id="UUID47dfc6f3-2461-4127-7f88-4766590fea8c" />
         </media>
         <caption id="UUIDc72fa90b-3bd6-476f-4e98-a1bc4c81b5ab">Na rynku pożyczek udzielanych poprzez karty kredytowe krzywa popytu (D) na środki finansowe przecina krzywą podaży (S) w punkcie równowagi (E). W równowadze stopa procentowa (czyli cena na tym rynku) wynosi 15%, a wartość pożyczonych środków pieniężnych to 600 mld zł. Cena równowagi wyznaczona jest przez zrównanie popytu i podaży. Przy stopie procentowej powyżej poziomu równowagi, np. 21%, ilość oferowanych na pożyczki środków finansowych wzrosłaby do 750 mld zł, ale zapotrzebowanie spadłoby do 480 mld zł (pojawiłaby się nadwyżka podaży). Przy stopie procentowej niższej od ceny równowagi, np. 13%, zapotrzebowanie na pożyczki wzrosłoby do 700 mld zł, ale ilość oferowanych środków zmniejszyłaby się do 510 mld zł (wystąpiłaby nadwyżka popytu).</caption>
       </figure>
@@ -78,7 +78,7 @@
       <figure id="CNX_Econ_C04_007">
         <title id="UUID97f3af76-e497-49f5-5361-a49a3c4d14e1">Stopy procentowe na rynku kart kredytowych: kolejny przykład pułapu cenowego</title>
         <media alt="Wykres pokazuje, że rezultatem nałożenia limitu na wysokość stóp procentowych, jakich mogą zażądać kredytodawcy, może być nadwyżka popytu na środki finansowe." id="fs-idm124840240">
-          <image src="../../media//CNX_Econ_C04_007.svg" mime-type="image/svg+xml" id="UUID1be52e2c-fa56-4bb6-5530-e489af7a84c9" />
+          <image src="../../media//CNX_Econ_C04_007.png" mime-type="image/png" id="UUID1be52e2c-fa56-4bb6-5530-e489af7a84c9" />
         </media>
         <caption id="UUIDef225d1d-9e1c-4e28-6f11-cff3a5d340e5">Pierwotnie przecięcie popytu D i podaży S następuje w stanie równowagi w punkcie E<sub>0</sub>. Jednak maksymalny poziom odsetek, jakich kredytodawcy mogą zażądać, jest zgodnie z wprowadzonymi regulacjami równy R<sub>c</sub>, czyli kształtuje się poniżej stopy procentowej równoważącej rynek (R<sub>0</sub>). Stopa procentowa nie może więc wzrosnąć do poziomu równowagi. Przy cenie maksymalnej zapotrzebowanie Q<sub>d</sub> przewyższa ilość oferowaną Q<sub>s</sub>. Na rynku istnieje nadwyżka popytu na kredyt (środki finansowe).</caption>
       </figure>

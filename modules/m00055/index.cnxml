@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Dobra publiczne </md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.552741101+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.552741101+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.552741101+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.661037964+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.661037964+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.661037964+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -78,7 +78,7 @@
     <section id="ch13mod03_04">
       <title id="UUID19c1eb60-11d6-4fc6-5724-f994957942aa">Wspólne zasoby i „tragedia wspólnego pastwiska”</title>
       <para id="fs-idp17369824">Tak jak to już zaznaczyliśmy wcześniej, poza czystymi dobrami publicznymi (miejski park) i dobrami prywatnymi (kawałek pizzy) możemy również mówić o mieszanych dobrach publicznych. Charakteryzują się one rywalizacyjnym charakterem konsumpcji, ale nie istnieją sposoby pozwalające wykluczyć kogokolwiek z konsumpcji takiego dobra, jeśli jest ona w jego kontekście w ogóle dopuszczalna. Przykładem niech będą ławice ryb (np. dorsza) na atlantyckich wodach międzynarodowych. Ponieważ każdy trawler rybacki ma prawo poławiać dorsza na wodach międzynarodowych, rybę tę możemy traktować jako dobro, z konsumpcji którego nikogo nie da się wykluczyć. Jednocześnie połowy mają charakter rywalizacyjny. Każda ryba wyłowiona np. przez statek portugalski nie zostanie złapana przez rybaków z Francji lub Kanady.</para>
-      <para id="fs-idm84309808">Dobra charakteryzujące się rywalizacyjną konsumpcją i brakiem efektywnych sposobów wykluczania z niej ekonomiści nazywają <term cmlnle:reference="zasób wspólny" id="UUIDd5192684-8422-4c17-5c0f-a59333c2f74a">wspólnymi zasobami</term> (ang. <foreign xml:lang="en" id="UUID930b7a0b-5e94-43c2-7345-9448145a06f8"><term cxlxt:index="foreign" cmlnle:reference="common resource" id="UUID431e1fac-76bc-4411-6d36-e7b28961efa5">common resources</term></foreign>). Ponieważ wody międzynarodowe na Oceanie Atlantyckim są dostępne dla wszystkich rybaków, a każdy złowiony dorsz nie może być jednocześnie pozyskany przez kogoś innego, mają oni skłonność do nadmiernego wykorzystywania wspólnych zasobów, takich jak populacja tej smakowitej ryby.</para>
+      <para id="fs-idm84309808">Dobra charakteryzujące się rywalizacyjną konsumpcją i brakiem efektywnych sposobów wykluczania z niej ekonomiści nazywają <term cmlnle:reference="zasób wspólny" id="UUIDd5192684-8422-4c17-5c0f-a59333c2f74a">wspólnymi zasobami</term> lub <term cmlnle:reference="dobra wspólnej puli" id="UUID5f5020e9-303d-4c55-7912-bad05dade179">dobrami wspólnej puli</term> (ang. <foreign xml:lang="en" id="UUID930b7a0b-5e94-43c2-7345-9448145a06f8"><term cxlxt:index="foreign" cmlnle:reference="common resource" id="UUID431e1fac-76bc-4411-6d36-e7b28961efa5">common resources</term></foreign>). Ponieważ wody międzynarodowe na Oceanie Atlantyckim są dostępne dla wszystkich rybaków, a każdy złowiony dorsz nie może być jednocześnie pozyskany przez kogoś innego, mają oni skłonność do nadmiernego wykorzystywania wspólnych zasobów, takich jak populacja tej smakowitej ryby.</para>
       <para id="fs-idp76353648">Problem nadmiernego wykorzystywania wspólnych zasobów nie jest nowy. Ekolog Garret Hardin w artykule z 1968 r. opublikowanym w czasopiśmie <foreign xml:lang="en" id="UUID2c99a887-a2fd-4160-6229-45a26778cf84">Science</foreign> nazwał go „tragedią wspólnego pastwiska” (ang. <foreign xml:lang="en" id="UUIDb6e4243d-921a-4dcb-5080-b4cc7612ef8e">Tragedy of the Commons</foreign>). Ekonomiści postrzegają to jako problem praw własności. Ponieważ nikt nie jest właścicielem oceanu ani ryb, które przemieszczają się swobodnie w jego wodach, nikt nie ma motywacji, aby chronić te zasoby i odpowiedzialnie je pozyskiwać. W celu rozwiązania problemu nadmiernych połowów morskich ekonomiści zazwyczaj opowiadają się za prostymi metodami, takimi jak licencje, limity połowów i skracanie ich sezonów. Kiedy populacja jakiegoś gatunku spada do krytycznie małych rozmiarów, rządy nawet zakazują połowów, dopóki biolodzy nie stwierdzą, że powróciła ona do poziomu gwarantującego przeżywalność.</para>
     </section>
     <section id="ch13mod03_summ" class="summary">
@@ -240,7 +240,7 @@
       </meaning>
     </definition>
     <definition id="ch13mod03_gl02">
-      <term id="UUID3a58b514-07ae-4740-4b94-ada77aa66bfd">brak możliwości wykluczenia z konsumpcji (ang. <foreign xml:lang="en" id="UUIDce271a87-509d-446f-5059-b7ce6a1503c6">nonexcludable</foreign>)</term>
+      <term id="UUID3a58b514-07ae-4740-4b94-ada77aa66bfd">brak możliwości wykluczenia z konsumpcji (ang. <foreign xml:lang="en" id="UUIDce271a87-509d-446f-5059-b7ce6a1503c6">non excludable</foreign>)</term>
       <meaning id="ch13mod03_gl02m">
         <para id="UUID6c3075b1-0d2e-4dcf-579d-fafad7b89fe5">sytuacja, gdy wykluczenie kogoś z korzystania z danego dobra lub usługi jest niemożliwe lub na tyle kosztowne, że nie opłaca się wprowadzać takich rozwiązań; jedna z najważniejszych przyczyn problemu gapowicza</para>
       </meaning>

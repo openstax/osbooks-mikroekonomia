@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Zrównoważony ład korporacyjny i ESG</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.592553667+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.592553667+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.592553667+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.713358828+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.713358828+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.713358828+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -37,50 +37,54 @@
     <para id="UUIDec428864-4ec9-43f7-533b-680ee093b89f">Pamiętać należy, że podstawowym obszarem wykorzystania kryteriów ESG jest wsparcie inwestorów w ocenie historycznych wyników oraz perspektyw rozwoju przedsiębiorstw. Jednocześnie kryteria te stanowią dla przedsiębiorstw swoisty kierunkowskaz, który wskazuje na sposoby tworzenia i wdrażania strategii zrównoważonego rozwoju.</para>
     <para id="UUID7b897636-64af-4e4a-680b-fdcb8a0816f6" />
     <figure id="UUIDd2caeb18-d263-434f-5089-a311a353d000">
-      <media alt="" id="UUIDddfd9a72-2eae-4023-590b-91d78d40b8d8">
-        <image src="../../media//rys1.svg" mime-type="image/svg+xml" id="UUID728b3e9d-1c55-4ca4-55f0-aa63ddb953cd" />
+      <media alt="Infografika przedstawia zachodzące na siebie trzy koła. Pierwsze koło symbolizuje Ład społeczny, to jest: czynniki obejmujące strukturę zarządzania, nadzór oraz finansowanie organizacji, reguły określające prawa interesariuszy wypełniających zobowiązania wobec inwestorów zewnętrznych i pracowników. Drugie koło przedstawia Środowisko, czyli: czynniki obejmujące działania na rzecz klimatu i ograniczenia wpływu na środowisko m.in. przez redukcję emisji gazów cieplarnianych, zmniejszenie zużycia surowców i wody, ograniczenie produkcji odpadów i działania na rzecz bioróżnorodności i wykorzystywania surowców odnawialnych. Trzecie koło symbolizuje Społeczną odpowiedzialność, to jest: Czynniki obejmujące relacje społeczne, prawa człowieka, różnorodność, standardy pracy w całym łańcuchu wartości i dostaw, przestrzeganie zasad higieny pracy i bezpieczeństwa wytwarzanych produktów." id="UUIDddfd9a72-2eae-4023-590b-91d78d40b8d8">
+        <image src="../../media//rys1.png" mime-type="image/png" id="UUID728b3e9d-1c55-4ca4-55f0-aa63ddb953cd" />
       </media>
-      <caption id="UUIDde6e784a-4557-4651-7695-c1e54e83f5da">Kryteria ESG: środowisko, ład społeczny i kwestie społeczne, opracowanie na podstawie raportu EY “Biznes dla klimatu”</caption>
+      <caption id="UUIDde6e784a-4557-4651-7695-c1e54e83f5da">Kryteria ESG: środowisko, ład społeczny i społeczna odpowiedzialność. (Źródło: opracowanie na podstawie raportu EY <emphasis effect="italics">Biznes dla klimatu</emphasis>)</caption>
     </figure>
-    <para id="UUID70436210-78c2-4dfd-5435-4051c9abd80c" />
     <note type="note" id="UUID940f95d1-7e1e-4e32-4944-736ead934fbf" class="economics linkup">
       <para id="UUIDa6ef16b5-abb3-4010-5e7f-8598b16579d9">Więcej na temat koncepcji zrównoważonego rozwoju znajdziesz <link url="https://ptgeo.org.pl/geodesola/zrownowazony-rozwoj" id="UUID0936710a-eb94-4d01-5106-df6d2d783fc7">tutaj</link>. Natomiast o konieczności i korzyściach z raportowania wskaźników ESG przeczytasz <link url="https://www.pibr.org.pl/pl/prasa/1625,Rzeczpospolita-Raportowanie-ESG-zyskuje-na-znaczeniu" id="UUID9ceef4b5-3b54-4981-5ae1-ffc94a6432c3">tu</link>.</para>
     </note>
-    <para id="UUID54599a29-eede-4833-6e9e-abf9f1a308b8">/<emphasis effect="bold">/W ramce Kwestie społeczne (czy aby nie: Społeczna odpowiedzialność?): bezpieczeństwo produktów (a nie bezpieczeństwa, o zamiast a); w ramce Środowisko: zmniejszenie zużycia (zamiast ograniczenie zużycia; w ramce Ład społeczny: " obowiązki interesariuszy, jako relacji wewnętrznych i inwestorskich" - to jest niezrozumiałe, ponadto w "inwestorskich" brak jednego s, i chyba powinien to być jednak Ład korporacyjny, a nie społeczny</emphasis></para>
     <para id="UUID62dc1f94-9940-4b3d-7a6f-97e42a68e74e">Ocena działalności przedsiębiorstw przy użyciu wskaźników ESG jest niewątpliwie ważnym elementem pozwalającym firmom na lepszą adaptację do wszystkich klimatycznych ryzyk. Jednocześnie jednak każda zmiana, adaptacja i transformacja pociąga za sobą wymierne koszty, a dostosowanie organizacji do wyzwań klimatycznych może stanowić poważne obciążenie finansowe dla firm. Zastanówmy się zatem, w jaki sposób firmy mogą pozyskać fundusze na klimatyczną transformację.</para>
     <section id="UUID38aa63ff-fc45-4faa-745c-e379ba805749" class="bringhome economics">
       <title id="UUIDc3c7aa4d-e67d-4e3c-7bf6-73cb9da18157">Wymiar finansowy transformacji klimatycznej przedsiębiorstw</title>
       <para id="UUID63fa3382-e185-4e06-4744-a8636a1608f3">We wszystkich sektorach gospodarki obserwujemy zainteresowanie inwestorów przedsiębiorstwami, które respektują zalecenia ESG i adaptują się do nowej klimatycznej rzeczywistości. Tym samym widoczna jest także zasadnicza zmiana w podejściu inwestorów do inwestycji, decyzje o kierunkach inwestycji podejmowane są nie tylko w oparciu o kryterium maksymalizacji stopy zwrotu z inwestycji lecz także z troską o ich skutki środowiskowe i społeczne. Inwestowanie wg kryteriów ESG jest dziś związane przede wszystkim z lokowaniem kapitału w <term cmlnle:reference="zrównoważone obligacje" id="UUID47683b51-acf2-4d1f-5051-d6d681cdce72">zrównoważone obligacje</term> (ang. <foreign xml:lang="en" id="UUIDf5308081-452f-4c74-479d-74e8bcdbbaed"><term cxlxt:index="foreign" cmlnle:reference="sustainable bonds" id="UUIDfb2a31a0-d9af-4312-6536-ef7e71a06e40">sustainable bonds</term></foreign>), <term cmlnle:reference="zrównoważona pożyczka" id="UUIDdb60bc8e-3243-4f8b-4e03-88c4bba9ba1f">zrównoważone pożyczki</term> (ang. <foreign xml:lang="en" id="UUID3693a145-d6c9-4dba-65eb-9e99817c3261"><term cxlxt:index="foreign" cmlnle:reference="sustainable loan" id="UUID0812895c-b851-482c-5fe3-5cef54ef11c1">sustainable loans</term></foreign>) oraz <term cmlnle:reference="zrównoważone aktywa finansowe" id="UUID01df7d74-49b4-4f72-68f0-63dc2fbc16c3">zrównoważone aktywa finansowe</term> (ang. <foreign xml:lang="en" id="UUID510c7863-da95-4f3f-6517-5c68c5fe9ceb"><term cxlxt:index="foreign" cmlnle:reference="sustainable equity" id="UUID69ef2a47-e0cc-4b4d-5481-81b953fff772">sustainable equity</term></foreign>). Wszystkie te grupy produktów posiadają cechę wspólną: kapitał pozyskany przy ich użyciu powinien zostać spożytkowany zgodnie z celami zrównoważonego rozwoju przedsiębiorstw. Dla przykładu, kapitał pozyskany dzięki emisji zielonych obligacji pozwala finansować przedsięwzięcia związane m.in. z transformacją energetyczną, czy też z przyjaznym środowisku transportem.</para>
-      <para id="UUID34f8016d-c29c-48aa-425c-72b7ac11c3be">Co ciekawe, pierwsze emisje zielonych obligacji były wyłączną domeną organizacji międzynarodowych (pierwsze zrównoważone obligacje zostały wyemitowane przez Europejski Banku Inwestycyjny w 2007 r.); dziś w emisję tych instrumentów włączają się w coraz większym stopniu przedsiębiorstwa, szczególnie duże firmy (zob. rys. poniżej).</para>
-      <para id="UUIDbc036602-25f3-4f8f-78c8-818b5f5a8fa4"><emphasis effect="bold">// na ilustracji poniżej: Region Azji i Pacyfiku, Władze lokalne (a nie na odwrót), Instytucje (albo podmioty) finansowe (bo chyba o instytucje tu chodzi), Banki rozwoju (tylko tu liczba pojedyncza); ponadto - dlaczego w regionach nie ma granatowego, a globalnie mamy go ponad połowę?</emphasis></para>
+      <para id="UUID34f8016d-c29c-48aa-425c-72b7ac11c3be">Co ciekawe, pierwsze emisje zielonych obligacji były wyłączną domeną organizacji międzynarodowych (pierwsze zrównoważone obligacje zostały wyemitowane przez Europejski Banku Inwestycyjny w 2007 r.); dziś w emisję tych instrumentów włączają się w coraz większym stopniu przedsiębiorstwa, szczególnie duże firmy, co przedstawia <link target-id="UUID0ec0f77d-ddc1-4f04-5ab7-db91c7ba1cb4" id="UUID8f1266dd-36e5-432c-507d-4a2219298bda" />.</para>
       <para id="UUID1bda6b37-4b99-4f94-47d6-e578b01f5f80" />
       <figure id="UUID0ec0f77d-ddc1-4f04-5ab7-db91c7ba1cb4">
-        <media alt="" id="UUIDa61bf65e-8ef7-4192-6a82-a57d38a02d6b">
-          <image src="../../media//rys5.svg" mime-type="image/svg+xml" id="UUIDa296b934-6521-4434-46f8-725f5426b5e4" />
+        <media alt="Wykres słupkowy przedstawiający emitentów różnych rodzajów zielonych obligacji: Władze lokalne, instytucje finansowe, spółki spoza sektora finansowego, podmioty wspierane przez rząd i emitenci rządowi. W Afryce 95% emitentów to spółki spoza sektora finansowego, w regionie Azji i Pacyfiku prawie 60% obligacje jest emitowanych przez instytucje finansowych, w Europie po około 30% emisji należy do instytucji finansowych i spółek spoza sektora finansowego, w Ameryce Południowej oraz w Ameryce Północnej prawie 70% to spółki spoza sektora finansowego. Podmioty wspierane przez rząd mają około 10-procentowy udział w emisjach zielonych obligacji we wszystkich regionach z wyjątkiem Afryki, w której ten udział jest pomijalnie mały." id="UUIDa61bf65e-8ef7-4192-6a82-a57d38a02d6b">
+          <image src="../../media//rys5.png" mime-type="image/png" id="UUIDa296b934-6521-4434-46f8-725f5426b5e4" />
         </media>
         <caption id="UUID853519b6-ba9e-4a60-7bfa-eb67d8b849fe">Rodzaje zielonych obligacji wg regionów, dane na koniec 2019 r. (Źródło: Franklin Templeton Capital Markets Insights Group, Bloomberg)</caption>
       </figure>
-      <para id="UUID20dbe2ae-49c1-45a3-4d48-f556dde5298f">W 2018 r. wartość emisji zielonych obligacji przekroczyła 180 mld dolarów, a skumulowana wartość światowego portfela zrównoważonych produktów finansowych osiągnęła pułap 23 bln dolarów (wzrost o 25% w porównaniu z rokiem 2014). Większość „zielonych” obligacji denominowanych jest w trzech walutach: dolarach amerykańskich, euro oraz chińskim renminbi (juanach).</para>
+      <para id="UUID20dbe2ae-49c1-45a3-4d48-f556dde5298f">W 2018 r. wartość emisji zielonych obligacji przekroczyła 180 mld dol., a skumulowana wartość światowego portfela zrównoważonych produktów finansowych osiągnęła pułap 23 bln dol. (wzrost o 25% w porównaniu z rokiem 2014). Większość zielonych obligacji denominowanych jest w trzech walutach: dol. amerykańskich, euro oraz chińskim renminbi (juanach).</para>
       <para id="UUIDeb2404fc-48d5-45e9-4ad3-4dd863cb77fc" />
       <figure id="UUIDdb0905b9-c645-40b0-49aa-4a29ffb94b25">
-        <media alt="" id="UUID26afc3cc-8e18-4e1e-7a95-066afc93f5e3">
-          <image src="../../media//rys7.svg" mime-type="image/svg+xml" id="UUIDd3724914-d1a4-4cf8-469b-30d5be7f76a8" />
+        <media alt="Przyrost zielonych obligacji w czasie. W 2013 r. obserwowano poniżej 50 emitentów, od 2015 r. obserwuje się wzrost liczby emitetnów zielonych obligacji do ponad 210 w 2017. W 2019 liczba ta spadła do około 160. " id="UUID26afc3cc-8e18-4e1e-7a95-066afc93f5e3">
+          <image src="../../media//rys7a.png" mime-type="image/png" id="UUIDd3724914-d1a4-4cf8-469b-30d5be7f76a8" />
         </media>
-        <caption id="UUID31f2a6ab-439e-4d86-5e43-9a73274be757">Panel (a) emitenci zielonych obligacji w podziale regionalnym, panel (b) skumulowana wartość emisji zielonych obligacji (wartość denominacyjna w walutach obcych wyrażona w mld dol. amerykańskich) Źródło: Bank Rozrachunków Międzynarodowych.</caption>
+        <caption id="UUID31f2a6ab-439e-4d86-5e43-9a73274be757">Emitenci zielonych obligacji w podziale regionalnym. (Źródło: Bank Rozrachunków Międzynarodowych)</caption>
       </figure>
-      <para id="UUID2d1c60c3-d3be-48e7-4556-5495f903204a">Szczególnie warto podkreślić, że zielone obligacje emitowane w amerykańskich dolarach charakteryzują się wyższymi stopami zwrotu niż ich tradycyjne odpowiedniki. Co ciekawe, te denominowane w euro już nie są tak atrakcyjne i może świadczyć to o skłonności inwestorów w Europie do większej dywersyfikacji ryzyka portfela inwestycyjnego przez łączenie produktów tradycyjnych oraz zrównoważonych (zob. rys. poniżej).</para>
+      <para id="UUID2d1c60c3-d3be-48e7-4556-5495f903204a" />
+      <figure id="UUIDa472154d-5dba-4e0f-5104-234eb85b5076">
+        <media alt="Panel (b) skumulowana wartość emisji zielonych obligacji wyrażona w dolarach. Najwyższa wartość obligacji to obligacje korporacyjne, ich skumulowana wartość wynosi 600 mld dol. Jedna trzecia tej wartości to obligacje w dolarach, jedna trzecia w euro, a pozostała część w chińskim renminbi, innych walutach rynków rozwiniętych i innych walutach rynków rozwijających się." id="UUID1ec981e1-5b82-4747-7663-a7ae1c50932d">
+          <image src="../../media//rys7b.png" mime-type="image/png" id="UUIDf487c8c9-a8f8-4783-73cf-f9c68a2d7d75" />
+        </media>
+        <caption id="UUID9315e633-4fab-4c18-7a33-2d9e00ddb7fe">Skumulowana wartość emisji zielonych obligacji (wartość denominacyjna w walutach obcych wyrażona w mld dol. amerykańskich). (Źródło: Bank Rozrachunków Międzynarodowych)</caption>
+      </figure>
+      <para id="UUIDd3b59041-75f5-467d-75e7-c0e312fc6001">Szczególnie warto podkreślić, że zielone obligacje emitowane w amerykańskich dolarach charakteryzują się wyższymi stopami zwrotu niż ich tradycyjne odpowiedniki. Co ciekawe, te denominowane w euro już nie są tak atrakcyjne i może świadczyć to o skłonności inwestorów w Europie do większej dywersyfikacji ryzyka portfela inwestycyjnego przez łączenie produktów tradycyjnych oraz zrównoważonych (zob. rys. poniżej).</para>
       <para id="UUID564ed796-a2c3-4233-4871-62936085e697" />
       <figure id="UUIDa6c93915-7626-445c-7530-0b1b7939c9fd">
-        <media alt="" id="UUID85399caf-c9de-4118-4730-a43a7e05e613">
-          <image src="../../media//rys6.svg" mime-type="image/svg+xml" id="UUID062cce47-0c6c-4c28-463e-2f5729fd5eb1" />
+        <media alt="Stopy  zwrotu z obligacji zielonych i tradycyjnych dla euro i dolara amerykańskiego." id="UUID85399caf-c9de-4118-4730-a43a7e05e613">
+          <image src="../../media//rys6.png" mime-type="image/png" id="UUID062cce47-0c6c-4c28-463e-2f5729fd5eb1" />
         </media>
-        <caption id="UUID339d9faa-dceb-4b67-4a4e-ebdc12d425ca">Rys.: Stopy zwrotu z obligacji zielonych i tradycyjnych. Źródło: Bank Rozrachunków Międzynarodowych</caption>
+        <caption id="UUID339d9faa-dceb-4b67-4a4e-ebdc12d425ca">Stopy zwrotu z obligacji zielonych i tradycyjnych. (Źródło: Bank Rozrachunków Międzynarodowych)</caption>
       </figure>
       <para id="UUIDc5d7f50a-f53d-402f-471d-7d74ab1a3dc9">Wypracowane przez emitentów obligacji standardy emisji znacząco wpłynęły na wzrost przejrzystości transakcji, głównie dzięki wymogowi niezależnego przedemisyjnego audytu – tzw. <term cmlnle:reference="druga opinia" id="UUID6aa3692a-154a-4890-4149-3a66a64b9da3">drugiej opinii</term> (ang. <foreign xml:lang="en" id="UUIDf065f9b8-3c0b-40c5-4f88-f84675094709"><term cxlxt:index="foreign" cmlnle:reference="second opinion" id="UUID0aee0bb9-1603-4013-6498-0df8eee93a7f">second opinion</term></foreign>). Jednocześnie należy pamiętać, że pozyskiwanie kapitału poprzez emisję obligacji jest wygodnym narzędziem dla dużych firm. W przypadku przedsiębiorstw małych i średnich emisja obligacji nie jest ekonomicznie opłacalna z powodu dość wysokich kosztów transakcyjnych tej operacji.</para>
       <para id="UUIDbd0b0e4d-7404-4506-7e36-5c4d4b184968">Odpowiednim rozwiązaniem dla tej grupy przedsiębiorstw wydają się zrównoważone pożyczki (charakteryzujące się niskim oprocentowaniem i długim okresem kredytowania) oraz wszelkiego rodzaju wsparcie publiczne (granty, subsydia, obniżki podatków). W przypadku inwestorów poszukujących większej dywersyfikacji portfela zrównoważone indeksy giełdowe stają się coraz bardziej popularną opcją, a także metodą na <term cmlnle:reference="klimatyczny hedging" id="UUID6a47b0ab-1056-4371-6014-5e1e8fa73ae1">klimatyczny hedging</term> (ang. <foreign xml:lang="en" id="UUID6b685147-f656-42bf-7cc4-484338f746ab"><term cxlxt:index="foreign" cmlnle:reference="hedging of climate risk with financial portfolios" id="UUID9459a1c6-3d93-4ff3-6425-c7ded6fe0ab1">hedging of climate risks with financial portfolios</term></foreign>). Klimatyczne aktywa charakteryzują się niższą stopą zwrotu z inwestycji w porównaniu do stopy zwrotu oferowanej przez rynek w okresie, w którym klimat jest względnie stabilny, natomiast w momencie, w którym zmiany klimatu stają się coraz szybsze, ich stopa zwrotu jest wyższa od rynkowej, co sprawia, że ten typ inwestycji może być swoistym ubezpieczeniem od klęski klimatycznej.</para>
       <para id="UUIDec5926c4-3178-4c99-7ad8-605392b862e1">Jak już wspominaliśmy wcześniej, w świecie zrównoważonych finansów wciąż nie ma powszechnie obowiązujących zasad i definicji. Z tego też względu inwestorzy – także ci instytucjonalni – nie zawsze potrafią we właściwy sposób klasyfikować oferowanych im produktów inwestycyjnych. A to stwarza ryzyko tzw. <term cmlnle:reference="greenwashing" id="UUIDc0bbe34d-265c-40f7-4516-0b731a71fe9d">greenwashingu</term>, czyli tworzenia produktów, które są „zielone” tylko z nazwy. Jest to kolejny asumpt do tego, aby wdrożyć tak w Unii Europejskiej, jak i w skali globalnej jednolitą taksonomię zrównoważonych inwestycji.</para>
       <para id="UUID9c026879-e373-4973-7c01-f8a28a44ca49">Mierzące się z szybko narastającymi zmianami klimatycznymi przedsiębiorstwa – aby zrealizować postawione im przez właścicieli i inwestorów cele – muszą wejść na ścieżkę zrównoważonego, przede wszystkim społecznie i środowiskowo, rozwoju. Nie jest to zadanie łatwe, jednak kierując się wskazówkami ESG oraz adaptując się do tworzonych w ramach polityki klimatycznej państwa mechanizmów wsparcia wiele firm już potrafi zmienić klimatyczne ryzyko w biznesową szansę. Niezależnie bowiem od tego, że wdrażanie zielonych rozwiązań stanowi poważne obciążenie finansowe i organizacyjne, to korzyści długookresowe związane z tą zmianą rekompensują poniesione koszty. Korzyści długookresowe to nie tylko zmiany wizerunkowe i poprawa pozycji konkurencyjnej, ale przede wszystkim satysfakcjonujące wyniki finansowe. Ponadto malejące z czasem koszty wdrażanie nowych technologii ułatwią zieloną transformację.</para>
-      <para id="UUID1a499ff4-150c-4bd4-5952-d00c47c6b02c">Liderzy zmian, firmy, które jako pierwsze zdecydowały się na wdrażanie strategii opartych na kryteriach ESG, już dziś otrzymują od klientów swoistą premię za ryzyko w postaci większego zaufania i szerszego dostępu do preferencyjnych źródeł finansowania. Pionierzy, którzy w konsekwentny sposób zmieniają kulturę organizacyjną, stymulują wzrost stopnia identyfikacji pracowników z organizacją, dzięki czemu zielona zmiana jest szybciej przyjmowana na wszystkich szczeblach, a całość działań, od poziomu strategii do poziomu operacyjnego funkcjonuje w sposób spójny.</para>
+      <para id="UUID1a499ff4-150c-4bd4-5952-d00c47c6b02c">Światowi liderzy zmian, firmy, które jako pierwsze zdecydowały się na wdrażanie strategii opartych na kryteriach ESG już dziś zaczynają otrzymywać od klientów swoistą premię za ryzyko w postaci większego zaufania i szerszego dostępu do preferencyjnych źródeł finansowania. Pionierzy, którzy w konsekwentny sposób zmieniają kulturę organizacyjną, stymulują wzrost stopnia identyfikacji pracowników z organizacją, dzięki czemu zielona zmiana jest szybciej przyjmowana na wszystkich szczeblach, a całość działań, od poziomu strategii do poziomu operacyjnego funkcjonuje w sposób spójny.</para>
       <para id="UUID5cafbc9c-4bc4-4155-4ab7-93904b1d00f3">Pamiętać również należy, że tempo wdrażania nowej strategii w przedsiębiorstwach nie może być wolniejsze od szybko rosnącej świadomości ekologicznej i poczucia odpowiedzialności za przyszłość naszej planety wśród potencjalnych klientów. Zmiany postaw konsumenckich są z kolei pochodną odpowiedzialnej polityki gospodarczej realizowanej przez państwo, które za swój cel powinno postawić edukację obywateli. Przez swoje wybory konsumpcyjne mogą oni stymulować i zachęcać przedsiębiorstwa do oferowania im produktów, których wytworzenie i konsumpcja nie uszczuplą dobrostanu materialnego i środowiskowego przyszłych pokoleń.</para>
       <note type="note" id="UUID9402a51b-ffb3-4dd4-4e56-022aee61d3da" class="bringhome economics">
         <para id="UUID7b681dd6-4131-4ca9-5b8c-34988c4ebe7c">Uwaga, pożar!</para>
@@ -90,7 +94,7 @@
     </section>
     <section id="UUID6823a681-0c96-44b4-56f1-2b1a7ae5f3f0" class="summary">
       <title id="UUID934be330-01f5-4003-5d2c-5fa58009677d">Podsumowanie</title>
-      <para id="UUIDf9f24279-82ca-473d-7540-825d0c4699e7">Kryteria ESG, czyli zestaw standardów umożliwiających ocenę tego, jak zbilansowana ekologicznie jest działalności przedsiębiorstwa, są narzędziem umożliwiającym wprowadzanie w firmach zrównoważonego ładu korporacyjnego. Brak jednolitych w skali globalnej wytycznych dotyczących zbierania i raportowania wskaźników ESG uniemożliwia wiarygodne porównanie przedsiębiorstw działających w różnych krajach. W konsekwencji pewne praktyki kwalifikowane jako zgodne z pryncypiami ESG w rzeczywistości nie mają z nimi wiele wspólnego. Jest to jedno ze źródeł greenwashingu.</para>
+      <para id="UUIDf9f24279-82ca-473d-7540-825d0c4699e7">Kryteria ESG, czyli zestaw standardów umożliwiających ocenę tego, jak zbilansowana ekologicznie jest działalności przedsiębiorstwa, są narzędziem umożliwiającym wprowadzanie w firmach zrównoważonego ładu korporacyjnego. Brak jednolitych w skali globalnej wytycznych dotyczących zbierania i raportowania wskaźników ESG uniemożliwia wiarygodne porównanie przedsiębiorstw działających w różnych krajach. W konsekwencji pewne praktyki kwalifikowane są jako zgodne z pryncypiami zrównoważonego rozwoju i opisywane za pomocą ESG, w rzeczywistości nie mają ze zrównoważonym rozwojem wiele wspólnego. Jest to jedno ze źródeł greenwashingu.</para>
       <para id="UUID5cccd59b-8784-4481-5704-be23be3491cd">Dzięki wdrażaniu ładu korporacyjnego opartego na kryteriach ESG inwestorzy coraz chętniej lokują kapitał w zrównoważone obligacje, zrównoważone pożyczki oraz zrównoważone aktywa finansowe. Wszystkie te grupy produktów posiadają cechę wspólną: kapitał pozyskany przy ich użyciu powinien zostać spożytkowany zgodnie z celami zrównoważonego rozwoju przedsiębiorstw. Wypracowane przez emitentów obligacji standardy emisji znacząco wpłynęły na wzrost przejrzystości transakcji, głównie dzięki wymogowi niezależnego przedemisyjnego audytu.</para>
     </section>
     <section id="UUIDc792b918-6242-4056-5509-8f3ae980d0ea" class="self-check-questions">
@@ -100,31 +104,7 @@
           <para id="UUIDc02e1c7c-0a67-4c44-71c5-d75a3cd9bdcf">Czym są zmiany klimatu?</para>
         </problem>
         <solution id="UUID4e369a3c-8c38-4aee-52d7-9339836a73da">
-          <para id="UUIDe89f068c-baf7-494e-7cde-43dcec84bf11">do uzupełnienia</para>
-        </solution>
-      </exercise>
-      <exercise id="UUIDe338a547-b7a2-4ade-7378-ae2358864d21">
-        <problem id="UUID6d740d57-e2d9-4537-6f4a-f2b10336a526">
-          <para id="UUIDec7ccd9e-b2fb-4e84-6aaa-2ea025138f29">Dlaczego zmiany klimatyczne stanowią zagrożenie dla naszej planety?</para>
-        </problem>
-        <solution id="UUIDd5fc0368-4381-4a50-44e2-c7c56239e593">
-          <para id="UUID4742b042-01af-4ebf-4ecf-f9f24c63c7c5">do uzupełnienia</para>
-        </solution>
-      </exercise>
-      <exercise id="UUID4f9fb65a-2151-4c9b-6a0d-1c9453c44f07">
-        <problem id="UUIDa8c8d6be-8da7-494f-4f11-c8067402d684">
-          <para id="UUID5420eb69-7752-404b-41b4-ae4eaa527cfc">Przedstaw typologię skutków zmian klimatycznych.</para>
-        </problem>
-        <solution id="UUID90669d6a-1afa-4e1e-431d-7a0715f6cb8b">
-          <para id="UUID8e75c5df-0c5a-410a-663a-ec6a9f318a18">do uzupełnienia</para>
-        </solution>
-      </exercise>
-      <exercise id="UUID4b950def-346e-4a29-41b3-91836dbcae15">
-        <problem id="UUID9997c8e3-2cbd-44bf-677e-21a5dba427af">
-          <para id="UUID6e3100ed-4e0f-4ba2-74c3-1fbea1323ded">Wymień typy ryzyka klimatycznego, na które narażone są przedsiębiorstwa. Zastanów się, czy możesz podać przykłady ilustrujące te konkretne ryzyka.</para>
-        </problem>
-        <solution id="UUID6761b06e-05ef-4490-7695-2c5d80599195">
-          <para id="UUID370e7ed4-d33f-4920-5f3e-b947ee971bb5">do uzupełnienia</para>
+          <para id="UUIDe89f068c-baf7-494e-7cde-43dcec84bf11">Zmiany klimatu to cykliczne wzrosty i spadki średniej temperatury naszego globu spowodowane m.in. zmianami stężenia gazów cieplarnianych w atmosferze, cyrkulacją mas powietrza (przede wszystkim nad powierzchnią oceanów), aktywnością Słońca oraz wulkanów.</para>
         </solution>
       </exercise>
       <exercise id="UUID42a92daf-cef6-4898-729d-848913ccc7e6">
@@ -132,7 +112,7 @@
           <para id="UUID118e5065-d0b2-4ce1-6e97-77e94100a4b6">Jakie działania powinny wdrożyć przedsiębiorstwa, aby w możliwie największym stopniu uodpornić się na zagrożenia związane ze zmianami klimatu?</para>
         </problem>
         <solution id="UUID18927d0e-1791-4301-511e-bb9fe1dba927">
-          <para id="UUIDce5a6294-f0f4-478a-7f99-06500cee5c6b">do uzupełnienia</para>
+          <para id="UUIDce5a6294-f0f4-478a-7f99-06500cee5c6b">Poza dążeniem ku neutralności emisyjnej firmy powinny już dziś brać uwagę przyszłe zagrożenia klimatyczne, takie jak: stopień narażenia na ekstremalne zjawiska pogodowe, (które mogą zniszczyć infrastukturę materialną przedsiębiorstwa), czy też powstrzymywać się przed inwestycjami w aktywa osierocone.</para>
         </solution>
       </exercise>
       <exercise id="UUID52df89d6-ab39-4d1c-5c79-4afa52a5da91">
@@ -140,7 +120,23 @@
           <para id="UUIDf4ec05f5-739c-4244-441c-d738594b47ac">Lotnictwo cywilne to jeden z najbardziej emisyjnych sektorów gospodarki. Używając https://corporate.airfrance.com/en/co2/calculateur, sprawdź ślad węglowy pasażera podróżującego z Warszawy do Paryża.</para>
         </problem>
         <solution id="UUIDd75bbf11-3e2a-40a4-5387-e1610b046551">
-          <para id="UUID704c7c7e-0e1e-4b6b-56ff-60945b62efb4">do uzupełnienia</para>
+          <para id="UUID704c7c7e-0e1e-4b6b-56ff-60945b62efb4">Decydując się na przelot z Warszawy do Paryża miej świadomość, że ponosisz odpowiedzialność za emisję 160 kg CO2 do atmosfery. To znaczny ślad węglowy. Pamiętaj więc, aby w krótkie trasy wybierać się mniej emisyjnym środkiem transportu zbiorowego, takim jak np. pociąg.</para>
+        </solution>
+      </exercise>
+      <exercise id="UUIDa1bf44d6-e14a-4738-6e76-febf89009d89">
+        <problem id="UUID014bb0e9-2e0b-45e3-6d80-d559de667312">
+          <para id="UUID18035109-2f51-4cc5-647d-97cc25eeb93a">Zastanów się, jak być odpowiedzialnym konsumentem. Czy w swoich decyzjach konsumpcyjnych masz na względzie dbałość o przyszłość naszej planety? Czy możesz podać przykład, jak Twoje decyzje zakupowe wpływają na działalność przedsiębiorstw?</para>
+        </problem>
+        <solution id="UUID73f49e4e-911e-4ce8-4175-de58bd9f8a03">
+          <para id="UUIDa1316bb1-1238-4938-621f-7e099c529ae9">Konsumenci są najsilniejszym regulatorem w gospodarce. Gdy ich gusta i preferencje zakupowe się zmienią, przedsiębiorstwa będą musiały dostosować się do zmieniającego się popytu. Dlatego to właśnie konsumenci (gospodarstwa domowe) i ich wybory konsumenckie mogą przyspieszyć zieloną rewolucję.</para>
+        </solution>
+      </exercise>
+      <exercise id="UUID32259a26-8e09-463d-64c3-34010908ab45">
+        <problem id="UUID05215f0e-b6f4-447c-5313-7f3884f50d53">
+          <para id="UUIDc121718a-7862-4239-41c7-fa5f80c12d96">Zapobieganie dalszym negatywnym skutków zmian klimatycznych jest wyzwaniem dla całej ludzkości, dlatego w zielonej rewolucji może – i powinien – brać udział, starając się zmniejszyć swój ślad węglowy. Oszacuj swój ślad węglowy, wykorzystując <link url="https://footprintcalculator.henkel.com/en" id="UUIDf5985c77-dbbe-4114-55d4-b73e3a3f32bb">to narzędzie</link>. Zastanów się, jak możesz ów ślad obniżyć.</para>
+        </problem>
+        <solution id="UUIDc77f8566-89a1-49d8-7a89-1e65a1c01f28">
+          <para id="UUID08184a5a-8fc8-4d63-6404-68ba86bfcd08">Odpowiedzialna konsumentka i odpowiedzialny konsument mogą zrobić naprawdę wiele, by chronić środowisko i tym samym ograniczyć negatywne skutki zmian klimatycznych. Podstawą są odpowiedzialne wybory konsumenckie i nawyki związane z codzienną rutyną: ogranicz do minimum swoje zużycie plastiku, wybieraj lokalne i sezonowe produkty żywnościowe, ogranicz spożycie mięsa, zamiast kąpieli w wannie wybierz szybki prysznic.</para>
         </solution>
       </exercise>
     </section>
@@ -149,6 +145,21 @@
       <exercise id="UUIDebca318e-9ebc-49ab-56d8-c168ea8cc9e3">
         <problem id="UUIDcb7cb2ff-fafc-434b-7794-215c25b81618">
           <para id="UUID707d113c-c7d4-4255-65c0-c1ff4c6cd788">Wymień etapy budowania strategii adaptacyjnej przedsiębiorstw w kontekście kryzysu klimatycznego.</para>
+        </problem>
+      </exercise>
+      <exercise id="UUID125ceb11-9578-4051-49ed-393de8400d58">
+        <problem id="UUID6efe3d97-46ab-4dcd-5fb5-988003724424">
+          <para id="UUIDb164a3e2-61a6-465a-7ad1-0d4867cc2233">Przedstaw typologię skutków zmian klimatycznych.</para>
+        </problem>
+      </exercise>
+      <exercise id="UUIDc9a1733b-c995-4692-5625-d42d71f3b0b1">
+        <problem id="UUID00262ec9-d895-4973-67a6-dc742389d2e7">
+          <para id="UUID36d28e6a-aa60-45f8-4285-901f0330486e">Dlaczego zmiany klimatyczne stanowią zagrożenie dla naszej planety?</para>
+        </problem>
+      </exercise>
+      <exercise id="UUID3d7c034c-1fee-4e12-641e-e6e536d85be1">
+        <problem id="UUIDc59647ae-4362-488a-4fe7-b34bf58fa94b">
+          <para id="UUID6a17108f-db6c-46ad-506a-5f2508db4a0e">Wymień typy ryzyka klimatycznego, na które narażone są przedsiębiorstwa. Zastanów się, czy możesz podać przykłady ilustrujące te konkretne ryzyka.</para>
         </problem>
       </exercise>
       <exercise id="UUIDcbda1263-8f2a-4ded-41a5-516f2652087c">
@@ -184,21 +195,11 @@
           <para id="UUIDc0b69e5f-f7ae-4b8c-699c-38649de92cd5">W rozdziale wspomnieliśmy, że zrównoważone raportowanie to ważny kierunkowskaz ułatwiający wprowadzanie zmian w przedsiębiorstwach. Zastanów się, jak ujednolicenie norm i przepisów związanych z tym procesem wpłynęłoby na tempo adaptacji klimatycznej przedsiębiorstw.</para>
         </problem>
       </exercise>
-      <exercise id="UUID6b4d42f2-7f9f-4192-4e8b-71966a90ae23">
-        <problem id="UUID646550b9-0806-4440-7806-05b015696527">
-          <para id="UUIDa187ef5b-1464-431e-5557-97d67251f7c7">Zastanów się, jak być odpowiedzialnym konsumentem. Czy w swoich decyzjach konsumpcyjnych masz na względzie dbałość o przyszłość naszej planety? Czy możesz podać przykład, jak Twoje decyzje zakupowe wpływają na działalność przedsiębiorstw?</para>
-        </problem>
-      </exercise>
       <exercise id="UUID0c272866-0427-417a-72fe-185b14cc7b40">
         <problem id="UUID142d2b3a-5d8c-46e5-4708-ac167ac8f3ef">
-          <para id="UUID44a23f3a-2ca5-4aff-47d2-877fd96168e9">Zapobieganie dalszym negatywnym skutków zmian klimatycznych jest wyzwaniem dla całej ludzkości, dlatego w zielonej rewolucji może - i powinien - brać udział, starając się zmniejszyć swój ślad węglowy. Oszacuj swój ślad węglowy, wykorzystując to narzędzie: https://footprintcalculator.henkel.com/en. Zastanów się, jak możesz ów ślad obniżyć.</para>
+          <para id="UUID44a23f3a-2ca5-4aff-47d2-877fd96168e9">Zapobieganie dalszym negatywnym skutków zmian klimatycznych jest wyzwaniem dla całej ludzkości, dlatego w zielonej rewolucji może – i powinien – brać udział, starając się zmniejszyć swój ślad węglowy. Oszacuj swój ślad węglowy, wykorzystując to narzędzie: https://footprintcalculator.henkel.com/en. Zastanów się, jak możesz ów ślad obniżyć.</para>
         </problem>
       </exercise>
-    </section>
-    <section id="UUIDc6cde91e-6dcb-4c07-6d74-2a0720d25ce2" class="references">
-      <title id="UUID52d0ce76-28e9-4ba5-4d43-dc965f1c26e2">Bibliografia</title>
-      <para id="UUID30b63c04-f9ea-437b-52e7-d20b937a1dfc">https://www.bp.com/en_us/united-states/home/news/press-releases/bp-boosts-its-renewables-business-in-the-us-with-9gw-solar-acquisition-from-7x-energy.html</para>
-      <para id="UUIDf210dfef-c0ca-4fbf-74a4-20f667a945bb">https://www.wsj.com/articles/how-skiing-can-survive-climate-change-11612969209</para>
     </section>
   </content>
   <glossary id="UUID2c3be27d-51e6-4fd6-600c-c8359cc6b927">
@@ -217,7 +218,7 @@
     <definition id="UUIDa3490255-56da-4b74-6b0a-ef5d7d6fa1b2">
       <term id="UUID60722035-0637-4ffb-573f-11c2c4691938">zrównoważone obligacje (ang. <foreign xml:lang="en" id="UUID1773219b-97cb-4ec1-7572-5737b2ac5e94">sustainable bonds</foreign>)</term>
       <meaning id="UUID9a6ac8b6-7ac7-4c45-45c7-3425bf54abe4">
-        <para id="UUID6ea04a5f-f283-47cd-6e58-a8e621e20873">instrumenty dłużne stałego dochodu pozwalające na realizację projeków inwestycyjnych zgodnych z celami zrównoważonego rozwoju</para>
+        <para id="UUID6ea04a5f-f283-47cd-6e58-a8e621e20873">instrumenty dłużne stałego dochodu pozwalające na realizację projektów inwestycyjnych zgodnych z celami zrównoważonego rozwoju</para>
       </meaning>
     </definition>
     <definition id="UUID8145036f-3dcd-4fb6-7415-e40cabd9e168">
@@ -235,7 +236,7 @@
     <definition id="UUID4744a93e-da96-4c84-63f1-9222a73beb7d">
       <term id="UUID8e2c5d5c-8079-41c3-46a8-5a30a2aff1ae">klimatyczny hedging (ang. <foreign xml:lang="en" id="UUID935a14e5-e339-4a6d-7a4f-099e1dc39834">hedging of climate risks with financial portfolios</foreign>)</term>
       <meaning id="UUID01f35ec0-6da3-4813-6f7b-9d31e67aea3b">
-        <para id="UUIDc8f4f34a-94ba-4778-7602-7ce1f2949a1e">strategia inwestycyjna polegająca a budowaniu portfela aktywów finansowych złożonych z funduszy inwestycyjnych firm działających w duchu zrównoważonego rozwoju. Dzięki temu aktywa finansowe stają się swoistym "ubezpieczeniem" w czasach zwiększonego ryzyka klimatycznego, pozwalającym osiągnąć odporność na klimatyczny kryzys</para>
+        <para id="UUIDc8f4f34a-94ba-4778-7602-7ce1f2949a1e">strategia inwestycyjna polegająca a budowaniu portfela aktywów finansowych złożonych z funduszy inwestycyjnych firm działających w duchu zrównoważonego rozwoju. Dzięki temu aktywa finansowe stają się swoistym ubezpieczeniem w czasach zwiększonego ryzyka klimatycznego, pozwalającym osiągnąć odporność na klimatyczny kryzys</para>
       </meaning>
     </definition>
     <definition id="UUID2fc5ba5d-62fa-4be8-6e45-074dccdec45b">

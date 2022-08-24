@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>System rynkowy jako efektywny mechanizm informacyjny</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.515587946+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.515587946+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.515587946+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.619783403+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.619783403+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.619783403+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -43,7 +43,7 @@
       <figure id="CNX_Econ_C04_008">
         <title id="UUIDf2f70cdd-1a49-4bed-742c-29f8847eb99d">Krzywe popytu i podaży</title>
         <media alt="Wykres przedstawia kształt standardowych krzywych podaży i popytu, które przecinają się w punkcie równowagi." id="fs-idp100826432">
-          <image src="../../media//CNX_Econ_C04_008.svg" mime-type="image/svg+xml" id="UUID4083983d-7010-41da-411c-79050b4c6ed4" />
+          <image src="../../media//CNX_Econ_C04_008.png" mime-type="image/png" id="UUID4083983d-7010-41da-411c-79050b4c6ed4" />
         </media>
         <caption id="UUID61c9d023-6a45-41e0-642c-54ff6ec4da70">Rysunek przedstawia podstawowe krzywe popytu i podaży. Na osi poziomej odłożone są różne miary ilości oferowanej na różnych rynkach: wielkość produkcji dóbr lub usług, ilość pracy lub wartość środków finansowych. Na osi pionowej zaznaczono różne ujęcia cen rynkowych: cenę (na rynku dóbr i usług), płacę (na rynku pracy) lub stopę zwrotu (np. stopę procentową na rynku finansowym). Możemy użyć krzywych popytu i podaży, aby wyjaśnić, w jaki sposób konkretne zdarzenia w gospodarce (szoki rynkowe) wpłyną na poziomy cen, płac i stóp zwrotu.</caption>
       </figure>
@@ -58,7 +58,7 @@
       <figure id="CNX_Econ_C04_015">
         <title id="UUID2be791f9-287b-433c-4693-1bddc7995bf7">Wpływ rosnącego popytu na pracę pielęgniarek w latach 2014–2024 na równowagę rynkową</title>
         <media alt="Wykres pokazuje, że przesunięcie w prawo popytu na pracę pielęgniarek z spowoduje zarówno wzrost zarówno ich płac, jak i liczby osób, wykonujących tę pracę." id="fs-idp98564464">
-          <image src="../../media//CNX_Econ_C04_015.svg" mime-type="image/svg+xml" id="UUIDbc70a4af-868f-4964-5bca-1df1418362df" />
+          <image src="../../media//CNX_Econ_C04_015.png" mime-type="image/png" id="UUIDbc70a4af-868f-4964-5bca-1df1418362df" />
         </media>
         <caption id="UUID6d0f299b-750e-40c5-562c-bf94f10b4c1d">W 2014 r. mediana pensji pielęgniarek w Stanach Zjednoczonych wynosiła 67 490 dol. Wraz ze wzrostem zapotrzebowania na ich usługi krzywa popytu przesuwa się w prawo (z D<sub>0</sub> do D<sub>1</sub>), a liczba pielęgniarek zatrudnionych w stanie równowagi na rynku rośnie z Qe<sub>0</sub> do Qe<sub>1</sub>. Płaca równoważąca rynek rośnie z Pe<sub>0</sub> do Pe<sub>1</sub>.</caption>
       </figure>
@@ -66,7 +66,7 @@
       <figure id="CNX_Econ_C04_016">
         <title id="UUID297ad0f3-9704-4332-4f0f-546051d2a25d">Wpływ malejącej podaży pracy pielęgniarek w latach 2014-2024 na równowagę rynkową</title>
         <media alt="Wykres pokazuje, że jednoczesne przesunięcie krzywej popytu w prawo i krzywej podaży w lewo spowoduje znaczny wzrost wynagrodzeń, ale nie można przewidzieć, co stanie się z liczbą zatrudnionych pielęgniarek." id="fs-idp53179024">
-          <image src="../../media//CNX_Econ_C04_016.svg" mime-type="image/svg+xml" id="UUIDb7899814-9008-4983-69f3-c405e713f2d2" />
+          <image src="../../media//CNX_Econ_C04_016.png" mime-type="image/png" id="UUIDb7899814-9008-4983-69f3-c405e713f2d2" />
         </media>
         <caption id="UUID30e4a99b-8289-4f32-4b90-2e7852b61b03" />
       </figure>
@@ -103,7 +103,7 @@
           <para id="UUID56a02a10-e459-40e0-4671-db4046a0714a" />
           <figure id="UUID3783f661-3122-4d61-4cbc-130ed32c25bd">
             <media alt="Wykres przedstawia cenę minimalną wyznaczoną na poziomie znacznie wyższym od ceny równowagi, co skutkuje pojawieniem się dużej nadwyżki podaży." id="UUID30f8c9bf-3b25-45e8-4e60-dc55e33d8bf6">
-              <image src="../../media//CNX_Econ_C04_017.svg" mime-type="image/svg+xml" id="UUIDd6034b14-ee8c-4815-6220-f1ac98c2f627" />
+              <image src="../../media//CNX_Econ_C04_017.png" mime-type="image/png" id="UUIDd6034b14-ee8c-4815-6220-f1ac98c2f627" />
             </media>
           </figure>
         </solution>
@@ -111,7 +111,7 @@
           <para id="UUIDc7841a9a-b22e-4a69-40da-ab4318e4b6b4">Jeśli cena minimalna w dalszym ciągu jest wyższa niż cena równowagi, nadwyżka podaży będzie się utrzymywać, chociaż jej rozmiary będą mniejsze. Ilustruje to poniższy wykres.</para>
           <figure id="UUID76703514-d339-4350-6b52-f7f8515f1170">
             <media alt="Wykres przedstawia cenę minimalną wyznaczoną na poziomie nieznacznie wyższym od ceny równowagi, co skutkuje pojawieniem się niewielkiej nadwyżki podaży." id="UUIDfc9115c3-b835-47aa-670d-3f9b5e866c59">
-              <image src="../../media//CNX_Econ_C04_018.svg" mime-type="image/svg+xml" id="UUID18e4fd00-3203-40b4-42cf-dd53ca41e1d6" />
+              <image src="../../media//CNX_Econ_C04_018.png" mime-type="image/png" id="UUID18e4fd00-3203-40b4-42cf-dd53ca41e1d6" />
             </media>
           </figure>
         </solution>
@@ -119,7 +119,7 @@
           <para id="UUIDde0cfa39-363c-44b2-6643-25441ae932fb">Cena minimalna ustalona poniżej poziomu równowagi nie będzie miała żadnego wpływu na rynek niezależnie od tego, czy będzie to niewielka, czy znaczna różnica. Cena rynkowa mieści się w limicie wyznaczonym przez regulacje państwa, w związku z tym transakcje będą zawierane po cenie rynkowej. Poniższe wykresy ilustrują te sytuacje.</para>
           <figure id="UUIDbc1d0b54-8a87-4304-4743-6de6f3c9b17e">
             <media alt="Dwa panele wykresu przedstawiają cenę minimalną, która jest znacznie niższa (panel prawy) i nieznacznie niższa (panel lewy) od ceny równowagi. W żadnym wariancie nie ma jednak wpływu na poziom cen i ilość równowagi rynkowej." id="UUIDcd864014-17aa-4d97-4ff4-35f69b40260b">
-              <image src="../../media//CNX_Econ_C04_019.svg" mime-type="image/svg+xml" id="UUIDee1f5102-1e7f-46ab-44ca-7727cc3661a6" />
+              <image src="../../media//CNX_Econ_C04_019.png" mime-type="image/png" id="UUIDee1f5102-1e7f-46ab-44ca-7727cc3661a6" />
             </media>
             <caption id="UUID1b1804d7-b72c-4aba-7fdb-19f12505d655" />
           </figure>
@@ -149,7 +149,7 @@
           <para id="UUIDbbed770b-76cc-4da4-5c44-3f61d046987c" />
           <figure id="UUID423987be-9040-4de4-7170-44146aa0d8b7">
             <media alt="" id="UUID80c01e49-77fb-4777-7d07-3f9e5c6f83f0">
-              <image src="../../media//CNX_Econ_C04_021.svg" mime-type="image/svg+xml" id="UUID883a1d64-ddb0-484c-7b7c-b23c1d08a10f" />
+              <image src="../../media//CNX_Econ_C04_021.png" mime-type="image/png" id="UUID883a1d64-ddb0-484c-7b7c-b23c1d08a10f" />
             </media>
           </figure>
         </solution>
@@ -158,7 +158,7 @@
           <para id="UUIDe84817c9-b1a7-44aa-552a-c0d926aa53bf" />
           <figure id="UUID28a63ef7-932b-408c-6b5b-94b0693114a5">
             <media alt="Dwa panele wykresu przedstawiają cenę maksymalną, która jest znacznie wyższa (panel lewy) i nieznacznie wyższa (panel prawy) od ceny równowagi. W obu sytuacjach jej wpływ na poziom cen i ilość równowagi rynkowej nie istnieje." id="UUID888f9ebb-7db2-4224-5825-afa246eaf98d">
-              <image src="../../media//CNX_Econ_C04_020.jpg" mime-type="image/svg+xml" id="UUID20280486-9b98-413f-79a1-de8634959122" />
+              <image src="../../media//CNX_Econ_C04_020.png" mime-type="image/png" id="UUID20280486-9b98-413f-79a1-de8634959122" />
             </media>
           </figure>
         </solution>

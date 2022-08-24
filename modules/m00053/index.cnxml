@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Prywatne sposoby rozwiązania problemu negatywnych efektów zewnętrznych</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.539428631+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.539428631+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.539428631+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.645465709+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.645465709+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.645465709+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -45,7 +45,7 @@
       <figure id="CNX_Econ_C12_002">
         <title id="UUID3d0d2522-698c-4eea-69d3-b39b0f1b8e7f">Opłata za emisję zanieczyszczeń</title>
         <media alt="Wykres przedstawia opłatę za emisję zanieczyszczeń, jako sposób, który państwo może wykorzystać, aby skłonić przedsiębiorstwo do redukcji skali emisji sadzy do atmosfery." id="fs-idm89415520">
-          <image src="../../media//CNX_Econ_C12_002.svg" mime-type="image/svg+xml" id="UUID7d366654-b3c4-4c5f-663a-1d88b6d7c258" />
+          <image src="../../media//CNX_Econ_C12_002.png" mime-type="image/png" id="UUID7d366654-b3c4-4c5f-663a-1d88b6d7c258" />
         </media>
         <caption id="UUID14642939-f894-469e-5200-9946016b0643">Jeśli opłata za emisję zanieczyszczeń zostanie ustalona na poziomie 1000 zł za każde 10 kg sadzy, przedsiębiorstwo będzie miało motywację do zmniejszenia emisji zanieczyszczeń o 30 kg, ponieważ koszt redukcji emisji sadzy o kolejne 20 kg będzie wyższy (1500 zł + 2500 zł) niż opłata nałożona przez państwo (1000 zł + 1000 zł).</caption>
       </figure>
@@ -179,13 +179,13 @@
     <definition id="UUID47e1901d-92fb-424e-71c4-76d45522e448">
       <term id="UUID74d24212-c75d-4de2-6d39-78ceea0a7f90">uprawnienia do emisji zanieczyszczeń (ang. <foreign xml:lang="en" id="UUID0904c846-8e92-4738-64b3-93e1e79eff45">marketable permit</foreign>)</term>
       <meaning id="UUID862eb17f-fe05-4e47-6acd-6dca1f6aabfe">
-        <para id="UUIDc96ec9e5-8d8d-44f5-6dce-4e64ab2e39e6">patrz: zbywalne zezwolenie na emisję zanieczyszczeń </para>
+        <para id="UUIDc96ec9e5-8d8d-44f5-6dce-4e64ab2e39e6">patrz: zbywalne zezwolenie na emisję zanieczyszczeń</para>
       </meaning>
     </definition>
     <definition id="UUIDc26f2db2-aa9b-4653-5479-2dc31238b9b3">
       <term id="UUID1772b508-eca2-4f59-6fe6-2d5b28c1b846">certyfikaty emisyjne (ang. <foreign xml:lang="en" id="UUID2ebcdb1a-225d-41dd-4b5a-109e471503e3">marketable permit</foreign>)</term>
       <meaning id="UUID7c812510-2eb1-4630-6eb4-0ebd575baf9a">
-        <para id="UUIDb83bbe37-01b8-4053-43e1-cbbf7a1cb6e2">patrz: zbywalne zezwolenie na emisję zanieczyszczeń </para>
+        <para id="UUIDb83bbe37-01b8-4053-43e1-cbbf7a1cb6e2">patrz: zbywalne zezwolenie na emisję zanieczyszczeń</para>
       </meaning>
     </definition>
     <definition id="fs-idm8944480">

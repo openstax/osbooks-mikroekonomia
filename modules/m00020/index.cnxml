@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Elastyczność a cena</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.292625879+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.292625879+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.292625879+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.314799400+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.314799400+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.314799400+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -60,7 +60,7 @@
       <figure id="CNX_Econ_C05_019">
         <title id="UUID41266e28-4e84-4896-4878-d5c29772f4e2">Wpływ obniżki kosztów na cenę równowagi rynkowej</title>
         <media alt="Wykresy na dwóch panelach pokazują dwie krzywe popytu: dość stromą krzywą popytu po lewej stronie i niemal płaską krzywą popytu po stronie prawej." id="fs-idm80898304">
-          <image src="../../media//CNX_Econ_C05_019.svg" mime-type="image/svg+xml" id="UUIDf4a2eb5d-7347-43da-79af-ae4d8e457fad" />
+          <image src="../../media//CNX_Econ_C05_019.png" mime-type="image/png" id="UUIDf4a2eb5d-7347-43da-79af-ae4d8e457fad" />
         </media>
         <caption id="UUID54bb3ee0-ea55-4d0b-62b6-e3ceae9019f7">Postęp technologiczny powoduje przesunięcie podaży w prawo, z położenia S<sub>0</sub> do S<sub>1</sub>; tzn. przy każdej cenie przedsiębiorstwa będą skłonne dostarczać większą ilość produktu. Jeżeli popyt jest nieelastyczny przy poszczególnych poziomach cen (jego krzywa ma stromy kształt), jak to zostało pokazane na panelu (a), konsekwencją postępu technologicznego prowadzącego do obniżenia kosztów będą znacznie niższe ceny i niewielki wzrost ilości równoważącej rynek. Jeżeli popyt jest elastyczny przy poszczególnych poziomach cen (jego krzywa ma niemal płaski kształt) (panel (b)), rezultatem będą tylko trochę niższe ceny i znaczny wzrost ilości oferowanej na rynku. Konsumenci uzyskują korzyści w obu przypadkach, z powodu większej ilości i niższej ceny, ale korzyść związana ze spadkiem ceny jest większa, gdy krzywa popytu ma stromy kształt, jak na panelu (a).</caption>
       </figure>
@@ -76,7 +76,7 @@
       <figure id="CNX_Econ_C05_020">
         <title id="UUIDe22cf016-fe60-4b7c-48c8-f243bb482723">Wpływ wzrostu kosztów na cenę równowagi rynkowej</title>
         <media alt="Wykres na dwóch panelach ilustruje sposób, w jaki przesunięcie podaży pod wpływem wzrostu kosztów produkcji wpływa na cenę i ilość równowagi. Panel (a) wskazuje, co dzieje się z równowagą rynkową przy stromej krzywej popytu i przesunięciu krzywej podaży w lewo, zaś panel (b) przedstawia analogiczną sytuację w kontekście niemal płaskiej krzywej popytu." id="fs-idm60208704">
-          <image src="../../media//CNX_Econ_C05_020.svg" mime-type="image/svg+xml" id="UUIDc7ead4df-5125-4ae9-4838-ffb6006a7d54" />
+          <image src="../../media//CNX_Econ_C05_020.png" mime-type="image/png" id="UUIDc7ead4df-5125-4ae9-4838-ffb6006a7d54" />
         </media>
         <caption id="UUID82c5d225-9767-476e-5475-702ac8864554">Wyższe koszty, które mogą być konsekwencją omawianego powyżej wzrostu opodatkowania papierosów, prowadzą do przesunięcia krzywej podaży w lewo. Przesunięcie to ma tę samą skalę na panelach (a) i (b). Jednak w przypadku nieelastycznego popytu, którym charakteryzują się ceny P<sub>0</sub> i P<sub>1</sub> wskazane na panelu (a), przedsiębiorstwa mogą w dużej mierze przenieść wzrost kosztów opodatkowania na konsumentów, co prowadzi do wyższej ceny rynkowej, bez znacznego spadku liczby papierosów kupowanych w stanie równowagi. Na panelu (b) popyt jest elastyczny przy cenach P<sub>0</sub> i P<sub>1</sub>, więc przesunięcie krzywej podaży skutkuje przede wszystkim znaczącym spadkiem liczby nabywanych papierosów i tylko nieznacznym wzrostem ceny rynkowej. Sytuacja konsumentów pogarsza się w obu wariantach, ale w przypadku popytu nieelastycznego (a) cierpią z powodu płacenia wyższej ceny za niemal tę samą ilość, podczas gdy w sytuacji popytu elastycznego (b) cierpią z powodu zmniejszenia konsumpcji przy zbliżonym poziomie cen (i prawdopodobnie muszą przenieść swoje wydatki na inny rynek).</caption>
       </figure>
@@ -90,7 +90,7 @@
       <figure id="CNX_Econ_C05_025">
         <title id="UUID236ddcff-ca92-439e-6419-74f9f2d89726">Elastyczność i rozkład obciążeń podatkowych</title>
         <media alt="Dwa panele ilustrują związek między elastycznością popytu i podaży a rozkładem obciążeń podatkowych. Panel (a) pokazuje sytuację, która ma miejsce wtedy, gdy popyt jest elastyczny (płaska krzywa popytu), a podaż nieelastyczna (stroma krzywa podaży). Ciężar podatku spada wówczas przede wszystkim na producentów. Panel (b) pokazuje sytuację, gdy to popyt jest nieelastyczny (relatywnie stroma krzywa popytu), a podaż elastyczna (relatywnie płaska krzywa podaży). Wówczas obciążenie podatkowe producentów jest niższe, a konsumentów wyższe." id="eip-id7606682">
-          <image src="../../media//CNX_Econ_C05_025.svg" mime-type="image/svg+xml" id="UUIDc13f8a51-c3ea-4241-5cea-f28645e80cd3" />
+          <image src="../../media//CNX_Econ_C05_025.png" mime-type="image/png" id="UUIDc13f8a51-c3ea-4241-5cea-f28645e80cd3" />
         </media>
         <caption id="UUIDb26159e6-8f25-49e4-65ea-9af1a38fb6b6">Nałożenie podatku akcyzowego (i innych podatków obciążających konsumpcję) prowadzi do powstania różnicy pomiędzy ceną rynkową (P<sub>c</sub>) a przychodem jednostkowym otrzymywanym przez producentów (P<sub>p</sub>). Pionowa odległość między P<sub>c</sub> i P<sub>p</sub> to stawka podatku nałożona na jednostkę towaru. P<sub>e</sub> to cena równowagi przed wprowadzeniem podatku. (a) Gdy popyt jest bardziej elastyczny niż podaż, obciążenie podatkowe konsumentów (P<sub>c</sub> – P<sub>e</sub>) jest mniejsze niż obciążenie podatkowe producentów (P<sub>e</sub> – P<sub>p</sub>). (b) Gdy podaż jest bardziej elastyczna niż popyt, obciążenie podatkowe konsumentów (P<sub>c</sub> – P<sub>e</sub>) jest większe niż obciążenie podatkowe producentów (P<sub>e</sub> – P<sub>p</sub>). Im bardziej elastyczne krzywe popytu i podaży, tym niższe dochody podatkowe.</caption>
       </figure>
@@ -105,7 +105,7 @@
       <figure id="CNX_Econ_C05_021">
         <title id="UUIDc2041a85-7784-44ee-65b0-5cb1c90338ba">Jak zmiana podaży może wpłynąć na cenę lub ilość równowagi?</title>
         <media alt="Dwa panele pokazują, że przy nieelastycznym popycie przesunięcie krzywej podaży wpływa głównie na poziom ceny rynkowej, a przy popycie elastycznym przesunięcie krzywej podaży wpływa głównie na ilość równoważącą rynek równowagi." id="fs-idm6244720">
-          <image src="../../media//CNX_Econ_C05_021.svg" mime-type="image/svg+xml" id="UUID852c7f33-48c4-4cad-58cb-939b0061c25e" />
+          <image src="../../media//CNX_Econ_C05_021.png" mime-type="image/png" id="UUID852c7f33-48c4-4cad-58cb-939b0061c25e" />
         </media>
         <caption id="UUID475ece93-e3e7-407e-5c21-dd9b059a4913">Punkt przecięcia krzywej popytu D i krzywej podaży S<sub>0</sub> jest taki sam w na obu panelach (a) i (b) i został oznaczony jako E<sub>0</sub>. Również skala przesunięcia krzywej podaży w lewo, z położenia S<sub>0</sub> do S<sub>1</sub>, jest identyczna na obu panelach. Nowa równowaga (oznaczona jako punkt E<sub>1</sub>) charakteryzuje się wyższą ceną i mniejszą ilością równowagi w stosunku do początkowych warunków równowagi (E<sub>0</sub>) na obu panelach. Jednak analizowane na obu panelach ceny różnią się wartością współczynnika elastyczności cenowej popytu – na panelu (b) popyt jest elastyczny, zaś na na panelu (a) nieelastyczny. W rezultacie przesunięcie krzywej podaży może doprowadzić do ustalenia się nowej równowagi przy znacznie wyższym poziomie cen rynkowych w sytuacji nieelastycznego popytu, takiej jak na panelu (a), albo nowej równowagi z niewielkim wzrostem ceny oraz relatywnie dużym spadkiem równowagi przy bardziej elastycznym popycie, takim jak na panelu (b).</caption>
       </figure>

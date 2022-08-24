@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Jak przedsiębiorstwa doskonale konkurencyjne podejmują decyzje o produkcji</md:title>
     <md:language>pl</md:language>
-    <md:version>2022-08-22T09:09:39.409370946+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.409370946+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.409370946+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.448474562+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.448474562+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.448474562+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -68,7 +68,7 @@
       <figure id="CNX_Econ_C08_001">
         <title id="UUIDeb01a6f9-2b2f-459b-54c8-788080825d4b">Koszt całkowity i utarg całkowity producenta malin</title>
         <media alt="Wykres pokazuje, że przedsiębiorstwo ponosi stratę, jeśli koszt całkowity jest większy niż utarg całkowity." id="mCNX_Econ_C08_001">
-          <image src="../../media//CNX_Econ2e_C08_001.svg" mime-type="image/svg+xml" id="UUID52430caa-3d84-4ae6-46ef-2dd0957aecae" />
+          <image src="../../media//CNX_Econ2e_C08_001.png" mime-type="image/png" id="UUID52430caa-3d84-4ae6-46ef-2dd0957aecae" />
         </media>
         <caption id="UUID6ba9176e-4bfb-49c1-6216-e892d28eb11f">Utarg całkowity przedsiębiorstwa doskonale konkurencyjnego to linia prosta o nachyleniu dodatnim. Nachylenie jest równe cenie produktu. Koszt całkowity również rośnie, ale nieliniowo. Przy wyższych poziomach produkcji koszt całkowity zaczyna gwałtownie rosnąć z powodu malejących przychodów krańcowych. Maksymalny zysk występuje przy wielkości produkcji, dla której różnica między utargiem całkowitym a kosztem całkowitym jest największa.</caption>
       </figure>
@@ -120,14 +120,14 @@
       <figure id="CNX_Econ_C08_002">
         <title id="UUID433db6b9-2053-4cca-6aac-9e2552a2bf19">Utargi krańcowe i koszty krańcowe producenta malin: pojedyncze przedsiębiorstwo</title>
         <media alt="Wykres ilustrujący sytuację pojedynczego przedsiębiorstwa produkującego mrożone maliny pokazuje, w jaki sposób firma wykorzystuje cenę rynkową do określenia poziomu produkcji maksymalizującego zysk." id="mCNX_Econ_C08_002">
-          <image src="../../media//CNX_Econ2e_C08_002.svg" mime-type="image/svg+xml" id="UUIDf4b02637-9292-47ab-4639-230c238b9d37" />
+          <image src="../../media//CNX_Econ2e_C08_002.png" mime-type="image/png" id="UUIDf4b02637-9292-47ab-4639-230c238b9d37" />
         </media>
         <caption id="UUIDeebd6538-598b-4a9e-400d-a83bc9b5b2ce">Dla przedsiębiorstwa doskonale konkurencyjnego krzywa utargu krańcowego (MR) jest linią poziomą, ponieważ utarg krańcowy jest równy cenie dobra określonej przez rynek, jak pokazuje <link target-id="CNX_Econ_C08_015" id="UUIDbda0bfcb-e05e-413c-7e6d-6bbf938b2d6e" />. Krzywa kosztu krańcowego (MC) może być początkowo nachylona w dół, jeśli dla niewielkich rozmiarów produkcji przychody krańcowe rosną, ale wraz ze wzrostem wolumenu produkcji uzyskuje dodatnie nachylenie, co odzwierciedla malejące przychody krańcowe.</caption>
       </figure>
       <figure id="CNX_Econ_C08_015">
         <title id="UUID8af93f7f-6a80-4a30-762a-0b3dbf7946e7">Utargi krańcowe i koszty krańcowe producenta malin: cały rynek</title>
         <media alt="Wykres ilustrujący sytuację na rynku mrożonych malin pokazuje, że cena równowagi (4 zł.) jest zdeterminowana kształtowana przez interakcję pomiędzy popytem rynkowym i podażą rynkową." id="mCNX_Econ_C08_015">
-          <image src="../../media//CNX_Econ2e_C08_015.svg" mime-type="image/svg+xml" id="UUID655fe921-a18f-45ce-4a88-aa9963669717" />
+          <image src="../../media//CNX_Econ2e_C08_015.png" mime-type="image/png" id="UUID655fe921-a18f-45ce-4a88-aa9963669717" />
         </media>
         <caption id="UUID3d585a78-b97e-4eb8-5656-63ac744cd216">Cena równowagi na rynku malin jest określana poprzez interakcję podaży i popytu i wynosi 4 zł.</caption>
       </figure>
@@ -147,7 +147,7 @@
       <figure id="CNX_Econ_C08_014">
         <title id="UUID5ceda143-2c43-4721-42e1-415e69b9e332">Cena i koszt przeciętny producenta malin</title>
         <media alt="Wykres na trzech panelach ilustruje, w jaki sposób zysk zależy od tego, gdzie koszt krańcowy przecina się z utargiem krańcowym, czyli z ceną." id="mCNX_Econ_C08_014">
-          <image src="../../media//CNX_Econ2e_C08_014.svg" mime-type="image/svg+xml" id="UUID2ccf1d97-a1cd-4c9f-568b-894098820aa4" />
+          <image src="../../media//CNX_Econ2e_C08_014.png" mime-type="image/png" id="UUID2ccf1d97-a1cd-4c9f-568b-894098820aa4" />
         </media>
         <caption id="UUID05aa3685-00ff-46fd-5ea0-b4b445e69247">Na panelu (a) cena przecina koszt krańcowy powyżej krzywej kosztu przeciętnego. Ponieważ cena jest wyższa niż koszt przeciętny, przedsiębiorstwo osiąga zysk. Na panelu (b) cena przecina koszt krańcowy w punkcie minimum krzywej kosztu przeciętnego. Ponieważ cena jest równa kosztowi przeciętnemu, przedsiębiorstwo osiąga próg rentowności (nie ma zysków ekonomicznych). Na panelu (c) cena przecina koszt krańcowy poniżej krzywej kosztu przeciętnego. Ponieważ cena jest niższa niż koszt przeciętny, przedsiębiorstwo ponosi stratę.</caption>
       </figure>
@@ -163,7 +163,7 @@
   </mtr>
   <mtr><mtd />
    <mtd><mo> = </mo></mtd>
-<mtd><mn>85 × 5,00 [zł]</mn><mo> – </mo><mn>85 × 3,50 [zł]</mn>
+<mtd><mn>85 × 5,00</mn><mo> – </mo><mn>85 × 3,50</mn>
    </mtd>
   </mtr>
   <mtr> <mtd />
@@ -182,7 +182,7 @@
   </mtr>
   <mtr><mtd /><mtd><mo> = </mo></mtd>
    <mtd>
-    <mn>5,00 [zł]</mn><mo> – </mo><mn>3,50 [zł] × 85</mn>
+    <mn>5,00</mn><mo> – </mo><mn>3,50 × 85</mn>
    </mtd>
   </mtr>
   <mtr><mtd /><mtd><mo> = </mo></mtd>
@@ -211,7 +211,7 @@
 <mtd><mo> = </mo></mtd>
     <mtd columnalign="left">
      <mrow>
-      <mn>75 × 2,75 [zł]</mn><mo> – </mo><mn>75 × 2,75 [zł]</mn>
+      <mn>75 × 2,75</mn><mo> – </mo><mn>75 × 2,75</mn>
      </mrow>
     </mtd>
    </mtr>
@@ -244,7 +244,7 @@
 <mtd><mo> = </mo></mtd>
     <mtd columnalign="left">
      <mrow>
-      <mn>(2,75 [zł]</mn><mo> – </mo><mn>2,75 [zł])</mn><mo> × </mo><mn>75</mn>
+      <mn>(2,75</mn><mo> – </mo><mn>2,75)</mn><mo> × </mo><mn>75</mn>
      </mrow>
     </mtd>
    </mtr>
@@ -275,7 +275,7 @@
 <mtd><mo> = </mo></mtd>
     <mtd columnalign="left">
      <mrow>
-      <mn>65 × 2,00 [zł]</mn><mo> – </mo><mn>65 × 2,73 [zł]</mn>
+      <mn>65 × 2,00</mn><mo> – </mo><mn>65 × 2,73</mn>
      </mrow>
     </mtd>
    </mtr>
@@ -306,7 +306,7 @@
 <mtd><mo> = </mo></mtd>
     <mtd columnalign="left">
      <mrow>
-      <mn>(2,00 [zł]</mn><mo> – </mo><mn>2,73 [zł]) × 65</mn>
+      <mn>(2,00</mn><mo> – </mo><mn>2,73) × 65</mn>
      </mrow>
     </mtd>
    </mtr>
@@ -339,12 +339,12 @@
       <figure id="CNX_Econ_C08_012">
         <title id="UUID2ae1243f-1a7f-4bbc-7804-ddd88376fdb6">Cena zamknięcia dla producenta malin</title>
         <media alt="Dwa panele na wykresie wskazują, że pomimo ujemnych zysków (czyli strat) przedsiębiorstwa czasami powinny kontynuować działalność w krótkim okresie. Jednak gdy ceny spadną poniżej przeciętnych kosztów zmiennych, przedsiębiorstwa muszą wstrzymać działalność." id="mCNX_Econ_C08_012">
-          <image src="../../media//CNX_Econ2e_C08_012.svg" mime-type="image/svg+xml" id="UUID3f100682-1ec5-477b-7bd8-e39c9c98a036" />
+          <image src="../../media//CNX_Econ2e_C08_012.png" mime-type="image/png" id="UUID3f100682-1ec5-477b-7bd8-e39c9c98a036" />
         </media>
         <caption id="UUID82824ca0-dc41-4c45-4910-5ef7bdb5082a">Na panelu (a) przedsiębiorstwo produkuje 65 sztuk. Ponosi stratę w wysokości 47,50 zł, ale cena znajduje się powyżej przeciętnego kosztu zmiennego, więc firma kontynuuje działalność. Na panelu (b) utarg całkowity wynosi 90 zł, a koszt całkowity 165 zł, co daje łączne straty w wysokości 75 zł. Jeśli przedsiębiorstwo zostanie zamknięte, musi opłacić tylko koszty stałe w wysokości 62 zł. Wstrzymanie działalności jest zatem lepszym rozwiązaniem niż sprzedaż po cenie 1,50 zł za opakowanie.</caption>
       </figure>
       <para id="ch08mod02_p31">Z <link target-id="Table_08_06" cmlnle:case="genitive" id="UUID6b584303-325b-4ef2-75bb-324127e953ce" /> wynika, że jeśli cena spadnie poniżej poziomu równego ok. 1,65 zł, czyli minimum przeciętnego kosztu zmiennego, przedsiębiorstwo musi wstrzymać działalność.</para>
-      <table summary="The table shows the cost of production for the raspberry farm. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the marginal cost (MC). Column 6 shows the average cost (AC). Column 7 shows the average variable cost (AVC). Row 1: At Q = 0, TC = $62, FC = $62, and VC, MC, AC, and AVC are all blank. Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, MC = $2.80, AC = $9.00, AVC = $2.80. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, MC = $2.00, AC = $5.50, AVC = $2.40.  Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, MC = $1.60, AC = $4.20, AVC = $2.13. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, MC = $1.80, AC = $3.60, AVC = $2.05.  Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, MC = $2.20, AC = $3.32, AVC = $2.08. Row 7: At Q =60, TC = $192, FC = $62, VC = $130, MC = $2.60, AC = $3.20, AVC = $2.16. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, MC = $3.20, AC = $3.20, AVC = $2.31. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, MC = $4.00, AC = $3.30, AVC = $2.52. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, MC = $6.00, AC = $3.60, AVC = $2.91. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, MC = $8.00, AC = $4.04, AVC = $3.42." id="Table_08_06"><title id="UUID704d5026-bca2-c235-cf81ce73bb357bfe">Koszty produkcji ponoszone przez producenta malin (w zł)</title><tgroup cols="7" id="UUID704d5026-4a61-d217-75dd8fdf2b0ece17"><colspec colnum="1" colname="col1" id="UUID704d5026-da22-3459-fee99d1dcc6fc7d5" /><colspec colnum="2" colname="col2" id="UUID704d5026-0fc2-88e3-1d1da6637098fe04" /><colspec colnum="3" colname="col3" id="UUID704d5026-e27d-891f-cbb76fb77b8b7a07" /><colspec colnum="4" colname="col4" id="UUID704d5026-cc96-8e12-ee01145a513fb34f" /><colspec colnum="5" colname="col5" id="UUID704d5026-4391-3794-98d59854d74b3df5" /><colspec colnum="6" colname="col6" id="UUID704d5026-f5b5-c586-e0a23d0a33ed7ccb" /><colspec colnum="7" colname="col7" id="UUID704d5026-7ec9-7316-f1217d563e47eb64" /><thead id="UUID704d5026-7887-e89a-6d7ad3b4d8774a70"><row id="UUID704d5026-145e-c0b3-ba38446072511f59"><entry id="UUID704d5026-3c0a-42f5-a4e657d5322ba94c">Liczba opakowań malin (Q)</entry><entry id="UUID704d5026-968e-f224-18e932c8f56be9bd">Przeciętny koszt zmienny (SAVC)</entry><entry id="UUID704d5026-7c8b-e720-c915ca209bd963fd">Koszt przeciętny (SATC)</entry><entry id="UUID704d5026-2bf3-8930-d29ba3ede565bdcd">Koszt krańcowy (SMC)</entry></row></thead><tbody id="UUID704d5026-67f8-4a50-c67128a605c6650f"><row id="UUID704d5026-fe0a-610b-dcd5050f1cdf4970"><entry id="UUID704d5026-c4ca-aa1a-68492af7e99dcc2c">0</entry><entry id="UUID704d5026-da56-2504-6ebf6914ead2e707">–</entry><entry id="UUID704d5026-5759-b9ab-d4fef9966d437174">–</entry><entry id="UUID704d5026-5ac4-21da-7889ce772554ca6f">–</entry></row><row id="UUID704d5026-deeb-bcf3-6b9054cbde16873b"><entry id="UUID704d5026-5eee-bd78-2536f016141376a0">10</entry><entry id="UUID704d5026-a410-2c29-bf5789cd8d4da771">2,80</entry><entry id="UUID704d5026-d5fd-6ef5-812354c11942bcb7">9,00</entry><entry id="UUID704d5026-ad1e-a0af-153883acfbb3d258">2,80</entry></row><row id="UUID704d5026-3992-1c34-ba0a6939c4e170ee"><entry id="UUID704d5026-a60f-6e78-2d4f567a00121a9f">20</entry><entry id="UUID704d5026-0f5b-5fa5-4de2625c5d02c28d">2,40</entry><entry id="UUID704d5026-6ed2-96aa-babe09786b19a619">5,50</entry><entry id="UUID704d5026-e005-e201-2ad5b6d16ba5b406">2,00</entry></row><row id="UUID704d5026-1035-0e48-0a74b2c2941e914c"><entry id="UUID704d5026-946f-58da-05b6d021fb1abeb4">30</entry><entry id="UUID704d5026-5671-3504-43cb9fdbdec948b5">2,13</entry><entry id="UUID704d5026-f536-c6b2-2e1ee25a455b2c44">4,20</entry><entry id="UUID704d5026-4b1b-6114-b303f919347270e0">1,60</entry></row><row id="UUID704d5026-0247-0f1f-6d50dba15c7ed5df"><entry id="UUID704d5026-19b5-43ea-a72e62414f1d9edd">40</entry><entry id="UUID704d5026-3bdf-01c9-73ce03795356c66d">1,90</entry><entry id="UUID704d5026-1c81-5736-204d9b65500d666a">3,45</entry><entry id="UUID704d5026-4604-4820-18bea26a45a56d7d">1,20</entry></row><row id="UUID704d5026-4f37-693b-1dba237299f9f35d"><entry id="UUID704d5026-068a-8e12-53843a86e7a4d369">50</entry><entry id="UUID704d5026-2c0d-be37-f24953c4d66d72d9">1,76</entry><entry id="UUID704d5026-a48f-f016-19f9680e86a70033">3,00</entry><entry id="UUID704d5026-f57a-6406-b5f42644f3615957">1,20</entry></row><row id="UUID704d5026-eb0b-55fa-e2ffdb168d02dcd2"><entry id="UUID704d5026-d083-dad9-65f23f6c4060cde3">60</entry><entry id="UUID704d5026-6d44-a5d3-e8d2e8a8804e6961">1,72</entry><entry id="UUID704d5026-3714-5f98-a7f737de8429ceb3">2,75</entry><entry id="UUID704d5026-860a-72a1-31886657dcd85801">1,50</entry></row><row id="UUID704d5026-6800-1705-3a3dd99abba7da8e"><entry id="UUID704d5026-bd9f-54c6-16550f58fd8eeda5">70</entry><entry id="UUID704d5026-dbf4-6424-bb900adaebe6d353">1,83</entry><entry id="UUID704d5026-850a-40c1-5270ba85c40149aa">2,71</entry><entry id="UUID704d5026-e70c-24d6-afc4ad5c2dd8a80e">2,50</entry></row><row id="UUID704d5026-c647-4863-8e62277858ed441b"><entry id="UUID704d5026-e442-c0f4-80a671d59e383149">80</entry><entry id="UUID704d5026-b8fe-de62-6d3baa5053e003e8">2,10</entry><entry id="UUID704d5026-fd62-5b8d-9966a9fd5f5cbc98">2,88</entry><entry id="UUID704d5026-b38d-0c6e-d81cdec7bd094cac">4,00</entry></row><row id="UUID704d5026-1a6b-18c6-cffc91e58fd5dd3f"><entry id="UUID704d5026-e8d6-ce6d-edd913a8e05d46c6">90</entry><entry id="UUID704d5026-5b50-035f-17a45d2afa020eb4">2,60</entry><entry id="UUID704d5026-b68b-97c6-b04e6a772b4bfcd3">3,29</entry><entry id="UUID704d5026-96da-3d4f-0bb7ad4189dfc4eb">6,60</entry></row><row id="UUID704d5026-e1d8-ac9b-741e4e81a4679e9a"><entry id="UUID704d5026-d303-ecac-f45d92584bdae4ae">100</entry><entry id="UUID704d5026-0d06-3bfb-51510c54e679dc3e">3,38</entry><entry id="UUID704d5026-f240-85fd-3fd4abe75d1a9614">4,00</entry><entry id="UUID704d5026-b6fa-239b-ea331551f159db0a">10,40</entry></row><row id="UUID704d5026-dfbd-e07b-c4d229d71a810d3c"><entry id="UUID704d5026-5659-92d0-f133367f4222c7b3">110</entry><entry id="UUID704d5026-9480-6b04-babb58c3b73e3679">4,44</entry><entry id="UUID704d5026-9538-a34f-74045f6c4045c649">5,00</entry><entry id="UUID704d5026-f44f-c378-06150bb06a1338ab">15,00</entry></row><row id="UUID704d5026-8e2c-4b25-32d0be3b2b6d5de1"><entry id="UUID704d5026-02ae-5643-47b188af496a4196">120</entry><entry id="UUID704d5026-d1a5-7a4d-2f254dc0a65b1aed">5,44</entry><entry id="UUID704d5026-ea7b-cc5f-ff1290c4e1d4acd0">5,96</entry><entry id="UUID704d5026-52ff-e90b-2e99bf6c79a11847">31,50</entry></row></tbody></tgroup><caption id="UUID51e6a6ec-0098-fsff-ooi8-8ca84539cf16" /></table>
+      <table summary="The table shows the cost of production for the raspberry farm. Column 1 shows the quantity (Q). Column 2 shows the total cost (TC). Column 3 shows the fixed cost (FC). Column 4 shows the variable cost (VC). Column 5 shows the marginal cost (MC). Column 6 shows the average cost (AC). Column 7 shows the average variable cost (AVC). Row 1: At Q = 0, TC = $62, FC = $62, and VC, MC, AC, and AVC are all blank. Row 2: At Q = 10, TC = $90, FC = $62, VC = $28, MC = $2.80, AC = $9.00, AVC = $2.80. Row 3: At Q = 20, TC = $110, FC = $62, VC = $48, MC = $2.00, AC = $5.50, AVC = $2.40.  Row 4: At Q = 30, TC = $126, FC = $62, VC = $64, MC = $1.60, AC = $4.20, AVC = $2.13. Row 5: At Q = 40, TC = $144, FC = $62, VC = $82, MC = $1.80, AC = $3.60, AVC = $2.05.  Row 6: At Q = 50, TC = $166, FC = $62, VC = $104, MC = $2.20, AC = $3.32, AVC = $2.08. Row 7: At Q =60, TC = $192, FC = $62, VC = $130, MC = $2.60, AC = $3.20, AVC = $2.16. Row 8: At Q = 70, TC = $224, FC = $62, VC = $162, MC = $3.20, AC = $3.20, AVC = $2.31. Row 9: At Q = 80, TC = $264, FC = $62, VC = $202, MC = $4.00, AC = $3.30, AVC = $2.52. Row 10: At Q = 90, TC = $324, FC = $62, VC = $262, MC = $6.00, AC = $3.60, AVC = $2.91. Row 11: At Q = 100, TC = $404, FC = $62, VC = $342, MC = $8.00, AC = $4.04, AVC = $3.42." id="Table_08_06"><title id="UUID704d5026-bca2-c235-cf81ce73bb357bfe">Koszty produkcji ponoszone przez producenta malin (w zł)</title><tgroup cols="7" id="UUID704d5026-4a61-d217-75dd8fdf2b0ece17"><colspec colnum="1" colname="col1" id="UUID704d5026-da22-3459-fee99d1dcc6fc7d5" /><colspec colnum="2" colname="col2" id="UUID704d5026-0fc2-88e3-1d1da6637098fe04" /><colspec colnum="3" colname="col3" id="UUID704d5026-e27d-891f-cbb76fb77b8b7a07" /><colspec colnum="4" colname="col4" id="UUID704d5026-cc96-8e12-ee01145a513fb34f" /><colspec colnum="5" colname="col5" id="UUID704d5026-4391-3794-98d59854d74b3df5" /><colspec colnum="6" colname="col6" id="UUID704d5026-f5b5-c586-e0a23d0a33ed7ccb" /><colspec colnum="7" colname="col7" id="UUID704d5026-7ec9-7316-f1217d563e47eb64" /><thead id="UUID704d5026-7887-e89a-6d7ad3b4d8774a70"><row id="UUID704d5026-145e-c0b3-ba38446072511f59"><entry id="UUID704d5026-3c0a-42f5-a4e657d5322ba94c">Liczba opakowań malin (Q)</entry><entry id="UUID704d5026-968e-f224-18e932c8f56be9bd">Przeciętny koszt zmienny (SAVC)</entry><entry id="UUID704d5026-7c8b-e720-c915ca209bd963fd">Przeciętny koszt całkowity (SATC)</entry><entry id="UUID704d5026-2bf3-8930-d29ba3ede565bdcd">Koszt krańcowy (SMC)</entry></row></thead><tbody id="UUID704d5026-67f8-4a50-c67128a605c6650f"><row id="UUID704d5026-fe0a-610b-dcd5050f1cdf4970"><entry id="UUID704d5026-c4ca-aa1a-68492af7e99dcc2c">0</entry><entry id="UUID704d5026-da56-2504-6ebf6914ead2e707">–</entry><entry id="UUID704d5026-5759-b9ab-d4fef9966d437174">–</entry><entry id="UUID704d5026-5ac4-21da-7889ce772554ca6f">–</entry></row><row id="UUID704d5026-deeb-bcf3-6b9054cbde16873b"><entry id="UUID704d5026-5eee-bd78-2536f016141376a0">10</entry><entry id="UUID704d5026-a410-2c29-bf5789cd8d4da771">2,80</entry><entry id="UUID704d5026-d5fd-6ef5-812354c11942bcb7">9,00</entry><entry id="UUID704d5026-ad1e-a0af-153883acfbb3d258">2,80</entry></row><row id="UUID704d5026-3992-1c34-ba0a6939c4e170ee"><entry id="UUID704d5026-a60f-6e78-2d4f567a00121a9f">20</entry><entry id="UUID704d5026-0f5b-5fa5-4de2625c5d02c28d">2,40</entry><entry id="UUID704d5026-6ed2-96aa-babe09786b19a619">5,50</entry><entry id="UUID704d5026-e005-e201-2ad5b6d16ba5b406">2,00</entry></row><row id="UUID704d5026-1035-0e48-0a74b2c2941e914c"><entry id="UUID704d5026-946f-58da-05b6d021fb1abeb4">30</entry><entry id="UUID704d5026-5671-3504-43cb9fdbdec948b5">2,13</entry><entry id="UUID704d5026-f536-c6b2-2e1ee25a455b2c44">4,20</entry><entry id="UUID704d5026-4b1b-6114-b303f919347270e0">1,60</entry></row><row id="UUID704d5026-0247-0f1f-6d50dba15c7ed5df"><entry id="UUID704d5026-19b5-43ea-a72e62414f1d9edd">40</entry><entry id="UUID704d5026-3bdf-01c9-73ce03795356c66d">1,90</entry><entry id="UUID704d5026-1c81-5736-204d9b65500d666a">3,45</entry><entry id="UUID704d5026-4604-4820-18bea26a45a56d7d">1,20</entry></row><row id="UUID704d5026-4f37-693b-1dba237299f9f35d"><entry id="UUID704d5026-068a-8e12-53843a86e7a4d369">50</entry><entry id="UUID704d5026-2c0d-be37-f24953c4d66d72d9">1,76</entry><entry id="UUID704d5026-a48f-f016-19f9680e86a70033">3,00</entry><entry id="UUID704d5026-f57a-6406-b5f42644f3615957">1,20</entry></row><row id="UUID704d5026-eb0b-55fa-e2ffdb168d02dcd2"><entry id="UUID704d5026-d083-dad9-65f23f6c4060cde3">60</entry><entry id="UUID704d5026-6d44-a5d3-e8d2e8a8804e6961">1,72</entry><entry id="UUID704d5026-3714-5f98-a7f737de8429ceb3">2,75</entry><entry id="UUID704d5026-860a-72a1-31886657dcd85801">1,50</entry></row><row id="UUID704d5026-6800-1705-3a3dd99abba7da8e"><entry id="UUID704d5026-bd9f-54c6-16550f58fd8eeda5">70</entry><entry id="UUID704d5026-dbf4-6424-bb900adaebe6d353">1,83</entry><entry id="UUID704d5026-850a-40c1-5270ba85c40149aa">2,71</entry><entry id="UUID704d5026-e70c-24d6-afc4ad5c2dd8a80e">2,50</entry></row><row id="UUID704d5026-c647-4863-8e62277858ed441b"><entry id="UUID704d5026-e442-c0f4-80a671d59e383149">80</entry><entry id="UUID704d5026-b8fe-de62-6d3baa5053e003e8">2,10</entry><entry id="UUID704d5026-fd62-5b8d-9966a9fd5f5cbc98">2,88</entry><entry id="UUID704d5026-b38d-0c6e-d81cdec7bd094cac">4,00</entry></row><row id="UUID704d5026-1a6b-18c6-cffc91e58fd5dd3f"><entry id="UUID704d5026-e8d6-ce6d-edd913a8e05d46c6">90</entry><entry id="UUID704d5026-5b50-035f-17a45d2afa020eb4">2,60</entry><entry id="UUID704d5026-b68b-97c6-b04e6a772b4bfcd3">3,29</entry><entry id="UUID704d5026-96da-3d4f-0bb7ad4189dfc4eb">6,60</entry></row><row id="UUID704d5026-e1d8-ac9b-741e4e81a4679e9a"><entry id="UUID704d5026-d303-ecac-f45d92584bdae4ae">100</entry><entry id="UUID704d5026-0d06-3bfb-51510c54e679dc3e">3,38</entry><entry id="UUID704d5026-f240-85fd-3fd4abe75d1a9614">4,00</entry><entry id="UUID704d5026-b6fa-239b-ea331551f159db0a">10,40</entry></row><row id="UUID704d5026-dfbd-e07b-c4d229d71a810d3c"><entry id="UUID704d5026-5659-92d0-f133367f4222c7b3">110</entry><entry id="UUID704d5026-9480-6b04-babb58c3b73e3679">4,44</entry><entry id="UUID704d5026-9538-a34f-74045f6c4045c649">5,00</entry><entry id="UUID704d5026-f44f-c378-06150bb06a1338ab">15,00</entry></row><row id="UUID704d5026-8e2c-4b25-32d0be3b2b6d5de1"><entry id="UUID704d5026-02ae-5643-47b188af496a4196">120</entry><entry id="UUID704d5026-d1a5-7a4d-2f254dc0a65b1aed">5,44</entry><entry id="UUID704d5026-ea7b-cc5f-ff1290c4e1d4acd0">5,96</entry><entry id="UUID704d5026-52ff-e90b-2e99bf6c79a11847">31,50</entry></row></tbody></tgroup><caption id="UUID51e6a6ec-0098-fsff-ooi8-8ca84539cf16" /></table>
       <para id="ch08mod02_p32">Punkt przecięcia krzywej przeciętnego kosztu zmiennego i krzywej kosztu krańcowego wskazujący cenę, poniżej której przedsiębiorstwo nie miałoby wystarczających utargów, aby pokryć swoje koszty zmienne, nazywa się <term cmlnle:reference="cena zamknięcia" id="UUID27ef8c15-52bb-4cea-74af-9c53d36e8a3f">ceną zamknięcia</term> (ang. <foreign xml:lang="en" id="UUID8ad8f434-e0e8-4fe1-7d1d-bc42ef3c5655"><term cxlxt:index="foreign" id="UUID8ac9c4e9-9e62-46d8-5cca-82a95e68fa05">shutdown point</term></foreign>) Jeśli przedsiębiorstwo doskonale konkurencyjne napotyka na cenę rynkową na poziomie wyższym od ceny zamknięcia, to pokrywa z nawiązką swoje koszty zmienne. Przy cenie wyższej od ceny zamknięcia firma osiąga również wystarczający utarg, aby pokryć przynajmniej część kosztów stałych, więc powinna produkować, nawet jeśli ponosi stratę w krótkim okresie, ponieważ ta strata będzie mniejsza niż całkowity koszt stały. Jeśli jednak przedsiębiorstwo napotyka na cenę niższą od ceny zamknięcia, to nie pokrywa nawet swoich kosztów zmiennych. W tym przypadku kontynuowanie produkcji prowadzi do jeszcze większych strat i przedsiębiorstwo powinno natychmiast zaprzestać działalności. Podsumowując, jeżeli:</para>
       <list id="ch08mod02_list01">
         <item id="UUID48db2965-95a5-4d4b-5c4a-10d73fc0202a">
@@ -361,7 +361,7 @@
       <figure id="CNX_Econ_C08_008">
         <title id="UUIDac797011-13f6-4153-5592-d190f196407b">Zysk, strata, wstrzymanie działalności</title>
         <media alt="Wykres pokazuje, w jaki sposób krzywa kosztu krańcowego dzieli się na trzy różne segmenty: powyżej progu rentowności, pomiędzy progiem rentowności a ceną zamknięcia oraz poniżej ceny zamknięcia." id="mCNX_Econ_C08_008">
-          <image src="../../media//CNX_Econ2e_C08_008.svg" mime-type="image/svg+xml" id="UUID0d5eb278-bd30-461b-5ad6-67e68ab5aa67" />
+          <image src="../../media//CNX_Econ2e_C08_008.png" mime-type="image/png" id="UUID0d5eb278-bd30-461b-5ad6-67e68ab5aa67" />
         </media>
         <caption id="UUIDca12134d-2983-4c95-4bf0-1bd33860b113">Krzywą kosztu krańcowego możemy podzielić na trzy segmenty w zależności od punktów jej przecięcia z krzywymi kosztu przeciętnego i kosztu zmiennego. Punkt, w którym SMC przecina SATC, nazywamy progiem rentowności. Jeśli przedsiębiorstwo napotyka na cenę rynkową, która jest na poziomie wyższym niż próg rentowności, to jest też ona wyższa niż koszt przeciętny i przedsiębiorstwo notuje zyski ekonomiczne. Jeśli cena znajduje się dokładnie na wysokości progu rentowności, przedsiębiorstwo osiąga zerowy zysk ekonomiczny. Jeśli cena spadnie do strefy pomiędzy ceną zamknięcia a progiem rentowności, przedsiębiorstwo ponosi stratę, ale powinno kontynuować działalność w krótkim okresie, ponieważ pokrywa nie tylko swoje koszty zmienne, lecz również część kosztów stałych. Jeśli cena spadnie poniżej poziomu ceny zamknięcia, przedsiębiorstwo powinno wstrzymać produkcję, jako że nie pokrywa nawet kosztów zmiennych.</caption>
       </figure>

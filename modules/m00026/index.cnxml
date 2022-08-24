@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Wprowadzenie do rozdziału</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.338552032+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.338552032+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.338552032+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.367963633+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.367963633+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.367963633+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -97,7 +97,7 @@
     <figure id="CNX_Econ_C07_001">
       <title id="UUID049f96d2-fe49-4713-44f1-bc1aaeced479">Najważniejsze struktury rynku</title>
       <media alt="Wykres liniowy przedstawia najważniejsze cechy konkurencji doskonałej, konkurencji monopolistycznej, oligopolu i monopolu." id="fs-idm55881648">
-        <image src="../../media//CNX_Econ_C07_001.svg" mime-type="image/svg+xml" id="UUID09c3015b-71c6-4fd7-6c87-71d894649d6a" />
+        <image src="../../media//CNX_Econ_C07_001.png" mime-type="image/png" id="UUID09c3015b-71c6-4fd7-6c87-71d894649d6a" />
       </media>
       <caption id="UUID4a80b67a-b01e-4221-6604-45381dff353d">Przedsiębiorstwa wytwarzające różne produkty napotykają na różne rodzaje struktur rynku. Z jednej strony może to być konkurencja doskonała, gdy wiele przedsiębiorstw próbuje sprzedawać wielu nabywcom identyczne produkty. Na drugim biegunie znajduje się monopol, gdy tylko jedno przedsiębiorstwo sprzedaje konkretny produkt i w zasadzie nie ma żadnej konkurencji. Konkurencja monopolistyczna i oligopol znajdują się między tymi skrajnościami. Konkurencja monopolistyczna to sytuacja, w której wiele przedsiębiorstw sprzedaje podobne, ale nie identyczne produkty. Oligopol natomiast to układ, w którym relatywnie niewiele przedsiębiorstw sprzedaje identyczne lub podobne produkty, a wszystkie podmioty są od siebie silnie uzależnione.</caption>
     </figure>

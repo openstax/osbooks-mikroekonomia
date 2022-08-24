@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title> Płace i zatrudnienie na niedoskonale konkurencyjnym rynku pracy</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.498570520+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.498570520+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.498570520+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.556618554+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.556618554+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.556618554+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -44,14 +44,14 @@
     <figure id="CNX_Econ2e_C15_011">
       <title id="UUID6e056c98-d522-4dc6-6ba7-905c6ea295ff">Krańcowy koszt pracy</title>
       <media alt="Wykres ilustruje dane z Tabeli 14.5. Na osi X odłożona jest liczba pracowników, zaś na osi Y ich wynagrodzenie i krańcowy koszt pracy. Na wykresie są narysowane dwie krzywe. Zarówno krzywa reprezentująca typową rynkową podaż siły roboczej, jak i krzywa kosztu krańcowego pracy są nachylone dodatnio, ale ta druga jest bardziej stroma i znajduje się bliżej osi Y." id="fs-idp95379036">
-        <image src="../../media//CNX_Econ2e_C15_006.svg" mime-type="image/svg+xml" id="UUID25c605ce-4ffa-4882-76b3-7d8931d1ec6c" />
+        <image src="../../media//CNX_Econ2e_C15_006.png" mime-type="image/png" id="UUID25c605ce-4ffa-4882-76b3-7d8931d1ec6c" />
       </media>
       <caption id="UUID2ae3adba-313e-4d31-691f-458b9735ce4b">Ponieważ na rynku w warunkach monopsonu działa tylko jeden podmiot zgłaszający popyt na pracę, napotyka on rynkową krzywą podaży pracy. Aby zwiększyć zatrudnienie, musi podnieść płacę nie tylko nowym pracownikom, ale wszystkim zatrudnionym, którym dotychczas płacił mniej. W rezultacie krańcowy koszt dodatkowej jednostki pracy jest wyższy niż płaca, a zatem dla każdego poziomu zatrudnienia (powyżej pierwszego pracownika) MC<sub>L</sub> znajduje się powyżej rynkowej podaży pracy.</caption>
     </figure>
     <figure id="CNX_Econ2e_C15_012">
       <title id="UUID69abe037-18d4-457e-6932-64d894da17e1">Rynek pracy w warunkach monopsonu</title>
       <media alt="Na wykresie zaprezentowane są trzy krzywe, jedna o nachyleniu ujemnym (jest to popyt na pracę) i dwie o nachyleniu dodatnim, bardziej stroma krzywa krańcowego kosztu pracy i leżąca z jej prawej strony, bardziej płaska krzywa podaży pracy. Na osi X odłożona jest liczba zatrudnionych pracowników, zaś na osi Y wysokość płac i krańcowego kosztu pracy. Punkt przecięcia popytu na pracę i krzywej kosztu krańcowego pracy wyznacza optymalną wielkość zatrudnienia monopsonisty." id="fs-idp95336">
-        <image src="../../media//CNX_Econ2e_C15_007.svg" mime-type="image/svg+xml" id="UUID38b2da4d-2e12-43a3-6de9-1a9d1ae6327b" />
+        <image src="../../media//CNX_Econ2e_C15_007.png" mime-type="image/png" id="UUID38b2da4d-2e12-43a3-6de9-1a9d1ae6327b" />
       </media>
       <caption id="UUIDcc13597b-d899-4a6c-6af9-44e0f5750607">Monopson będzie zatrudniał pracowników do momentu, w którym jego popyt na pracę zrówna się z krańcowym kosztem dodatkowej jednostki pracy. W konsekwencji wynagrodzenie ukształtuje się na poziomie W<sub>m</sub>, zaś wielkość zatrudnienia L<sub>m</sub>.</caption>
     </figure>

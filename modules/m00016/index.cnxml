@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Popyt, podaż i efektywność</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.265154107+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.265154107+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.265154107+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.275360590+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.275360590+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.275360590+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -45,7 +45,7 @@
       <figure id="CNX_Econ_C03_015">
         <title id="UUIDdadac548-b042-4d2e-4ab9-87f621719981">Nadwyżka konsumenta i producenta</title>
         <media alt="Wykres przedstawia obszar równy nadwyżce konsumenta powyżej punktu równowagi rynkowej (stylizowany trójkąt pomiędzy poziomem ceny równowagi, krzywą popytu i pionową osią układu współrzędnych) i obszar równy nadwyżce producenta poniżej punktu równowagi rynkowej (stylizowany trójkąt pomiędzy poziomem ceny rynkowej, krzywą podaży i pionową osią układu współrzędnych)." id="fs-idm49259952">
-          <image src="../../media//CNX_Econ_C03_015-a.svg" mime-type="image/svg+xml" id="UUIDd9e830b9-d4c6-4a50-4824-ede6cc8a6936" />
+          <image src="../../media//CNX_Econ_C03_015-a.png" mime-type="image/png" id="UUIDd9e830b9-d4c6-4a50-4824-ede6cc8a6936" />
         </media>
         <caption id="UUID72ce2c50-c32b-4798-67f4-d908a42d3b41">Niemal trójkątny obszar oznaczony literą F pokazuje nadwyżkę konsumenta, która powstaje wówczas, gdy cena równowagi na rynku jest niższa niż ta, którą wielu konsumentów byłoby skłonnych zapłacić. Punkt J na krzywej popytu wskazuje, że nawet przy cenie 900 zł konsumenci kupiliby 20 tys. tabletów. Obszar oznaczony literą G reprezentuje nadwyżkę producenta. Nadwyżka producenta wskazuje, że cena równowagi jest wyższa niż cena, którą wielu producentów byłoby skłonnych zaakceptować za dostarczenie swoich produktów na rynek. Na przykład punkt K na krzywej podaży wskazuje, że przy cenie 450 zł przedsiębiorstwa byłyby skłonne zaoferować na rynku aż 14 tys. tabletów.</caption>
       </figure>
@@ -61,7 +61,7 @@
       <figure id="CNX_Econ_C03_028">
         <title id="UUID998d86e5-e6d6-4b34-4d36-1a6e14150103">Efektywność a cena minimalna i cena maksymalna</title>
         <media alt="Panele (a) i (b) ilustrują, jak wprowadzenie ceny maksymalnej i minimalnej wpływa na wysokość nadwyżki społecznej i jej podział pomiędzy nadwyżkę konsumenta i producenta." id="fs-idm53199312">
-          <image src="../../media//CNX_Econ_C03_028.svg" mime-type="image/svg+xml" id="UUIDbc8d5768-6530-411a-78d3-1a2c7751767b" />
+          <image src="../../media//CNX_Econ_C03_028.png" mime-type="image/png" id="UUIDbc8d5768-6530-411a-78d3-1a2c7751767b" />
         </media>
         <caption id="UUID7cafe823-9294-44a6-6ec4-c907fdeb6f13">Panel (a) Pierwotna cena równowagi wynosi 600 dol. przy ilości równowagi 20 tys. Nadwyżka konsumenta to T + U, a nadwyżka producenta to V + W + X. Po narzuceniu ceny maksymalnej na poziomie 400 dol. przedsiębiorstwa dostarczają ilość wystarczającą dla 15 tys. odbiorców. W rezultacie nowa nadwyżka konsumenta to T + V, podczas gdy nowa nadwyżka producenta to X. Panel (b) Pierwotnie równowaga zachodzi przy cenie 8 dol. i ilości 1800 biletów. Nadwyżka konsumenta to G + H + J, a nadwyżka producenta I + K. Przy cenie minimalnej równej 12 dol. zapotrzebowanie spada do 1400 biletów. W rezultacie nowa nadwyżka konsumenta to G, a nowa nadwyżka producenta H + I.</caption>
       </figure>

@@ -3,11 +3,11 @@
   <metadata>
     <md:content-id>c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:title>Principles of Microeconomics 2e</md:title>
+    <md:title>Mikroekonomia – Podstawy</md:title>
     <md:language>pl</md:language>
-    <md:version>1661159379</md:version>
-    <md:created>2022-08-22T09:09:39.621125984+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.621125984+00:00</md:revised>
+    <md:version>1661353814</md:version>
+    <md:created>2022-08-24T15:10:14.754183553+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.754183553+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -125,7 +125,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>Zawodność rynku - państwo a biznes</md:title>
+      <md:title>Zawodność rynku – państwo a biznes</md:title>
       <content>
         <module document="m00050" />
         <module document="m00051" />

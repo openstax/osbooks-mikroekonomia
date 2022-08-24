@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Koszty całkowite i księgowe, zysk księgowy i zysk ekonomiczny</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.344196232+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.344196232+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.344196232+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.374967203+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.374967203+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.374967203+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -129,6 +129,35 @@
     <section id="fs-idm17763872" class="references">
       <title id="UUID01c5d579-047b-49e4-6411-d1783b3a556b">References</title>
       <para id="fs-idp48815200">2010 U.S. Census. www.census.gov.</para>
+      <para id="UUID56810889-ec76-4b7b-797a-e395da5fc04f">American Community Survey. 2012. "School Enrollment and Work Status: 2011." Accessed April 13, 2015. http://www.census.gov/prod/2013pubs/acsbr11-14.pdf.</para>
+      <para id="UUID385f4a1e-4ce9-4226-6ced-0c27862c1c91">National Center for Educational Statistics. “Digest of Education Statistics.” (2008 and 2010). Accessed December 11, 2013. nces.ed.gov.</para>
+      <para id="UUIDacc4c8db-56d6-41f2-4a0d-e1d3b49af9d2">CreditCards.com. 2013. http://www.creditcards.com/credit-card-news/credit-card-industry-facts-personal-debt-statistics-1276.php.</para>
+      <para id="UUID78df77be-383a-4734-4d28-0b2256e24267">AFL-CIO. “Training and Apprenticeships.” http://www.aflcio.org/Learn-About-Unions/Training-and-Apprenticeships.</para>
+      <para id="UUIDbb7bed6a-a355-41bc-4320-45db4da1f724">Central Intelligence Agency. “The World Factbook.” https://www.cia.gov/library/publications/the-world-factbook/index.html.</para>
+      <para id="UUID5e5ad731-a072-4d52-5d03-43b0f5888dce">Clark, John Bates. Essentials of Economic Theory: As Applied to Modern Problems of Industry and Public Policy. New York: A. M. Kelley, 1907, 501.</para>
+      <para id="UUID721bae5f-60ee-4117-7ef4-981d641f0058">United Auto Workers (UAW). “About: Who We Are.” http://www.uaw.org/page/who-we-are.</para>
+      <para id="UUIDcfd21f4f-0cac-4271-4f77-73e8b35876f5">United States Department of Labor: Bureau of Labor Statistics. “Economic News Release: Union Members Summary.” Last modified January 23, 2013. http://www.bls.gov/news.release/union2.nr0.htm.</para>
+      <para id="UUID8a796c36-f373-4ba5-486d-91b3b76163b1">United States Department of Labor, Bureau of Labor Statistics. 2015. “Economic News; Union Members Summary.” Accessed April 13, 2015. http://www.bls.gov/news.release/union2.nr0.htm.</para>
+      <para id="UUIDd7e2406f-0a51-4343-5825-0b5be0058be3">Clune, Michael S. “The Fiscal Impacts of Immigrants: A California Case Study.” In The Immigration Debate: Studies on the Economic, Demographic, and Fiscal Effects of Immigration, edited by James P. Smith and Barry Edmonston. Washington, DC: National Academy Press, 1998, 120–182. http://www.nap.edu/openbook.php?record_id=5985&amp;page=120.</para>
+      <para id="UUIDaaa2f3bd-bbf0-422f-5b39-8e379a77ca7d">Smith, James P. “Immigration Reform.” Rand Corporation: Rand Review. http://www.rand.org/pubs/periodicals/rand-review/issues/2012/fall/leadership/immigration-reform.html.</para>
+      <para id="UUID7ea157b4-b083-4aa8-518a-d989632aede0">U.S. Department of Homeland Security: Office of Immigration Statistics. “2011 Yearbook of Immigration Statistics.” September 2012. http://www.dhs.gov/sites/default/files/publications/immigration-statistics/yearbook/2011/ois_yb_2011.pdf.</para>
+      <para id="UUID4287ec04-3eb3-4ec7-5622-31a612a0fd53">Anderson, Deborah J., Melissa Binder, and Kate Krause. “The Motherhood Wage Penalty Revisited: Experience, Heterogeneity, Work Effort, and Work-Schedule Flexibility.” Industrial and Labor Relations Review. no. 2 (2003): 273–294. http://www2.econ.iastate.edu/classes/econ321/orazem/anderson_motherhood-penalty.pdf.</para>
+      <para id="UUIDc5ac6d99-3138-4891-45b4-a24794d7181c">Turner, Margery Austin, Rob Santos, Diane K. Levy, Doug Wissoker, Claudia Aranda, Rob Pitingolo, and The Urban Institute. “Housing Discrimination Against Racial and Ethnic Minorities 2012.” U.S. Department of Housing and Urban Development. Last modified June 2013. http://www.huduser.org/Publications/pdf/HUD-514_HDS2012.pdf.</para>
+      <para id="UUID1d21f656-c813-4f74-4d2e-90836a403e65">Austin, Algernon. “The Unfinished March: An Overview.” Economic Policy Institute. Last modified June 18, 2013. http://www.epi.org/publication/unfinished-march-overview/.</para>
+      <para id="UUIDd11fa647-8730-45a8-78d1-62527c4258bd">Bertrand, Marianne, and Sendhil Mullainathan. “Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination.” American Economic Review. no. 4 (2004): 991-1013. https://www.aeaweb.org/articles.php?doi=10.1257/0002828042002561&amp;fnd=s.</para>
+      <para id="UUIDdd61197d-147c-48b6-5ff5-6fd10501c73a">Blau, Francine D., and Laurence M. Kahn. “The Gender Pay Gap: Have Women Gone as Far as They Can?” Academy of Management Perspectives. no. 1 (2007): 7–23. 10.5465/AMP.2007.24286161.</para>
+      <para id="UUID5473f46d-9d4b-438a-5e5b-2dfeb789a781">Card, David, and Alan B. Kruger. “Trends in Relative Black–White Earnings Revisited (Working Paper #310).” Princeton University and the National Bureau of Economic Research. December 1992. http://harris.princeton.edu/pubs/pdfs/310.pdf.</para>
+      <para id="UUID190470a3-f1cb-4828-4c8e-cfbbce5605fd">Donovan, Theresa. Jurist. “Federal Judge Rejects Class Status in Wal-Mart Discrimination Suit.” Last modified August 5, 2013. http://jurist.org/paperchase/2013/08/federal-judge-rejects-class-status-in-wal-mart-discrimination-suit.php.</para>
+      <para id="UUID16a1747f-3e3c-4d4e-5f8a-38386d4389b7">Harris, Elizabeth A. “Labor Panel Finds Illegal Punishments at Walmart.” The New York Times, November 18, 2013. http://www.nytimes.com/2013/11/19/business/labor-panel-finds-illegal-punishments-at-walmart.html?_r=1&amp;.</para>
+      <para id="UUID604e7dbb-5adc-4e04-4775-f34fd37ecf5e">Kolesnikova, Natalia A., and Yang Liu. Federal Reserve Bank of St. Louis: The Regional Economist. “Gender Wage Gap May Be Much Smaller Than Most Think.” Last modified October 2011. http://www.stlouisfed.org/publications/re/articles/?id=2160.</para>
+      <para id="UUID3883d0f8-e683-409b-40b6-887a1239bbff">Podmolik, Mary Ellen. “HUD Finds Housing Discrimination ‘Hidden’ But Prevalent.” Chicago Tribune: Business, June 12, 2013. http://articles.chicagotribune.com/2013-06-12/business/ct-biz-0612-housing-discrimination-20130612_1_renters-testers-chicago-area.</para>
+      <para id="UUIDb30c1606-93b7-4adc-4eb8-3661add4980e">Spreen, Thomas Luke. United States Department of Labor: Bureau of Labor Statistics. “Recent College Graduates in the U.S. Labor Force: Data from the Current Population Survey.” Monthly Labor Review (February, 2013). http://www.bls.gov/opub/mlr/2013/02/art1full.pdf .</para>
+      <para id="UUIDf7510b7e-ddd0-4c58-659c-34f8e8f04936">U.S. Bureau of Labor Statistics: BLS Reports. 2014. “Women in the Labor Force: A Databook (Report 1052).” Accessed April 13, 2015. http://www.bls.gov/opub/reports/cps/women-in-the-labor-force-a-databook-2014.pdf.</para>
+      <para id="UUID9cc7e585-c0de-4d9d-4486-bb66390376ac">U.S. Equal Employment Opportunity Commission, “Walmart to Pay More than $11.7 Million to Settle EEOC Sex Discrimination Suit.” Last modified March 1, 2010. http://www.eeoc.gov/eeoc/newsroom/release/3-1-10.cfm.</para>
+      <para id="UUID143f77a3-0da1-4fc3-5798-564db1dab803">United States Census Bureau. 2014. “Table 1. Educational Attainment of the Population 18 Years and Over, by Age, Sex, Race, and Hispanic Origin: 2014.” Accessed April 13, 2015. http://www.census.gov/hhes/socdemo/education/data/cps/2014/tables.html.</para>
+      <para id="UUIDcc189621-01eb-4421-79e0-8ae97b9605d6">United States Department of Labor: Bureau of Labor Statistics. “News Release: Usual Weekly Earnings of Wage and Salary Workers (Third Quarter 2013).” November 1, 2013. http://www.bls.gov/news.release/pdf/wkyeng.pdf.</para>
+      <para id="UUID9ae5dee5-48ba-4f66-5e46-4e7c2c143f8c">Warner, Judith. 2014. “Fact Sheet: The Women’s Leadership Gap: Women’s Leadership by the Numbers.” Center for American Progress. Accessed March 16, 2015. https://www.americanprogress.org/issues/women/report/2014/03/07/85457/fact-sheet-the-womens-leadership-gap/.</para>
+      <para id="UUIDa567de59-97e2-4c32-6279-3ebd12004c95">Weinberger, Catherine J., and Lois Joy. “The Relative Earnings of Black College Graduates, 1980–2001.” In Race and Economic Opportunity in the 21st Century, edited by Marlene Kim. New York: Routledge, 2007. http://www.econ.ucsb.edu/~weinberg/grads.pdf.</para>
     </section>
   </content>
   <glossary id="UUIDf7806a01-9402-4e34-6f0d-6b50eba5d2f7">

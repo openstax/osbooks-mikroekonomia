@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Skrajne przypadki elastyczności</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.283795108+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.283795108+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.283795108+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.300690802+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.300690802+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.300690802+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -37,7 +37,7 @@
     <figure id="CNX_Econ_C05_006">
       <title id="UUIDc9b35563-7e34-4a84-5817-93d8ca2648f6">Popyt i podaż doskonale elastyczne</title>
       <media alt="Dwa panele umieszczone obok siebie pokazują, że doskonale elastyczny popyt i doskonale elastyczną podaż reprezentują poziome linie." id="fs-idm8180272">
-        <image src="../../media//CNX_Econ_C05_006.svg" mime-type="image/svg+xml" id="UUID3d3ca117-712b-41c8-7033-5003b3d09754" />
+        <image src="../../media//CNX_Econ_C05_006.png" mime-type="image/png" id="UUID3d3ca117-712b-41c8-7033-5003b3d09754" />
       </media>
       <caption id="UUIDfd289a59-7462-456d-4b1c-3f300e9e3c3f">Linie poziome pokazują, że zarówno zapotrzebowanie, jak i ilość oferowana mogą przyjąć nieskończone wartości przy określonej cenie rynkowej. Wykres ilustruje przypadki doskonale (lub nieskończenie) elastycznych krzywych popytu (panel a) i podaży (panel b). Wielkość zapotrzebowania lub ilości oferowanej jest niezwykle czuła na zmiany cen rynkowych, przesuwając się od zera dla cen bliskich P do nieskończoności, gdy ceny osiągają poziom P.</caption>
     </figure>
@@ -46,7 +46,7 @@
     <figure id="CNX_Econ_C05_008">
       <title id="UUID8fe569b0-fe8e-4793-4dea-76e1c60ce62d">Popyt i podaż doskonale nieelastyczne</title>
       <media alt="Dwa panele umieszczone obok siebie wskazują, że ilustracją popytu (z lewej strony) i podaży (z prawej strony) o zerowej elastyczność są pionowe linie." id="fs-idp13171904">
-        <image src="../../media//CNX_Econ_C05_008.svg" mime-type="image/svg+xml" id="UUID0a6993e2-bf28-4132-610e-1f9f7d2eaaa2" />
+        <image src="../../media//CNX_Econ_C05_008.png" mime-type="image/png" id="UUID0a6993e2-bf28-4132-610e-1f9f7d2eaaa2" />
       </media>
       <caption id="UUID830ccfb8-a23a-4dcf-4ab4-bb53efaefb7c">Pionowa krzywa podaży i pionowa krzywa popytu wskazują, że procentowa zmiana wielkości zapotrzebowania (panel a) lub ilości oferowanej na rynku (panel b) będzie wynosiła zero, niezależnie od skali względnych zmian ceny rynkowej.</caption>
     </figure>
@@ -55,7 +55,7 @@
     <figure id="CNX_Econ_C05_016">
       <title id="UUIDbcdf05e4-ab41-448c-4e73-0f3714199dcc">Krzywa popytu o stałej elastyczności jednostkowej</title>
       <media alt="Wykres pokazuje, że krzywa popytu o stałej elastyczności jednostkowej we wszystkich punktach, zawsze będzie zakrzywioną linią wypukłą w stronę początku układu współrzędnych (linią o hiperbolicznym kształcie)." id="fs-idp74370368">
-        <image src="../../media//CNX_Econ_C05_016.svg" mime-type="image/svg+xml" id="UUID67e55ac8-7613-4760-5004-2f46e6df1ffe" />
+        <image src="../../media//CNX_Econ_C05_016.png" mime-type="image/png" id="UUID67e55ac8-7613-4760-5004-2f46e6df1ffe" />
       </media>
       <caption id="UUIDf8f26070-03bb-4caa-7048-38daec20aaa6">Krzywa popytu o stałej elastyczności jednostkowej będzie zakrzywioną linią (matematycy nazwaliby ją hiperbolą równoosiową). Zwróć uwagę, że cena i wielkość zapotrzebowania zmieniają się o identyczną wielkość procentową między każdą parą punktów na krzywej popytu.</caption>
     </figure>
@@ -65,7 +65,7 @@
     <figure id="CNX_Econ_C05_017">
       <title id="UUID72956675-bc38-4f09-4826-7e2f54165aa2">Krzywa podaży o stałej elastyczności jednostkowej</title>
       <media alt="Wykres pokazuje, że krzywa podaży o elastyczności jednostkowej we wszystkich punktach będzie zawsze linią prostą." id="fs-idp63777360">
-        <image src="../../media//CNX_Econ_C05_017.svg" mime-type="image/svg+xml" id="UUIDd7210541-2ff8-4199-6d41-7cf86c06f9c0" />
+        <image src="../../media//CNX_Econ_C05_017.png" mime-type="image/png" id="UUIDd7210541-2ff8-4199-6d41-7cf86c06f9c0" />
       </media>
       <caption id="UUID10052bc0-e948-4cb7-7568-1cf71d471e2d">Krzywa podaży o stałej elastyczności jednostkowej jest linią prostą mającą swój początek w punkcie przecięcia osi układu współrzędnych. Między każdą parą punktów tworzących podaż procentowy wzrost ilości oferowanej jest taki sam jak procentowy wzrost ceny rynkowej.</caption>
     </figure>

@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Jak powstaje monopol: bariery wejścia</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.438473538+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.438473538+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.438473538+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.478120977+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.478120977+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.478120977+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -49,7 +49,7 @@
       <figure id="CNX_Econ_C09_001">
         <title id="UUIDb7546b24-f729-4bd0-7dd9-47c34683e55a">Ekonomia skali i monopol naturalny</title>
         <media alt="Wykres przedstawia monopol naturalny, którego istnienie jest konsekwencją występowania korzyści skali dla rozmiarów produkcji równych popytowi rynkowemu." id="fs-idm61039072">
-          <image src="../../media//CNX_Econ_C09_001.svg" mime-type="image/svg+xml" id="UUID19949eb2-9d0a-48e7-7cc2-94839ff1f0e8" />
+          <image src="../../media//CNX_Econ_C09_001.png" mime-type="image/png" id="UUID19949eb2-9d0a-48e7-7cc2-94839ff1f0e8" />
         </media>
         <caption id="UUIDffd74124-a02b-4b1b-72e7-a150133bcfc2">Na tym rynku krzywa popytu przecina długookresową krzywą kosztów przeciętnych (LAC) w jej opadającej części. Monopol naturalny powstaje wówczas, gdy zapotrzebowanie jest mniejsze niż minimalna wielkość produkcji pozwalająca osiągnąć najniższe koszty przeciętne (optimum techniczne), zaznaczone na krzywej długookresowych kosztów przeciętnych.</caption>
       </figure>

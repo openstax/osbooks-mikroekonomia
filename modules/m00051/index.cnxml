@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Negatywne efekty zewnętrzne związane z problemem zanieczyszczenia środowiska</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.529340868+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.529340868+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.529340868+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.635011532+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.635011532+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.635011532+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -45,7 +45,7 @@
       <figure id="CNX_Econ_C12_001">
         <title id="UUIDe0e7c7c7-fea5-40ec-7fe4-1a096aeee4a5">Koszty społeczne a rachunek ekonomiczny: przesunięcie krzywej podaży</title>
         <media alt="Wykres pokazuje, jak zmienia się równowaga rynkowa w zależności od tego, czy przedsiębiorstwa produkujące lodówki uwzględniają tylko koszty prywatne, czy również koszty społeczne (koszty emisji zanieczyszczeń). W tym drugim przypadku wielkość produkcji maleje, a cena równowagi rośnie." id="fs-idp140393472">
-          <image src="../../media//CNX_Econ_C12_001.svg" mime-type="image/svg+xml" id="UUIDc7df1a68-6fe0-4c82-6e13-7a03d5f7a572" />
+          <image src="../../media//CNX_Econ_C12_001.png" mime-type="image/png" id="UUIDc7df1a68-6fe0-4c82-6e13-7a03d5f7a572" />
         </media>
         <caption id="UUIDcba4bac4-a8b8-49e9-4c15-0e98be587819">Jeśli przedsiębiorstwa wezmą pod uwagę tylko prywatne koszty produkcji, krzywą podaży rynkowej będzie S<sub>pryw</sub>, a równowaga ukształtuje się w punkcie E<sub>0</sub>. Po uwzględnieniu dodatkowych kosztów zewnętrznych (kosztu emisji zanieczyszczeń), w wysokości 100 zł za każdą wyprodukowaną lodówkę, krzywą podaży rynkowej będzie S<sub>społ</sub>, a nowym punktem równowagi – E<sub>1</sub>.</caption>
       </figure>

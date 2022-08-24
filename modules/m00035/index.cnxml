@@ -6,9 +6,9 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Decyzje o wejściu i wyjściu w długim okresie</md:title>
     <md:language>en</md:language>
-    <md:version>2022-08-22T09:09:39.420422209+00:00</md:version>
-    <md:created>2022-08-22T09:09:39.420422209+00:00</md:created>
-    <md:revised>2022-08-22T09:09:39.420422209+00:00</md:revised>
+    <md:version>2022-08-24T15:10:14.461401583+00:00</md:version>
+    <md:created>2022-08-24T15:10:14.461401583+00:00</md:created>
+    <md:revised>2022-08-24T15:10:14.461401583+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -59,7 +59,7 @@
       <figure id="CNX_Econ_C08_013">
         <title id="UUID2ac17989-23cd-44f6-6c8b-66fa81735a99">Proces dostosowawczy w gałęzi o stałych, rosnących i malejących kosztach</title>
         <media alt="Wykres na trzech panelach pokazuje, że krzywa podaży długookresowej LRSS jest stała, gdy koszty nie rosną ani nie spadają, LRSS ma nachylenie dodatnie, gdy koszty rosną, oraz nachylenie ujemne, gdy koszty spadają." id="mCNX_Econ_C08_013">
-          <image src="../../media//CNX_Econ_C08_013.svg" mime-type="image/svg+xml" id="UUIDf9609794-05c4-48db-5406-aff3626c1e4f" />
+          <image src="../../media//CNX_Econ_C08_013.png" mime-type="image/png" id="UUIDf9609794-05c4-48db-5406-aff3626c1e4f" />
         </media>
         <caption id="UUIDa146880b-734a-409b-70fc-5a6f135002ca">Na panelu (a) popyt wzrósł, a podaż się dostosowała. Zauważ, że wzrost podaży jest równy wzrostowi popytu. W rezultacie cena równowagi pozostaje taka sama przy wzroście ilości sprzedanych towarów. Na panelu (b) sprzedawcy nie byli w stanie zwiększyć podaży w stopniu odzwierciedlającym wzrost popytu. Brakowało niektórych nakładów lub zwiększyły się płace. Cena równowagi wzrosła. Na panelu (c) sprzedawcy z łatwością zwiększyli podaż w odpowiedzi na wzrost popytu. Tutaj nowa technologia lub korzyści skali spowodowały duży wzrost podaży skutkujący spadkiem ceny równowagi.</caption>
       </figure>
