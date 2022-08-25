@@ -60,7 +60,7 @@
       <para id="UUID65648174-f931-45c1-4e8d-200debbdc048" />
       <figure id="UUIDc5c37991-487e-4d7a-56af-9f3dcca0c71a">
         <media alt="Wykres przedstawia trzy różne krzywe popytu charakterystyczne dla przedsiębiorstw działających w różnych strukturach rynku. Popyt na produkty przedsiębiorstwa doskonale konkurencyjnego jest poziomy, zaś krzywe popytu monopolisty i przedsiębiorstwa działającego w ramach konkurencji monopolistycznej mają nachylenie ujemne." id="UUID4cb48cff-dfec-47a1-4b4b-bf142adc909e">
-          <image src="../../media//CNX_Econ_C10_008.png" mime-type="image/png" id="UUIDec6d1d11-c3d6-4590-4ce2-37d981e4e597" />
+          <image src="../../media//CNX_Econ_C10_008.svg" mime-type="image/svg+xml" id="UUIDec6d1d11-c3d6-4590-4ce2-37d981e4e597" />
         </media>
         <caption id="UUID54973b62-584d-4e41-4f66-4f39a2af8d59">Krzywa popytu na produkt przedsiębiorstwa w konkurencji monopolistycznej nie jest płaska, lecz, podobnie jak to ma miejsce w monopolu, ma nachylenie ujemne, co oznacza, że przedsiębiorstwo może podnieść cenę bez utraty wszystkich klientów lub obniżyć cenę i zwiększyć wolumen sprzedaży.</caption>
       </figure>
@@ -80,7 +80,7 @@
       <figure id="CNX_Econ_C10_004">
         <title id="UUID190612ae-7b3b-4857-6573-3bd35e89cc52">W jaki sposób maksymalizujące zysk przedsiębiorstwo działające w ramach konkurencji monopolistycznej wybiera wielkość produkcji i cenę</title>
         <media alt="Wykres wskazuje, że punkt maksymalizacji zysku jest wyznaczony przez wielkość produkcji, dla której utarg krańcowy i koszt krańcowy są sobie równe. Cenę maksymalizującą zysk odczytujemy wówczas z krzywej popytu." id="fs-idp41696928">
-          <image src="../../media//CNX_Econ2e_C10_004.png" mime-type="image/png" id="UUIDc7b344c8-bf39-46ea-7212-4cbfdf982222" />
+          <image src="../../media//CNX_Econ2e_C10_004.svg" mime-type="image/svg+xml" id="UUIDc7b344c8-bf39-46ea-7212-4cbfdf982222" />
         </media>
         <caption id="UUID35cc7c09-1f1a-46f8-5288-64ef74308894">Aby zmaksymalizować zysk, Prawdziwie Polska Pizza wybrałby wielkość produkcji (Q), dla której utarg krańcowy równa się kosztowi krańcowemu, czyli MR = MC. Będzie to 40 małych placków sprzedawanych po 16 zł za sztukę.</caption>
       </figure>
@@ -106,7 +106,7 @@
       <figure id="CNX_Econ_C10_009">
         <title id="UUIDf5e8e715-1aee-4889-60ef-b54f27b24483">Konkurencja monopolistyczna, wejście i wyjście z gałęzi</title>
         <media alt="Dwa panele na wykresie ilustrują sytuację, w której w ramach konkurencji monopolistycznej zyski skłaniają nowe przedsiębiorstwa do wejścia do gałęzi (panel a), zaś straty stanowią bodziec do opuszczenia gałęzi przez niektóre przedsiębiorstwa dotychczas w niej funkcjonujące (panel b)." id="fs-idp183944112">
-          <image src="../../media//CNX_Econ_C10_009.png" mime-type="image/png" id="UUID14226985-73ce-4c33-4311-a7a889d901a4" />
+          <image src="../../media//CNX_Econ_C10_009.svg" mime-type="image/svg+xml" id="UUID14226985-73ce-4c33-4311-a7a889d901a4" />
         </media>
         <caption id="UUID00a4e1bd-a56a-4b2c-5297-e7d1a560ed3f">Panel (a) Przy P<sub>0</sub> i Q<sub>0</sub> konkurent monopolistyczny osiąga zysk ekonomiczny. Jest to zrozumiałe, ponieważ jeśli podążysz wzdłuż linii przerywanej powyżej Q<sub>0</sub>, zobaczysz, że cena leży powyżej kosztu przeciętnego. Dodatnie zyski ekonomiczne przyciągają do gałęzi nowe podmioty, obniżając popyt pierwotnego przedsiębiorstwa do D<sub>1</sub>. W nowym punkcie równowagi (P<sub>1</sub>, Q<sub>1</sub>) pierwotne przedsiębiorstwo osiąga zerowe zyski ekonomiczne, a bodźce skłaniające kolejne przedsiębiorstwa do wejście do gałęzi ustają. Na panelu (b) mamy pokazaną odwrotną sytuację. Przy P<sub>0</sub> i Q<sub>0</sub> firma notuje straty. Jeśli podążysz wzdłuż linii przerywanej nad Q<sub>0</sub>, zobaczysz, że koszt przeciętny jest wyższy niż cena. Straty – jeśli jest to sytuacja typowa dla wielu przedsiębiorstw w tej branży – skłaniają firmy do jej opuszczenia. Kiedy tak się dzieje, popyt na produkty przedsiębiorstwa, które zdecydowało się kontynuować działalność, wzrasta do D<sub>1</sub>, gdzie znów osiąga ono zerowy zysk ekonomiczny.</caption>
       </figure>

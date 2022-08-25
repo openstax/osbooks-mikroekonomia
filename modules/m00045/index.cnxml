@@ -49,7 +49,7 @@
     <figure id="CNX_Econ_C15_001">
       <title id="UUID86c8f308-787f-4d86-48d6-6d25f488f0ea">Krańcowy produkt pracy</title>
       <media alt="Wykres przedstawia krańcowy produkt pracy. Na osi X odłożona jest ilość pracy, która w naszym przykładzie jest rozumiana jako liczba zatrudnionych pracowników. Przyjmuje ona wartości od 0 do 4. Na osi Y z kolei odłożony jest jest krańcowy produkt pracy (MPL), który również przyjmuje wartości od 4 do 1. Wraz ze wzrostem liczby zatrudnionych pracowników krańcowy produkt pracy maleje, co oznacza, że krzywa jest nachylona w dół. Gdy dysponujemy jednym pracownikiem, produkt krańcowy jest równy 4. Natomiast czwarty zatrudniony pracownik sprawia, że wartość produkcji zwiększa się jedynie o jednostkę." id="fs-idp3958">
-        <image src="../../media//CNX_Econ2e_C15_001.png" mime-type="image/png" id="UUID7cd646ea-57b5-46ff-7f38-deefda6d9818" />
+        <image src="../../media//CNX_Econ2e_C15_001.svg" mime-type="image/svg+xml" id="UUID7cd646ea-57b5-46ff-7f38-deefda6d9818" />
       </media>
       <caption id="UUID15d2c9af-1957-43fe-583a-eea0a41ee38d">Ze względu na stały zasób kapitału, jakim dysponuje przedsiębiorstwo, krańcowy produkt pracy maleje wraz ze wzrostem zatrudnienia (co jest zgodne z prawem malejących przychodów krańcowych).</caption>
     </figure>
@@ -61,7 +61,7 @@
     <figure id="CNX_Econ_C15_002">
       <title id="UUID69d76fe7-e9f7-48c6-5e8b-f552dea240c6">Wartość krańcowego produktu pracy</title>
       <media alt="Wykres przedstawia wartość krańcowego produktu pracy. Na osi X odłożona jest liczba zatrudnionych pracowników, przyjmująca wartości od 0 do 4. Na osi Y zaś mamy odłożoną wartość krańcowego produktu pracy (MVPL), która przyjmuje wartości od 0 do 16. Krzywa opada w dół, co oznacza, że wraz ze wzrostem zatrudnienia wartość krańcowego produktu pracy zmniejsza się każdorazowo o 4. Gdy przedsiębiorstwo zatrudnia tylko jednego pracownika, MVPL jest równa 16. Ale gdy zatrudniony zostaje czwarty pracownik, wartość wytworzonego przez niego produktu spada do poziomu 4." id="fs-idp39898958">
-        <image src="../../media//CNX_Econ2e_C15_002.png" mime-type="image/png" id="UUIDeb9ae8e0-bd63-4f12-53de-4255dddd26aa" />
+        <image src="../../media//CNX_Econ2e_C15_002.svg" mime-type="image/svg+xml" id="UUIDeb9ae8e0-bd63-4f12-53de-4255dddd26aa" />
       </media>
       <caption id="UUIDb7f33631-1512-4e31-5807-ff417391b08a">W przypadku przedsiębiorstw działających na doskonale konkurencyjnym rynku wartość dodatkowej wytworzonej i sprzedanej produkcji jest równa cenie, jaką przedsiębiorstwa otrzymują za powstały produkt. Ponieważ MP<sub>L</sub> spada wraz z zatrudnieniem każdego kolejnego pracownika, również wartość produktu krańcowego spada wraz ze wzrostem zatrudnienia.</caption>
     </figure>
@@ -74,7 +74,7 @@
       <figure id="CNX_Econ_C15_003">
         <title id="UUID2c383215-554c-4faf-65f6-f12db57dd89c">Optymalny poziom zatrudnienia dla przedsiębiorstw działających na doskonale konkurencyjnym rynku pracy</title>
         <media alt="Wykres przedstawia krańcowy produkt pracy i podaż pracy zdefiniowaną przez rynkową stawkę płac. Na osi X oznaczona jest liczba zatrudnionych pracowników. Na osi Y odłożono natomiast odłożono rynkową stawkę płac i wartość krańcowego produktu pracy. Wykres podaży pracy jest płaski, stawka wynagrodzenia pozostaje niezależna od liczby zatrudnionych w przedsiębiorstwie osób, natomiast wartość krańcowego produktu pracy maleje wraz ze wzrostem zatrudnienia. Punkt przecięcia obu linii wyznacza optymalną wielkość zatrudnienia w przedsiębiorstwie." id="fs-idp3958988">
-          <image src="../../media//CNX_Econ2e_C15_003.png" mime-type="image/png" id="UUIDb7f4e819-edf8-4ace-454d-690938a123d6" />
+          <image src="../../media//CNX_Econ2e_C15_003.svg" mime-type="image/svg+xml" id="UUIDb7f4e819-edf8-4ace-454d-690938a123d6" />
         </media>
         <caption id="UUID9e5eb029-f889-4463-5ce4-69f45b7f5845">Na doskonale konkurencyjnym rynku pracy przedsiębiorstwa mogą zwiększać zatrudnienie bez konieczności podnoszenia płacy dla kolejnych pracowników. W związku z tym zatrudnienie rośnie aż do poziomu wyznaczonego przez punkt L<sub>1</sub>, w którym rynkowa stawka płacy zrównuje się z wartością krańcowego produktu pracy.</caption>
       </figure>
@@ -91,7 +91,7 @@
       <figure id="CNX_Econ_C15_004">
         <title id="UUID2afd3922-bbfd-4a97-592e-132de28e6143">Krańcowy przychód z pracy</title>
         <media alt="Wykres przedstawia wartość krańcowego przychodu z pracy. Na osi X odłożona jest liczba zatrudnionych pracowników, która przyjmuje wartości od 1 do 4. Oś Y to wartość krańcowego przychodu z pracy dla każdego, kolejnego zatrudnionego pracownika. Krzywa ilustrująca tę wielkość opada, co odzwierciedla zależność, zgodnie z którą przychód związany z zatrudnieniem każdego kolejnego pracownika maleje (dla pierwszego zatrudnionego wynosi 16, a dla czwartego tylko 1)." id="fs-idm86929280">
-          <image src="../../media//CNX_Econ2e_C15_012.png" mime-type="image/png" id="UUID759630ac-9397-4a12-533d-ff168bafa002" />
+          <image src="../../media//CNX_Econ2e_C15_012.svg" mime-type="image/svg+xml" id="UUID759630ac-9397-4a12-533d-ff168bafa002" />
         </media>
         <caption id="UUIDdb9f3dce-6ff8-4e5d-63be-861efc8bb363">W przypadku firm posiadających siłę monopolową (napotykających opadającą krzywą popytu na sprzedawane produkty) wartość dodatkowej sprzedanej produkcji jest krańcowym przychodem przedsiębiorstwa. Ponieważ MPL spada wraz ze wzrostem zatrudnienia, podobnie zresztą jak MR wraz z każdą dodatkową sprzedaną jednostką produkcji, krańcowe przychody przedsiębiorstwa spadają wraz ze wzrostem zatrudnienia.</caption>
       </figure>
@@ -99,7 +99,7 @@
       <figure id="CNX_Econ2e_C15_009">
         <title id="UUIDb0abc061-a177-4c6d-4a1c-8a5f9135aecf">Optymalny poziom zatrudnienia dla przedsiębiorstw posiadających pewną siłę monopolową</title>
         <media alt="Wykres przedstawia trzy linie ilustrujące odpowiednio: podaż pracy (płaska, równoległa do osi X i przebiegająca na poziomie rynkowej stawki płac), krańcowy produkt pracy (opadająca) i krańcowy przychód z pracy (również opadająca, położona bliżej osi Y). Na osi X odłożona jest liczba zatrudnionych pracowników. Natomiast na osi Y wskazane są wartości płac, krańcowego przychodu z pracy i wartości krańcowego produktu pracy. Wykorzystanie zarówno krzywej ilustrującej krańcowy przychód z pracy, jak i wartość krańcowego produktu pracy pozwala na wskazanie, jak przedsiębiorstwa posiadające i nieposiadające siły monopolowej ustalają wielkość zatrudnienia. Punkt L1 wyznaczony przez przecięcie podaży pracy i wartości krańcowego produktu pracy wskazuje na optymalny poziom zatrudnienia dla przedsiębiorstwa, które napotyka poziomą linię popytu na swoje produkty. Natomiast punkt L2 wyznaczony przez przecięcie podaży pracy i krańcowego przychodu z pracy wskazuje na optymalną wielkość zatrudnienia dla przedsiębiorstwa napotykającego opadającą krzywą popytu (dysponującego pewną siłą monopolową)." id="fs-idp358">
-          <image src="../../media//CNX_Econ2e_C15_004.png" mime-type="image/png" id="UUID02df7b07-11ed-4cf5-7c9c-ef128a51ae09" />
+          <image src="../../media//CNX_Econ2e_C15_004.svg" mime-type="image/svg+xml" id="UUID02df7b07-11ed-4cf5-7c9c-ef128a51ae09" />
         </media>
         <caption id="UUID262ee18d-352a-4796-40b2-a0a971325c4e">Przedsiębiorstwa, które dysponują pewną siłą monopolową (napotykające opadającą krzywą popytu na swoje produkty), wybierają liczbę pracowników wyznaczoną przez punkt L<sub>2</sub>, w którym płaca rynkowa zrównuje się z krańcowym przychodem z pracy. Ponieważ przychód krańcowy jest zawsze mniejszy od ceny, popyt na pracę przedsiębiorstwa, które posiada siłę monopolową, jest mniejszy niż popyt na pracę dla przedsiębiorstwa działającego na rynku doskonale konkurencyjnym (L<sub>1</sub>). W rezultacie zatrudnienie w gałęziach zmonopolizowanych, zoligopolizowanych i takich, gdzie występuje konkurencja monopolistyczna, będzie niższe niż w gałęziach doskonale konkurencyjnych.</caption>
       </figure>
@@ -114,7 +114,7 @@
       <figure id="CNX_Econ_C15_010">
         <title id="UUID07dd6ceb-c40e-432d-4410-54c0fa9c161c">Rynkowa stawka płac</title>
         <media alt="Wykres przedstawia krzywe popytu i podaży pracy. Na osi X odłożona jest liczba zatrudnionych osób, na osi Y – płace. Krzywa popytu na pracę opada, zaś podaż pracy nachylona jest w górę. Obie krzywe przecinają się, wyznaczając wielkość zatrudnienia i poziom płacy, które równoważą rynek pracy." id="fs-idp39588228">
-          <image src="../../media//CNX_Econ2e_C15_005.png" mime-type="image/png" id="UUID0bdf749f-4344-43a4-4aa6-9cf66eed76d5" />
+          <image src="../../media//CNX_Econ2e_C15_005.svg" mime-type="image/svg+xml" id="UUID0bdf749f-4344-43a4-4aa6-9cf66eed76d5" />
         </media>
         <caption id="UUID41278264-a82f-4478-47d0-f2480d0fd6c9">Na konkurencyjnym rynku pracy płaca i poziom zatrudnienia w równowadze (mierzony liczbą pracowników lub liczbą przepracowanych godzin) są wyznaczone w punkcie, w którym podaż i popyt się przecinają.</caption>
       </figure>

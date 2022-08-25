@@ -38,7 +38,7 @@
     <para id="UUID7b897636-64af-4e4a-680b-fdcb8a0816f6" />
     <figure id="UUIDd2caeb18-d263-434f-5089-a311a353d000">
       <media alt="Infografika przedstawia zachodzące na siebie trzy koła. Pierwsze koło symbolizuje Ład społeczny, to jest: czynniki obejmujące strukturę zarządzania, nadzór oraz finansowanie organizacji, reguły określające prawa interesariuszy wypełniających zobowiązania wobec inwestorów zewnętrznych i pracowników. Drugie koło przedstawia Środowisko, czyli: czynniki obejmujące działania na rzecz klimatu i ograniczenia wpływu na środowisko m.in. przez redukcję emisji gazów cieplarnianych, zmniejszenie zużycia surowców i wody, ograniczenie produkcji odpadów i działania na rzecz bioróżnorodności i wykorzystywania surowców odnawialnych. Trzecie koło symbolizuje Społeczną odpowiedzialność, to jest: Czynniki obejmujące relacje społeczne, prawa człowieka, różnorodność, standardy pracy w całym łańcuchu wartości i dostaw, przestrzeganie zasad higieny pracy i bezpieczeństwa wytwarzanych produktów." id="UUIDddfd9a72-2eae-4023-590b-91d78d40b8d8">
-        <image src="../../media//rys1.png" mime-type="image/png" id="UUID728b3e9d-1c55-4ca4-55f0-aa63ddb953cd" />
+        <image src="../../media//rys1.svg" mime-type="image/svg+xml" id="UUID728b3e9d-1c55-4ca4-55f0-aa63ddb953cd" />
       </media>
       <caption id="UUIDde6e784a-4557-4651-7695-c1e54e83f5da">Kryteria ESG: środowisko, ład społeczny i społeczna odpowiedzialność. (Źródło: opracowanie na podstawie raportu EY <emphasis effect="italics">Biznes dla klimatu</emphasis>)</caption>
     </figure>
@@ -53,7 +53,7 @@
       <para id="UUID1bda6b37-4b99-4f94-47d6-e578b01f5f80" />
       <figure id="UUID0ec0f77d-ddc1-4f04-5ab7-db91c7ba1cb4">
         <media alt="Wykres słupkowy przedstawiający emitentów różnych rodzajów zielonych obligacji: Władze lokalne, instytucje finansowe, spółki spoza sektora finansowego, podmioty wspierane przez rząd i emitenci rządowi. W Afryce 95% emitentów to spółki spoza sektora finansowego, w regionie Azji i Pacyfiku prawie 60% obligacje jest emitowanych przez instytucje finansowych, w Europie po około 30% emisji należy do instytucji finansowych i spółek spoza sektora finansowego, w Ameryce Południowej oraz w Ameryce Północnej prawie 70% to spółki spoza sektora finansowego. Podmioty wspierane przez rząd mają około 10-procentowy udział w emisjach zielonych obligacji we wszystkich regionach z wyjątkiem Afryki, w której ten udział jest pomijalnie mały." id="UUIDa61bf65e-8ef7-4192-6a82-a57d38a02d6b">
-          <image src="../../media//rys5.png" mime-type="image/png" id="UUIDa296b934-6521-4434-46f8-725f5426b5e4" />
+          <image src="../../media//rys5.svg" mime-type="image/svg+xml" id="UUIDa296b934-6521-4434-46f8-725f5426b5e4" />
         </media>
         <caption id="UUID853519b6-ba9e-4a60-7bfa-eb67d8b849fe">Rodzaje zielonych obligacji wg regionów, dane na koniec 2019 r. (Źródło: Franklin Templeton Capital Markets Insights Group, Bloomberg)</caption>
       </figure>
@@ -76,7 +76,7 @@
       <para id="UUID564ed796-a2c3-4233-4871-62936085e697" />
       <figure id="UUIDa6c93915-7626-445c-7530-0b1b7939c9fd">
         <media alt="Stopy  zwrotu z obligacji zielonych i tradycyjnych dla euro i dolara amerykańskiego." id="UUID85399caf-c9de-4118-4730-a43a7e05e613">
-          <image src="../../media//rys6.png" mime-type="image/png" id="UUID062cce47-0c6c-4c28-463e-2f5729fd5eb1" />
+          <image src="../../media//rys6.svg" mime-type="image/svg+xml" id="UUID062cce47-0c6c-4c28-463e-2f5729fd5eb1" />
         </media>
         <caption id="UUID339d9faa-dceb-4b67-4a4e-ebdc12d425ca">Stopy zwrotu z obligacji zielonych i tradycyjnych. (Źródło: Bank Rozrachunków Międzynarodowych)</caption>
       </figure>

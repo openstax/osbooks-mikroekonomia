@@ -47,7 +47,7 @@
       <figure id="CNX_Econ_C13_002">
         <title id="UUID1f7404ba-ec68-401a-5660-18c66097e1b5">Technologia i pozytywne efekty zewnętrzne</title>
         <media alt="Wykres przedstawia dwie opadające krzywe popytu na kapitał Krzywa z lewej strony odzwierciedla prywatne korzyści związane z inwestycjami w innowacje, zaś ta z prawej korzyści społeczne. Korzyści społeczne są większe, niż korzyści prywatne" id="mCNX_Econ_C13_002">
-          <image src="../../media//CNX_Econ_C13_002.png" mime-type="image/png" id="UUIDb5e4c309-782e-4be4-55c4-c41f0a7eb59e" />
+          <image src="../../media//CNX_Econ_C13_002.svg" mime-type="image/svg+xml" id="UUIDb5e4c309-782e-4be4-55c4-c41f0a7eb59e" />
         </media>
         <caption id="UUIDdbd5a175-4610-4df2-6cd3-b2df4a954f96">Przedsiębiorstwo ponosi koszt oprocentowania wykorzystywanego kapitału w wysokości 8%. Jeśli przedsiębiorstwo uzyskuje tylko prywatne korzyści z inwestowania w sferę B+R, to jego krzywą popytu na kapitał finansowy jest zilustrowana linią oznaczoną jako D<sub>pryw</sub>, a równowaga występuje w punkcie E<sub>0</sub> (popyt na kapitał w kwocie 30 mln zł). Ponieważ działalność badawczo-rozwojowa wiąże się z powstaniem dodatkowych korzyści społecznych, optymalna – z punktu widzenia całej zbiorowości – wartość inwestycji byłaby równa 52 mln zł(punkt E<sub>1</sub>). Gdyby przedsiębiorstwo mogło przechwycić wszystkie społeczne korzyści z inwestycji dla siebie, popyt na kapitał byłby przedstawiony krzywą D<sub>społ</sub>, a wartość pożyczonych środków sięgnęłaby 52 mln zł.</caption>
       </figure>
@@ -70,7 +70,7 @@
       <figure id="CNX_Econ_C13_004">
         <title id="UUID11bdb215-bee7-474b-59fe-4847b1450e2b">Rynek szczepionek przeciw grypie z uwzględnieniem dodatkowych korzyści (pozytywnych efektów zewnętrznych)</title>
         <media alt="Wykres przedstawia rynek szczepionek przeciwko grypie: w stanie równowagi rynkowej produkcja szczepionek jest zbyt mała, ponieważ rynek nie uwzględnia pozytywnych efektów zewnętrznych. Jeśli państwo zapewni konsumentom subsydium z tytułu zakupu szczepionki, a kwota subsydium będzie równa krańcowej korzyści społecznej pomniejszonej o krańcową korzyść prywatną, to liczba szczepień wzrośnie do wielkości społecznie optymalnej (Qspołeczna)." id="mCNX_Econ_C13_004">
-          <image src="../../media//CNX_Econ_C13_004.png" mime-type="image/png" id="UUIDc9b6125f-0081-4896-6903-3d1a000a7f56" />
+          <image src="../../media//CNX_Econ_C13_004.svg" mime-type="image/svg+xml" id="UUIDc9b6125f-0081-4896-6903-3d1a000a7f56" />
         </media>
         <caption id="UUID76c17a2f-a387-4715-6f2d-39a32196b4c6">Krzywa popytu rynkowego nie uwzględnia pozytywnych efektów zewnętrznych szczepień przeciwko grypie, więc produkcja będzie wynosiła tylko Q<sub>rynk</sub>. Jest to nieefektywna wielkość produkcji, ponieważ krańcowa korzyść społeczna przewyższa krańcowy koszt społeczny. Jeśli państwo zapewni konsumentom subsydium z tytułu zakupu szczepionki, a kwota subsydium będzie równa krańcowej korzyści społecznej pomniejszonej o krańcową korzyść prywatną, wówczas liczba szczepień wzrośnie do wolumenu optymalnego społecznie (Q<sub>społ</sub>).</caption>
       </figure>

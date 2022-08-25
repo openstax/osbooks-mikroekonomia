@@ -68,7 +68,7 @@
       <figure id="CNX_Econ_C08_001">
         <title id="UUIDeb01a6f9-2b2f-459b-54c8-788080825d4b">Koszt całkowity i utarg całkowity producenta malin</title>
         <media alt="Wykres pokazuje, że przedsiębiorstwo ponosi stratę, jeśli koszt całkowity jest większy niż utarg całkowity." id="mCNX_Econ_C08_001">
-          <image src="../../media//CNX_Econ2e_C08_001.png" mime-type="image/png" id="UUID52430caa-3d84-4ae6-46ef-2dd0957aecae" />
+          <image src="../../media//CNX_Econ2e_C08_001.svg" mime-type="image/svg+xml" id="UUID52430caa-3d84-4ae6-46ef-2dd0957aecae" />
         </media>
         <caption id="UUID6ba9176e-4bfb-49c1-6216-e892d28eb11f">Utarg całkowity przedsiębiorstwa doskonale konkurencyjnego to linia prosta o nachyleniu dodatnim. Nachylenie jest równe cenie produktu. Koszt całkowity również rośnie, ale nieliniowo. Przy wyższych poziomach produkcji koszt całkowity zaczyna gwałtownie rosnąć z powodu malejących przychodów krańcowych. Maksymalny zysk występuje przy wielkości produkcji, dla której różnica między utargiem całkowitym a kosztem całkowitym jest największa.</caption>
       </figure>
@@ -120,14 +120,14 @@
       <figure id="CNX_Econ_C08_002">
         <title id="UUID433db6b9-2053-4cca-6aac-9e2552a2bf19">Utargi krańcowe i koszty krańcowe producenta malin: pojedyncze przedsiębiorstwo</title>
         <media alt="Wykres ilustrujący sytuację pojedynczego przedsiębiorstwa produkującego mrożone maliny pokazuje, w jaki sposób firma wykorzystuje cenę rynkową do określenia poziomu produkcji maksymalizującego zysk." id="mCNX_Econ_C08_002">
-          <image src="../../media//CNX_Econ2e_C08_002.png" mime-type="image/png" id="UUIDf4b02637-9292-47ab-4639-230c238b9d37" />
+          <image src="../../media//CNX_Econ2e_C08_002.svg" mime-type="image/svg+xml" id="UUIDf4b02637-9292-47ab-4639-230c238b9d37" />
         </media>
         <caption id="UUIDeebd6538-598b-4a9e-400d-a83bc9b5b2ce">Dla przedsiębiorstwa doskonale konkurencyjnego krzywa utargu krańcowego (MR) jest linią poziomą, ponieważ utarg krańcowy jest równy cenie dobra określonej przez rynek, jak pokazuje <link target-id="CNX_Econ_C08_015" id="UUIDbda0bfcb-e05e-413c-7e6d-6bbf938b2d6e" />. Krzywa kosztu krańcowego (MC) może być początkowo nachylona w dół, jeśli dla niewielkich rozmiarów produkcji przychody krańcowe rosną, ale wraz ze wzrostem wolumenu produkcji uzyskuje dodatnie nachylenie, co odzwierciedla malejące przychody krańcowe.</caption>
       </figure>
       <figure id="CNX_Econ_C08_015">
         <title id="UUID8af93f7f-6a80-4a30-762a-0b3dbf7946e7">Utargi krańcowe i koszty krańcowe producenta malin: cały rynek</title>
         <media alt="Wykres ilustrujący sytuację na rynku mrożonych malin pokazuje, że cena równowagi (4 zł.) jest zdeterminowana kształtowana przez interakcję pomiędzy popytem rynkowym i podażą rynkową." id="mCNX_Econ_C08_015">
-          <image src="../../media//CNX_Econ2e_C08_015.png" mime-type="image/png" id="UUID655fe921-a18f-45ce-4a88-aa9963669717" />
+          <image src="../../media//CNX_Econ2e_C08_015.svg" mime-type="image/svg+xml" id="UUID655fe921-a18f-45ce-4a88-aa9963669717" />
         </media>
         <caption id="UUID3d585a78-b97e-4eb8-5656-63ac744cd216">Cena równowagi na rynku malin jest określana poprzez interakcję podaży i popytu i wynosi 4 zł.</caption>
       </figure>
@@ -147,7 +147,7 @@
       <figure id="CNX_Econ_C08_014">
         <title id="UUID5ceda143-2c43-4721-42e1-415e69b9e332">Cena i koszt przeciętny producenta malin</title>
         <media alt="Wykres na trzech panelach ilustruje, w jaki sposób zysk zależy od tego, gdzie koszt krańcowy przecina się z utargiem krańcowym, czyli z ceną." id="mCNX_Econ_C08_014">
-          <image src="../../media//CNX_Econ2e_C08_014.png" mime-type="image/png" id="UUID2ccf1d97-a1cd-4c9f-568b-894098820aa4" />
+          <image src="../../media//CNX_Econ2e_C08_014.svg" mime-type="image/svg+xml" id="UUID2ccf1d97-a1cd-4c9f-568b-894098820aa4" />
         </media>
         <caption id="UUID05aa3685-00ff-46fd-5ea0-b4b445e69247">Na panelu (a) cena przecina koszt krańcowy powyżej krzywej kosztu przeciętnego. Ponieważ cena jest wyższa niż koszt przeciętny, przedsiębiorstwo osiąga zysk. Na panelu (b) cena przecina koszt krańcowy w punkcie minimum krzywej kosztu przeciętnego. Ponieważ cena jest równa kosztowi przeciętnemu, przedsiębiorstwo osiąga próg rentowności (nie ma zysków ekonomicznych). Na panelu (c) cena przecina koszt krańcowy poniżej krzywej kosztu przeciętnego. Ponieważ cena jest niższa niż koszt przeciętny, przedsiębiorstwo ponosi stratę.</caption>
       </figure>
@@ -339,7 +339,7 @@
       <figure id="CNX_Econ_C08_012">
         <title id="UUID2ae1243f-1a7f-4bbc-7804-ddd88376fdb6">Cena zamknięcia dla producenta malin</title>
         <media alt="Dwa panele na wykresie wskazują, że pomimo ujemnych zysków (czyli strat) przedsiębiorstwa czasami powinny kontynuować działalność w krótkim okresie. Jednak gdy ceny spadną poniżej przeciętnych kosztów zmiennych, przedsiębiorstwa muszą wstrzymać działalność." id="mCNX_Econ_C08_012">
-          <image src="../../media//CNX_Econ2e_C08_012.png" mime-type="image/png" id="UUID3f100682-1ec5-477b-7bd8-e39c9c98a036" />
+          <image src="../../media//CNX_Econ2e_C08_012.svg" mime-type="image/svg+xml" id="UUID3f100682-1ec5-477b-7bd8-e39c9c98a036" />
         </media>
         <caption id="UUID82824ca0-dc41-4c45-4910-5ef7bdb5082a">Na panelu (a) przedsiębiorstwo produkuje 65 sztuk. Ponosi stratę w wysokości 47,50 zł, ale cena znajduje się powyżej przeciętnego kosztu zmiennego, więc firma kontynuuje działalność. Na panelu (b) utarg całkowity wynosi 90 zł, a koszt całkowity 165 zł, co daje łączne straty w wysokości 75 zł. Jeśli przedsiębiorstwo zostanie zamknięte, musi opłacić tylko koszty stałe w wysokości 62 zł. Wstrzymanie działalności jest zatem lepszym rozwiązaniem niż sprzedaż po cenie 1,50 zł za opakowanie.</caption>
       </figure>
@@ -361,7 +361,7 @@
       <figure id="CNX_Econ_C08_008">
         <title id="UUIDac797011-13f6-4153-5592-d190f196407b">Zysk, strata, wstrzymanie działalności</title>
         <media alt="Wykres pokazuje, w jaki sposób krzywa kosztu krańcowego dzieli się na trzy różne segmenty: powyżej progu rentowności, pomiędzy progiem rentowności a ceną zamknięcia oraz poniżej ceny zamknięcia." id="mCNX_Econ_C08_008">
-          <image src="../../media//CNX_Econ2e_C08_008.png" mime-type="image/png" id="UUID0d5eb278-bd30-461b-5ad6-67e68ab5aa67" />
+          <image src="../../media//CNX_Econ2e_C08_008.svg" mime-type="image/svg+xml" id="UUID0d5eb278-bd30-461b-5ad6-67e68ab5aa67" />
         </media>
         <caption id="UUIDca12134d-2983-4c95-4bf0-1bd33860b113">Krzywą kosztu krańcowego możemy podzielić na trzy segmenty w zależności od punktów jej przecięcia z krzywymi kosztu przeciętnego i kosztu zmiennego. Punkt, w którym SMC przecina SATC, nazywamy progiem rentowności. Jeśli przedsiębiorstwo napotyka na cenę rynkową, która jest na poziomie wyższym niż próg rentowności, to jest też ona wyższa niż koszt przeciętny i przedsiębiorstwo notuje zyski ekonomiczne. Jeśli cena znajduje się dokładnie na wysokości progu rentowności, przedsiębiorstwo osiąga zerowy zysk ekonomiczny. Jeśli cena spadnie do strefy pomiędzy ceną zamknięcia a progiem rentowności, przedsiębiorstwo ponosi stratę, ale powinno kontynuować działalność w krótkim okresie, ponieważ pokrywa nie tylko swoje koszty zmienne, lecz również część kosztów stałych. Jeśli cena spadnie poniżej poziomu ceny zamknięcia, przedsiębiorstwo powinno wstrzymać produkcję, jako że nie pokrywa nawet kosztów zmiennych.</caption>
       </figure>

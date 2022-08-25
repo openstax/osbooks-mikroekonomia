@@ -105,13 +105,13 @@
     <para id="UUID20cbd7df-4023-45f1-6727-867897d18d2e" />
     <figure id="fs-id1169820082704">
       <media alt="Panel górny wykresu przedstawia całkowitą produkcję ściętych drzew. Na osi pionowej odłożona jest liczba ściętych drzew, zaś na osi poziomej liczba zatrudnionych drwali. Początkowo łączna liczba ściętych drzew szybko rośnie wraz ze wzrostem zatrudnienia, ale od czwartego zatrudnionego drwala przestaje się zmieniać. Natomiast panel dolny wykresu przedstawia produkt krańcowy związany z zatrudnieniem każdego z drwali. Ponownie, na osi pionowej odłożona jest liczba drzew, zaś na osi poziomej wielkość zatrudnienia. Początkowo krańcowy produkt pracy każdego z drwali rośnie, zaś od trzeciego zatrudnionego zaczyna szybko spadać. Piąty zatrudniony drwal nie przyczynia się od powstania żadnego dodatkowego (krańcowego) produktu. W jego przypadku produkt krańcowy jest równy zero." id="fs-id1169820381951">
-        <image src="../../media//CNX_Econ2e_C7_004.png" mime-type="image/png" id="UUIDf84ed8f1-2cb4-4b61-43b9-94cadee9aa9e" />
+        <image src="../../media//CNX_Econ2e_C7_004.svg" mime-type="image/svg+xml" id="UUIDf84ed8f1-2cb4-4b61-43b9-94cadee9aa9e" />
       </media>
       <caption id="UUID526bd953-6417-44f8-6901-3a76dba795e5">Prawo malejącego produktu krańcowego: całkowita produkcja drzew w krótkim okresie (na górze), krańcowa produkcja drzew (na dole).</caption>
     </figure>
     <figure id="fs-id1169819510579">
       <media alt="Wykres na obu panelach przedstawia wygładzone wersję przebiegu funkcji produktu całkowitego (panel górny) i produktu krańcowego (panel dolny). Oznaczenie osi jest analogiczne jak na poprzednim wykresie." id="fs-id1169819347233">
-        <image src="../../media//CNX_Econ2e_C7_005.png" mime-type="image/png" id="UUID8cb15616-4229-43a8-7d7b-9dcb0b64cc34" />
+        <image src="../../media//CNX_Econ2e_C7_005.svg" mime-type="image/svg+xml" id="UUID8cb15616-4229-43a8-7d7b-9dcb0b64cc34" />
       </media>
       <caption id="UUID1097af14-41a0-4fc5-4aaa-011e2e3b54c8">Krzywe produktu całkowitego (na górze) i produktu krańcowego (na dole).</caption>
     </figure>

@@ -65,7 +65,7 @@
       <figure id="CNX_Econ_A01_010">
         <title id="UUID652c9602-a3f2-41d7-75ee-ac20063154c8">Funkcja liniowa</title>
         <media alt="Wykres funkcji liniowej przedstawia następujące punkty: (0, 9); (1, 12); (2, 15); (3, 18); (4, 21); (5, 24); (6, 27)." id="fs-idp71023328">
-          <image src="../../media//CNX_Econ_A01_010.png" mime-type="image/png" id="UUIDf9da745f-c720-48e8-7148-325f19701882" />
+          <image src="../../media//CNX_Econ_A01_010.svg" mime-type="image/svg+xml" id="UUIDf9da745f-c720-48e8-7148-325f19701882" />
         </media>
         <caption id="UUID9f6f45f6-e628-4890-5b50-9d12783f5715">Na wykresie zmienna x jest zaznaczona na osi poziomej, a zmienna y - na osi pionowej. Punkt przecięcia funkcji z osią y ma wartość 9. Nachylenie funkcji wynosi 3, co oznacza, że wzrost o 3 na osi pionowej przypada na każdy wzrost o 1 na osi poziomej. Nachylenie jest takie samo wzdłuż całej linii prostej.</caption>
       </figure>
@@ -107,7 +107,7 @@
       <figure id="CNX_Econ_A01_024">
         <title id="UUID0d64ff23-2d99-41b3-6aa4-a078f8700305">Wykres popytu i podaży</title>
         <media alt="Wykres przedstawia krzywą popytu o nachyleniu ujemnym przechodzącą przez punkty (0, 8) i (16, 0) oraz krzywą podaży o nachyleniu dodatnim. Krzywe popytu i podaży przecinają się w punkcie (12, 2)." id="fs-idp100170096">
-          <image src="../../media//CNX_Econ_A01_024.png" mime-type="image/png" id="UUIDd77f294f-af07-4cd9-47c8-1c03b662c6ac" />
+          <image src="../../media//CNX_Econ_A01_024.svg" mime-type="image/svg+xml" id="UUIDd77f294f-af07-4cd9-47c8-1c03b662c6ac" />
         </media>
         <caption id="UUIDeb258293-dbf2-42fd-6b13-e7de86327227">Równania Q<sub>d</sub> i Q<sub>s</sub> są przedstawione na rysunku jako linie proste.</caption>
       </figure>
@@ -134,7 +134,7 @@
       <figure id="CNX_Econ_A01_008">
         <title id="UUID15ed0334-03f6-4a41-5f88-1c6efef1e34e">Zależność między wzrostem a masą ciała u amerykańskich chłopców i dziewcząt</title>
         <media alt="Wykres przedstawia wzrost (w calach) na osi x i wagę (w funtach) na osi y. Poniższe punkty odzwierciedlają stosunek wzrostu do wagi u amerykańskich chłopców: (20; 8,0), (22; 10,5), (24; 13,5), (26; 16,4), (28; 19), (30; 21,8), (32; 24,3), (34; 27), (36; 9,3), (38; 32). Poniższe punkty odzwierciedlają stosunek wzrostu do wagi u amerykańskich dziewcząt: (20; 7,9), (22; 10,5), (24; 13,2), (26; 16), (28; 18,8), (30; 21,2), (32; 24), (34; 26,2), (36; 28,9), (38; 31,3)." id="fs-idm12528832">
-          <image src="../../media//CNX_Econ_A01_008.png" mime-type="image/png" id="UUID559a2dac-e48f-4f30-77ca-1d36707ee369" />
+          <image src="../../media//CNX_Econ_A01_008.svg" mime-type="image/svg+xml" id="UUID559a2dac-e48f-4f30-77ca-1d36707ee369" />
         </media>
         <caption id="UUIDc475b9a5-1cb6-4fb1-4b86-38cfd59c177c">Wykres liniowy przedstawia zależność między wzrostem a masą ciała u chłopców i dziewcząt od urodzenia do 3. roku życia. Na przykład, punkt A pokazuje, że chłopiec o wzroście 28 cali (71 cm) waży zazwyczaj 19 funtów (9,6 kg).</caption>
       </figure>
@@ -143,7 +143,7 @@
       <figure id="CNX_Econ_A01_009">
         <title id="UUID32ebb3be-d875-4307-7865-5a24e7ae76eb">Zależność między wysokością nad poziomem morza a gęstością powietrza</title>
         <media alt="Na wykresie wysokość jest mierzona na osi x, a gęstość powietrza na osi y. Opadająca krzywa rozciąga się między punktami (0; 1,2) i (8828; 0,023). Punkt (8828; 0,023) reprezentuje szczyt Mount Everestu." id="fs-idm9521328">
-          <image src="../../media//CNX_Econ_A01_009.png" mime-type="image/png" id="UUID95cc961f-612a-4932-5c66-01845200a195" />
+          <image src="../../media//CNX_Econ_A01_009.svg" mime-type="image/svg+xml" id="UUID95cc961f-612a-4932-5c66-01845200a195" />
         </media>
         <caption id="UUID62c9d8b5-bff8-4119-6226-f723a0f186e2">Wykres pokazuje zależność między wysokością mierzoną w m n.p.m. a gęstością powietrza mierzoną w kg/m<sup>3</sup>. Wraz ze wzrostem wysokości, gęstość powietrza maleje. Punktowi na szczycie Mount Everestu odpowiada wysokość około 8828 metrów nad poziomem morza (oś pozioma) i gęstość powietrza 0,023 kg/m<sup>3</sup> (oś pionowa).</caption>
       </figure>
@@ -153,7 +153,7 @@
       <figure id="CNX_Econ_A01_025">
         <title id="UUID2f1251a3-9f10-440f-71db-4fa3c9430430">Stopa bezrobocia w USA, 1975–2014</title>
         <media alt="Wykres przedstawia stopę bezrobocia od 1970 r. Najwyższa stopa bezrobocia wystąpiła około 1983 i 2010 r." id="fs-idm44830640">
-          <image src="../../media//CNX_Econv1-2_AppA_A5.png" mime-type="image/png" id="UUID67bd453a-24ae-4ae4-75d7-690e628a0024" />
+          <image src="../../media//CNX_Econv1-2_AppA_A5.svg" mime-type="image/svg+xml" id="UUID67bd453a-24ae-4ae4-75d7-690e628a0024" />
         </media>
         <caption id="UUIDffa633cd-52cd-4c32-5c28-9d5a1a9bc21d">Wykres ilustruje stopę bezrobocia. Na takim wykresie łatwo dostrzec okresy wysokiego i niskiego bezrobocia.</caption>
       </figure>
@@ -164,7 +164,7 @@
       <figure id="CNX_Econ_A01_020">
         <title id="UUID1c77cf57-16c7-4623-5051-799ef0504310">Wykresy kołowe przedstawiające strukturę ludności USA według wieku</title>
         <media alt="Rysunek przedstawia trzy wykresy kołowe ilustrujące strukturę ludności USA według wieku. Wykres (a) pokazuje, że w 1970 r. liczba osób w wieku do 19 lat wyniosła 77,2 mln (37,6% populacji), w wieku od 20 do 64 lat - 107,7 mln (52,5% populacji), a w wieku 65 lat i więcej - 20,1 mln (9,8% populacji). Wykres (b) pokazuje, że w 2000 r. liczba osób w wieku do 19 lat wyniosła 78,4 mln (28,5% populacji), w wieku od 20 do 64 lat - 162,2 mln (58,9% populacji), a w wieku 65 lat i więcej - 34,8 mln (12,6% populacji). Wykres (c) przedstawia prognozę, że w 2030 r. liczba osób w wieku do 19 lat wyniesie 92,6 mln (26,4% populacji), w wieku od 20 do 64 lat - 188,2 mln (53,6% populacji), a w wieku 65 lat i więcej - 70,3 mln (20% populacji)." id="fs-idp36969728">
-          <image src="../../media//CNX_Econ_A01_020.png" mime-type="image/png" id="UUID0696c2e7-d86b-4307-75bf-0196de67ab89" />
+          <image src="../../media//CNX_Econ_A01_020.svg" mime-type="image/svg+xml" id="UUID0696c2e7-d86b-4307-75bf-0196de67ab89" />
         </media>
         <caption id="UUIDee64cb5e-524e-4d00-6c5e-47f4edcb1bfc">Trzy wykresy kołowe ilustrują podział całej populacji na trzy grupy wiekowe w trzech różnych latach.</caption>
       </figure>
@@ -174,7 +174,7 @@
       <figure id="CNX_Econ_A01_004">
         <title id="UUIDabfec41f-eeaf-408a-49ca-127d7f24fdcb">Największe kraje świata pod względem liczby ludności w 2015 r. (mln)</title>
         <media alt="Wykres słupkowy przedstawia liczbę ludności (w milionach) na osi y i różne kraje wzdłuż osi x. Przybliżona liczba ludności w 2015 r. w tych krajach jest następująca: Chiny = 1369; Indie = 1270; Stany Zjednoczone = 321, Indonezja = 255; Brazylia = 204; Pakistan = 190; Bangladesz = 158; Rosja = 146; Japonia = 127; Meksyk = 121; Filipiny = 101." id="fs-idp44451616">
-          <image src="../../media//CNX_Econv1-2_AppA_A7.png" mime-type="image/png" id="UUIDb689c11e-003b-47df-6580-2273ab3bd1bd" />
+          <image src="../../media//CNX_Econv1-2_AppA_A7.svg" mime-type="image/svg+xml" id="UUIDb689c11e-003b-47df-6580-2273ab3bd1bd" />
         </media>
         <caption id="UUID463f077f-fc51-4cf6-4afe-77287de44987">Wykres przedstawia 12 krajów świata o największej liczbie ludności. Wysokość słupków pokazuje wielkość populacji w każdym kraju.</caption>
       </figure>
@@ -183,7 +183,7 @@
       <figure id="CNX_Econ_A01_021">
         <title id="UUID6650b717-6e58-49bc-5d15-d11bd6972b83">Ludność USA na wykresach słupkowych</title>
         <media alt="Rysunek zawiera trzy wykresy słupkowe dotyczące ludności USA. Wszystkie trzy wykresy przedstawiają te same informacje na różne sposoby. W 1970 r. liczba osób w wieku do 19 lat wyniosła 77,2 mln (37,6% populacji), w wieku od 20 do 64 lat - 107,7 mln (52,5% populacji), a w wieku 65 lat i więcej - 20,1 mln (9,8% populacji). W 2000 r. liczba osób w wieku do 19 lat była równa 78,4 mln (28,5% populacji), w wieku od 20 do 64 lat - 162,2 mln (58,9% populacji), a w wieku 65 lat i więcej - 34,8 mln (12,6% populacji). Przewiduje się, że w 2030 r. liczba osób w wieku do 19 lat wyniesie 92,6 mln (26,4% populacji), w wieku od 20 do 64 lat - 188,2 mln (53,6% populacji), a w wieku 65 lat i więcej - 70,3 mln (20% populacji). Wykres (a) przedstawia oddzielne słupki dla każdej grupy wiekowej w poszczególnych latach (łącznie 9 słupków). Wykres (b) ilustruje całkowitą populację podzieloną na grupy wiekowe (łącznie 3 słupki, z różnymi kolorami pokazującymi rozmiary poszczególnych grup wiekowych). Wykres (c) przedstawia strukturę ludności w ujęciu procentowym (razem 3 słupki, z różnymi kolorami pokazującymi odsetek ludności w poszczególnych grupach wiekowych)." id="fs-idp14177872">
-          <image src="../../media//CNX_Econ_A01_021.png" mime-type="image/png" id="UUID45e79259-9a7c-47f9-5fb9-e0f8f1ed4b2d" />
+          <image src="../../media//CNX_Econ_A01_021.svg" mime-type="image/svg+xml" id="UUID45e79259-9a7c-47f9-5fb9-e0f8f1ed4b2d" />
         </media>
         <caption id="UUID1b59b995-2f84-4ec8-5175-63478dc6f7c9">Dane o populacji mogą być przedstawione na różne sposoby. Wykres (a) zawiera trzy słupki dla każdego roku, przedstawiające całkowitą liczbę osób w określonym przedziale wiekowym w poszczególnych latach. Wykres (b) zawiera tylko jeden słupek dla danego roku, ale różne grupy wiekowe są zaznaczone wewnątrz słupka. Z kolei na wykresie (c) oś pionowa mierzy wartości procentowe, a nie liczbę osób. Wszystkie trzy słupki na wykresie (c) mają tę samą wysokość, a każdy z nich jest podzielony według odsetka populacji należącego do danej grupy wiekowej.</caption>
       </figure>
@@ -196,20 +196,20 @@
       <para id="fs-idp175139536">Wykresy nie tylko ujawniają tendencje, mogą również wpływać na sposób ich postrzegania. Rozważmy wykresy liniowe przedstawione na <link target-id="CNX_Econ_A01_022" cmlnle:case="locative" id="UUID1e720ec4-cce0-444c-6ef5-7c0159a526b9" />, <link target-id="CNX_Econ_A01_023" cmlnle:case="locative" id="UUID87e4953b-f7b3-4726-6f00-b499a9087ff2" /> i <link target-id="CNX_Econ_A01_017" cmlnle:case="locative" id="UUIDd57e8854-cd03-47b2-754f-ad68c1bda50e" />. Wszystkie wykresy przedstawiają stopę bezrobocia, ale z różnych perspektyw.</para>
       <figure id="CNX_Econ_A01_022">
         <media alt="Wszystkie rysunki przedstawiają dokładnie te same dane, ale w różny sposób, co może wpłynąć na ich interpretację. Wykres (a) pokazuje stopę bezrobocia z małymi wahaniami i przy długiej osi poziomej. Wykres (b) przedstawia stopę bezrobocia z dużymi wahaniami i przy krótkiej osi poziomej. Wykres (c) pokazuje stopę bezrobocia z większym zakresem skali wartości na osi pionowej." id="fs-idm11241440">
-          <image src="../../media//CNX_Econv1-2_AppA_A9ab.png" mime-type="image/png" id="UUID51c56fa6-df64-4fc0-6a9f-a43964e887ed" />
+          <image src="../../media//CNX_Econv1-2_AppA_A9ab.svg" mime-type="image/svg+xml" id="UUID51c56fa6-df64-4fc0-6a9f-a43964e887ed" />
         </media>
       </figure>
       <figure id="CNX_Econ_A01_023">
         <title id="UUID5595500e-6a75-4435-42fc-98cabd630aca">Przedstawianie stóp bezrobocia na różne sposoby</title>
         <media alt="Wykres (f) przedstawia miesięczne dane o stopie bezrobocia. Opis rysunku: (c) Stopa bezrobocia z większym zakresem skali wartości na osi pionowej | (d) Stopa bezrobocia z mniejszym zakresem skali wartości na osi pionowej | (e) Stopa bezrobocia - średnie 5-letnie" id="fs-id1166347360647">
-          <image src="../../media//CNX_Econv1-2_AppA_A9cde.png" mime-type="image/png" id="UUIDfa41c1ff-d4a5-4ee2-5e40-a1cc3ad1f24a" />
+          <image src="../../media//CNX_Econv1-2_AppA_A9cde.svg" mime-type="image/svg+xml" id="UUIDfa41c1ff-d4a5-4ee2-5e40-a1cc3ad1f24a" />
         </media>
         <caption id="UUIDe75f9e6a-36db-4711-4a79-e1d4f0efa8ea">Zmiana szerokości i wysokości obszaru wykresu może wpłynąć na sposób postrzegania danych.</caption>
       </figure>
       <figure id="CNX_Econ_A01_017">
         <title id="UUID753853c9-bd47-4838-44e4-97da9c103a61">Przedstawianie stóp bezrobocia na różne sposoby</title>
         <media alt="Wykres (f) pokazuje stopę bezrobocia tylko od 1975 r. Opis rysunku: (f) Stopa bezrobocia - dane miesięczne | (g) Stopa bezrobocia od 1975 r." id="fs-idm5361680">
-          <image src="../../media//CNX_Econ_A01_016.png" mime-type="image/png" id="UUID00717cc3-98cb-4401-4ad9-14f836db2a2d" />
+          <image src="../../media//CNX_Econ_A01_016.svg" mime-type="image/svg+xml" id="UUID00717cc3-98cb-4401-4ad9-14f836db2a2d" />
         </media>
         <caption id="UUID2affec06-fdc8-41e7-62b0-39fa88c3149f">Zmiana szerokości i wysokości obszaru wykresu może wpłynąć na sposób postrzegania danych.</caption>
       </figure>

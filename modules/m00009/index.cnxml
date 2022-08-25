@@ -48,7 +48,7 @@
     <figure id="CNX_Econ_C02_010">
       <title id="UUID5982428e-cb75-44b2-5391-fc245109d0e3">Krzywa transformacji w zakresie opieki zdrowotnej i edukacji</title>
       <media alt="Rysunek przedstawia nachyloną ujemnie i wklęsłą w stronę układu współrzędnych krzywą, która ilustruje wybór typu „coś za coś”, przed jakim stoi społeczeństwo decydujące, ile zasobów alokować na budowanie systemu edukacji, a ile na produkcję organizację opieki zdrowotnej." id="fs-idp1127725734">
-        <image src="../../media//CNX_Econ_C02_010.png" mime-type="image/png" id="UUID06b470a3-c246-40ff-7c77-c2d4cb2f1dc0" />
+        <image src="../../media//CNX_Econ_C02_010.svg" mime-type="image/svg+xml" id="UUID06b470a3-c246-40ff-7c77-c2d4cb2f1dc0" />
       </media>
       <caption id="UUIDabd08b13-ec29-4d60-487f-fa5154ba634e">Ta krzywa możliwości produkcyjnych pokazuje wybór typu „coś za coś”, jeśli podejmowana jest decyzja o kierowaniu zasobów na opiekę zdrowotną lub edukację. W punkcie A wszystkie zasoby są przeznaczane na zapewnienie opieki zdrowotnej, zaś w punkcie B na ten cel kierowana jest większość środków. W punkcie D większość zasobów przydzielana jest systemowi edukacji, a w punkcie F temu celowi służą wszystkie środki.</caption>
     </figure>
@@ -75,7 +75,7 @@
       <figure id="CNX_Econ_C02_011">
         <title id="UUIDee5542a7-ce28-436a-4517-23f89d5e2b7b">Efektywność produkcji i alokacji</title>
         <media alt="Wykres pokazuje, że gdy wzrośnie produkcja jednego dobra (edukacji), zmniejszy się wolumen produkcji innych dóbr (opieki zdrowotnej)." id="fs-idp112798384">
-          <image src="../../media//CNX_Econ_C02_011.png" mime-type="image/png" id="UUID8c178a6d-6c5b-422d-4346-5b3975f0dd2b" />
+          <image src="../../media//CNX_Econ_C02_011.svg" mime-type="image/svg+xml" id="UUID8c178a6d-6c5b-422d-4346-5b3975f0dd2b" />
         </media>
         <caption id="UUID92184acb-dc2d-4fc6-463d-5e67539e460b">Efektywność produkcji oznacza, że niemożliwe jest wyprodukowanie większej ilości jednego dobra bez zmniejszenia produkcji innego (innych). Zatem wszystkie wybory (koszyki dóbr) leżące na danej krzywej możliwości produkcyjnych (krzywej transformacji), takie jak B, C i D, charakteryzują się efektywnością produkcji, ale kombinacja R, która znajduje się pod krzywą transformacji, już nie. Natomiast efektywność alokacji oznacza, że konkretna kombinacja wytwarzanych dóbr – czyli konkretny wybór na krzywej możliwości produkcyjnych – przedstawia koszyk, którego społeczeństwo najbardziej pragnie.</caption>
       </figure>
@@ -96,7 +96,7 @@
       <para id="UUID02d5ee02-5e10-4c52-5ed8-1c0a4f719a7b">Krzywa możliwości produkcyjnych pszenicy i trzciny cukrowej dla Polski i Brazylii</para>
       <figure id="CNX_Econ_C02_012">
         <media alt="Ten wykres przedstawia dwie krzywe możliwości produkcyjnych, na lewym panelu dla Brazylii, na prawym dla Polski. Kształt i położenie krzywych na obu panelach wskazują, że Brazylia może produkować dwukrotnie więcej trzciny niż pszenicy, zaś dla Polski relacja ta jest odwrotna." id="eip-id1168231239092">
-          <image src="../../media//CNX_Econ_C02_016.png" mime-type="image/png" id="UUID9969e84e-a8ba-4a23-7abf-d5eb79418fa5" />
+          <image src="../../media//CNX_Econ_C02_016.svg" mime-type="image/svg+xml" id="UUID9969e84e-a8ba-4a23-7abf-d5eb79418fa5" />
         </media>
         <caption id="UUIDb80fc36e-2a01-431a-65c2-5097660c0fe6">Krzywa możliwości produkcyjnych Polski jest bardziej płaska niż w przypadku Brazylii, co oznacza, że koszt alternatywny wytworzenia pszenicy (wyrażony jako utracona produkcja trzciny cukrowej) jest niższy w Polsce niż w Brazylii. I odwrotnie, koszt alternatywny wytworzenia trzciny cukrowej jest niższy w Brazylii. Polska ma przewagę komparatywną w przypadku pszenicy, a Brazylia w przypadku trzciny cukrowej.</caption>
       </figure>

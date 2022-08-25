@@ -43,7 +43,7 @@
       <figure id="CNX_Econ_C04_001">
         <title id="UUID7cbf58ca-e5a6-46f8-6e35-be1481661bbe">Przykład rynku pracy: popyt i podaż na rynku pracy pielęgniarek w aglomeracji Minneapolis</title>
         <media alt="Ten wykres pokazuje, jak na równowagę na rynku pracy wpływa popyt i podaż. Opadająca w dół krzywa popytu i wznosząca się krzywa podaży, przecinają się w punkcie wyznaczającym wynagrodzenie (płacę) i wielkość zatrudnienia równoważące rynek pracy pielęgniarek." id="fs-idm75988320">
-          <image src="../../media//CNX_Econv1-2_C04_02.png" mime-type="image/png" id="UUID1c87cc59-39ed-4e91-7a6e-ae0d00f3ed7c" />
+          <image src="../../media//CNX_Econv1-2_C04_02.svg" mime-type="image/svg+xml" id="UUID1c87cc59-39ed-4e91-7a6e-ae0d00f3ed7c" />
         </media>
         <caption id="UUID2886afc1-1d7e-4a83-4aed-42982ddfedc8">Krzywa popytu na pracę zgłaszanego przez pracodawców (D), którzy chcą zatrudnić pielęgniarki, przecina się z krzywą podaży wykwalifikowanych pielęgniarek (S) w punkcie równowagi (E). Wynagrodzenie równowagi wynosi 70 tys. dol., a liczba zatrudnionych pielęgniarek równoważąca rynek to 34 tys. Przy płacy powyżej poziomu równowagi, wynoszącej np. 75 tys. dol., liczba osób chętny do pracy wzrasta do 38 tys., ale liczba pielęgniarek, na pracę których jest zapotrzebowanie, spada do 33 tys. Przy płacy wyższej od poziomu równowagi istniałaby nadwyżka podaży pracy pielęgniarek. Przy cenie pracy poniżej poziomu równowagi, wynoszącej np. 60 tys. dol., liczba oferowanych miejsc pracy spada do 27 tys., podczas gdy zapotrzebowanie wzrasta do 40 tys. osób. Przy płacy poniżej poziomu równowagi pojawiłaby się nadwyżka popytu.</caption>
       </figure>
@@ -88,7 +88,7 @@
       <figure id="CNX_Econ_C04_009">
         <title id="UUID31eb5411-207d-4924-537b-61678da061b8">Technologia i wynagrodzenia: zastosowanie modelu popytu i podaży</title>
         <media alt="Dwa panele na wykresie pokazują, jak nowe technologie (np. informatyczne) wpływają na podaż i popyt na rynku pracy. Panel z lewej strony (a) przedstawia rynek pracowników o niskich kwalifikacjach, a panel z prawej (b) – rynek pracowników posiadających wysokie kwalifikacje." id="fs-idp37946784">
-          <image src="../../media//CNX_Econ_C04_009.png" mime-type="image/png" id="UUID2861f019-8d9c-45c0-56bb-70b7c5be7268" />
+          <image src="../../media//CNX_Econ_C04_009.svg" mime-type="image/svg+xml" id="UUID2861f019-8d9c-45c0-56bb-70b7c5be7268" />
         </media>
         <caption id="UUID18022428-32e5-4b5d-6c73-7fa44b35b680">Panel (a): Popyt na nisko wykwalifikowaną siłę roboczą przesuwa się w lewo, kiedy zmiana technologiczna umożliwi zastąpienie pracy wykonywanej wcześniej przez tych pracowników zautomatyzowanymi procesami. Panel (b): Nowe technologie mogą również zwiększyć zapotrzebowanie na wysoko wykwalifikowaną siłę roboczą w dziedzinach takich jak IT i telekomunikacja.</caption>
       </figure>
@@ -108,7 +108,7 @@
       <figure id="CNX_Econ_C04_004">
         <title id="UUID341f5698-8737-4232-7a83-0f078983af4d">Płaca minimalna</title>
         <media alt="Wykres pokazuje, że płaca minimalna zazwyczaj wiąże się z nadwyżką podaży pracy." id="fs-idp147168960">
-          <image src="../../media//CNX_Econ_C04_004.png" mime-type="image/png" id="UUID59622c14-10c5-42f8-772f-cc52eba5752d" />
+          <image src="../../media//CNX_Econ_C04_004.svg" mime-type="image/svg+xml" id="UUID59622c14-10c5-42f8-772f-cc52eba5752d" />
         </media>
         <caption id="UUID058e017c-30c8-487c-73c2-5b3a5e60c9d9">Pierwotna równowaga na rynku pracy wyznaczona była w punkcie E, przy płacy równej 10 zł/godz. i liczbie 1200 pracowników. Narzucenie minimalnego poziomu płac na poziomie 12 zł/godz. prowadzi do nadwyżki podaży pracy. Przy tej płacy ilość oferowanej pracy wynosi 1600, a zapotrzebowanie jest równe 700.</caption>
       </figure>

@@ -41,7 +41,7 @@
     <para id="UUID023b3083-deb1-4aad-61f2-929e84dc4217" />
     <figure id="UUID398ab86b-bb24-4a1a-6793-7e3ea933f914">
       <media alt="Wykres zmian temperatury w latach 1–2000 pokazuje gwałtowny wzrost średnich temperatur w ciągu ostatnich 50 lat." id="UUIDdaac9015-9c8b-4032-6418-b86a9711b97e">
-        <image src="../../media//rys4.png" mime-type="image/png" id="UUID878adedc-c574-4679-58ed-26c0e550bd55" />
+        <image src="../../media//rys4.svg" mime-type="image/svg+xml" id="UUID878adedc-c574-4679-58ed-26c0e550bd55" />
       </media>
       <caption id="UUID6182c772-1705-4775-48ca-7f5e3cc7852a">Odchylenie globalnej średniej temperatury powierzchni Ziemi od średniej z lat 1850–1900 (średnie dekadowe). Dane z lat 1850–2000 to obserwacje, a z lat 1–1850 to rekonstrukcja. (Źródło: raport IPCC AR6)</caption>
     </figure>
@@ -58,7 +58,7 @@
     <para id="UUIDd6a56c4e-9288-4c72-5d53-6c6267080f45" />
     <figure id="UUID97cb353f-7a55-4e3a-40e4-d85f7976698b">
       <media alt="" id="UUID972aa207-9bd7-40b5-59a0-5075efbf886f">
-        <image src="../../media//rys2.png" mime-type="image/png" id="UUIDdb6b5c10-a297-49d1-73ae-a7396f8389b0" />
+        <image src="../../media//rys2.svg" mime-type="image/svg+xml" id="UUIDdb6b5c10-a297-49d1-73ae-a7396f8389b0" />
       </media>
       <caption id="UUID72e263b8-2589-41b0-7abe-0d9d5c941e14">Systematyka skutków zmian klimatycznych. (Źródło: na podstawie „<emphasis effect="italics">Lancet</emphasis>", 2015)</caption>
     </figure>
@@ -85,14 +85,14 @@
     <para id="UUID5e77ae80-c47a-4518-6edb-7dc0e94390cc" />
     <figure id="UUIDa9a3c4c1-d311-44bb-6e83-6b5bb6d0d434">
       <media alt="Ilustracja przedstawia mapę świata i zaznaczone na niej prognozy strat spowodowanych zmianami klimatu." id="UUID7505403a-0257-47e7-5ea4-ded0be4b67a7">
-        <image src="../../media//rys3.png" mime-type="image/png" id="UUID72917af6-c2b3-4119-58e1-ab8921ec4e7b" />
+        <image src="../../media//rys3.svg" mime-type="image/svg+xml" id="UUID72917af6-c2b3-4119-58e1-ab8921ec4e7b" />
       </media>
       <caption id="UUID5412a466-0243-4fea-62bb-c56a9a2a9d32">Prognoza wpływu zmian klimatycznych na gospodarki światowe w 2050 r. wyrażone jako średni roczny ubytek dochodu narodowego (utracone PKB). (Źródło: na podstawie Economist Intelligence Unit)</caption>
     </figure>
     <para id="UUID253a196d-f5db-46f7-4b6a-e42271219fdf">Na zagrożenia materialne szczególnie narażony jest przemysł rolny. Zarówno powodzie, jak i susze stanowią zagrożenie dla upraw i hodowli. Australijskie Biuro Meteorologiczne w raporcie z 2020 r. poinformowało, że w wyniku suszy spowodowanej zmieniającym się klimatem w ciągu ostatnich dwóch dekad przychody rolników spadły o ponad 23% w porównaniu ze średnimi historycznymi. W Polsce natomiast w latach 2001–2011 wskutek niekorzystnych zdarzeń pogodowych, takich jak susze i powodzie, odnotowano straty w wysokości 56 mld zł. Prognozuje się, że w przypadku niepodjęcia stosownych działań adaptacyjnych, straty te w latach 2021–2030 mogą w naszym kraju wynieść aż 120 mld zł.</para>
     <figure id="UUID293502f0-bc36-46b2-5066-338254b9bf42">
       <media alt="Wykres słupkowy przedstawiający szacunek strat spowodowanych niekorzystnymi zjawiskami atmosferycznymi w Polsce dla 2010 r." id="UUIDefc35fa8-e86e-45c9-7c39-1afce1f29611">
-        <image src="../../media//rys8.png" mime-type="image/png" id="UUID4429c70d-41a2-41ea-5613-81b7666ea233" />
+        <image src="../../media//rys8.svg" mime-type="image/svg+xml" id="UUID4429c70d-41a2-41ea-5613-81b7666ea233" />
       </media>
       <caption id="UUID92c326bd-0bcc-4d73-7aae-b79ff649fbee">Bezpośrednie koszty zmian klimatycznych w Polsce w latach 2001–2011 (kwoty w zł). (Źródło: na podstawie danych IMGW)</caption>
     </figure>

@@ -100,7 +100,7 @@
       <figure id="UUID9bd405ac-d4cd-4608-59f6-a20e2856ef51">
         <title id="UUIDc2cfc61e-749f-23ew-rrt5-956fc3e0bdd4">Złamana krzywa popytu</title>
         <media alt="Wykres przedstawia łamaną linię, która reprezentuje specyficzny przypadek popytu. Proszę usunąć symbol dolara" id="UUID17a5c5ec-918f-4056-6f17-0d072504c85b">
-          <image src="../../media//CNX_Econ_C10_007.png" mime-type="image/png" id="UUID0811d4ea-3469-48f6-53ad-44a3929bcac7" />
+          <image src="../../media//CNX_Econ_C10_007.svg" mime-type="image/svg+xml" id="UUID0811d4ea-3469-48f6-53ad-44a3929bcac7" />
         </media>
         <caption id="UUID9e516755-167c-49e7-5257-acc5363bee47">Przyjrzyjmy się przedsiębiorstwu będącemu członkiem kartelu, które – zgodnie z zawartą zmową – ma produkować 10 tys. sztuk jakiegoś dobra i sprzedawać je w cenie 500 zł. Pozostali członkowie kartelu mogą wymuszać na nim wywiązywanie się z tego porozumienia dzięki strategii, która prowadzi do złamania krzywej popytu na produkty oferowane przez analizowaną firmę. Jeżeli oligopolista spróbuje obniżyć cenę, żeby zwiększyć swoją produkcję i sprzedaż, inne firmy natychmiast zrobią to samo. Jeśli zatem przedsiębiorstwo obniży cenę do 300 zł, zwiększy swoją produkcję jedynie do 11 tys. sztuk. Z drugiej strony, jeśli oligopolista spróbuje podnieść swoją cenę, inne firmy nie powtórzą tego ruchu, więc gdy przedsiębiorstwo zwiększy cenę do 550 zł, jego sprzedaż gwałtownie spadnie (do 5 tys. sztuk). W ten sposób, poprzez strategię polegającą na naśladowaniu obniżek cen i ignorowaniu podwyżek, członkowie kartelu mogą wzajemnie się kontrolować, aby trzymać się uzgodnionych wcześniej wolumenów produkcji i cen.</caption>
       </figure>
@@ -131,7 +131,7 @@
           <para id="fs-idm42778176">Przeanalizujmy poniższy wykres, który ilustruje sumaryczne krzywe popytu rynkowego, kosztu krańcowego i utargu krańcowego przedsiębiorstw działających w ramach oligopolu. W tym przypadku zakładamy, że przedsiębiorstwa te nie ponoszą żadnych kosztów stałych.</para>
           <figure id="UUIDf3666fd9-f33f-4883-4872-b81caa601375">
             <media alt="Wykres przedstawia opadającą krzywą popytu, leżącą bliżej początku układu współrzędnych opadającą krzywą utargu krańcowego oraz poziomą linię kosztu krańcowego." id="UUIDadfb8f78-977f-45d1-7f9d-bc50d04feaa9">
-              <image src="../../media//CNX_Econ_C10_010.png" mime-type="image/png" id="UUIDa8877259-4a05-4300-7f49-15785f30b71b" />
+              <image src="../../media//CNX_Econ_C10_010.svg" mime-type="image/svg+xml" id="UUIDa8877259-4a05-4300-7f49-15785f30b71b" />
             </media>
             <caption id="UUIDdbc2d41f-1ac4-4e0f-6f98-4b16f946f40f" />
           </figure>
@@ -153,7 +153,7 @@
               <para id="UUID76a1df95-ef13-469c-6cdc-33ca3f6bff82">Jeśli przedsiębiorstwa stworzą kartel, będą działać jak monopol, wybierając wielkość produkcji, dla której MR = MC (Q<sub>kartel</sub>). Przerywana linia prowadząca od wyznaczonego w ten sposób wolumenu produkcji do krzywej popytu wskazuje cenę rynkową, jaką ustalą uczestnicy zmowy (P<sub>kartel</sub>). Zakładając, że koszty stałe są równe zeru oraz rozumiejąc pojęcia kosztów i zysków, możemy wywnioskować, że gdy krzywa kosztu krańcowego jest pozioma, koszt przeciętny jest stały i równy kosztowi krańcowemu. W ten sposób kartel osiągnie dodatnie zyski ekonomiczne równe powierzchni prostokąta z podstawą odpowiadającą wielkości produkcji wyznaczonej dla MC = MR i wysokością równą różnicy między ceną (odłożoną na krzywej popytu dla tego wolumenu produkcji) a kosztem przeciętnym, tak jak to pokazano na poniższym wykresie.</para>
               <figure id="UUID217b64db-fa66-4f7c-70b6-02ed7f7c4961">
                 <media alt="Wykres przedstawia trzy linie ciągłe: opadającą krzywą popytu, opadającą krzywą utargu krańcowego oraz poziomą linię kosztu krańcowego. Wykres pokazuje również dwie przerywane linie, które spotykają się na krzywej popytu i wskazują cenę i wolumen produkcji maksymalizujące zysk." id="UUID6363fbd1-330b-4b36-75b6-a7eba45893c8">
-                  <image src="../../media//CNX_Econ_C10_011.png" mime-type="image/png" id="UUID620087e7-ed4c-4b21-52f2-f91d6a0f936c" />
+                  <image src="../../media//CNX_Econ_C10_011.svg" mime-type="image/svg+xml" id="UUID620087e7-ed4c-4b21-52f2-f91d6a0f936c" />
                 </media>
               </figure>
             </item>
@@ -161,7 +161,7 @@
               <para id="UUIDee301da5-05a5-4d3e-60d5-08f8f31abddc">Konkurując energicznie, przedsiębiorstwa będą zwiększać produkcję i obniżać cenę, dopóki będą w stanie generować zyski, czyli do momentu, w którym osiągnie ona poziom równy kosztowi przeciętnemu. Równowaga długookresowa wystąpi w punkcie, w którym koszt przeciętny jest równy popytowi, co odpowiada produkcji na poziomie Q<sub>konkurowanie</sub>. W wyniku energicznej konkurencji oligopol będzie osiągał zerowe zyski ekonomiczne (gdyż cena P<sub>konkurowanie</sub> jest równa kosztowi przeciętnemu), tak jak to pokazano na wykresie poniżej.</para>
               <figure id="UUID995f0672-2088-4940-6584-394d35d6674d">
                 <media alt="Wykres przedstawia trzy linie ciągłe: opadającą krzywą popytu, opadającą krzywą utargu krańcowego oraz poziomą linię kosztu krańcowego. Wykres pokazuje również jedną linię przerywaną, która biegnie od osi X do punktu przecięcia się krzywych popytu i kosztu krańcowego." id="UUID88344792-c4ab-4665-6319-253ead1829fd">
-                  <image src="../../media//CNX_Econ_C10_012.png" mime-type="image/png" id="UUIDe49e758f-9cca-4f77-6194-66a65d5d1fe0" />
+                  <image src="../../media//CNX_Econ_C10_012.svg" mime-type="image/svg+xml" id="UUIDe49e758f-9cca-4f77-6194-66a65d5d1fe0" />
                 </media>
               </figure>
             </item>

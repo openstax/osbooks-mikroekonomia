@@ -67,7 +67,7 @@
       <figure id="CNX_Econ_C03_004">
         <title id="UUID6cee74a8-489c-44e9-7a90-7b60de9877bc">Przesunięcia krzywej popytu: przykład rynku samochodów</title>
         <media alt="Wykres przedstawia układ współrzędnych, w którym na osi pionowej odłożono ceny wyrażone w złotych, zaś na osi poziomej liczbę kupowanych aut. W tym układzie współrzędnych wykreślone są trzy krzywe popytu na samochody oznaczone jako D0, D1 i D2." id="fs-idm155342160">
-          <image src="../../media//CNX_Econ_C03_004.png" mime-type="image/png" id="UUID8ae764b3-5d76-438a-4b7c-b036d7e36601" />
+          <image src="../../media//CNX_Econ_C03_004.svg" mime-type="image/svg+xml" id="UUID8ae764b3-5d76-438a-4b7c-b036d7e36601" />
         </media>
         <caption id="UUID39fdc835-e07d-427d-4434-4cae1b30d32a">Zwiększony popyt oznacza, że przy każdym poziomie ceny rynkowej zapotrzebowanie jest większe, a więc krzywa popytu przesuwa się w prawo, z położenia D<sub>0</sub> do położenia D<sub>1</sub>. Zmniejszony popyt oznacza, że przy każdym poziomie ceny rynkowej zapotrzebowanie jest mniejsze, a zatem krzywa popytu przesuwa się w lewo, z położenia D<sub>0</sub> do położenia D<sub>2</sub>.</caption>
       </figure>
@@ -94,7 +94,7 @@
         <figure id="CNX_Econ_C03_019">
           <title id="UUID8cf54ca0-cf0c-46c9-5565-530535d70894">Krzywa popytu</title>
           <media alt="Wykres przedstawia wskazówki dla pierwszego kroku. Krzywa popytu pozwala odczytać, ile pizzy konsumenci będą chcieli kupić przy danym poziomie ceny." id="fs-idm94402672">
-            <image src="../../media//CNX_Econ_C03_019.png" mime-type="image/png" id="UUID6462c208-47be-4411-506d-951ca1698acb" />
+            <image src="../../media//CNX_Econ_C03_019.svg" mime-type="image/svg+xml" id="UUID6462c208-47be-4411-506d-951ca1698acb" />
           </media>
           <caption id="UUIDd4b7229e-c08e-4ecf-46ca-47452f1abead">Krzywa popytu może być wykorzystana do oceny tego, jaką ilość danego dobra konsumenci chcieliby kupić przy każdym poziomie ceny.</caption>
         </figure>
@@ -102,7 +102,7 @@
         <figure id="CNX_Econ_C03_020">
           <title id="UUIDf3cac640-2074-40db-5887-1f7b6600c597">Krzywa popytu a wzrost dochodu</title>
           <media alt="Wykres ilustruje wskazówki z drugiego kroku. Wraz ze wzrostem dochodu konsumenci będą chcieli kupić większą ilość dobra (Q1) niż kupowali wcześniej, dysponując niższym dochodem." id="fs-idm4475184">
-            <image src="../../media//CNX_Econ_C03_020.png" mime-type="image/png" id="UUID2fe1785d-1555-43e6-451b-abe5e0002b10" />
+            <image src="../../media//CNX_Econ_C03_020.svg" mime-type="image/svg+xml" id="UUID2fe1785d-1555-43e6-451b-abe5e0002b10" />
           </media>
           <caption id="UUID32715275-7e2d-4301-44ab-fc6ef4c5a2c1">Wraz ze wzrostem dochodu konsumenci będą nabywali większe ilości dobra, co przesunie popyt w prawo.</caption>
         </figure>
@@ -110,7 +110,7 @@
         <figure id="CNX_Econ_C03_021">
           <title id="UUIDba42934a-f23e-4dcc-5d0b-70d186e0726f">Krzywa popytu przesunięta w prawo</title>
           <media alt="Wykres przedstawia wskazówki dla trzeciego kroku. Zwiększony dochód skutkuje wzrostem zapotrzebowania przy każdym poziomie ceny, co jest zilustrowane przez przesunięcie w prawo krzywej popytu." id="fs-idm164619520">
-            <image src="../../media//CNX_Econ_C03_021.png" mime-type="image/png" id="UUID0345e49c-819e-47d2-57b5-765d0894dc4d" />
+            <image src="../../media//CNX_Econ_C03_021.svg" mime-type="image/svg+xml" id="UUID0345e49c-819e-47d2-57b5-765d0894dc4d" />
           </media>
           <caption id="UUID75502674-454f-48f2-5fa1-490c978e32d7">Wraz ze wzrostem dochodu konsumenci będą nabywali większe ilości pizzy, co oznacza wzrost zapotrzebowania przy każdym poziomie ceny, czyli przesunięcie krzywej popytu w prawo.</caption>
         </figure>
@@ -123,7 +123,7 @@
       <figure id="CNX_Econ_C03_026">
         <title id="UUIDd89ec8bf-af2a-43ce-5b35-645f23e7b145">Czynniki, które powodują przesunięcia krzywej popytu</title>
         <media alt="Panel a wykresu (z lewej strony) wskazuje zdarzenia, które mogą spowodować zwiększenie popytu (wzrost zapotrzebowania przy każdym poziomie ceny, czyli przesunięcie krzywej popytu w prawo). Z kolei panel b (z prawej strony) zawiera listę zdarzeń mogących prowadzić do zmniejszenia popytu (spadku zapotrzebowania przy każdym poziomie ceny, czyli przesunięcia krzywej popytu w prawo)." id="fs-idm176066384">
-          <image src="../../media//CNX_Econ_C03_026.png" mime-type="image/png" id="UUID1884625d-b7a3-4158-54d1-8a27cc414e1a" />
+          <image src="../../media//CNX_Econ_C03_026.svg" mime-type="image/svg+xml" id="UUID1884625d-b7a3-4158-54d1-8a27cc414e1a" />
         </media>
         <caption id="UUIDff1ef678-9020-4917-6a7a-7ffa121f9779">(a) Lista czynników, które mogą spowodować wzrost popytu z D<sub>0</sub> do D<sub>1</sub>. (b) Te same czynniki, ale działające w odwrotnym kierunku, mogą spowodować spadek popytu z D<sub>0</sub> do D<sub>1</sub></caption>
       </figure>
@@ -139,7 +139,7 @@
       <figure id="CNX_Econ_C03_007">
         <title id="UUIDe63dbee6-1286-4765-6824-18c3aaea760e">Zmiany podaży: przykład rynku samochodów używanych</title>
         <media alt="Rysunek pokazuje krzywą S0 jako wyjściowe położenie krzywej podaży. Krzywa podaży S1, która została wykreślona po lewej stronie krzywej S0, reprezentuje przesunięcie wynikające ze zmniejszonej podaży. Krzywa podaży S2, która znajduje się z prawej strony wyjściowej krzywej podaży, ilustruje z kolei przesunięcie, będące skutkiem zwiększonej podaży." id="fs-idm85405328">
-          <image src="../../media//CNX_Econ_C03_007.png" mime-type="image/png" id="UUID31485c02-f154-425e-6f3e-ba230a1cdb1d" />
+          <image src="../../media//CNX_Econ_C03_007.svg" mime-type="image/svg+xml" id="UUID31485c02-f154-425e-6f3e-ba230a1cdb1d" />
         </media>
         <caption id="UUID5967e768-6462-40b3-73b4-44a9c8bde418">Zmniejszona podaż oznacza, że przy każdej cenie rynkowej liczba oferowanych samochodów jest mniejsza, a więc krzywa podaży przesuwa się w lewo, z położenia S<sub>0</sub> do S<sub>1</sub>. Zwiększona podaż oznacza, że przy każdym poziomie ceny rynkowej liczba oferowanych aut jest większa, a więc krzywa podaży przesuwa się w prawo, z położenia S<sub>0</sub> do położenia S<sub>2</sub>.</caption>
       </figure>
@@ -161,7 +161,7 @@
         <figure id="CNX_Econ_C03_022">
           <title id="UUID15248019-0c9e-489a-7f6a-4317bf858180">Krzywa podaży</title>
           <media alt="Wykres przedstawia wskazówki do pierwszego kroku. Krzywa podaży wskazuje minimalną cenę rynkową, jaką przedsiębiorstwo jest gotowe zaakceptować (P0), jeśli chce dostarczyć na rynek liczbę placków równą Q0." id="fs-idp37229232">
-            <image src="../../media//CNX_Econ_C03_022.png" mime-type="image/png" id="UUID46ad3744-8725-43ec-4fc1-d8435226b190" />
+            <image src="../../media//CNX_Econ_C03_022.svg" mime-type="image/svg+xml" id="UUID46ad3744-8725-43ec-4fc1-d8435226b190" />
           </media>
           <caption id="UUID318bf511-fafd-40ea-4127-6586cd8f0a45">Krzywą podaży można wykorzystać, aby pokazać minimalną cenę rynkową, jaką zaakceptuje przedsiębiorstwo przy produkcji określonej ilości towaru.</caption>
         </figure>
@@ -170,7 +170,7 @@
         <figure id="CNX_Econ_C03_023">
           <title id="UUIDe16990f5-ea90-4e42-633e-53b7222f4af3">Wyznaczanie cen</title>
           <media alt="Wykres ilustruje wskazówki do kroku 2. Dla danej wielkości produkcji (Q0) firma chce uzyskać cenę rynkową (P0) równą kosztowi produkcji jednej pizzy powiększonemu o oczekiwaną marżę zysku." id="fs-idp61490608">
-            <image src="../../media//CNX_Econ_C03_023.png" mime-type="image/png" id="UUID2ee610da-4b86-48b1-5c5a-27f38c1394cf" />
+            <image src="../../media//CNX_Econ_C03_023.svg" mime-type="image/svg+xml" id="UUID2ee610da-4b86-48b1-5c5a-27f38c1394cf" />
           </media>
           <caption id="UUIDeb17cb38-7153-4558-5ceb-ed4acf7096a6">Jednostkowy koszt produkcji powiększony o oczekiwany zysk równy jest cenie rynkowej, jaką firma ustaliła za swój produkt przy danej wielkości produkcji.</caption>
         </figure>
@@ -179,14 +179,14 @@
         <figure id="CNX_Econ_C03_024">
           <title id="UUIDf4e4c3f4-e40d-44f6-456e-95e51bac1372">Rosnące koszty powodują wzrost cen rynkowych</title>
           <media alt="Wykres przedstawia wskazówki do kroku trzeciego. Wzrost kosztów produkcji spowoduje wzrost ceny rynkowej (z poziomu P0 do poziomu P1), jaką przedsiębiorstwo będzie chciało uzyskać za jedną pizzę przy określonej wielkości produkcji (Q0). Od tego punktu jest już opis wykresu Ponieważ na cenę, którą firma chce otrzymać, składają się koszty produkcji i oczekiwany zysk, wzrost kosztów produkcji spowoduje wzrost rynkowej ceny produktu." id="fs-idm108114800">
-            <image src="../../media//CNX_Econ_C03_024.png" mime-type="image/png" id="UUIDf6fbef3d-aaba-4af6-79a7-976fc9f26638" />
+            <image src="../../media//CNX_Econ_C03_024.svg" mime-type="image/svg+xml" id="UUIDf6fbef3d-aaba-4af6-79a7-976fc9f26638" />
           </media>
         </figure>
         <para id="fs-idp74824768">Krok 4. Przesuń krzywą podaży tak, aby przeszła przez nowy punkt, wyznaczony przez wyższe koszty jednostkowe. Zobaczysz, że wzrost kosztów powoduje przesunięcie w górę (lub w lewo) krzywej podaży, tak że przy każdej cenie zaoferowana ilość będzie teraz mniejsza, co widać na <link target-id="CNX_Econ_C03_025" cmlnle:case="locative" id="UUIDffeff025-d15c-4776-485a-215ff3324e42" />.</para>
         <figure id="CNX_Econ_C03_025">
           <title id="UUIDd329143f-b49c-4ab5-7668-4333959e9077">Przesunięcie krzywej podaży</title>
           <media alt="Wykres ilustruje wskazówki do czwartego kroku. Wzrost jednostkowych kosztów produkcji spowoduje przesunięcie pionowo krzywej podaży w górę o tyle, o ile wzrosły te koszty." id="fs-idp119534720">
-            <image src="../../media//CNX_Econ_C03_025.png" mime-type="image/png" id="UUIDddf16da5-0fd3-403a-4ee7-7aa2e60bc204" />
+            <image src="../../media//CNX_Econ_C03_025.svg" mime-type="image/svg+xml" id="UUIDddf16da5-0fd3-403a-4ee7-7aa2e60bc204" />
           </media>
           <caption id="UUID2d67544a-352b-47c8-6033-362892ca70c6">Gdy jednostkowy koszt produkcji wzrasta, krzywa podaży przesuwa się w górę, w związku z czym dla każdego poziomu oferowanej liczby placków pizzy cena rynkowa wzrasta.</caption>
         </figure>
@@ -199,7 +199,7 @@
       <figure id="CNX_Econ_C03_027">
         <title id="UUID96796eea-9807-4685-46f3-9c3eaa97d7c3">Czynniki, które powodują przesunięcie krzywych podaży</title>
         <media alt="Na panelu z lewej strony wymienione są zdarzenia, które mogą spowodować zwiększenie ilości oferowanej przy każdym poziomie ceny rynkowej (przesunięcie krzywej podaży w prawo). Na panelu z prawej strony przedstawione są zdarzenia, które mogą prowadzić do zmniejszenia ilości oferowanej przy każdym poziomie ceny rynkowej (przesunięcie krzywej podaży w lewo)." id="fs-idm3875296">
-          <image src="../../media//CNX_Econ_C03_027.png" mime-type="image/png" id="UUID3608e275-57e5-44bd-7aba-2aa53b9c208e" />
+          <image src="../../media//CNX_Econ_C03_027.svg" mime-type="image/svg+xml" id="UUID3608e275-57e5-44bd-7aba-2aa53b9c208e" />
         </media>
         <caption id="UUIDfcb13971-780a-4013-6478-fb9f5dcd2000">(a) Lista czynników, które mogą spowodować wzrost podaży z S<sub>0</sub> do S<sub>1</sub>. (b) Te same czynniki, ale działające w odwrotnym kierunku, mogą spowodować spadek podaży z S<sub>0</sub> do S<sub>1</sub>.</caption>
       </figure>

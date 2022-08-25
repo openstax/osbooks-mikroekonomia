@@ -46,7 +46,7 @@
       <figure id="CNX_Econ_C09_008">
         <title id="UUIDb665075d-c972-476f-5eed-a0a25b500a35">Krzywa popytu dla doskonałej konkurencji i dla monopolu</title>
         <media alt="Wykres składa się z dwóch paneli. Lewy przedstawia krzywą popytu postrzeganą przez przedsiębiorstwo działające na rynku doskonale konkurencyjnym – jest to pozioma linia. Prawy natomiast przedstawia krzywą popytu postrzeganą przez monopolistę – to krzywa opadająca w dół." id="fs-idp95116000">
-          <image src="../../media//CNX_Econ_C09_008.png" mime-type="image/png" id="UUIDc1c610d6-cabc-44f1-4f83-eb4f8904c027" />
+          <image src="../../media//CNX_Econ_C09_008.svg" mime-type="image/svg+xml" id="UUIDc1c610d6-cabc-44f1-4f83-eb4f8904c027" />
         </media>
         <caption id="UUID78a8d624-b9ee-48a7-7e8a-c350c5fd1363">Panel (a) Dla przedsiębiorstwa na rynku doskonale konkurencyjnym krzywa popytu jest płaska. Taki jej przebieg oznacza, że firma może sprzedać małą (Q<sub>l</sub>) lub dużą (Q<sub>h</sub>) ilość swoich produktów po dokładnie tej samej cenie (P). Panel (b) W przypadku monopolisty jego krzywą popytu jest popyt rynkowy, który – dla większości towarów – ma nachylenie ujemne (opada). Tak więc jeśli monopolista wybierze wysoki poziom produkcji (Q<sub>h</sub>), musi ustalić stosunkowo niską cenę (P<sub>l</sub>). I odwrotnie, jeśli monopolista postawi na niski poziom produkcji (Q<sub>l</sub>), może wówczas żądać wyższej ceny (P<sub>h</sub>). Wyzwaniem dla monopolisty jest wybór takiej kombinacji ceny i ilości, która pozwoli na maksymalizację zysków.</caption>
       </figure>
@@ -72,7 +72,7 @@
       <figure id="CNX_Econ_C09_004">
         <title id="UUID03cebae7-6cb6-49e8-5b3a-6deca5c723c8">Utarg całkowity i koszt całkowity dla monopolistycznego przedsiębiorstwa Tabletka Zdrowia</title>
         <media alt="Wykres przedstawia koszt całkowity jako nachyloną dodatnio krzywą, a utarg całkowity jako paraboliczną krzywą, która początkowo rośnie, a następnie spada. Obie krzywe przecinają się dla poziomu produkcji zbliżonego do 7." id="fs-idm57576384">
-          <image src="../../media//CNX_Econ2e_C09_004.png" mime-type="image/png" id="UUID4551f655-e9e0-44b4-6817-ee73a58770a9" />
+          <image src="../../media//CNX_Econ2e_C09_004.svg" mime-type="image/svg+xml" id="UUID4551f655-e9e0-44b4-6817-ee73a58770a9" />
         </media>
         <caption id="UUID62fc14e3-a840-4f41-615f-9934a61bd74d">Utarg całkowity monopolistycznego przedsiębiorstwa Tabletka Zdrowia najpierw rośnie, a następnie, wraz ze wzrostem sprzedaży powyżej poziomu równego 7, zaczyna spadać. Niski poziom produkcji oznacza stosunkowo niewielki utarg całkowity, ponieważ zapotrzebowanie jest niewielkie. Wysoki poziom produkcji przynosi ponownie relatywnie mniejsze przyrosty utargu, ponieważ duża ilość oferowana na rynku obniża cenę akceptowaną przez klientów. Krzywa kosztów całkowitych jest nachylona w górę. Zyski będą najwyższe przy takiej wielkości produkcji, przy której różnica między utargiem całkowitym a kosztem całkowitym jest największa. Poziom produkcji maksymalizujący zysk nie pokrywa się z poziomem produkcji maksymalizującym utarg, ponieważ zyski poza utargiem uwzględniają jeszcze koszty.</caption>
       </figure>
@@ -88,7 +88,7 @@
       <figure id="CNX_Econ_C09_005">
         <title id="UUID44d0a8e5-9931-4383-7b6f-8a645bb6378c">Utarg krańcowy i koszt krańcowy w przedsiębiorstwie monopolistycznym Tabletka Zdrowia</title>
         <media alt="Wykres przedstawia koszt krańcowy jako paraboliczną, rosnącą krzywą, a utarg krańcowy jako opadającą linię prostą. Tam, gdzie przecinają się te dwie linie się przecinają, zysk przedsiębiorstwa jest maksymalny." id="fs-idp118647856">
-          <image src="../../media//CNX_Econ2e_C09_005.png" mime-type="image/png" id="UUID876e2a66-a1e6-45b6-7857-591e1e3f89a5" />
+          <image src="../../media//CNX_Econ2e_C09_005.svg" mime-type="image/svg+xml" id="UUID876e2a66-a1e6-45b6-7857-591e1e3f89a5" />
         </media>
         <caption id="UUIDa1d212bd-2178-4a34-67dc-282e69d4cdda">W przypadku monopolu takiego jak Tabletka Zdrowia utarg krańcowy maleje wraz ze wzrostem produkcji i sprzedaży. Krzywa kosztów krańcowych jest nachylona w górę. Wyborem maksymalizującym zysk dla monopolu będzie produkcja na poziomie, przy którym utarg krańcowy jest równy kosztowi krańcowemu, czyli MR = MC. Jeśli monopol produkuje mniej, to MR > MC, a przedsiębiorstwo mogłoby osiągać wyższe zyski dzięki zwiększeniu produkcji. Jeśli przedsiębiorstwo produkuje więcej, to MC > MR, a zatem zyski mogłyby być wyższe dzięki zmniejszeniu produkcji.</caption>
       </figure>
@@ -121,7 +121,7 @@
       <figure id="CNX_Econ_C09_006">
         <title id="UUID93afc53c-c6a1-4fa1-6733-e31b3c917f7b">Graficzna ilustracja wartości zysków dla monopolistycznego przedsiębiorstwa Tabletka Zdrowia</title>
         <media alt="Wykres przedstawia utargi i zyski monopolisty dla wielkości produkcji maksymalizującej zysk." id="fs-idm90663952">
-          <image src="../../media//CNX_Econ2e_C09_006.png" mime-type="image/png" id="UUID5096abe7-4ed3-4bd2-42a7-8d1e6beaf4aa" />
+          <image src="../../media//CNX_Econ2e_C09_006.svg" mime-type="image/svg+xml" id="UUID5096abe7-4ed3-4bd2-42a7-8d1e6beaf4aa" />
         </media>
         <caption id="UUID44fb266f-9195-42c2-6275-66e5af88f618">Na wykresie najpierw narysowano te same krzywe utargu krańcowego i kosztu krańcowego co na wykresie poprzednim. Następnie dodana została krzywa kosztu przeciętnego i krzywa popytu na produkty monopolisty. Przedsiębiorstwo Tabletka Zdrowia zaczyna od wyboru wielkości produkcji, dla której MR = MC. W tym przykładzie wynosi ona 5. Następnie monopolista decyduje, jaką cenę wyznaczyć, kierując się zależnościami z krzywej popytu. Pole dużego prostokąta ograniczone wybraną wielkością produkcji na osi poziomej i ceną odczytaną z krzywej popytu na osi pionowej wskazuje utarg całkowity tego przedsiębiorstwa. Jaśniejsze pole, które ograniczone jest przez wielkość produkcji na osi poziomej i koszt przeciętny dla wybranej wielkości produkcji na osi pionowej, wskazuje całkowity koszt przedsiębiorstwa. Duże pole utargu całkowitego minus mniejsze pole kosztu całkowitego daje ciemne pole ilustrujące zysk całkowity. Ponieważ wyznaczona przez monopolistę cena jest wyższa od kosztu przeciętnego, przedsiębiorstwo osiąga zyski większe od zera (zyski nadzwyczajne lub monopolowe).</caption>
       </figure>
@@ -135,7 +135,7 @@
       <figure id="CNX_Econ_C09_007">
         <title id="UUID61db22f4-b00e-46e2-5c80-a774faf074dc">W jaki sposób monopol maksymalizujący zyski podejmuje decyzję o cenie swoich produktów</title>
         <media alt="Wykres pokazuje zyski monopolisty, zilustrowane przez obszar między krzywą popytu, a krzywą kosztu przeciętnego, dla poziomu produkcji, w którym utarg krańcowy (MR) zrównuje się z kosztem krańcowym (MC)." id="fs-idp72925648">
-          <image src="../../media//CNX_Econ_C09_007.png" mime-type="image/png" id="UUIDe605c132-66d8-4b08-622c-f173de4a887d" />
+          <image src="../../media//CNX_Econ_C09_007.svg" mime-type="image/svg+xml" id="UUIDe605c132-66d8-4b08-622c-f173de4a887d" />
         </media>
         <caption id="UUID1ce11dc5-c513-4558-50fc-75fe1702721e">W pierwszym kroku monopolista wybiera poziom produkcji Q<sub>1</sub>, przy którym zysk jest maksymalny; jest to wielkość spełniająca warunek MR = MC. W kroku drugim monopolista decyduje, jaką cenę wyznaczyć dla tego poziomu produkcji (Q<sub>1</sub>). Może to łatwo zrobić, wykreślając linię prostą od Q<sub>1</sub> do punktu R na jego indywidualnej krzywej popytu (która jest tożsama z popytem rynkowym). W ten sposób monopolista określi cenę (P<sub>1</sub>). W kroku trzecim monopolista oblicza swój zysk. Utarg całkowity to Q<sub>1</sub> pomnożone przez P<sub>1</sub>. Koszt całkowity zostanie określony przez pomnożenie wielkości produkcji Q<sub>1</sub> przez koszt przeciętny. Jest on wskazany przez punkt S na krzywej kosztu przeciętnego i wynosi P<sub>2</sub>. Zysk to utarg całkowity minus koszt całkowity, a więc zacieniony obszar na rysunku.</caption>
       </figure>
@@ -147,7 +147,7 @@
         <figure id="CNX_Econ_C09_009">
           <title id="UUID3aabaeb0-86c4-4ebb-7d1e-70122db338f9">Krzywa utargu krańcowego vs krzywa popytu dla monopolisty</title>
           <media alt="Wykres pokazuje, że krzywa utargu krańcowego monopolisty leży poniżej krzywej popytu." id="fs-idm113396480">
-            <image src="../../media//CNX_Econ_C09_009.png" mime-type="image/png" id="UUID198b873f-82a5-485a-513c-b62748cb7ecb" />
+            <image src="../../media//CNX_Econ_C09_009.svg" mime-type="image/svg+xml" id="UUID198b873f-82a5-485a-513c-b62748cb7ecb" />
           </media>
           <caption id="UUID2d6b388a-5333-48ea-50bc-7cdfa11d828f">Ponieważ krzywa popytu rynkowego jest warunkowa, to krzywa utargu krańcowego monopolisty leży poniżej krzywej popytu</caption>
         </figure>

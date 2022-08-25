@@ -58,7 +58,7 @@
       <figure id="CNX_Econ_C07_004">
         <title id="UUID629197ef-8084-4846-60e4-40f10a6780db">Korzyści skali (rosnące przychody ze skali produkcji)</title>
         <media alt="Wykres przedstawia opadającą, hiperboliczną krzywą, która ilustruje zależność między rosnącymi rozmiarami produkcji i malejącym kosztem przeciętnym." id="fs-idm590512">
-          <image src="../../media//CNX_Econ_C07_004.png" mime-type="image/png" id="UUIDb4ddef30-51fd-426e-7657-71d8ff854d58" />
+          <image src="../../media//CNX_Econ_C07_004.svg" mime-type="image/svg+xml" id="UUIDb4ddef30-51fd-426e-7657-71d8ff854d58" />
         </media>
         <caption id="UUID8cf3b0e4-bbd6-43c0-489b-1172788da378">Mała fabryka produkuje 1 tys. budzików tygodniowo przy przeciętnym koszcie 12 zł za sztukę (S). Średnia fabryka produkuje 2 tys. budzików tygodniowo przy koszcie przeciętnym równym 8 zł (punkt M). Duża fabryka produkuje 5 tys. budzików tygodniowo przy koszcie przeciętnym równym 4 zł (punkt L). Korzyści skali pojawiają się, gdy wzrost wolumenu produkcji prowadzi do obniżki kosztu przeciętnego.</caption>
       </figure>
@@ -73,7 +73,7 @@
         <para id="UUID8af27bb5-c97f-4837-5457-c49508a89cc2" />
         <figure id="UUIDe3a3f250-56bb-4f4f-5a1d-c04b88907d13">
           <media alt="" id="UUID99cb3fbe-7300-4c65-6a40-70e279edb869">
-            <image src="../../media//CNX_Econ_C07_005.png" mime-type="image/png" id="UUIDc5678aca-38af-4108-6a68-454d28555058" />
+            <image src="../../media//CNX_Econ_C07_005.svg" mime-type="image/svg+xml" id="UUIDc5678aca-38af-4108-6a68-454d28555058" />
           </media>
           <caption id="UUID1a61baff-8864-56y6-aaw3-18a12a8b7f25">Od krzywych krótkookresowego całkowitego kosztu przeciętnego do długookresowej krzywej kosztu przeciętnego</caption>
         </figure>
@@ -95,7 +95,7 @@
       <figure id="CNX_Econ_C07_008">
         <title id="UUIDe7da8141-f4bd-4e1b-7ffa-2f4ebda072c6">Krzywa LAC a wielkość i liczba przedsiębiorstw</title>
         <media alt="Wykres na dwóch panelach przedstawia dwa różne kształty krzywej długookresowego kosztu przeciętnego. (LAC). Na panelu (a) (z lewej strony) krzywa LAC ma wyraźnie zaznaczone minimum, zaś na panelu (b) (z prawej strony) na krzywej LAC widać płaski odcinek stałych przychodów ze skali produkcji." id="fs-idp96531904">
-          <image src="../../media//CNX_Econ_C07_008.png" mime-type="image/png" id="UUID6da070d0-c6c7-4ffb-52ff-711b933f189e" />
+          <image src="../../media//CNX_Econ_C07_008.svg" mime-type="image/svg+xml" id="UUID6da070d0-c6c7-4ffb-52ff-711b933f189e" />
         </media>
         <caption id="UUID1a61baff-8864-40e8-7cf8-18a12a8b7f25">Panel (a): Jeśli krzywa LAC ma wyraźnie zaznaczone minimum, przedsiębiorstwa będą dążyć do tego, aby ich produkcja była równa bądź jak najbliższa wolumenowi wyznaczającemu minimum długookresowego kosztu przeciętnego (10 tys. sztuk rocznie oznaczone jako punkt R). Dla każdego innego poziomu produkcji, np. 5 tys. lub 20 tys. sztuk rocznie, koszty przeciętne będą wyższe i tym samym cena rynkowa również będzie musiała wzrosnąć. Panel (b): Przedsiębiorstwa, które zaproponują produkcję między 5 tys. (punkt R) i 20 tys. sztuk rocznie (punkt S), będą miały identyczny koszt przeciętny w długim okresie (wskazuje na to płaski odcinek krzywej LAC), będą zatem mogły oferować swoje zmywarki po tej samej cenie. Wielkość produkcji przedsiębiorstw działających na rynku będzie się zatem kształtować między 5 tys. a 20 tys. sztuk rocznie. Dopiero dla rozmiarów produkcji poniżej 5 tys. i powyżej 20 tys. rocznie koszt przeciętny gwałtownie rośnie, wymuszając zażądanie niekonkurencyjnych cen rynkowych.</caption>
       </figure>
