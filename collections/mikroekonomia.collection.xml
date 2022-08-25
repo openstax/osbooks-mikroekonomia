@@ -2,27 +2,13 @@
 <collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
   <metadata>
     <md:content-id>c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a</md:content-id>
-    <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Mikroekonomia – Podstawy</md:title>
     <md:language>pl</md:language>
-    <md:version>1661353814</md:version>
-    <md:created>2022-08-24T15:10:14.754183553+00:00</md:created>
-    <md:revised>2022-08-24T15:10:14.754183553+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
     <md:license url="https://creativecommons.org/licenses/by/4.0/deed.pl">
-      Uznanie autorstwa (CC BY)
-    </md:license>
-    <md:uuid>c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a</md:uuid>
-    <md:slug>mikroekonomia-podstawy</md:slug>
+    Uznanie autorstwa (CC BY)
+  </md:license>
+  <md:uuid>c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a</md:uuid>
+  <md:slug>mikroekonomia-podstawy</md:slug>
   </metadata>
   <content>
     <module document="m00001" />
