@@ -6,10 +6,7 @@
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>https://legacy.cnx.org/content/m64023/latest/</md:content-url>
     <md:title>Przedmowa</md:title>
-    <md:language>en</md:language>
-    <md:version>2022-08-24T15:10:14.139347725+00:00</md:version>
-    <md:created>2022-08-24T15:10:14.139347725+00:00</md:created>
-    <md:revised>2022-08-24T15:10:14.139347725+00:00</md:revised>
+    <md:language>pl</md:language>
     <md:actors>
       <md:person userid="cnxecon2">
         <md:fullname>OpenStax Economics</md:fullname>
