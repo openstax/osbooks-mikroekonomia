@@ -5,7 +5,10 @@
     <md:content-id>m00024</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Jak zmiany dochodów wpływają na wybory konsumentów</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:29.395859710+00:00</md:version>
+    <md:created>2022-09-07T09:41:29.395859710+00:00</md:created>
+    <md:revised>2022-09-07T09:41:29.395859710+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -43,7 +46,7 @@
       <figure id="CNX_Econ_C06_002">
         <title id="UUIDc3af1dee-d86c-4c65-6dd0-6b7b8af59455">Zmiana dochodów a wybory konsumenta</title>
         <media alt="Poszczególne punkty wykresu wskazują, które z dwóch dóbr, między którymi konsument dokonuje wyboru, jest postrzegane jako normalne, a które jako niższego rzędu." id="fs-idp3721440">
-          <image src="../../media//CNX_Econ_C06_002.png" mime-type="image/png" id="UUID9a2dbb6e-8dd9-48e7-6124-6f2e1e721a7d" />
+          <image src="../../media//CNX_Econ_C06_002.svg" mime-type="image/svg+xml" id="UUID9a2dbb6e-8dd9-48e7-6124-6f2e1e721a7d" />
         </media>
         <caption id="UUID3eb6cbcc-595f-4a63-44a4-64056baa9f64">Punkt maksymalizujący użyteczność przy początkowym ograniczeniu budżetowym to M. Przerywane linie poziome i pionowe przechodzące przez punkt M pozwalają od razu zobaczyć, czy ilość konsumowanych dóbr przy nowym ograniczeniu budżetowym jest większa, czy mniejsza. Przy nowym ograniczeniu budżetowym Karolina dokona wyboru takiego jak N, jeśli oba dobra są dobrami normalnymi. Jeśli noclegi są dobrem niższego rzędu, Karolina dokona wyboru takiego jak P. Jeśli bilety na koncert są dobrem niższego rzędu, Karolina wybierze kombinację bliską Q.</caption>
       </figure>
@@ -54,11 +57,11 @@
     </section>
     <section id="fs-idp143368864">
       <title id="UUID0a8afb5b-f1e3-4c9c-4c07-6a4e2d90ebfd">Jak zmiany cen wpływają na wybory konsumentów</title>
-      <para id="fs-idp82595968">Aby przeanalizować możliwy wpływ zmiany ceny na konsumpcję, ponownie posłużmy się konkretnym przykładem. <link target-id="CNX_Econ_C06_003" id="UUID1f1ad5c1-732f-4dba-5de4-fadcad1e738a" /> przedstawia Sebastiana, który dokonuje wyboru między zakupem kijów bejsbolowych bejsbolowych a zakupem aparatów fotograficznych. Podwyżka cen kijów bejsbolowych nie ma wpływu na możliwości zakupu aparatów, ale zmniejsza liczbę kijów, na które Sebastian może sobie pozwolić. Tak więc wzrost ceny kijów bejsbolowych, tj. dobra na osi poziomej, powoduje, że linia ograniczenia budżetowego obraca się do wewnątrz, czyli wokół punktu przecięcia z osią pionową. Podobnie jak w poprzedniej części, punkt M reprezentuje pierwotnie preferowany koszyk na początkowym ograniczeniu budżetowym, wybrany przez Sebastiana na podstawie jego użyteczności całkowitej i krańcowej oraz limitów wynikających z wysokości dochodu. W niniejszym przykładzie na osi poziomej i pionowej nie są zaznaczone jednostki liczbowe, więc dyskusja musi koncentrować się na ogólnym stwierdzeniu, czy Sebastian będzie konsumował mniej, czy więcej danego dobra, a nie na wartościach liczbowych.</para>
+      <para id="fs-idp82595968">Aby przeanalizować możliwy wpływ zmiany ceny na konsumpcję, ponownie posłużmy się konkretnym przykładem. <link target-id="CNX_Econ_C06_003" id="UUID1f1ad5c1-732f-4dba-5de4-fadcad1e738a" /> przedstawia sytuację Sebastiana, który dokonuje wyboru między zakupem kijów bejsbolowych bejsbolowych a zakupem aparatów fotograficznych. Podwyżka cen kijów bejsbolowych nie ma wpływu na możliwości zakupu aparatów, ale zmniejsza liczbę kijów, na które Sebastian może sobie pozwolić. Tak więc wzrost ceny kijów bejsbolowych, tj. dobra na osi poziomej, powoduje, że linia ograniczenia budżetowego obraca się do wewnątrz, czyli wokół punktu przecięcia z osią pionową. Podobnie jak w poprzedniej części, punkt M reprezentuje pierwotnie preferowany koszyk na początkowym ograniczeniu budżetowym, wybrany przez Sebastiana na podstawie jego użyteczności całkowitej i krańcowej oraz limitów wynikających z wysokości dochodu. W niniejszym przykładzie na osi poziomej i pionowej nie są zaznaczone jednostki liczbowe, więc dyskusja musi koncentrować się na ogólnym stwierdzeniu, czy Sebastian będzie konsumował mniej, czy więcej danego dobra, a nie na wartościach liczbowych.</para>
       <figure id="CNX_Econ_C06_003">
         <title id="UUIDfb4d764f-5c30-4f0b-7707-91ad45cf9308">Jak zmiana ceny wpływa na wybory konsumenta</title>
         <media alt="Wykres pokazuje, jak zmiany cen wpływają na decyzje dotyczące wydatków." id="fs-idp46036416">
-          <image src="../../media//CNX_Econ_C06_003.png" mime-type="image/png" id="UUIDa371d8c2-7a52-4d4b-488c-e9748da78d48" />
+          <image src="../../media//CNX_Econ_C06_003.svg" mime-type="image/svg+xml" id="UUIDa371d8c2-7a52-4d4b-488c-e9748da78d48" />
         </media>
         <caption id="UUIDbc2e6b3b-024c-40ce-6e24-123c3495ca00">Początkowym punktem maksymalizującym użyteczność jest M. Gdy cena kijów bejsbolowych rośnie, ograniczenie budżetowe obraca się zgodnie z ruchem wskazówek zegara. Linie przerywane pozwalają od razu zobaczyć, czy nowy koszyk zawiera mniej obu dóbr, czy też mniej jednego dobra, a więcej drugiego. Nowe możliwe wybory to mniej kijów bejsbolowych i więcej aparatów fotograficznych, tak jak w punkcie H, lub mniej obu dóbr, jak w punkcie J. Wybór K oznaczałby, że wyższa cena kijów nie zmieniła wielkości konsumpcji kijów, ale zmniejszyła liczbę nabywanych aparatów. Teoretycznie możliwe, ale mało prawdopodobne w prawdziwym świecie, są wybory takie jak L, gdzie wyższa cena kijów bejsbolowych oznacza ich większą konsumpcję.</caption>
       </figure>
@@ -76,7 +79,7 @@
       <figure id="CNX_Econ_C06_004">
         <title id="UUID43a61f00-8494-42ff-4e14-bb00cb956be2">Podstawy tworzenia krzywej popytu: przykład mieszkań</title>
         <media alt="Dwa panele na wykresie ilustrują, jak ograniczenie budżetowe konsumenta, wpływa na jego krzywą popytu." id="fs-idm70009136">
-          <image src="../../media//CNX_Econ_C06_004.png" mime-type="image/png" id="UUID21eac4a0-2148-4a7f-6130-c074d98463c3" />
+          <image src="../../media//CNX_Econ_C06_004.svg" mime-type="image/svg+xml" id="UUID21eac4a0-2148-4a7f-6130-c074d98463c3" />
         </media>
         <caption id="UUID58456a91-0401-44fe-748c-c57dd3392659">Panel (a) przedstawia wykres ograniczenia budżetowego. Gdy cena wzrasta z P<sub>0</sub> do P<sub>1</sub>, P<sub>2</sub> i P<sub>3</sub>, linia ograniczenia budżetowego obraca się zgodnie z ruchem wskazówek zegara. Wybór maksymalizujący użyteczność zmienia się z M<sub>0</sub> na M<sub>1</sub>, M<sub>2</sub> i M<sub>3</sub>. W efekcie wielkość zapotrzebowania na mieszkania zmienia się z Q<sub>0</sub> na Q<sub>1</sub>, Q<sub>2</sub> i Q<sub>3</sub>, <emphasis effect="italics">ceteris paribus</emphasis>. Panel (b) pokazuje wyprowadzenie krzywej popytu. Krzywa popytu przedstawia każdą kombinację ceny mieszkań i wielkości zapotrzebowania na mieszkania, <emphasis effect="italics">ceteris paribus</emphasis>. Liczba mieszkań jest taka sama w poszczególnych punktach paneli (a) i (b) wykresu. A zatem początkowa cena mieszkań (P<sub>0</sub>) i początkowa liczba mieszkań (Q<sub>0</sub>) pojawiają się na krzywej popytu jako punkt E<sub>0</sub>. Wyższa cena mieszkań (P<sub>1</sub>) i odpowiadająca jej mniejsza wielkość zapotrzebowania na mieszkania (Q<sub>1</sub>) pojawiają się na krzywej popytu jako punkt E<sub>1</sub>.</caption>
       </figure>

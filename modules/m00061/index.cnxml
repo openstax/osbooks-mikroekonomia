@@ -5,7 +5,10 @@
     <md:content-id>m00061</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Sposoby reakcji na zagrożenia związane z ryzykiem klimatycznym</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:31.330988409+00:00</md:version>
+    <md:created>2022-09-07T09:41:31.330988409+00:00</md:created>
+    <md:revised>2022-09-07T09:41:31.330988409+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -38,7 +41,7 @@
       <para id="UUIDaaf9cdd6-643d-443c-730e-657cf64b06e1" />
       <figure id="UUID1f720322-a6fb-4adb-6963-6b50cc8baf0d">
         <media alt="Mapa świata przedstawiająca obszary najbardziej zagrożone zmianami klimatu. Są to kraje środkowej i południowej Afryki, południowo-wschodniej Azji i Oceanii oraz Ameryki Środkowej i Ameryki Południowej." id="UUIDb7e6bfab-5418-463d-6add-e228ab2d05dd">
-          <image src="../../media//nowa mapa.png" mime-type="image/png" id="UUIDc78493d2-569d-40a3-4c4b-cf5c2647782d" />
+          <image src="../../media//nowa mapa.svg" mime-type="image/svg+xml" id="UUIDc78493d2-569d-40a3-4c4b-cf5c2647782d" />
         </media>
         <caption id="UUID766a3853-edf5-4a48-5092-42ac2e5c9ae5">Mapa świata przedstawia rozkład podatności na zmiany klimatu w latach 2000–2019. Kraje najbardziej narażone na skutki katastrofy klimatycznej, znaczone na czerwono. Źródło: (Na podstawie danych z raportu Global Climate Risk Index 2021, mapa przygotowana z wykorzystaniem aplikacji Datawrapper)</caption>
       </figure>

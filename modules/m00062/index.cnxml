@@ -5,7 +5,10 @@
     <md:content-id>m00062</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Zrównoważony ład korporacyjny i ESG</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:31.354346246+00:00</md:version>
+    <md:created>2022-09-07T09:41:31.354346246+00:00</md:created>
+    <md:revised>2022-09-07T09:41:31.354346246+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -35,7 +38,7 @@
     <para id="UUID7b897636-64af-4e4a-680b-fdcb8a0816f6" />
     <figure id="UUIDd2caeb18-d263-434f-5089-a311a353d000">
       <media alt="Infografika przedstawia zachodzące na siebie trzy koła. Pierwsze koło symbolizuje Ład społeczny, to jest: czynniki obejmujące strukturę zarządzania, nadzór oraz finansowanie organizacji, reguły określające prawa interesariuszy wypełniających zobowiązania wobec inwestorów zewnętrznych i pracowników. Drugie koło przedstawia Środowisko, czyli: czynniki obejmujące działania na rzecz klimatu i ograniczenia wpływu na środowisko m.in. przez redukcję emisji gazów cieplarnianych, zmniejszenie zużycia surowców i wody, ograniczenie produkcji odpadów i działania na rzecz bioróżnorodności i wykorzystywania surowców odnawialnych. Trzecie koło symbolizuje Społeczną odpowiedzialność, to jest: Czynniki obejmujące relacje społeczne, prawa człowieka, różnorodność, standardy pracy w całym łańcuchu wartości i dostaw, przestrzeganie zasad higieny pracy i bezpieczeństwa wytwarzanych produktów." id="UUIDddfd9a72-2eae-4023-590b-91d78d40b8d8">
-        <image src="../../media//rys1.png" mime-type="image/png" id="UUID728b3e9d-1c55-4ca4-55f0-aa63ddb953cd" />
+        <image src="../../media//rys1.svg" mime-type="image/svg+xml" id="UUID728b3e9d-1c55-4ca4-55f0-aa63ddb953cd" />
       </media>
       <caption id="UUIDde6e784a-4557-4651-7695-c1e54e83f5da">Kryteria ESG: środowisko, ład społeczny i społeczna odpowiedzialność. (Źródło: opracowanie na podstawie raportu EY <emphasis effect="italics">Biznes dla klimatu</emphasis>)</caption>
     </figure>
@@ -50,30 +53,30 @@
       <para id="UUID1bda6b37-4b99-4f94-47d6-e578b01f5f80" />
       <figure id="UUID0ec0f77d-ddc1-4f04-5ab7-db91c7ba1cb4">
         <media alt="Wykres słupkowy przedstawiający emitentów różnych rodzajów zielonych obligacji: Władze lokalne, instytucje finansowe, spółki spoza sektora finansowego, podmioty wspierane przez rząd i emitenci rządowi. W Afryce 95% emitentów to spółki spoza sektora finansowego, w regionie Azji i Pacyfiku prawie 60% obligacje jest emitowanych przez instytucje finansowych, w Europie po około 30% emisji należy do instytucji finansowych i spółek spoza sektora finansowego, w Ameryce Południowej oraz w Ameryce Północnej prawie 70% to spółki spoza sektora finansowego. Podmioty wspierane przez rząd mają około 10-procentowy udział w emisjach zielonych obligacji we wszystkich regionach z wyjątkiem Afryki, w której ten udział jest pomijalnie mały." id="UUIDa61bf65e-8ef7-4192-6a82-a57d38a02d6b">
-          <image src="../../media//rys5.png" mime-type="image/png" id="UUIDa296b934-6521-4434-46f8-725f5426b5e4" />
+          <image src="../../media//rys5.svg" mime-type="image/svg+xml" id="UUIDa296b934-6521-4434-46f8-725f5426b5e4" />
         </media>
         <caption id="UUID853519b6-ba9e-4a60-7bfa-eb67d8b849fe">Rodzaje zielonych obligacji wg regionów, dane na koniec 2019 r. (Źródło: Franklin Templeton Capital Markets Insights Group, Bloomberg)</caption>
       </figure>
       <para id="UUID20dbe2ae-49c1-45a3-4d48-f556dde5298f">W 2018 r. wartość emisji zielonych obligacji przekroczyła 180 mld dol., a skumulowana wartość światowego portfela zrównoważonych produktów finansowych osiągnęła pułap 23 bln dol. (wzrost o 25% w porównaniu z rokiem 2014). Większość zielonych obligacji denominowanych jest w trzech walutach: dol. amerykańskich, euro oraz chińskim renminbi (juanach).</para>
       <para id="UUIDeb2404fc-48d5-45e9-4ad3-4dd863cb77fc" />
       <figure id="UUIDdb0905b9-c645-40b0-49aa-4a29ffb94b25">
-        <media alt="Przyrost zielonych obligacji w czasie. W 2013 r. obserwowano poniżej 50 emitentów, od 2015 r. obserwuje się wzrost liczby emitetnów zielonych obligacji do ponad 210 w 2017. W 2019 liczba ta spadła do około 160. " id="UUID26afc3cc-8e18-4e1e-7a95-066afc93f5e3">
-          <image src="../../media//rys7a.png" mime-type="image/png" id="UUIDd3724914-d1a4-4cf8-469b-30d5be7f76a8" />
+        <media alt="Przyrost zielonych obligacji w czasie. W 2013 r. obserwowano poniżej 50 emitentów, od 2015 r. obserwuje się wzrost liczby emitetnów zielonych obligacji do ponad 210 w 2017. W 2019 liczba ta spadła do około 160." id="UUID26afc3cc-8e18-4e1e-7a95-066afc93f5e3">
+          <image src="../../media//rys7a.svg" mime-type="image/svg+xml" id="UUIDd3724914-d1a4-4cf8-469b-30d5be7f76a8" />
         </media>
         <caption id="UUID31f2a6ab-439e-4d86-5e43-9a73274be757">Emitenci zielonych obligacji w podziale regionalnym. (Źródło: Bank Rozrachunków Międzynarodowych)</caption>
       </figure>
       <para id="UUID2d1c60c3-d3be-48e7-4556-5495f903204a" />
       <figure id="UUIDa472154d-5dba-4e0f-5104-234eb85b5076">
         <media alt="Panel (b) skumulowana wartość emisji zielonych obligacji wyrażona w dolarach. Najwyższa wartość obligacji to obligacje korporacyjne, ich skumulowana wartość wynosi 600 mld dol. Jedna trzecia tej wartości to obligacje w dolarach, jedna trzecia w euro, a pozostała część w chińskim renminbi, innych walutach rynków rozwiniętych i innych walutach rynków rozwijających się." id="UUID1ec981e1-5b82-4747-7663-a7ae1c50932d">
-          <image src="../../media//rys7b.png" mime-type="image/png" id="UUIDf487c8c9-a8f8-4783-73cf-f9c68a2d7d75" />
+          <image src="../../media//rys7b.svg" mime-type="image/svg+xml" id="UUIDf487c8c9-a8f8-4783-73cf-f9c68a2d7d75" />
         </media>
         <caption id="UUID9315e633-4fab-4c18-7a33-2d9e00ddb7fe">Skumulowana wartość emisji zielonych obligacji (wartość denominacyjna w walutach obcych wyrażona w mld dol. amerykańskich). (Źródło: Bank Rozrachunków Międzynarodowych)</caption>
       </figure>
-      <para id="UUIDd3b59041-75f5-467d-75e7-c0e312fc6001">Szczególnie warto podkreślić, że zielone obligacje emitowane w amerykańskich dolarach charakteryzują się wyższymi stopami zwrotu niż ich tradycyjne odpowiedniki. Co ciekawe, te denominowane w euro już nie są tak atrakcyjne i może świadczyć to o skłonności inwestorów w Europie do większej dywersyfikacji ryzyka portfela inwestycyjnego przez łączenie produktów tradycyjnych oraz zrównoważonych (zob. rys. poniżej).</para>
+      <para id="UUIDd3b59041-75f5-467d-75e7-c0e312fc6001">Szczególnie warto podkreślić, że zielone obligacje emitowane w amerykańskich dolarach charakteryzują się wyższymi stopami zwrotu niż ich tradycyjne odpowiedniki. Co ciekawe, te denominowane w euro już nie są tak atrakcyjne i może świadczyć to o skłonności inwestorów w Europie do większej dywersyfikacji ryzyka portfela inwestycyjnego przez łączenie produktów tradycyjnych oraz zrównoważonych, co przedstawia <link target-id="UUIDa6c93915-7626-445c-7530-0b1b7939c9fd" id="UUIDb718af53-2505-47db-65c5-5ace525683b0" />.</para>
       <para id="UUID564ed796-a2c3-4233-4871-62936085e697" />
       <figure id="UUIDa6c93915-7626-445c-7530-0b1b7939c9fd">
-        <media alt="Stopy  zwrotu z obligacji zielonych i tradycyjnych dla euro i dolara amerykańskiego." id="UUID85399caf-c9de-4118-4730-a43a7e05e613">
-          <image src="../../media//rys6.png" mime-type="image/png" id="UUID062cce47-0c6c-4c28-463e-2f5729fd5eb1" />
+        <media alt="Stopy zwrotu z obligacji zielonych i tradycyjnych dla euro i dolara amerykańskiego." id="UUID85399caf-c9de-4118-4730-a43a7e05e613">
+          <image src="../../media//rys6.svg" mime-type="image/svg+xml" id="UUID062cce47-0c6c-4c28-463e-2f5729fd5eb1" />
         </media>
         <caption id="UUID339d9faa-dceb-4b67-4a4e-ebdc12d425ca">Stopy zwrotu z obligacji zielonych i tradycyjnych. (Źródło: Bank Rozrachunków Międzynarodowych)</caption>
       </figure>
@@ -84,7 +87,7 @@
       <para id="UUID1a499ff4-150c-4bd4-5952-d00c47c6b02c">Światowi liderzy zmian, firmy, które jako pierwsze zdecydowały się na wdrażanie strategii opartych na kryteriach ESG już dziś zaczynają otrzymywać od klientów swoistą premię za ryzyko w postaci większego zaufania i szerszego dostępu do preferencyjnych źródeł finansowania. Pionierzy, którzy w konsekwentny sposób zmieniają kulturę organizacyjną, stymulują wzrost stopnia identyfikacji pracowników z organizacją, dzięki czemu zielona zmiana jest szybciej przyjmowana na wszystkich szczeblach, a całość działań, od poziomu strategii do poziomu operacyjnego funkcjonuje w sposób spójny.</para>
       <para id="UUID5cafbc9c-4bc4-4155-4ab7-93904b1d00f3">Pamiętać również należy, że tempo wdrażania nowej strategii w przedsiębiorstwach nie może być wolniejsze od szybko rosnącej świadomości ekologicznej i poczucia odpowiedzialności za przyszłość naszej planety wśród potencjalnych klientów. Zmiany postaw konsumenckich są z kolei pochodną odpowiedzialnej polityki gospodarczej realizowanej przez państwo, które za swój cel powinno postawić edukację obywateli. Przez swoje wybory konsumpcyjne mogą oni stymulować i zachęcać przedsiębiorstwa do oferowania im produktów, których wytworzenie i konsumpcja nie uszczuplą dobrostanu materialnego i środowiskowego przyszłych pokoleń.</para>
       <note type="note" id="UUID9402a51b-ffb3-4dd4-4e56-022aee61d3da" class="bringhome economics">
-        <para id="UUID7b681dd6-4131-4ca9-5b8c-34988c4ebe7c">Uwaga, pożar!</para>
+        <title id="UUIDac57de5b-55a0-4d43-5928-c21eafe05a6d">Pożary wrócą!</title>
         <para id="UUID74b42433-295f-4546-472e-7b8172df2b55">Chociaż klimatolodzy nie mają wątpliwości, że z powodu działalności człowieka i będących jej konsekwencją szybko postępujących zmian klimatu rekordowy pożar z 2019 r. może się w Australii powtórzyć już w ciągu kolejnych kilku lat, katastrofa ta nie doprowadziła do wprowadzenia żadnych istotnych zmian zarówno w skali wydobycia i sprzedaży węgla kamiennego, jak i podejścia samych Australijczyków do zmian klimatu. Zresztą problem ten nie dotyka wyłącznie mieszkańców tego najmniejszego z kontynentów. Europejczycy, szczególnie mieszkańcy Włoch i Hiszpanii, latem 2022 r. zmagali się z bezprecedensową falą upałów, która doprowadziła nie tylko suszy, ale także dużej liczby zgonów, zwłaszcza wśród ludzi starszych.</para>
         <para id="UUID55091e52-d46c-4457-58ac-8b96a499a008">Niestety w postawach ludzi wciąż dominuje perspektywa krótkookresowa, która pozwala wierzyć, że „jakoś to będzie” i „nigdy tak nie było, żeby jakoś nie było”. Choć psychologiczną motywację stojącą za takim właśnie sposobem myślenia można próbować sobie tłumaczyć, to zarówno krótko- jak i długookresowy koszt takiej niefrasobliwości jest gigantyczny. Mieszkańcy całego globu muszą w zasadniczy sposób zmienić swoje podejście do gospodarowania zasobami energetycznymi. W przeciwnym wypadku koszty dla ludzkości mogą okazać się przerażająco wysokie.</para>
       </note>

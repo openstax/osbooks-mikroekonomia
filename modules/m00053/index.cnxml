@@ -5,7 +5,10 @@
     <md:content-id>m00053</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Prywatne sposoby rozwiązania problemu negatywnych efektów zewnętrznych</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:30.960523539+00:00</md:version>
+    <md:created>2022-09-07T09:41:30.960523539+00:00</md:created>
+    <md:revised>2022-09-07T09:41:30.960523539+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -42,7 +45,7 @@
       <figure id="CNX_Econ_C12_002">
         <title id="UUID3d0d2522-698c-4eea-69d3-b39b0f1b8e7f">Opłata za emisję zanieczyszczeń</title>
         <media alt="Wykres przedstawia opłatę za emisję zanieczyszczeń, jako sposób, który państwo może wykorzystać, aby skłonić przedsiębiorstwo do redukcji skali emisji sadzy do atmosfery." id="fs-idm89415520">
-          <image src="../../media//CNX_Econ_C12_002.png" mime-type="image/png" id="UUID7d366654-b3c4-4c5f-663a-1d88b6d7c258" />
+          <image src="../../media//CNX_Econ_C12_002.svg" mime-type="image/svg+xml" id="UUID7d366654-b3c4-4c5f-663a-1d88b6d7c258" />
         </media>
         <caption id="UUID14642939-f894-469e-5200-9946016b0643">Jeśli opłata za emisję zanieczyszczeń zostanie ustalona na poziomie 1000 zł za każde 10 kg sadzy, przedsiębiorstwo będzie miało motywację do zmniejszenia emisji zanieczyszczeń o 30 kg, ponieważ koszt redukcji emisji sadzy o kolejne 20 kg będzie wyższy (1500 zł + 2500 zł) niż opłata nałożona przez państwo (1000 zł + 1000 zł).</caption>
       </figure>

@@ -5,7 +5,10 @@
     <md:content-id>m00064</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Krzywe obojętności</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:32.056458667+00:00</md:version>
+    <md:created>2022-09-07T09:41:32.056458667+00:00</md:created>
+    <md:revised>2022-09-07T09:41:32.056458667+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -32,7 +35,7 @@
       <figure id="CNX_Econ_A06_001">
         <title id="UUID1f42320f-ba8b-4c2a-617a-7797b875f732">Krzywe obojętności Lilii</title>
         <media alt="Rysunek przedstawia trzy krzywe obojętności. Oś x to „książki”, a oś y to „pączki”. Na krzywej Ul nie ma zaznaczonych żadnych punktów. Na krzywej Um są zaznaczone następujące punkty: A (2; 120); B (3; 84); C (11; 40); D (12; 35). Na krzywej Uh jest zaznaczony punkt F (5; 100)." id="fs-idp100366096">
-          <image src="../../media//CNX_Econ_A06_001.png" mime-type="image/png" id="UUID2a436f15-a6b9-4681-7ebb-466ca039f7ff" />
+          <image src="../../media//CNX_Econ_A06_001.svg" mime-type="image/svg+xml" id="UUID2a436f15-a6b9-4681-7ebb-466ca039f7ff" />
         </media>
         <caption id="UUIDc8df94c7-adcd-433f-56ed-0d5317de6556">Lilia uzyskuje identyczną użyteczność ze wszystkich koszyków dóbr na danej krzywej obojętności. Wszystkie punkty na najwyższej krzywej obojętności U<sub>h</sub>, takie jak F, zapewniają większą użyteczność niż punkty takie jak A, B, C i D na środkowej krzywej obojętności U<sub>m</sub>. Podobnie dowolne punkty na środkowej krzywej obojętności U<sub>m</sub> zapewniają większą użyteczność niż jakiekolwiek punkty na najniższej krzywej obojętności U<sub>l</sub>.</caption>
       </figure>
@@ -56,7 +59,7 @@
       <figure id="CNX_Econ_A06_002">
         <title id="UUID55faf5d1-1ceb-41b3-70e9-3d317ef4df6c">Krzywe obojętności i ograniczenie budżetowe</title>
         <media alt="Wykres pokazuje krzywe obojętności Ul, Um i Uh, na których zaznaczono następujące koszyki dóbr obejmujące książki (oś x) i pączki (oś y): A (2; 120); B (3; 84); F (5; 100); G (6; 48); H (3; 70)." id="fs-idm37597008">
-          <image src="../../media//CNX_Econ_A06_002.png" mime-type="image/png" id="UUID4350cf01-6f66-4e65-5416-ba66072ca7f8" />
+          <image src="../../media//CNX_Econ_A06_002.svg" mime-type="image/svg+xml" id="UUID4350cf01-6f66-4e65-5416-ba66072ca7f8" />
         </media>
         <caption id="UUIDa7ea7dda-3a15-4c3d-683f-12d464848ba1">Krzywe obojętności pokazują preferencje Lilii. Jej ograniczenie budżetowe, uwzględniające ceny książek i pączków oraz dochód, reprezentuje linia prosta. Optymalnym wyborem Lilii jest punkt B, gdzie linia budżetowa jest styczna do krzywej obojętności U<sub>m</sub>. Lilia miałaby większą użyteczność w punkcie takim jak F na wyższej krzywej obojętności U<sub>h</sub>, ale linia budżetowa w żadnym punkcie nie dotyka wyższej krzywej obojętności U<sub>h</sub>, więc nie stać jej na taki wybór. Koszyk taki jak G jest dostępny dla Lilii, ale znajduje się na krzywej obojętności Ul, a zatem daje mniejszą użyteczność niż koszyk B, który znajduje się na krzywej obojętności U<sub>m</sub>.</caption>
       </figure>
@@ -70,7 +73,7 @@
       <figure id="CNX_Econ_A06_013">
         <title id="UUIDa3fa58e1-f788-4b3f-6db8-8968c57d053d">Krzywe obojętności Michała i Nataszy</title>
         <media alt="Obie części rysunku pokazują „filmy z wypożyczalni” na osi x i „jogurty” na osi y. Część (a) pokazuje reakcję Michała na wzrost dochodu. Na dwóch krzywych obojętności są zaznaczone punkty W (3; 28) i X (7; 32). Część (b) pokazuje reakcję Nataszy na wzrost dochodu. Na dwóch krzywych obojętności są zaznaczone punkty Y (7; 12) i Z (8; 28)." id="fs-idm101396496">
-          <image src="../../media//CNX_Econ_A06_013.png" mime-type="image/png" id="UUID1667f1d8-c26a-4b8f-622e-8bb0855b7ccf" />
+          <image src="../../media//CNX_Econ_A06_013.svg" mime-type="image/svg+xml" id="UUID1667f1d8-c26a-4b8f-622e-8bb0855b7ccf" />
         </media>
         <caption id="UUID261639e8-cbba-4f38-42c6-3a9dffb75621">Michał i Natasza mają początkowo do czynienia z takim samym ograniczeniem budżetowym, tj. takimi samymi cenami i dochodem. Jednak krzywe obojętności, które ilustrują ich preferencje, są różne. (a) Początkowy wybór Michała w punkcie W obejmuje więcej jogurtów i mniej filmów, a Michał reaguje na wzrost dochodu głównie zwiększeniem konsumpcji filmów w punkcie X. (b) I odwrotnie, początkowy wybór Nataszy (punkt Y) obejmuje względnie więcej filmów, a jej reakcją na wzrost dochodu jest duże zwiększenie konsumpcji jogurtów. Nawet jeśli ograniczenie budżetowe jest takie samo, osobiste preferencje mogą prowadzić do różnych początkowych wyborów i do różnych reakcji w odpowiedzi na zmianę dochodów.</caption>
       </figure>
@@ -84,7 +87,7 @@
       <figure id="CNX_Econ_A06_005">
         <title id="UUID3328eaad-9416-4cf3-41fa-4e0c28cfe773">Efekt substytucyjny i dochodowy</title>
         <media alt="Wykres przedstawia dwie krzywe obojętności z zaznaczonymi punktami A (10, 3) i B (10, 2). Na rysunku zaznaczony jest także punkt C będący punktem przecięcia dwóch linii przerywanych. Oś X oznacza pizzę i przedstawia strzałkę obok litery „s” skierowaną w prawo i strzałkę obok litery „d” skierowaną w lewo. Oś Y oznacza wizyty u fryzjera i przedstawia skierowane w dół strzałki dla liter „s” oraz „d”." id="fs-idp140057303335136">
-          <image src="../../media//CNX_Econ_A06_005.png" mime-type="image/png" id="UUIDef1ce426-d373-40b3-7c5c-22edd4e327c5" />
+          <image src="../../media//CNX_Econ_A06_005.svg" mime-type="image/svg+xml" id="UUIDef1ce426-d373-40b3-7c5c-22edd4e327c5" />
         </media>
         <caption id="UUID3478e5f8-13fa-4b4c-59fa-9229449e88ef">Początkowym wyborem jest A, czyli punkt styczności między początkowym ograniczeniem budżetowym a krzywą obojętności. Nowy punkt optymalny to B, czyli punkt styczności między nowym ograniczeniem budżetowym a dolną krzywą obojętności. Punkt C jest punktem styczności między linią przerywaną, której nachylenie pokazuje nową wyższą cenę wizyt u fryzjera, a początkową krzywą obojętności. Efekt substytucyjny jest przejściem z punktu A do C, co oznacza mniejszą liczbę wizyt u fryzjera i więcej pizzy. Efekt dochodowy to przesunięcie z punktu C do B. Odzwierciedla on zmniejszenie siły nabywczej, co powoduje przejście z wyższej krzywej obojętności do niższej krzywej obojętności przy niezmienionych cenach względnych. Efekt dochodowy skutkuje mniejszą konsumpcją obu dóbr. Zarówno efekt substytucyjny, jak i dochodowy powodują mniejszą liczbę wizyt u fryzjera. Natomiast w przypadku pizzy efekty substytucyjny i dochodowy znoszą się, a wielkość konsumpcji pizzy się nie zmienia.</caption>
       </figure>
@@ -104,7 +107,7 @@
       <figure id="CNX_Econ_A06_006">
         <title id="UUID7bd0b177-a467-4910-476e-e6431a0547f2">Skutki zmiany płacy</title>
         <media alt="Rysunek przedstawia skutki zmiany płacy dla Patrycji. Patrycja zaczyna od punktu A (30, 600 dol.), czyli od punktu styczności między początkową linią ograniczenia budżetowego a niższą krzywą obojętności Ul. Wzrost płacy przesuwa jej ograniczenie budżetowe w prawo, dzięki czemu może teraz wybrać punkt B (40, 800 dol.) na krzywej obojętności Uh. Efektem substytucyjnym jest przesunięcie z punktu A do C, czyli w przybliżeniu do punktu (21, 750 dol.). Efekt substytucyjny powoduje, że Patrycja wybiera mniej czasu wolnego, który jest relatywnie droższy, i osiąga większy dochód, który jest relatywnie łatwiejszy do uzyskania. Natomiast efektem dochodowym jest przesunięcie z punktu C do B." id="fs-idp114986704">
-          <image src="../../media//CNX_Econ_A06_006.png" mime-type="image/png" id="UUIDc538f0b8-e326-4c73-4f64-2b16015acdea" />
+          <image src="../../media//CNX_Econ_A06_006.svg" mime-type="image/svg+xml" id="UUIDc538f0b8-e326-4c73-4f64-2b16015acdea" />
         </media>
         <caption id="UUID6227341b-e8c0-43df-60e6-db0c087b74a7">Patrycja zaczyna od punktu A, czyli od punktu styczności między początkowym ograniczeniem budżetowym a niższą krzywą obojętności U<sub>l</sub>. Wzrost płacy przesuwa jej ograniczenie budżetowe w prawo, dzięki czemu może teraz wybrać punkt B na krzywej obojętności Uh. Efektem substytucyjnym jest przejście z punktu A do C. Efekt substytucyjny powoduje, że Patrycja wybiera mniej czasu wolnego, który jest relatywnie droższy, i osiąga większy dochód, który jest relatywnie łatwiejszy do uzyskania. Efektem dochodowym jest przesunięcie z punktu C do B. Efekt dochodowy w tym przykładzie prowadzi do większej konsumpcji obu dóbr. Ostatecznie, w tym przykładzie dochód wzrasta z powodu zarówno efektu substytucyjnego, jak i dochodowego. Natomiast czas wolny maleje z powodu działania efektu substytucyjnego, ale rośnie z powodu działania efektu dochodowego, co prowadzi – w przypadku Patrycji – do ogólnego wzrostu ilości czasu wolnego.</caption>
       </figure>
@@ -121,7 +124,7 @@
       <figure id="CNX_Econ_A06_007">
         <title id="UUIDfd577bfa-d32b-4f96-6685-9a3b9970196e">Krzywe obojętności i międzyokresowe ograniczenie budżetowe</title>
         <media alt="Wykres przedstawia krzywą obojętności i międzyokresowe ograniczenie budżetowe. Na osi x znajduje się konsumpcja obecna, a na osi y – konsumpcja przyszła. Początkowy punkt to A (6000 dol., 7200 dol.), będący punktem styczności między początkowym ograniczeniem budżetowym a początkową krzywą obojętności Uh. Linia przerywana jest równoległa do nowej linii budżetowej, czyli jej nachylenie odzwierciedla niższą stopę procentową, ale jest styczna do początkowej krzywej obojętności. Przesunięcie z punktu A do punktu C, którego współrzędne wynoszą w przybliżeniu (7900 dol., 5000 dol.), jest efektem substytucyjnym. Efektem dochodowym jest przesunięcie z punktu C do B (7000 dol., 3900 dol.). Na rysunku zaznaczone są również następujące punkty: F (4000 dol., 6500 dol.) i D (6000 dol., 5200 dol.)." id="fs-idp48950176">
-          <image src="../../media//CNX_Econ_A06_007.png" mime-type="image/png" id="UUID21dc498e-9337-4243-6656-16858b8fa67a" />
+          <image src="../../media//CNX_Econ_A06_007.svg" mime-type="image/svg+xml" id="UUID21dc498e-9337-4243-6656-16858b8fa67a" />
         </media>
         <caption id="UUID573be0b5-1de5-4b8f-484e-b301c5fd73d2">Początkowy punkt optymalny to A, będący punktem styczności między początkowym ograniczeniem budżetowym a początkową krzywą obojętności Uh. Linia przerywana jest równoległa do nowego ograniczenia budżetowego, czyli jej nachylenie odzwierciedla niższą stopę procentową, ale jest styczna do początkowej krzywej obojętności. Przesunięcie z punktu A do C jest efektem substytucyjnym: w przypadku obniżenia stopy procentowej przyszła konsumpcja staje się relatywnie droższa, a obecna konsumpcja – relatywnie tańsza. Efekt dochodowy to przesunięcie z punktu C do B i przedstawia zmniejszenie użyteczności lub „siły nabywczej”, co powoduje przejście na niższą krzywą obojętności Ul, ale przy takiej samej relacji cen. Efekt dochodowy oznacza mniejszą obecną i przyszłą konsumpcję. Przesuwając się z punktu A do B, efekt substytucyjny dla konsumpcji obecnej jest silniejszy niż efekt dochodowy, więc efektem całkowitym jest zwiększenie obecnej konsumpcji. Zauważ, że dolna krzywa obojętności mogłaby równie dobrze być styczna do nowego ograniczenia budżetowego w punkcie D lub F, w zależności od osobistych preferencji.</caption>
       </figure>
@@ -135,7 +138,7 @@
       <figure id="CNX_Econ_A06_008">
         <title id="UUIDa3d72cc8-5198-4da7-6385-543582c4d5ad" />
         <media alt="Na osi x znajdują się cukierki, a na osi y – filmy. Rysunek przedstawia jedną opadającą linię z zaznaczonym punktem A." id="fs-idm96048096">
-          <image src="../../media//CNX_Econ_A06_008.png" mime-type="image/png" id="UUID461f1898-c66f-4840-40df-21c6034cc569" />
+          <image src="../../media//CNX_Econ_A06_008.svg" mime-type="image/svg+xml" id="UUID461f1898-c66f-4840-40df-21c6034cc569" />
         </media>
         <caption id="UUID2467e057-e9f1-47de-6594-4056442cfe2a" />
       </figure>
@@ -143,7 +146,7 @@
       <figure id="CNX_Econ_A06_009">
         <title id="UUID296a68a0-65bc-4910-71c8-f4376f8992fc" />
         <media alt="Rysunek jest analogiczny do rysunku z kroku 1, ale zawiera drugą linię nachyloną w dół, która przecina początkową linię w punkcie na osi x. Punkt przecięcia nowej linii z osią y znajduje się poniżej analogicznego punktu dla linii z kroku 1." id="fs-idm124927760">
-          <image src="../../media//CNX_Econ_A06_009.png" mime-type="image/png" id="UUID4d4a3caa-27a6-40d3-4c5f-534db629f84d" />
+          <image src="../../media//CNX_Econ_A06_009.svg" mime-type="image/svg+xml" id="UUID4d4a3caa-27a6-40d3-4c5f-534db629f84d" />
         </media>
         <caption id="UUIDc51f7c3e-50dc-460b-41a6-f6abc0375a8c" />
       </figure>
@@ -151,7 +154,7 @@
       <figure id="CNX_Econ_A06_010">
         <title id="UUID426f18cb-ce60-4a38-449c-7a23192f83ce" />
         <media alt="Rysunek jest analogiczny do rysunku z kroku 2, ale uwzględnia dodatkową linię przerywaną równoległą do linii dodanej w kroku 2. Linia przerywana znajduje się po prawej stronie linii narysowanej w kroku 2." id="fs-idm107840272">
-          <image src="../../media//CNX_Econ_A06_010.png" mime-type="image/png" id="UUID6857c49d-dbf6-44f5-46f4-88ee4a539729" />
+          <image src="../../media//CNX_Econ_A06_010.svg" mime-type="image/svg+xml" id="UUID6857c49d-dbf6-44f5-46f4-88ee4a539729" />
         </media>
         <caption id="UUID6202f127-c578-4d75-5c70-e458c58c2e54" />
       </figure>
@@ -159,14 +162,14 @@
       <figure id="CNX_Econ_A06_011">
         <title id="UUID0995da26-6d05-42da-550a-e6e180e78138" />
         <media alt="Rysunek jest analogiczny do rysunku z kroku 3, ale uwzględnia nową krzywą, która przechodzi przez punkt A (z kroku 1) i punkt C, który znajduje się na linii przerywanej dodanej w kroku 3. Rysunek zawiera również literę „s” przy osi y ze strzałką skierowaną w dół i literę „s” przy osi x ze strzałką skierowaną w prawo." id="fs-idm122423952">
-          <image src="../../media//CNX_Econ_A06_011.png" mime-type="image/png" id="UUIDed97935d-9fea-4c95-7ab0-2db10ccca848" />
+          <image src="../../media//CNX_Econ_A06_011.svg" mime-type="image/svg+xml" id="UUIDed97935d-9fea-4c95-7ab0-2db10ccca848" />
         </media>
         <caption id="UUIDd425821c-b23b-466a-52a7-376aa57e4dc9" />
       </figure>
       <para id="fs-idm151335216">Krok 5. Mając na uwadze działanie efektu substytucyjnego, wybierz teraz maksymalizujący użyteczność punkt B na nowej linii ograniczenia budżetowego. Wybierając punkt B, zastanów się, czy efekt substytucyjny czy dochodowy ma mieć większy wpływ na dobro z osi poziomej (w tym przypadku cukierki). Jeśli punkt B wybierzesz tak, że będzie znajdował się dokładnie poniżej punktu A (jak pokazano tutaj), wtedy efekt dochodowy będzie dokładnie równoważył efekt substytucyjny w zakresie zmiany ilości dobra z osi poziomej. Jeśli wstawisz punkt B tak, że będzie leżał trochę na prawo od początkowego punktu A, wtedy efekt substytucyjny przeważy nad efektem dochodowym. Jeśli wstawisz punkt B tak, że będzie leżał trochę na lewo od punktu A, to efekt dochodowy będzie silniejszy niż efekt substytucyjny. Efekt dochodowy to ruch z punktu C do B. Pokazuje on, jak zmienia się wybór konsumenta w wyniku spadku siły nabywczej i zmiany poziomu użyteczności, przy niezmienionej relacji cen. W przypadku dóbr normalnych, ujemny efekt dochodowy oznacza mniejszą konsumpcję każdego dobra, co pokazuje kierunek strzałek „d” (efekt dochodowy) na osi pionowej i poziomej (<link target-id="CNX_Econ_A06_012" id="UUID44ce9978-ca71-4edb-68b9-5491c467ce8e" />).</para>
       <figure id="CNX_Econ_A06_012">
         <media alt="Rysunek jest analogiczny do rysunku z kroku 4, ale zawiera dodatkową krzywą, która przechodzi przez punkt B znajdujący się na linii dodanej w kroku 2. Kształt krzywej odpowiada kształtowi krzywej dodanej w kroku 4. Rysunek zawiera również literę „d” przy osi y ze strzałką skierowaną w dół i literę „d” przy osi x ze strzałką skierowaną w lewo." id="fs-idp4025712">
-          <image src="../../media//CNX_Econ_A06_012.png" mime-type="image/png" id="UUID8905845f-acc3-469a-702f-3a65c9d5d1e9" />
+          <image src="../../media//CNX_Econ_A06_012.svg" mime-type="image/svg+xml" id="UUID8905845f-acc3-469a-702f-3a65c9d5d1e9" />
         </media>
         <caption id="UUIDd43adfdc-d635-4cca-628d-a0f7ec62878f" />
       </figure>

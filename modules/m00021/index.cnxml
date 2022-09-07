@@ -5,7 +5,10 @@
     <md:content-id>m00021</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Pozacenowe parametry elastyczności</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:29.211043862+00:00</md:version>
+    <md:created>2022-09-07T09:41:29.211043862+00:00</md:created>
+    <md:revised>2022-09-07T09:41:29.211043862+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -94,8 +97,26 @@
         </problem>
         <solution id="fs-idp26945024">
           <para id="fs-idp2851312">Wzór na mieszaną elastyczność cenową popytu to: % zmiana popytu na jabłka / % zmianę ceny pomarańczy. Pomnożenie obu stron przez procentową zmianę ceny pomarańczy daje:</para>
-          <para id="UUID5f00f43a-86c8-4c97-7da7-5e065f1bd55b">% zmiana popytu na jabłka = mieszana elastyczność cenowa × % zmiana ceny pomarańczy</para>
-          <para id="UUID2f1f0441-512a-4114-6a2e-3a71fc46191e">= 0,4 × (–3%) = –1,2%, czyli spadek popytu na jabłka o 1,2%.</para>
+          <equation id="UUIDbb4349d8-uy67-3451-807-6f691c81f180" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <mtable columnalign="left">
+  <mtr>
+   <mtd>
+    <mtext>% zmiana popytu na jabłka</mtext></mtd>
+<mtd><mo> = </mo> </mtd> <mtd><mtext>mieszana elastyczność cenowa</mtext><mo> × </mo><mtext>% zmiana ceny pomarańczy</mtext>
+   </mtd>
+  </mtr>
+  <mtr><mtd />
+   <mtd><mo> = </mo></mtd>
+<mtd><mn>0,4</mn><mo> × </mo><mo>(</mo><mn>–3%</mn><mo>)</mo>
+   </mtd>
+  </mtr>
+  <mtr> <mtd />
+   <mtd><mo> = </mo></mtd><mtd><mtext>–1,2%</mtext>
+   </mtd>
+  </mtr>
+ </mtable>
+</math></equation>
+          <para id="UUID2f1f0441-512a-4114-6a2e-3a71fc46191e">czyli spadek popytu na jabłka o 1,2%.</para>
         </solution>
       </exercise>
     </section>

@@ -5,7 +5,10 @@
     <md:content-id>m00027</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Koszty całkowite i księgowe, zysk księgowy i zysk ekonomiczny</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:29.451636034+00:00</md:version>
+    <md:created>2022-09-07T09:41:29.451636034+00:00</md:created>
+    <md:revised>2022-09-07T09:41:29.451636034+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -77,7 +80,25 @@
           <para id="fs-idm64765376">Przedsiębiorstwo osiągnęło przychody ze sprzedaży w wysokości 1 mln zł. Na wynagrodzenia wydało 6oo tys. zł., 150 tys. zł to koszty kapitałowe, a 200 tys. zł – wydatki na zakup materiałów. Jaki był zysk księgowy tego przedsiębiorstwa?</para>
         </problem>
         <solution id="fs-idm37741456">
-          <para id="fs-idp11284528">Zysk księgowy = utarg całkowity minus koszty księgowe = 1 000 000 – (600 000 + 150 000 + 200 000) = 50 000 [zł].</para>
+          <equation id="UUIDbb4349d8-fgtr-87uy-de45-6f691c81f180" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <mtable columnalign="left">
+  <mtr>
+   <mtd>
+    <mtext>zysk księgowy</mtext></mtd>
+<mtd><mo> = </mo> </mtd> <mtd><mtext>utarg całkowity minus koszty księgowe</mtext>
+   </mtd>
+  </mtr>
+  <mtr><mtd />
+   <mtd><mo> = </mo></mtd>
+<mtd><mn>1 000 000</mn><mo> – </mo><mo>(</mo><mn>600 000 + 150 000 + 200 000</mn><mo>)</mo>
+   </mtd>
+  </mtr>
+  <mtr> <mtd />
+   <mtd><mo> = </mo></mtd><mtd><mtext>50 000</mtext><mo>[</mo><mn>zł</mn><mo>]</mo>
+   </mtd>
+  </mtr>
+ </mtable>
+</math></equation>
         </solution>
       </exercise>
       <exercise id="fs-idp12466368">
@@ -85,7 +106,25 @@
           <para id="fs-idm31452496">Kontynuując rozważania na temat przedsiębiorstwa przedstawionego w <link target-id="fs-idm18450688" document="" cmlnle:case="locative" id="UUIDfd21eadf-f8b3-4d75-6c50-ab3fc57f250a" />, przyjmijmy, że zakład należący do tego przedsiębiorstwa znajduje się na ziemi, która jest jego własnością. Można byłoby ją wydzierżawić za 30 tys. zł rocznie. Jaki zatem był zysk ekonomiczny tego przedsiębiorstwa?</para>
         </problem>
         <solution id="fs-idm14827104">
-          <para id="fs-idm2473280">Zysk ekonomiczny = zysk księgowy minus koszty ekonomiczne = 50 000 – 30 000 = 20 000 [zł].</para>
+          <equation id="UUIDbb4349d8-y678-sder-hy65-6f691c81f180" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <mtable columnalign="left">
+  <mtr>
+   <mtd>
+    <mtext>zysk ekonomiczny</mtext></mtd>
+<mtd><mo> = </mo> </mtd> <mtd><mtext>zysk księgowy minus koszty ekonomiczne</mtext>
+   </mtd>
+  </mtr>
+  <mtr><mtd />
+   <mtd><mo> = </mo></mtd>
+<mtd><mn>50 000</mn><mo> – </mo><mn>30 000</mn>
+   </mtd>
+  </mtr>
+  <mtr> <mtd />
+   <mtd><mo> = </mo></mtd><mtd><mtext>20 000</mtext><mo>[</mo><mn>zł</mn><mo>]</mo>
+   </mtd>
+  </mtr>
+ </mtable>
+</math></equation>
         </solution>
       </exercise>
     </section>

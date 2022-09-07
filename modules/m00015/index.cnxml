@@ -5,7 +5,10 @@
     <md:content-id>m00015</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Cena maksymalna i cena minimalna</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:28.584190251+00:00</md:version>
+    <md:created>2022-09-07T09:41:28.584190251+00:00</md:created>
+    <md:revised>2022-09-07T09:41:28.584190251+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -44,7 +47,7 @@
       <figure id="CNX_Econ_C03_012">
         <title id="UUID46228f7f-a8ad-4f9b-76c5-d04466b37614">Przykład ceny maksymalnej – kontrola czynszów na rynku mieszkań</title>
         <media alt="Wykres pokazuje przesunięcie krzywej popytu na wynajmowane mieszkania i wpływ, jaki wywrze na ten rynek wprowadzenia ceny maksymalnej. na ten rynek" id="fs-idp76998224">
-          <image src="../../media//CNX_Econ_C03_012.png" mime-type="image/png" id="UUID94219549-d7b4-4c84-76a8-f86d985ad641" />
+          <image src="../../media//CNX_Econ_C03_012.svg" mime-type="image/svg+xml" id="UUID94219549-d7b4-4c84-76a8-f86d985ad641" />
         </media>
         <caption id="UUID12ccc203-253a-4881-47f9-d9cb1cc910c7">Początkowo przecięcie popytu i podaży występuje w punkcie E<sub>0</sub>. Jeśli krzywa popytu przesunie się z położenia D<sub>0</sub> do położenia D<sub>1</sub>, nowy punkt równowagi rynkowej ukształtuje się w E<sub>1</sub> – chyba że wprowadzenie ceny maksymalnej zapobiegnie wzrostowi ceny powyżej poziomu 500 dol. Jeśli cena nie może wzrosnąć, podaż pozostaje na poziomie 15 tys. mieszkań. Jednak pod wpływem czynników zwiększających popyt, zapotrzebowanie przy tej cenie rośnie do 19 tys. mieszkań, co oznacza, że pojawia się nadwyżka popytu w wysokości 4 tys. lokali.</caption>
       </figure>
@@ -63,7 +66,7 @@
       <figure id="CNX_Econ_C03_013">
         <title id="UUIDdf4af638-dd1b-4d9b-6500-10403ef2a5ab">Ceny na europejskim rynku pszenicy: przykład ceny minimalnej</title>
         <media alt="Wykres przedstawia konsekwencje wprowadzenia ceny minimalnej na rynku, czyli nadwyżkę podaży." id="fs-idm285312">
-          <image src="../../media//CNX_Econ_C03_013.png" mime-type="image/png" id="UUID36851373-3d5c-4b08-6eb4-8a50891f2360" />
+          <image src="../../media//CNX_Econ_C03_013.svg" mime-type="image/svg+xml" id="UUID36851373-3d5c-4b08-6eb4-8a50891f2360" />
         </media>
         <caption id="UUIDfa611449-4d2e-4d1d-77ee-d7b5f91bd0f7">Przecięcie popytu (D) i podaży (S) znajdowałoby się w punkcie równowagi E<sub>0</sub>. Jednak cena minimalna ustalona na poziomie P<sub>f</sub> utrzymuje cenę powyżej P<sub>0</sub> i zapobiega jej spadkowi. Konsekwencją wprowadzenia ceny minimalnej jest to, że ilość oferowana Q<sub>s</sub> przekracza zapotrzebowanie Q<sub>d</sub>. Pojawia się więc nadwyżka podaży.</caption>
       </figure>

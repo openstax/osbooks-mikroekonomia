@@ -5,7 +5,10 @@
     <md:content-id>m00063</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Matematyka zastosowana w tym podręczniku</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:31.401403665+00:00</md:version>
+    <md:created>2022-09-07T09:41:31.401403665+00:00</md:created>
+    <md:revised>2022-09-07T09:41:31.401403665+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -62,7 +65,7 @@
       <figure id="CNX_Econ_A01_010">
         <title id="UUID652c9602-a3f2-41d7-75ee-ac20063154c8">Funkcja liniowa</title>
         <media alt="Wykres funkcji liniowej przedstawia następujące punkty: (0, 9); (1, 12); (2, 15); (3, 18); (4, 21); (5, 24); (6, 27)." id="fs-idp71023328">
-          <image src="../../media//CNX_Econ_A01_010.png" mime-type="image/png" id="UUIDf9da745f-c720-48e8-7148-325f19701882" />
+          <image src="../../media//CNX_Econ_A01_010.svg" mime-type="image/svg+xml" id="UUIDf9da745f-c720-48e8-7148-325f19701882" />
         </media>
         <caption id="UUID9f6f45f6-e628-4890-5b50-9d12783f5715">Na wykresie zmienna x jest zaznaczona na osi poziomej, a zmienna y - na osi pionowej. Punkt przecięcia funkcji z osią y ma wartość 9. Nachylenie funkcji wynosi 3, co oznacza, że wzrost o 3 na osi pionowej przypada na każdy wzrost o 1 na osi poziomej. Nachylenie jest takie samo wzdłuż całej linii prostej.</caption>
       </figure>
@@ -73,11 +76,11 @@
       <para id="fs-idm28729904">Nachylenie równe zero oznacza, że nie ma żadnego związku między x i y. Graficznie funkcja jest linią poziomą, czyli jej wartości nie zmieniają się przy zmianach argumentu. <link target-id="CNX_Econ_A01_025" id="UUIDf642e2f0-e888-44fe-5d9e-10d809ea7acb" /> dotycząca stopy bezrobocia w dalszej części tego załącznika pokazuje typowy charakter wielu wykresów liniowych: niektóre fragmenty wykresu mają nachylenie dodatnie, inne - ujemne, a jeszcze inne mają nachylenie bliskie zeru.</para>
       <para id="fs-idp29064288">Nachylenie funkcji liniowej między dwoma punktami można przedstawić liczbowo. Zacznijmy od wyznaczenia jednego punktu jako „punktu początkowego”, a drugiego jako „punktu końcowego”. Następnie obliczamy zmianę wartości funkcji y oraz zmianę jej argumentu x między tymi dwoma punktami. Jako przykład, rozważmy nachylenie funkcji gęstości powietrza między punktami reprezentującymi wysokość 4000 m i 6000 m nad poziomem morza:</para>
       <para id="fs-idm6280176">Zmiana wartości y: Zmiana wartości zmiennej na osi pionowej (punkt końcowy minus punkt początkowy)</para>
-      <equation id="UUIDf98d701f-b36c-43f4-4236-14f7132ac979" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>0,100 – 0,307</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext> – 0,207</mtext></mtd></mtr></mtable></math></equation>
+      <equation id="UUIDf98d701f-b36c-43f4-4236-14f7132ac979" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>0,100 – 0,307</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>–0,207</mtext></mtd></mtr></mtable></math></equation>
       <para id="fs-idp140980192">Zmiana argumentu x: Zmiana wartości zmiennej na osi poziomej (punkt końcowy minus punkt początkowy)</para>
       <equation id="UUIDdc50659b-ad2e-4abc-78cc-496d36b887ea" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px 2px 2px" columnalign="center center left"><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>6000 – 4000</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>2000</mtext></mtd></mtr></mtable></math></equation>
       <para id="fs-idp75262304">Stąd nachylenie linii prostej między tymi dwoma punktami wskazuje, że od wysokości 4000 m do 6000 m gęstość powietrza spada o około 0,1 kg/m<sup>3</sup> na każde 1000 m.</para>
-      <para id="fs-idp3737664">Załóżmy, że porównujemy kilka funkcji liniowych o różnym nachyleniu (m) i że rozważamy na moment tylko wartość bezwzględną m. Dla funkcji o dużych wartościach bezwzględnych m (np. y = 4 + 15x albo y = 4 - 10x) linie proste będą bardziej strome niż dla m przyjmującego małe wartości (np. y = 4 + 3x lub y = 4 - 2x). Gdy nachylenie jest dodatnie (czyli m= 15 lub m = 3 w powyższych przykładach), prosta rośnie w kierunku prawej górnej ćwiartki wykresu. Gdy nachylenie jest ujemne (m = - 10 lub m = -2), prosta maleje w kierunku prawej dolnej ćwiartki wykresu. Nachylenie zerowe to linia pozioma. Z kolei linia pionowa ma nieskończenie duże nachylenie.</para>
+      <para id="fs-idp3737664">Załóżmy, że porównujemy kilka funkcji liniowych o różnym nachyleniu (m) i że rozważamy na moment tylko wartość bezwzględną m. Dla funkcji o dużych wartościach bezwzględnych m (np. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>y</mtext><mo> = </mo><mtext>4</mtext><mo> + </mo><mtext>15x</mtext></math> albo <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>y</mtext><mo> = </mo><mtext>4</mtext><mo> – </mo><mtext>10x</mtext></math>) linie proste będą bardziej strome niż dla m przyjmującego małe wartości (np. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>y</mtext><mo> = </mo><mtext>4</mtext><mo> + </mo><mtext>3x</mtext></math> lub <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>y</mtext><mo> = </mo><mtext>4</mtext><mo> – </mo><mtext>2x</mtext></math>). Gdy nachylenie jest dodatnie (czyli <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>m</mtext><mo> = </mo><mtext>15</mtext></math> lub <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>m</mtext><mo> = </mo><mtext>3</mtext></math> w powyższych przykładach), prosta rośnie w kierunku prawej górnej ćwiartki wykresu. Gdy nachylenie jest ujemne (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>m</mtext><mo> = </mo><mtext>–10</mtext></math> lub <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>m</mtext><mo> = </mo><mtext>–2</mtext></math>), prosta maleje w kierunku prawej dolnej ćwiartki wykresu. Nachylenie zerowe to linia pozioma. Z kolei linia pionowa ma nieskończenie duże nachylenie.</para>
       <para id="fs-idm8728560">Załóżmy teraz, że punkt przecięcia funkcji z osią pionową przesuwa się w górę. Oznacza to jednoczesne przesunięcie całej funkcji równolegle w górę. Jeśli punkt przecięcia z osią pionową przesuwa się w dół, cała funkcja również przesuwa się równolegle w dół.</para>
       <para id="fs-idm45493600"><emphasis effect="bold">Algebraiczne rozwiązywanie modeli</emphasis></para>
       <para id="fs-idp28928256">Ekonomiści często używają modeli, aby odpowiedzieć na konkretne pytanie, np.: jaka będzie stopa bezrobocia, jeśli gospodarka będzie rosła w tempie 3% rocznie? Odpowiedź na konkretne pytanie wymaga rozwiązania „układu” równań opisujących dany model.</para>
@@ -88,9 +91,17 @@
       <para id="UUID2edb8a3e-d9b4-449e-7c6d-55b13e2b3238">gdzie Q<sub>s</sub> to liczba placków pizzy dostarczana przez producentów (tj. wielkość podaży).</para>
       <para id="UUIDf427ebea-3200-4678-7241-9b7a246d5165">Załóżmy również, że na rynku pizzy działa tak, iż popyt jest równy podaży, czyli</para>
       <equation id="UUIDdc1b1261-f0b5-4cef-562a-c5875f31def6" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mn>Q</mn><mtext>d</mtext></msub><mo> = </mo><msub><mn>Q</mn><mtext>s</mtext></msub></math></equation>
-      <para id="UUID15ca5632-734d-4d01-5410-dd52ccc78918">Mamy teraz układ trzech równań z trzema niewiadomymi (Q<sub>d</sub>, Q<sub>s</sub> i P), który możemy rozwiązać za pomocą algebry:</para>
-      <para id="UUID80758d82-b27f-41cf-61ec-99922028e807">Ponieważ Q<sub>d</sub> = Q<sub>s</sub>, możemy przyrównać do siebie równania popytu i podaży:</para>
-      <equation id="UUID08b7dff1-f3e6-4088-75c8-25fc9ef4807e" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><msub><mn>Q</mn><mtext>d</mtext></msub><mo> = </mo><msub><mn>Q</mn><mtext>s</mtext></msub></mtd></mtr><mtr><mtd><mtext>16 – 2P</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>2 + 5P</mtext></mtd></mtr></mtable></math></equation>
+      <para id="UUID15ca5632-734d-4d01-5410-dd52ccc78918">Mamy teraz układ trzech równań z trzema niewiadomymi (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><msub><mtext>Q</mtext><mn>d</mn></msub><mo> = </mo><msub><mtext>Q</mtext><mn>s</mn></msub></math> i P), który możemy rozwiązać za pomocą algebry:</para>
+      <para id="UUID80758d82-b27f-41cf-61ec-99922028e807">Ponieważ <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><msub><mtext>Q</mtext><mn>d</mn></msub><mo> = </mo><msub><mtext>Q</mtext><mn>s</mn></msub></math>, możemy przyrównać do siebie równania popytu i podaży:</para>
+      <equation id="UUID4e2e4fea-hy77-eer4-8765-3d9fe023671b" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnspacing="2px" columnalign="right center left">
+<mtr><mtd><msub><mtext>Q</mtext><mtext>d</mtext></msub></mtd>
+<mtd><mtext> = </mtext></mtd>
+<mtd><msub><mtext>Q</mtext><mtext>s</mtext></msub></mtd></mtr>
+<mtr><mtd><mtext>16 – 2P</mtext></mtd>
+<mtd><mtext> = </mtext></mtd>
+<mtd><mtext>2 + 5P</mtext></mtd></mtr>
+</mtable></math></equation>
       <para id="fs-idp48207664">Odjęcie liczby 2 z obu stron i dodanie 2P do obu stron daje:</para>
       <equation id="UUID4e2e4fea-4d6e-4ea3-70f6-3d9fe023671b" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>16 – 2P – 2</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>2 + 5P – 2</mtext></mtd></mtr><mtr><mtd><mtext>14 – 2P</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>5P</mtext></mtd></mtr><mtr><mtd><mtext>14 – 2P + 2P</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>5P + 2P</mtext></mtd></mtr><mtr><mtd><mtext>14</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>7P</mtext></mtd></mtr><mtr><mtd><mfrac><mtext>14</mtext><mtext>7</mtext></mfrac></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>7P</mtext><mtext>7</mtext></mfrac></mtd></mtr><mtr><mtd><mtext>2</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>P</mtext></mtd></mtr></mtable></math></equation>
       <para id="fs-idp27149120">Innymi słowy, cena każdej pizzy wyniesie 2 dol. Ile placków kupią konsumenci?</para>
@@ -98,13 +109,13 @@
       <equation id="UUIDaafc8fdb-1a30-4e15-4fc1-82c634ecaf58" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><msub><mn>Q</mn><mtext>d</mtext></msub></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>16 – 2P</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>16 – 2(2)</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>16 – 4</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>12</mtext></mtd></mtr></mtable></math></equation>
       <para id="fs-idp139520176">Jeśli więc cena wyniesie 2 dol. za pizzę, konsumenci kupią 12 sztuk. Ile wytworzą producenci? Podstawiając cenę 2 dol. do równania podaży, otrzymujemy:</para>
       <equation id="UUID54b3dc8f-7579-4560-5bc3-5c5cbe612940" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><msub><mn>Q</mn><mtext>s</mtext></msub></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>2 + 5P</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>2 + 5(2)</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>2 + 10</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>12</mtext></mtd></mtr></mtable></math></equation>
-      <para id="fs-idp141171200">Jeśli więc cena wynosi 2 dol. za pizzę, producenci wytworzą 12 placków. Oznacza to, że obliczenia wykonaliśmy poprawnie, ponieważ Q<sub>d</sub> = Q<sub>s</sub>.</para>
+      <para id="fs-idp141171200">Jeśli więc cena wynosi 2 dol. za pizzę, producenci wytworzą 12 placków. Oznacza to, że obliczenia wykonaliśmy poprawnie, ponieważ <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><msub><mtext>Q</mtext><mn>d</mn></msub><mo> = </mo><msub><mtext>Q</mtext><mn>s</mn></msub></math>.</para>
       <para id="fs-idp95820608"><emphasis effect="bold">Rozwiązywanie modeli za pomocą wykresów</emphasis></para>
-      <para id="fs-idm6540368">Jeśli algebra nie jest twoją mocną stroną, możesz uzyskać tę samą odpowiedź za pomocą wykresów. Wykreśl równania Q<sub>d</sub> i Q<sub>s</sub> w tym samym układzie współrzędnych jak pokazano na <link target-id="CNX_Econ_A01_024" cmlnle:case="locative" id="UUID5bfab7f0-2641-4915-589b-ba6cfeb17b14" />. Ponieważ P znajduje się na osi pionowej, najlepiej jest przekształcić każde równanie jako funkcję P. Krzywa popytu ma wtedy postać P = 8 – 0,5Q<sub>d</sub>, a krzywa podaży to P = –0,4 + 0,2Q<sub>s</sub>. Punkty przecięcia z osią pionową wynoszą 8 i –0,4, a nachylenie jest równe –0,5 dla krzywej popytu i 0,2 dla krzywej podaży. Jeśli starannie narysujesz obie funkcje, zobaczysz, że w miejscu ich przecięcia (Q<sub>s</sub> = Q<sub>d</sub>) cena wynosi 2 dol., a liczba placków jest równa 12, tak jak uzyskano na podstawie wcześniejszych obliczeń.</para>
+      <para id="fs-idm6540368">Jeśli algebra nie jest twoją mocną stroną, możesz uzyskać tę samą odpowiedź za pomocą wykresów. Wykreśl równania Q<sub>d</sub> i Q<sub>s</sub> w tym samym układzie współrzędnych jak pokazano na <link target-id="CNX_Econ_A01_024" cmlnle:case="locative" id="UUID5bfab7f0-2641-4915-589b-ba6cfeb17b14" />. Ponieważ P znajduje się na osi pionowej, najlepiej jest przekształcić każde równanie jako funkcję P. Krzywa popytu ma wtedy postać <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo> = </mo><mtext>8</mtext><mo> – </mo><msub><mtext>0,5Q</mtext><mn>d</mn></msub></math>, a krzywa podaży to <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>P</mtext><mo> = </mo><mtext>–0,4</mtext><mo> + </mo><msub><mtext>0,2Q</mtext><mn>s</mn></msub></math>. Punkty przecięcia z osią pionową wynoszą 8 i –0,4, a nachylenie jest równe –0,5 dla krzywej popytu i 0,2 dla krzywej podaży. Jeśli starannie narysujesz obie funkcje, zobaczysz, że w miejscu ich przecięcia <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mo>(</mo><msub><mtext>Q</mtext><mn>s</mn></msub><mo> = </mo><msub><mtext>Q</mtext><mn>d</mn></msub><mo>)</mo></math> cena wynosi 2 dol., a liczba placków jest równa 12, tak jak uzyskano na podstawie wcześniejszych obliczeń.</para>
       <figure id="CNX_Econ_A01_024">
         <title id="UUID0d64ff23-2d99-41b3-6aa4-a078f8700305">Wykres popytu i podaży</title>
         <media alt="Wykres przedstawia krzywą popytu o nachyleniu ujemnym przechodzącą przez punkty (0, 8) i (16, 0) oraz krzywą podaży o nachyleniu dodatnim. Krzywe popytu i podaży przecinają się w punkcie (12, 2)." id="fs-idp100170096">
-          <image src="../../media//CNX_Econ_A01_024.png" mime-type="image/png" id="UUIDd77f294f-af07-4cd9-47c8-1c03b662c6ac" />
+          <image src="../../media//CNX_Econ_A01_024.svg" mime-type="image/svg+xml" id="UUIDd77f294f-af07-4cd9-47c8-1c03b662c6ac" />
         </media>
         <caption id="UUIDeb258293-dbf2-42fd-6b13-e7de86327227">Równania Q<sub>d</sub> i Q<sub>s</sub> są przedstawione na rysunku jako linie proste.</caption>
       </figure>
@@ -131,7 +142,7 @@
       <figure id="CNX_Econ_A01_008">
         <title id="UUID15ed0334-03f6-4a41-5f88-1c6efef1e34e">Zależność między wzrostem a masą ciała u amerykańskich chłopców i dziewcząt</title>
         <media alt="Wykres przedstawia wzrost (w calach) na osi x i wagę (w funtach) na osi y. Poniższe punkty odzwierciedlają stosunek wzrostu do wagi u amerykańskich chłopców: (20; 8,0), (22; 10,5), (24; 13,5), (26; 16,4), (28; 19), (30; 21,8), (32; 24,3), (34; 27), (36; 9,3), (38; 32). Poniższe punkty odzwierciedlają stosunek wzrostu do wagi u amerykańskich dziewcząt: (20; 7,9), (22; 10,5), (24; 13,2), (26; 16), (28; 18,8), (30; 21,2), (32; 24), (34; 26,2), (36; 28,9), (38; 31,3)." id="fs-idm12528832">
-          <image src="../../media//CNX_Econ_A01_008.png" mime-type="image/png" id="UUID559a2dac-e48f-4f30-77ca-1d36707ee369" />
+          <image src="../../media//CNX_Econ_A01_008.svg" mime-type="image/svg+xml" id="UUID559a2dac-e48f-4f30-77ca-1d36707ee369" />
         </media>
         <caption id="UUIDc475b9a5-1cb6-4fb1-4b86-38cfd59c177c">Wykres liniowy przedstawia zależność między wzrostem a masą ciała u chłopców i dziewcząt od urodzenia do 3. roku życia. Na przykład, punkt A pokazuje, że chłopiec o wzroście 28 cali (71 cm) waży zazwyczaj 19 funtów (9,6 kg).</caption>
       </figure>
@@ -140,7 +151,7 @@
       <figure id="CNX_Econ_A01_009">
         <title id="UUID32ebb3be-d875-4307-7865-5a24e7ae76eb">Zależność między wysokością nad poziomem morza a gęstością powietrza</title>
         <media alt="Na wykresie wysokość jest mierzona na osi x, a gęstość powietrza na osi y. Opadająca krzywa rozciąga się między punktami (0; 1,2) i (8828; 0,023). Punkt (8828; 0,023) reprezentuje szczyt Mount Everestu." id="fs-idm9521328">
-          <image src="../../media//CNX_Econ_A01_009.png" mime-type="image/png" id="UUID95cc961f-612a-4932-5c66-01845200a195" />
+          <image src="../../media//CNX_Econ_A01_009.svg" mime-type="image/svg+xml" id="UUID95cc961f-612a-4932-5c66-01845200a195" />
         </media>
         <caption id="UUID62c9d8b5-bff8-4119-6226-f723a0f186e2">Wykres pokazuje zależność między wysokością mierzoną w m n.p.m. a gęstością powietrza mierzoną w kg/m<sup>3</sup>. Wraz ze wzrostem wysokości, gęstość powietrza maleje. Punktowi na szczycie Mount Everestu odpowiada wysokość około 8828 metrów nad poziomem morza (oś pozioma) i gęstość powietrza 0,023 kg/m<sup>3</sup> (oś pionowa).</caption>
       </figure>
@@ -150,7 +161,7 @@
       <figure id="CNX_Econ_A01_025">
         <title id="UUID2f1251a3-9f10-440f-71db-4fa3c9430430">Stopa bezrobocia w USA, 1975–2014</title>
         <media alt="Wykres przedstawia stopę bezrobocia od 1970 r. Najwyższa stopa bezrobocia wystąpiła około 1983 i 2010 r." id="fs-idm44830640">
-          <image src="../../media//CNX_Econv1-2_AppA_A5.png" mime-type="image/png" id="UUID67bd453a-24ae-4ae4-75d7-690e628a0024" />
+          <image src="../../media//CNX_Econv1-2_AppA_A5.svg" mime-type="image/svg+xml" id="UUID67bd453a-24ae-4ae4-75d7-690e628a0024" />
         </media>
         <caption id="UUIDffa633cd-52cd-4c32-5c28-9d5a1a9bc21d">Wykres ilustruje stopę bezrobocia. Na takim wykresie łatwo dostrzec okresy wysokiego i niskiego bezrobocia.</caption>
       </figure>
@@ -161,7 +172,7 @@
       <figure id="CNX_Econ_A01_020">
         <title id="UUID1c77cf57-16c7-4623-5051-799ef0504310">Wykresy kołowe przedstawiające strukturę ludności USA według wieku</title>
         <media alt="Rysunek przedstawia trzy wykresy kołowe ilustrujące strukturę ludności USA według wieku. Wykres (a) pokazuje, że w 1970 r. liczba osób w wieku do 19 lat wyniosła 77,2 mln (37,6% populacji), w wieku od 20 do 64 lat - 107,7 mln (52,5% populacji), a w wieku 65 lat i więcej - 20,1 mln (9,8% populacji). Wykres (b) pokazuje, że w 2000 r. liczba osób w wieku do 19 lat wyniosła 78,4 mln (28,5% populacji), w wieku od 20 do 64 lat - 162,2 mln (58,9% populacji), a w wieku 65 lat i więcej - 34,8 mln (12,6% populacji). Wykres (c) przedstawia prognozę, że w 2030 r. liczba osób w wieku do 19 lat wyniesie 92,6 mln (26,4% populacji), w wieku od 20 do 64 lat - 188,2 mln (53,6% populacji), a w wieku 65 lat i więcej - 70,3 mln (20% populacji)." id="fs-idp36969728">
-          <image src="../../media//CNX_Econ_A01_020.png" mime-type="image/png" id="UUID0696c2e7-d86b-4307-75bf-0196de67ab89" />
+          <image src="../../media//CNX_Econ_A01_020.svg" mime-type="image/svg+xml" id="UUID0696c2e7-d86b-4307-75bf-0196de67ab89" />
         </media>
         <caption id="UUIDee64cb5e-524e-4d00-6c5e-47f4edcb1bfc">Trzy wykresy kołowe ilustrują podział całej populacji na trzy grupy wiekowe w trzech różnych latach.</caption>
       </figure>
@@ -171,7 +182,7 @@
       <figure id="CNX_Econ_A01_004">
         <title id="UUIDabfec41f-eeaf-408a-49ca-127d7f24fdcb">Największe kraje świata pod względem liczby ludności w 2015 r. (mln)</title>
         <media alt="Wykres słupkowy przedstawia liczbę ludności (w milionach) na osi y i różne kraje wzdłuż osi x. Przybliżona liczba ludności w 2015 r. w tych krajach jest następująca: Chiny = 1369; Indie = 1270; Stany Zjednoczone = 321, Indonezja = 255; Brazylia = 204; Pakistan = 190; Bangladesz = 158; Rosja = 146; Japonia = 127; Meksyk = 121; Filipiny = 101." id="fs-idp44451616">
-          <image src="../../media//CNX_Econv1-2_AppA_A7.png" mime-type="image/png" id="UUIDb689c11e-003b-47df-6580-2273ab3bd1bd" />
+          <image src="../../media//CNX_Econv1-2_AppA_A7.svg" mime-type="image/svg+xml" id="UUIDb689c11e-003b-47df-6580-2273ab3bd1bd" />
         </media>
         <caption id="UUID463f077f-fc51-4cf6-4afe-77287de44987">Wykres przedstawia 12 krajów świata o największej liczbie ludności. Wysokość słupków pokazuje wielkość populacji w każdym kraju.</caption>
       </figure>
@@ -180,7 +191,7 @@
       <figure id="CNX_Econ_A01_021">
         <title id="UUID6650b717-6e58-49bc-5d15-d11bd6972b83">Ludność USA na wykresach słupkowych</title>
         <media alt="Rysunek zawiera trzy wykresy słupkowe dotyczące ludności USA. Wszystkie trzy wykresy przedstawiają te same informacje na różne sposoby. W 1970 r. liczba osób w wieku do 19 lat wyniosła 77,2 mln (37,6% populacji), w wieku od 20 do 64 lat - 107,7 mln (52,5% populacji), a w wieku 65 lat i więcej - 20,1 mln (9,8% populacji). W 2000 r. liczba osób w wieku do 19 lat była równa 78,4 mln (28,5% populacji), w wieku od 20 do 64 lat - 162,2 mln (58,9% populacji), a w wieku 65 lat i więcej - 34,8 mln (12,6% populacji). Przewiduje się, że w 2030 r. liczba osób w wieku do 19 lat wyniesie 92,6 mln (26,4% populacji), w wieku od 20 do 64 lat - 188,2 mln (53,6% populacji), a w wieku 65 lat i więcej - 70,3 mln (20% populacji). Wykres (a) przedstawia oddzielne słupki dla każdej grupy wiekowej w poszczególnych latach (łącznie 9 słupków). Wykres (b) ilustruje całkowitą populację podzieloną na grupy wiekowe (łącznie 3 słupki, z różnymi kolorami pokazującymi rozmiary poszczególnych grup wiekowych). Wykres (c) przedstawia strukturę ludności w ujęciu procentowym (razem 3 słupki, z różnymi kolorami pokazującymi odsetek ludności w poszczególnych grupach wiekowych)." id="fs-idp14177872">
-          <image src="../../media//CNX_Econ_A01_021.png" mime-type="image/png" id="UUID45e79259-9a7c-47f9-5fb9-e0f8f1ed4b2d" />
+          <image src="../../media//CNX_Econ_A01_021.svg" mime-type="image/svg+xml" id="UUID45e79259-9a7c-47f9-5fb9-e0f8f1ed4b2d" />
         </media>
         <caption id="UUID1b59b995-2f84-4ec8-5175-63478dc6f7c9">Dane o populacji mogą być przedstawione na różne sposoby. Wykres (a) zawiera trzy słupki dla każdego roku, przedstawiające całkowitą liczbę osób w określonym przedziale wiekowym w poszczególnych latach. Wykres (b) zawiera tylko jeden słupek dla danego roku, ale różne grupy wiekowe są zaznaczone wewnątrz słupka. Z kolei na wykresie (c) oś pionowa mierzy wartości procentowe, a nie liczbę osób. Wszystkie trzy słupki na wykresie (c) mają tę samą wysokość, a każdy z nich jest podzielony według odsetka populacji należącego do danej grupy wiekowej.</caption>
       </figure>
@@ -193,20 +204,20 @@
       <para id="fs-idp175139536">Wykresy nie tylko ujawniają tendencje, mogą również wpływać na sposób ich postrzegania. Rozważmy wykresy liniowe przedstawione na <link target-id="CNX_Econ_A01_022" cmlnle:case="locative" id="UUID1e720ec4-cce0-444c-6ef5-7c0159a526b9" />, <link target-id="CNX_Econ_A01_023" cmlnle:case="locative" id="UUID87e4953b-f7b3-4726-6f00-b499a9087ff2" /> i <link target-id="CNX_Econ_A01_017" cmlnle:case="locative" id="UUIDd57e8854-cd03-47b2-754f-ad68c1bda50e" />. Wszystkie wykresy przedstawiają stopę bezrobocia, ale z różnych perspektyw.</para>
       <figure id="CNX_Econ_A01_022">
         <media alt="Wszystkie rysunki przedstawiają dokładnie te same dane, ale w różny sposób, co może wpłynąć na ich interpretację. Wykres (a) pokazuje stopę bezrobocia z małymi wahaniami i przy długiej osi poziomej. Wykres (b) przedstawia stopę bezrobocia z dużymi wahaniami i przy krótkiej osi poziomej. Wykres (c) pokazuje stopę bezrobocia z większym zakresem skali wartości na osi pionowej." id="fs-idm11241440">
-          <image src="../../media//CNX_Econv1-2_AppA_A9ab.png" mime-type="image/png" id="UUID51c56fa6-df64-4fc0-6a9f-a43964e887ed" />
+          <image src="../../media//CNX_Econv1-2_AppA_A9ab.svg" mime-type="image/svg+xml" id="UUID51c56fa6-df64-4fc0-6a9f-a43964e887ed" />
         </media>
       </figure>
       <figure id="CNX_Econ_A01_023">
         <title id="UUID5595500e-6a75-4435-42fc-98cabd630aca">Przedstawianie stóp bezrobocia na różne sposoby</title>
         <media alt="Wykres (f) przedstawia miesięczne dane o stopie bezrobocia. Opis rysunku: (c) Stopa bezrobocia z większym zakresem skali wartości na osi pionowej | (d) Stopa bezrobocia z mniejszym zakresem skali wartości na osi pionowej | (e) Stopa bezrobocia - średnie 5-letnie" id="fs-id1166347360647">
-          <image src="../../media//CNX_Econv1-2_AppA_A9cde.png" mime-type="image/png" id="UUIDfa41c1ff-d4a5-4ee2-5e40-a1cc3ad1f24a" />
+          <image src="../../media//CNX_Econv1-2_AppA_A9cde.svg" mime-type="image/svg+xml" id="UUIDfa41c1ff-d4a5-4ee2-5e40-a1cc3ad1f24a" />
         </media>
         <caption id="UUIDe75f9e6a-36db-4711-4a79-e1d4f0efa8ea">Zmiana szerokości i wysokości obszaru wykresu może wpłynąć na sposób postrzegania danych.</caption>
       </figure>
       <figure id="CNX_Econ_A01_017">
         <title id="UUID753853c9-bd47-4838-44e4-97da9c103a61">Przedstawianie stóp bezrobocia na różne sposoby</title>
         <media alt="Wykres (f) pokazuje stopę bezrobocia tylko od 1975 r. Opis rysunku: (f) Stopa bezrobocia - dane miesięczne | (g) Stopa bezrobocia od 1975 r." id="fs-idm5361680">
-          <image src="../../media//CNX_Econ_A01_016.png" mime-type="image/png" id="UUID00717cc3-98cb-4401-4ad9-14f836db2a2d" />
+          <image src="../../media//CNX_Econ_A01_016.svg" mime-type="image/svg+xml" id="UUID00717cc3-98cb-4401-4ad9-14f836db2a2d" />
         </media>
         <caption id="UUID2affec06-fdc8-41e7-62b0-39fa88c3149f">Zmiana szerokości i wysokości obszaru wykresu może wpłynąć na sposób postrzegania danych.</caption>
       </figure>
@@ -219,12 +230,12 @@
     </section>
     <section id="fs-idm123376288">
       <title id="UUID453ea8c8-bd99-40d2-57fa-17fa2de28e89">Kluczowe pojęcia i podsumowanie</title>
-      <para id="fs-idm44564944">Matematyka jest narzędziem do zrozumienia ekonomii, a związki ekonomiczne można wyrazić matematycznie za pomocą wzorów lub wykresów. Równanie algebraiczne funkcji liniowej jest następujące: y = b + mx, gdzie x to zmienna na osi poziomej, y to zmienna na osi pionowej, b jest punktem przecięcia z osią y, zaś m jest nachyleniem. Nachylenie funkcji liniowej jest takie samo w każdym punkcie i wskazuje na charakter związku (dodatni, ujemny lub zerowy) między dwiema zmiennymi ekonomicznymi.</para>
+      <para id="fs-idm44564944">Matematyka jest narzędziem do zrozumienia ekonomii, a związki ekonomiczne można wyrazić matematycznie za pomocą wzorów lub wykresów. Równanie algebraiczne funkcji liniowej jest następujące: <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mtext>y</mtext><mo> = </mo><mtext>b</mtext><mo> + </mo><mtext>mx</mtext></math>, gdzie x to zmienna na osi poziomej, y to zmienna na osi pionowej, b jest punktem przecięcia z osią y, zaś m jest nachyleniem. Nachylenie funkcji liniowej jest takie samo w każdym punkcie i wskazuje na charakter związku (dodatni, ujemny lub zerowy) między dwiema zmiennymi ekonomicznymi.</para>
       <para id="UUID66ec7da3-6341-428d-71ee-0016a659de1f">Modele ekonomiczne można rozwiązywać algebraicznie lub graficznie. Wykresy umożliwiają wizualną ilustrację danych. Mogą przedstawiać wzorce, porównania, trendy czy też strukturę jakiejś grupy, kondensując dane liczbowe i zapewniając intuicyjne wyczucie pewnych relacji. Wykres liniowy pokazuje zależność między dwiema zmiennymi: jedną zaznaczoną na osi poziomej, a drugą na osi pionowej. Wykres kołowy pokazuje sposób podziału, np. sumy pieniędzy lub grupy osób. Rozmiar każdego wycinka koła reprezentuje odpowiedni odsetek całości. Wykres słupkowy wykorzystuje wysokość słupków do ilustracji związków, przy czym każdy słupek reprezentuje określoną jednostkę, np. kraj lub grupę osób. Słupki można również podzielić na segmenty, aby pokazać podgrupy.</para>
       <para id="UUIDea88d1f9-5b12-425a-7707-788792a44ad9">Każdy wykres to pojedyncza wizualna perspektywa na określony temat. Wrażenie, jakie wywiera, zależy od wielu czynników, takich jak uwzględniane dane i ramy czasowe, sposób podziału danych lub grup, względny rozmiar osi pionowej i poziomej, rozpoczęcie skali na osi pionowej od zera itp. Dlatego każdy wykres należy traktować nieco sceptycznie, pamiętając, że leżący u jego podstaw związek można interpretować w różny sposób.</para>
     </section>
     <section id="fs-idm13603600" class="review-questions">
-      <title id="UUID0f8ecad2-08b5-4a5d-77c0-1df48b558a0e">Pytania </title>
+      <title id="UUID0f8ecad2-08b5-4a5d-77c0-1df48b558a0e">Pytania</title>
       <exercise id="fs-idm22425648">
         <problem id="fs-idm16099504">
           <para id="fs-idp38411952">Wymień trzy rodzaje wykresów i krótko określ, kiedy najlepiej użyć danego typu wykresu.</para>

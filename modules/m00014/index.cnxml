@@ -5,7 +5,10 @@
     <md:content-id>m00014</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Czteroetapowy proces zmiany ceny i ilości równowagi na rynku</md:title>
-    <md:language>pl</md:language>
+    <md:language>en</md:language>
+    <md:version>2022-09-07T09:41:28.465863963+00:00</md:version>
+    <md:created>2022-09-07T09:41:28.465863963+00:00</md:created>
+    <md:revised>2022-09-07T09:41:28.465863963+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -48,7 +51,7 @@
       <figure id="CNX_Econ_C03_010">
         <title id="UUIDdf89dac5-23e4-4e4d-5190-d805d5e02bc9">Dobra pogoda na połów łososia: czteroetapowy proces analizy</title>
         <media alt="Wykres ilustruje czteroetapową analizę, która pozwoli na zrozumienie tego, jak zmieniła się cena i ilość równowagi na rynku łososia pacyficznego, w konsekwencji (to chyba niepotrzebne) z powodu wyjątkowo korzystnej pogody w okresie połowowym." id="fs-idp26858208">
-          <image src="../../media//CNX_Econ_C03_010.png" mime-type="image/png" id="UUID90449a58-bb98-4c37-60d4-e40e7fe75f29" />
+          <image src="../../media//CNX_Econ_C03_010.svg" mime-type="image/svg+xml" id="UUID90449a58-bb98-4c37-60d4-e40e7fe75f29" />
         </media>
         <caption id="UUID64592a8a-43ec-47be-7f41-19d0dc4f4999">Nadzwyczaj dobra pogoda w okresie połowowym prowadzi do zmian ceny i ilości łososia będącego przedmiotem transakcji rynkowych.</caption>
       </figure>
@@ -65,7 +68,7 @@
       <figure id="CNX_Econ_C03_011">
         <title id="UUIDae79aa77-6065-491e-5877-aa450fc5c7b1">Rynek prasy drukowanej: czteroetapowy proces analizy</title>
         <media alt="Wykres przedstawia czteroetapową analizę zmian ceny i ilości równowagi na rynku prasy drukowanej." id="fs-idm101585376">
-          <image src="../../media//CNX_Econ_C03_011.png" mime-type="image/png" id="UUID4ee1063e-9941-4419-50f8-f66aa79da11d" />
+          <image src="../../media//CNX_Econ_C03_011.svg" mime-type="image/svg+xml" id="UUID4ee1063e-9941-4419-50f8-f66aa79da11d" />
         </media>
         <caption id="UUID839a3d03-e55f-412e-66e6-5a56c2497a42">Zmiana przyzwyczajeń na korzyść cyfrowych źródeł informacji oddziałuje na rynek prasy drukowanej, co skutkuje przesunięciem krzywej popytu w lewo. W efekcie zmniejsza się zarówno ilość, jak i cena równowagi.</caption>
       </figure>
@@ -87,7 +90,7 @@
       <figure id="CNX_Econ_C03_029">
         <title id="UUID3e33f8ec-51ee-4a6a-67d3-7ee4ad300ce1">Wyższe wynagrodzenie dla pracowników poczty: czteroetapowy proces analizy</title>
         <media alt="Ten wykres składa się z dwóch paneli. Na tym, który znajduje się po lewej stronie, zilustrowany został wpływ wyższych wynagrodzeń pracowników poczty na podaż usług oferowanych przez to przedsiębiorstwo i w konsekwencji na równowagę rynkową. Po prawej stronie znajduje się ilustracja zmian gustów konsumentów, którzy przenosząc swoje preferencje w kierunku elektronicznych sposobów komunikacji, coraz rzadziej korzystają z usług pocztowych, co przesuwa krzywą popytu na te usługi i w konsekwencji determinuje nowy poziom równowagi rynkowej." id="fs-idm73597216">
-          <image src="../../media//CNX_Econ_C03_029.png" mime-type="image/png" id="UUID5c3a5e53-ae76-4785-4f71-e229ca213395" />
+          <image src="../../media//CNX_Econ_C03_029.svg" mime-type="image/jpeg" id="UUID5c3a5e53-ae76-4785-4f71-e229ca213395" />
         </media>
         <caption id="UUID5cdce545-b503-4f16-6b90-15ec0de08ea7">(a) Wyższe wynagrodzenie za pracę powoduje przesunięcie krzywej podaży w lewo, a w efekcie spadek ilości usług równoważących rynek i wzrost ceny równowagi. (b) Zmiana gustów polegająca na coraz rzadszym korzystaniu z usług pocztowych powoduje przesunięcie krzywej popytu w lewo i w konsekwencji spadek ilości usług będących przedmiotem transakcji rynkowych oraz spadek ceny równowagi.</caption>
       </figure>
@@ -106,7 +109,7 @@
       <figure id="CNX_Econ_C03_030">
         <title id="UUID6faef6d0-700d-44ae-4f33-eccf1382cc1e">Połączony efekt zmniejszonego popytu i zmniejszonej podaży</title>
         <media alt="Wykres pokazuje przesunięcie w lewo krzywej podaży i krzywej popytu. (Warto dodać, jakie to przyniosło skutki dla ceny i ilości równowagi)" id="fs-idm32216592">
-          <image src="../../media//CNX_Econ_C03_030.png" mime-type="image/png" id="UUID24cac76a-8a32-40a5-57cb-c630619a90e9" />
+          <image src="../../media//CNX_Econ_C03_030.svg" mime-type="image/svg+xml" id="UUID24cac76a-8a32-40a5-57cb-c630619a90e9" />
         </media>
         <caption id="UUID3190282a-7c38-4088-6d3a-bf29278278d1">Przesunięcia krzywych podaży i popytu doprowadzą do zmiany ceny równowagi i ilości równowagi.</caption>
       </figure>
@@ -120,7 +123,7 @@
         <figure id="CNX_Econ_C03_018">
           <title id="UUIDe80e82c4-a449-4dad-558a-440f8c884359">Przesunięcia popytu i podaży a ruchy po krzywej popytu lub podaży</title>
           <media alt="Wykres pokazuje różnicę między przesunięciami krzywych popytu i podaży, a ruchami po krzywych popytu i podaży." id="fs-idm214180416">
-            <image src="../../media//CNX_Econ_C03_018.png" mime-type="image/png" id="UUIDcb1588cd-8577-4726-7b4c-693f42323b58" />
+            <image src="../../media//CNX_Econ_C03_018.svg" mime-type="image/svg+xml" id="UUIDcb1588cd-8577-4726-7b4c-693f42323b58" />
           </media>
           <caption id="UUID22e29668-500c-471c-7a7c-20be921b3400">Przesunięcie jednej z krzywych nigdy nie powoduje przesunięcia drugiej krzywej. Przesunięcie jednej z krzywych powoduje natomiast ruch wzdłuż drugiej krzywej.</caption>
         </figure>

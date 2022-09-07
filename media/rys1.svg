@@ -2,27 +2,30 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="148.968mm"
-   height="83.203003mm"
-   viewBox="0 0 148.968 83.203003"
+   width="162.64799mm"
+   height="63.125999mm"
+   viewBox="0 0 162.64799 63.126"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="rys1.svg">
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="rys1.svg"
+   inkscape:export-filename="rys1.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3860">
       <rect
-         style="fill:#3f60b6;fill-opacity:1;stroke:none;stroke-width:0.56499988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#3f60b6;fill-opacity:1;stroke:none;stroke-width:0.565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3862"
          width="93.91851"
          height="25.06988"
@@ -34,7 +37,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath3860-3">
       <rect
-         style="fill:#3f60b6;fill-opacity:1;stroke:none;stroke-width:0.56499988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#3f60b6;fill-opacity:1;stroke:none;stroke-width:0.565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3862-6"
          width="93.91851"
          height="25.06988"
@@ -52,13 +55,13 @@
          height="25.06988"
          width="93.91851"
          id="rect3914"
-         style="fill:#3f60b6;fill-opacity:1;stroke:none;stroke-width:0.56499988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#3f60b6;fill-opacity:1;stroke:none;stroke-width:0.565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3991">
       <rect
-         style="opacity:1;fill:#fbc765;fill-opacity:1;stroke:none;stroke-width:0.65820807;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#fbc765;fill-opacity:1;stroke:none;stroke-width:0.658208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3993"
          width="52.345356"
          height="13.844562"
@@ -70,7 +73,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath3995">
       <rect
-         style="opacity:1;fill:#fbc765;fill-opacity:1;stroke:none;stroke-width:0.65820807;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#fbc765;fill-opacity:1;stroke:none;stroke-width:0.658208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3997"
          width="52.345356"
          height="13.844562"
@@ -82,7 +85,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath3999">
       <rect
-         style="opacity:1;fill:#fbc765;fill-opacity:1;stroke:none;stroke-width:0.65820807;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#fbc765;fill-opacity:1;stroke:none;stroke-width:0.658208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect4001"
          width="52.345356"
          height="13.844562"
@@ -99,8 +102,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="332.91937"
-     inkscape:cy="179.8439"
+     inkscape:cx="325.5"
+     inkscape:cy="1"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -116,39 +119,42 @@
      inkscape:window-height="1043"
      inkscape:window-x="1438"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="-126.05506,242.28275"
+       position="-126.05506,222.20575"
        orientation="0,1"
        id="guide893"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="116.68125,27.653988"
+       position="116.68125,7.5769851"
        orientation="0,1"
        id="guide907"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-136.9489,-100.27953"
+       position="-136.9489,-120.35653"
        orientation="0,1"
        id="guide1746"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-912.81248,-295.4073"
+       position="-912.81248,-315.48431"
        orientation="1,0"
        id="guide3187"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-703.4534,-296.90972"
+       position="-703.4534,-316.98673"
        orientation="1,0"
        id="guide3189"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-1195.9166,-212.46042"
+       position="-1195.9166,-232.53743"
        orientation="1,0"
        id="guide3267"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-985.04372,-212.46042"
+       position="-985.04372,-232.53743"
        orientation="1,0"
        id="guide3269"
        inkscape:locked="false" />
@@ -161,7 +167,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -171,275 +176,222 @@
      id="layer1"
      transform="translate(0,-213.797)">
     <g
-       id="g159"
-       transform="translate(-1.6535608,0.17911181)">
+       id="g14996"
+       transform="translate(3.5747243,-8.8395857)">
       <circle
          transform="rotate(-67.38269)"
-         style="opacity:0.79199997;fill:#951767;fill-opacity:1;stroke-width:0.13672727"
+         style="opacity:0.792;fill:#951767;fill-opacity:1;stroke-width:0.136727"
          r="17.816887"
-         cy="162.0843"
-         cx="-192.76596"
+         cy="160.6268"
+         cx="-193.56721"
          id="path21-3-9" />
       <circle
          transform="rotate(172.61731)"
-         style="opacity:0.83300003;fill:#fbc74b;fill-opacity:1;stroke-width:0.13672727"
+         style="opacity:0.833;fill:#fbc74b;fill-opacity:1;stroke-width:0.136727"
          r="17.816887"
-         cy="-265.15399"
-         cx="-30.864113"
+         cy="-265.11914"
+         cx="-29.201244"
          id="path21-56" />
       <circle
          transform="rotate(-127.38269)"
-         style="opacity:0.79199997;fill:#217867;fill-opacity:1;stroke-width:0.13672727"
+         style="opacity:0.792;fill:#217867;fill-opacity:1;stroke-width:0.136727"
          r="17.816887"
-         cy="-88.674484"
-         cx="-258.17987"
+         cy="-90.097145"
+         cx="-257.31827"
          id="path21-5-2" />
       <text
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
          id="text44-1"
-         x="91.04039"
-         y="260.67801">
-        <tspan
-           y="260.67801"
-           x="91.04039"
-           sodipodi:role="line"
-           id="tspan42-2"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.35277778">Kwestie</tspan>
-        <tspan
+         x="73.822342"
+         y="234.06233"><tspan
            id="tspan1426"
-           y="264.20578"
-           x="91.04039"
+           y="234.06233"
+           x="73.822342"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.35277778">społeczne</tspan>
-      </text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778">Społeczna</tspan><tspan
+           y="237.5901"
+           x="73.822342"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           id="tspan14937">odpowiedzialność</tspan></text>
       <text
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
          id="text44-1-9"
-         x="60.068066"
-         y="260.67801">
-        <tspan
+         x="58.414505"
+         y="260.85712"><tspan
            id="tspan1426-1"
-           y="260.67801"
-           x="60.068066"
+           y="260.85712"
+           x="58.414505"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.35277778">Ład</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778">Ład</tspan><tspan
            id="tspan1456"
-           y="264.20578"
-           x="60.068066"
+           y="264.38489"
+           x="58.414505"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.35277778">społeczny</tspan>
-      </text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778">społeczny</tspan></text>
       <text
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
          id="text44-1-9-9"
-         x="66.287155"
-         y="234.17627">
-        <tspan
+         x="82.096107"
+         y="260.81351"><tspan
            id="tspan1456-7"
-           y="234.17627"
-           x="66.287155"
+           y="260.81351"
+           x="82.096107"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.35277778">Środowisko</tspan>
-      </text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.352778">Środowisko</tspan></text>
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
          id="text52-8"
-         x="44.521423"
-         y="247.55322">
-        <tspan
-           y="247.55322"
-           x="44.521423"
-           sodipodi:role="line"
-           id="tspan50-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.35277778">Czynniki obejmujące strukturę</tspan>
-        <tspan
+         x="42.867863"
+         y="247.73233"><tspan
            id="tspan1510"
-           y="251.08099"
-           x="44.521423"
+           y="247.73233"
+           x="42.867863"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.35277778">zarządzania, nadzór oraz</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.352778">Struktura zarządzania, nadzór</tspan><tspan
            id="tspan1516"
-           y="254.60878"
-           x="44.521423"
+           y="251.2601"
+           x="42.867863"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.35277778">finansowanie organizacji,</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.352778">oraz finansowanie organizacji,</tspan><tspan
            id="tspan1512"
-           y="258.13657"
-           x="44.521423"
+           y="254.78789"
+           x="42.867863"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.35277778">reguły określające prawa</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.352778">reguły określające prawa</tspan><tspan
            id="tspan1518"
-           y="261.66434"
-           x="44.521423"
+           y="258.31564"
+           x="42.867863"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.35277778">i obowiązki interesariuszy,</tspan>
-        <tspan
-           id="tspan1514"
-           y="265.19211"
-           x="44.521423"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.35277778">jako relacji wewnętrznych</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.352778">i obowiązki interesariuszy,</tspan><tspan
            id="tspan1520"
-           y="268.71988"
-           x="44.521423"
+           y="261.84344"
+           x="42.867863"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.35277778">oraz inwestorkich.</tspan>
-      </text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.352778">wypełniających zobowiązania</tspan><tspan
+           y="265.37122"
+           x="42.867863"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.352778"
+           id="tspan14947">wobec inwestorów zewnętrznych</tspan><tspan
+           y="268.89899"
+           x="42.867863"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;stroke-width:0.352778"
+           id="tspan14953">i pracowników</tspan></text>
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
          id="text52-8-5"
-         x="106.94755"
-         y="225.86227">
-        <tspan
-           id="tspan1520-3"
-           y="225.86227"
-           x="106.94755"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">Czynniki obejmujące działania</tspan>
-        <tspan
+         x="105.88244"
+         y="246.36981"><tspan
            id="tspan1585"
-           y="229.39005"
-           x="106.94755"
+           y="246.36981"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">na rzecz klimatu i ograniczenia</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">Działania na rzecz klimatu</tspan><tspan
            id="tspan1587"
-           y="232.91783"
-           x="106.94755"
+           y="249.89758"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">wpływu na środowisko</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">i ograniczenia wpływu</tspan><tspan
            id="tspan1589"
-           y="236.4456"
-           x="106.94755"
+           y="253.42537"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">m.in. poprzez redukcję</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">na środowisko m.in. przez:</tspan><tspan
            id="tspan1591"
-           y="239.97339"
-           x="106.94755"
+           y="256.95312"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">gazów cieplarnianych,</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">redukcję emisji gazów</tspan><tspan
+           y="260.48093"
+           x="105.88244"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778"
+           id="tspan14907">cieplarnianych,</tspan><tspan
            id="tspan1599"
-           y="243.50116"
-           x="106.94755"
+           y="264.0087"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">ograniczenie zużycia</tspan>
-        <tspan
-           id="tspan1605"
-           y="247.02895"
-           x="106.94755"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">surowców i wody,</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">ograniczenie zużycia</tspan><tspan
            id="tspan1593"
-           y="250.55672"
-           x="106.94755"
+           y="267.53647"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">ograniczenie odpadów,</tspan>
-        <tspan
-           id="tspan1607"
-           y="254.0845"
-           x="106.94755"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">surowców i wody,</tspan><tspan
+           y="271.06424"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">a także działania</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778"
+           id="tspan14911">zmniejszenie produkcji</tspan><tspan
            id="tspan1595"
-           y="257.61227"
-           x="106.94755"
+           y="274.59201"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">na rzecz bioróżnorodności</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">odpadów, zwiększania</tspan><tspan
+           y="278.11978"
+           x="105.88244"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778"
+           id="tspan14919">bioróżnorodności</tspan><tspan
            id="tspan1609"
-           y="261.14005"
-           x="106.94755"
+           y="281.64755"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">czy wykorzystywania</tspan>
-        <tspan
-           id="tspan1597"
-           y="264.66782"
-           x="106.94755"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">surowców odnawialnych</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">i wykorzystywania</tspan><tspan
            id="tspan1611"
-           y="268.19562"
-           x="106.94755"
+           y="285.17532"
+           x="105.88244"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">w procesie produkcyjnym</tspan>
-      </text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">surowców odnawialnych</tspan></text>
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
          id="text52-8-2"
-         x="81.937836"
-         y="282.12283">
-        <tspan
-           id="tspan1520-7"
-           y="282.12283"
-           x="81.937836"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">Czynniki obejmujące relacje społeczne,</tspan>
-        <tspan
+         x="105.88519"
+         y="225.64114"><tspan
            id="tspan1678"
-           y="285.6506"
-           x="81.937836"
+           y="225.64114"
+           x="105.88519"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">prawa człowieka, różnorodność, standardy</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">Relacje społeczne, prawa człowieka,</tspan><tspan
            id="tspan1680"
-           y="289.17838"
-           x="81.937836"
+           y="229.16891"
+           x="105.88519"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">pracy w całym łańcuchu wartości i dostaw,</tspan>
-        <tspan
-           id="tspan1690"
-           y="292.70618"
-           x="81.937836"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">prawa pracownicze, standardy pracy</tspan><tspan
+           y="232.6967"
+           x="105.88519"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">przestrzeganie zasad higieny pracy</tspan>
-        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778"
+           id="tspan14929">w całym łańcuchu wartości i dostaw,</tspan><tspan
            id="tspan5179"
-           y="296.23395"
-           x="81.937836"
+           y="236.22447"
+           x="105.88519"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.35277778">i bezpieczeństwa produktów</tspan>
-      </text>
-      <text
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-         id="text44-6"
-         x="65.358353"
-         y="215.76202">
-        <tspan
-           y="215.76202"
-           x="65.358353"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778">przestrzeganie zasad bezpieczeństwa</tspan><tspan
+           y="239.75224"
+           x="105.88519"
            sodipodi:role="line"
-           id="tspan42-5"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.35277778">Kryteria ESG</tspan>
-      </text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.352778"
+           id="tspan14933">i higieny pracy</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path98-6"
          style="fill:none;stroke:#3f60b6;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 76.44506,224.66234 h 28.47766" />
+         d="M 75.170649,224.84145 H 103.64831" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path98-6-9"
          style="fill:none;stroke:#3f60b6;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 45.959136,246.92772 h 11.49857" />
+         d="m 44.305575,247.10683 h 11.49857" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path98-6-9-3"
          style="fill:none;stroke:#3f60b6;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 99.54051,264.74085 v 11.99874" />
+         d="M 91.649573,251.37385 H 103.64831" />
     </g>
   </g>
 </svg>
