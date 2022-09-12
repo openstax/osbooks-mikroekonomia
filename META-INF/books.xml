@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="mikroekonomia-podstawy" collection-id="c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a" href="../collections/mikroekonomia-podstawy.collection.xml" />
+    <book slug="mikroekonomia-podstawy" collection-id="c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a" style="pl-economics" href="../collections/mikroekonomia-podstawy.collection.xml" />
 </container>
