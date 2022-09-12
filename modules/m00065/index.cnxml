@@ -5,10 +5,7 @@
     <md:content-id>m00065</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Wartość zaktualizowana</md:title>
-    <md:language>en</md:language>
-    <md:version>2022-09-07T09:41:32.085054833+00:00</md:version>
-    <md:created>2022-09-07T09:41:32.085054833+00:00</md:created>
-    <md:revised>2022-09-07T09:41:32.085054833+00:00</md:revised>
+       <md:language>pl</md:language>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
