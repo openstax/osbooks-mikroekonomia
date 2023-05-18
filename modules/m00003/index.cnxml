@@ -38,7 +38,7 @@
     <para id="UUIDee4253cf-ec63-4215-5f8c-c64766debe18">Podział dóbr w społeczeństwie rodzi kontrowersje, które także są przedmiotem analiz ekonomistów. W tym miejscu należy podkreślić specyficzną cechę ekonomii jako nauki społecznej. W ekonomii występują twierdzenia pozytywne, które opisują, jak ludzie działają (tzw. ekonomia pozytywna), i twierdzenia normatywne, dotyczące tego, jak być powinno (ekonomia normatywna). Temat ten zostanie rozwinięty w kolejnym rozdziale.</para>
     <section id="eip-826">
       <title id="UUID8da1e64e-0aaf-4080-76bb-30538b073aa0">Wprowadzenie do bazy danych FRED</title>
-      <para id="UUID98275fb7-6c73-4387-799b-4368a6d29492">Dane liczbowe są bardzo ważne w ekonomii, ponieważ ilustrują problemy, które ekonomia stara się zrozumieć. Różne agencje rządowe publikują dane gospodarcze i społeczno-ekonomiczne. W tym podręczniku będziemy używać głównie danych z bazy FRED Banku Rezerwy Federalnej w St. Louis i danych dostępnych poprzez witrynę internetową Głównego Urzędu Statystycznego (GUS). Zarówno portal <link url="https://openstax.org/l/FRED/" id="UUID2ba06307-3f2f-4c5e-5b87-a408d0952a16">FRED</link>, jak i <link url="www.stat.gov.pl" id="UUIDa4730459-8b5f-4b41-5d33-564ee559e3a2">GUS</link> są bardzo przyjazne dla użytkownika. Umożliwiają wyświetlanie danych w tabelach lub na wykresach, a także łatwe pobieranie ich do postaci arkusza kalkulacyjnego, jeśli chcesz wykorzystać je do innych celów. Witryny FRED i GUS zawierają dane dotyczące kształtowania się w czasie prawie 400 tys. liczb obrazujących procesy gospodarcze w kraju i na świecie w szerokich kategoriach:</para>
+      <para id="UUID98275fb7-6c73-4387-799b-4368a6d29492">Dane liczbowe są bardzo ważne w ekonomii, ponieważ ilustrują problemy, które ekonomia stara się zrozumieć. Różne agencje rządowe publikują dane gospodarcze i społeczno-ekonomiczne. W tym podręczniku będziemy używać głównie danych z bazy FRED Banku Rezerwy Federalnej w St. Louis i danych dostępnych poprzez witrynę internetową Głównego Urzędu Statystycznego (GUS). Zarówno portal <link url="https://openstax.org/l/FRED/" id="UUID2ba06307-3f2f-4c5e-5b87-a408d0952a16">FRED</link>, jak i <link url="https://stat.gov.pl" id="UUIDa4730459-8b5f-4b41-5d33-564ee559e3a2">GUS</link> są bardzo przyjazne dla użytkownika. Umożliwiają wyświetlanie danych w tabelach lub na wykresach, a także łatwe pobieranie ich do postaci arkusza kalkulacyjnego, jeśli chcesz wykorzystać je do innych celów. Witryny FRED i GUS zawierają dane dotyczące kształtowania się w czasie prawie 400 tys. liczb obrazujących procesy gospodarcze w kraju i na świecie w szerokich kategoriach:</para>
       <list id="eip-id1170568908658">
         <item id="UUIDfc5a0b66-fde8-4c12-40fa-89b733a6be2b">
           <para id="UUID9a52ef99-05aa-40de-7500-088ee2eacdf1">Pieniądz, bankowość i finanse</para>
@@ -201,7 +201,9 @@
     </section>
     <section id="fs-idp40000752" class="references">
       <title id="UUID5f88b4ff-16df-4c56-6253-3f3c7298d297">References</title>
-      <para id="eip-693">Bureau of Labor Statistics, U.S. Department of Labor. 2015. "The Employment Situation—February 2015." Dostęp: 27 marca 2015. http://www.bls.gov/news.release/pdf/empsit.pdf.</para>
+      <para id="eip-693">Bureau of Labor Statistics, U.S. Department of Labor. 2015. "The Employment Situation—February 2015." Dostęp: 27 marca 2015. http://www.bls.
+      
+      /news.release/pdf/empsit.pdf.</para>
       <para id="fs-idp45603328">Williamson, Lisa. “US Labor Market in 2012.” <emphasis effect="italics">Bureau of Labor Statistics</emphasis>. Dostęp 1 grudnia 2013. http://www.bls.gov/opub/mlr/2013/03/art1full.pdf.</para>
     </section>
   </content>
